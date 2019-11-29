@@ -1,0 +1,26 @@
+To attempt to enter stealth or do something while hidden the hider rolls a stealth check.
+A success means they are hidden or stay hidden whilst doing stuff.
+A failure means any seekers can roll checks to try and detect the hider.
+Any seekers who succeed detect the hider.
+Any who fail do not, but can still be alerted to the hider's presence by their allies.
+
+It is not always possible to enter stealth.
+A hider must be unseen by any seekers he or she wishes to hide from.
+It is possible to be stealthed relative to some characters but be visible to others.
+To be stealthed a hider must not only be hidden, but seekers must also be uncertain of his or her position.
+If seekers tell each other where a hider is that hider is no longer stealthed.
+
+Full stealth is where everyone is uncertain of a location.
+Partial stealth is where a character is hidden from some but not all.
+
+Entering sealth during combat uses a full turn and does not cost any SP.
+Entering combat from full stealth grants 10 bonus initiative.
+Entering combat from partial stealth grants 5 bonus initiative.
+
+Entering a chase from stealth normally has no bonus or penalty.
+Entering stealth from a chase normally has no bonus or penalty.
+
+Covert actions can be performed while hidden in combat.
+A character only gets bonus initiative when they enter combat whilst not in it.
+
+

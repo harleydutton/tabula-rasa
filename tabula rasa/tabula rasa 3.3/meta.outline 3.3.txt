@@ -1,0 +1,120 @@
+
+INTRO
+	intent
+	reuired mats
+	how to read	
+	warning
+	realism
+	thanks
+CHARACTER CREATION
+	character sheet
+	flavor
+		10 steps of group cc
+	skills
+		steps for beginner skill creation
+	skill points
+FLAVOR
+	definition
+	earning flavor
+	mechanical effect
+		DTMS CHECKS. THE NEW SYSTEM RELIES ON THESE HEAVILY
+	dont describe skills
+	types
+		items
+			money
+			crafting
+		POWER MISMATCH crafting (making things above your paygrade) IS THIS AN ISSUE?
+			loot
+		social status			UNFINISHED
+		intrinsic characteristics	UNFINISHED
+		knowledge			UNFINISHED
+	examples?
+	
+SKILLS
+	definition
+	new skills
+	modifiers INTENT IS TO REPRESENT SITUATIONAL ADVANTAGES BETWEEN EQUALLY CAPABLE COMBATANTS.
+	skills checks
+		the steps for the process
+	experience and leveling SHOULD WE GET EXPERIENCE FOR FAILS RATHER THAN PASSES?
+	OPPOSED SKILL CHECKS
+
+COMBAT
+	definiton
+	initiative
+	turns
+	defensive actions
+	damage
+	wounds (MAKE DAMAGE TABLE AS A GROUP. THE EXAMPLE ONE WILL BE FORMATTED AS TYPE*NUMBER)
+	death
+	common modifiers
+	POWER MISMATCH
+	size (dragons, vehicles, mobs) this should go in combat
+	armor|weapon (this should go in combatT
+	speed (this should also go in combat section)
+
+INFORMATION combination of the stealth and observation sections
+	definition
+	passive observation
+	active observation
+	stealth/lying
+		definition
+		hiding/lying
+		detecting (opposed)
+	skills like "mind reading" make characters omnicient and need limitations put on them
+
+PERSUASION
+	definition
+	checks	
+	modifiers
+	resisting
+	nMOS TABLE?
+	warning
+	lying	
+	POWER MISMATCH mind control (this should go in social encounters i think)
+
+NPC STUFF
+	creation
+	skills
+	flavor
+	new skills
+	items
+	loot
+	leveling
+	grouping for combat
+	
+ST TIPS
+	recap
+	fairness. dtms checks.
+	yes, and... think of how 'it' can work. you arent against the players
+	keep it rolling. 1m turns. scene change when stalled. make calls. dont argue with the ST.
+	make sure you are telling a story that includes all of your players
+	beginning, middle, and end
+	relevant scenes (petitioner & granter, walking isnt gameplay>>fast foreward)
+	what are my thoughts on down time?
+	NPC's (creation, skills, flavor, items, loot, leveling, grouping...)
+	handling power mismatch (dragons, lightsabers, groups, and the flash)
+	avoid paralyzing players with misinformaton or fear
+	no repeats
+	dont start immediately
+	no phones
+	no wandering. pay attention.
+	absent players
+	dont split the party.
+	do planning. make a map.
+RP TIPS
+	if youre bored with your character try to acquire more power.
+	heroes do dumb shit. dont be paralysed by fear. its a game. dying is fine.
+	glory or death
+	be curious about things. take the scenic route. the direct aproach rarely works.
+	interact with people and things. even if its rude.
+	dont interrupt the st
+	dont argue with the st
+	just roll the dice
+
+
+
+
+
+
+

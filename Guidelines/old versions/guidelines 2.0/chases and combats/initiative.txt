@@ -1,0 +1,22 @@
+To begin a chase or combat roll initiative for each chracter.
+Roll [REF + 1d6 + stealth bonus] and record this number.
+
+Start with the character with the highest initiative.
+Each action costs 5 initiative or all remaining initiative if a character has less than 5.
+A character can take up to 2 actions per turn.
+After each turn it is the character with the highest initiative's turn.
+Character's can dodge, block, and counter-attack out of turn but it still costs initiative.
+When all characters are out of initiative reroll it and start a new round.
+
+
+
+
+
+
+
+
+
+
+
+
+

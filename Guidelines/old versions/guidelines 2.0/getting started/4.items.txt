@@ -1,0 +1,24 @@
+Items are just imaginary physical objects with numbers attached to signify value or quality.
+
+To make a new random item roll 3d6/2 and round down.
+Add a noun and maybe some adjectives to the item.
+The only difference between two "level 5 sword"s is their descriptions.
+
+To determine your story's item level to currency ratio decide how much a level 9 item is worth.
+Then to determine the price of any item divide it by 10 once for each level below 9 it is.
+For example if a level 9 item is worth $1,000,000 then a level 5 item is worth $100.
+
+Items can be crafted or upgraded with the appropriate skills, materials, and tools.
+
+Armor items stack but so does their SP penalty.
+See "armor" in "chases and combats".
+
+A weapon item's value is added to damage for attacks that use it.
+See "damage" in "chases and combats".
+
+Items like night-vision goggles can grant new abilities to a character.
+
+Some items never have their level used in a calculation or roll.
+These items are intangibly valuble and the story should reflect this.
+For example a single crappy lock-pick might break after a failed check.
+An expensive kit with multiple different picks might justify another try.

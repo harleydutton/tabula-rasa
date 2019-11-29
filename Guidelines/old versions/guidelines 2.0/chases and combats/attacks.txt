@@ -1,0 +1,8 @@
+To try to attack something a character should spend an roll a skill check.
+If the character is participating in a combat this also costs them an action and an SP.
+For example [axe + DEX vs 3d6].
+
+This works the same with magic except that it costs an MP intead of an SP.
+The check should be [magic skill + attribute vs 3d6].
+
+

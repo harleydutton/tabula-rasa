@@ -1,0 +1,32 @@
+Attributes are the numbers representing how good a character is at a type of task.
+Attributes do not level up but the storyteller can increase or decrese them throughout the story.
+Base attribues range from 0 to 9.
+
+There are seven base attributes.
+They are STR(strength), DEX(dexterity), END(endurance), CHA(charisma), PER(perception), INT(intillect), and WIL(willpower).
+STR is obvious.
+DEX is a character's speed and cordination.
+END is how slowly the character tires.
+CHA is a character's ability to communicate.
+PER is a character's sensory ability.
+INT is how fast a character learns.
+WIL is the certainty a character posesses.
+
+There are five derived attributes.
+They are HP(health points), MP(mana points), SP(stamina points), ARM(total armor), and INI(initiative).
+HP, MP, and SP all have maximum values and current values.
+A character's maximum hit point value is [HP = STR + END + WIL].
+A character's maximum mana point value is the sum of the attributes the storyteller chooses to contribute to it.
+A character's maxumum stamina point value is [SP = STR + END + DEX - ARM].
+Armor is the sum of the levels of the armor items the character is wearing.
+Initiative bonus is [INI = (DEX + PER) / 2].
+A character's current HP regenerates one point when they sleep.
+A character's current MP refills when they sleep.
+A character's current SP refills when not in a chase or combat.
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+Launcher and melee damage is normaly [item + attribute + 1d6].
+Two handed launcher and melee damage is normally [item + attribute + 2d6].
+
+Magic damage is normally a d6 + the sum of two of {item, attribute, skill}.
+
+To figure out how much damage a character should take subtract ARM from the incoming damage.
+Subtract the damage a character takes from their HP.
+
+For environmental damage see "enviromental damage" in big topics.

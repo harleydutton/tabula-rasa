@@ -1,0 +1,18 @@
+The storyteller decides what attributes are used for magic checks and maximum mana points.
+The story teller also decides which 2 of skill, attribute, and item are used for damage.
+Here are some examples of how to do this.
+
+Say for example the storyteller decides magic is performed by channeling spirits to do your will.
+Mana might be [CHA + PER] because you need to be able to see and communicate with spirits.
+Doing magic might look like spirit-magic[CHA] vs 3d6 because you need to convince the spirit.
+Dealing damage might be [WIL + spirit magic + 1d6] becasue the better anchored in the world the spirit is the more it can do.
+
+In a setting where magic is extremely unnatural it might look like this.
+MP = WIL + END. (this is mentally and physically taxing)
+Check = telekinesis[WIL] vs 3d6. (mentally taxing)
+Damage = [WIL + item + 1d6] where the item is a rock or a sword or something. (mentally taxing)
+
+Maybe magic is more formulaic and all the caster does is activate it.
+MP = nothing or based on an item because the magic isnt coming from you.
+Check = wand waving[INT] vs 3d6. (just gotta know how to do it)
+Damage = [item + wand waving + 1d6]. (once agian not based on you. just your skill and materials)

@@ -1,0 +1,11 @@
+I have tried to design this section such that transitionaing between chases, combats, and stealth is fluid.
+The guidelines in this section are for all three.
+
+A chase should have rough distances between characters.
+A good unit of distance is "one mvoe action" in my experience.
+A character cant chase more than one group of other character's at one.
+
+A combat just needs characters who wish to do each other harm.
+
+Scenes involving stealth just need to be described well.
+It is perfectly acceptable to "wait for your moment" to join combat if youre stealthed.
