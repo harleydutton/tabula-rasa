@@ -39,7 +39,6 @@ Second term
 <p>here ```it works```</p>
 </details>
 
-
 ##TODO
 - [x] get markdown preview plugin for sublime
 - [ ] get a list of all the markdown elements available to me
@@ -54,6 +53,8 @@ an in-line scrolling element would be pretty cool to
 ## Two so does heading two
 ###Three
 ####four
+---
+***
 #####five same size as normal text with different formatting and spacing
 ######six same size as normal texxt with different formatting and spacing
 _italics_
@@ -83,7 +84,7 @@ normal text
 you need a linebreak to start/end some code elements
 this is some normal ass text
 
-#low heading {#low-heading}
+###low heading (#low-heading)
 
 ```
 my name is harley
