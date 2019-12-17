@@ -30,6 +30,8 @@ net good/bad stuff means a bunch of good/bad story things happen. this might be 
 ##Combat
 It looks like i was favoring shadowrun style initiative/speed in the past
 disallowing called shots in favor of the doubles -> dragon dice method from dragon age seems really good. shadowrun style initiative is where characters roll initiative and get a score, and then combat goes in rounds. Each round subtracts some number (10 in shadowrun) from each intiative and each character that still has a non-negative initiative score gets a turn.
+###grouping NPCS
+provide some simple method of grouping NPCs in combat
 ###Armor
 Armor should subtract from damage dealt
 ###Dodge
@@ -42,4 +44,25 @@ At some point I though spot checks were unnecessary. AT THE ITME i was fine with
 get 1-2 exp per session/in-game night.
 spend an experience to get the first level in a made-up skill (all skills are made up) but you may have to role-play the acquisition.
 i guess you have to rolaply for new "flavor".
+##Contests as checks
+this looks like it is still using the starwars style checks. all parties roll and magnitude of successes are what matters for eliminating contestants and magnitude of success could determine winners. good and bad stuff could apply to whomever rolled them respectively.
+###default skills
+attack, defend, hide, observe, lie, detect lies, persuade, resist persuasion
+##blood in the sand style character creation
+make a character concept. all the other players at the table do the same. then one by one each player at the table adds a bond between two characters until the character graph is mostly linked.
+##tabula specific character creation
+the main point of this system is to let players create skills. that shit gets fucking wild fast. i will need to revise this later but perhaps each character gets to create ONE skill for their character. the DM should review each skill before character creation. the DM is allowed to put restrictions on your skills if they are too OP/too much of a pain in the ass/not fun for the other people at the table.
+###flavor
+IIRC flavor was short descriptive words or phrases that would give +1 or -1 in situations in which they applied. Ciazio stacked "strong" worded a few different ways and had a +4. balance this.
+##equipment
+i think tabula lets players make their own gear too?
+##storytelling
+###creating a story
+provide some kind of visual framework like a flowchart for creating episodic stories. scenes should have a few options as to how they can resolve most times.
+an alternative method of creating the story is how blood in the snow does it. make sure each scene has a granter and a petitioner. (petitioner wants _something_ from granter). the scene can resolve however it does but it should start with these two elements. I think both were supposed to be PCs. i think the players and possibly the game "referee" are supposed to come up with scenes like this on the fly. this is from blood in the snow.
+###creating NPCs
+same as PCs but don't spend ALL of their exp immediately. allow them to fudge the numbers and gain skills as needed. maybe create their special skill if they have one immediately.
+###tables
+provide tables that are blank but easy to fill in for _interesting_ random encounters, loot, traps, stores, etc. provide a fillable DM screen too. provide a fillable character sheet too
+###worldbuilding and creating maps
 
