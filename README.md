@@ -1,156 +1,34 @@
 # Tabula-Rasa
-## Goals
-Tabula Rasa is a role playing system that comes without a game system. It is supposed to be general enough that it will work for for any world without needing any additional rules.
+##About
+This README is not intended to be part of Tabula Rasa. Instead it is a meta-document for tracking design philosophy, formatting, and tasks. Created by Harley Dutton.
 
-[link to low heading](#low-heading)
+###Design Philosophy
+- plays quickly
+- generic (works for any world)
+- follows the DRY design philosophy (ToC and custom links)
+- grammatically correct
+- character creation should be fast
+- should be one file (probably PDF) for ease of sharing
+- low entry barrier (uses up to 3d6, character sheets, writing utensils and the rules (battle-grid optional)
+- this document should not tell people how to roleplay. it should only be rules.
 
+###Formatting Decisions
+- include one definition and two examples for everything
+- there should be a table of contents
 
-First term
-: things and stuff
-
-Second term
-: something completely different
-: made up gibberish
-
-
-###title
-<details><summary>
-
-#### Markdown between html tags works when there's an empty line before it.
-</summary>
-<p>here ```it doesn't work```</p>
-<p>my name is ___harley___ and i like to do fun things
-
-- this is some markdown
-- by the power of my unordered list
-- i shall banish thee to the shadow realm</p>
-
-<p>
-
-###what if i wanted to toss a heading in here?
-</p>
-<p>
-
->perhaps a blockquote will work?
->blockier
->>the fucking blockiest
-
-</p>
-<p>here ```it works```</p>
-</details>
-
-##TODO
-- [x] get markdown preview plugin for sublime
-- [ ] get a list of all the markdown elements available to me
-- [ ] convert all files in the repo to markdown
-- [ ] learn to get a navbar in my markdown. that shit is good from a technical writing perspective.
-
-i still want a menu ~~and some kind of collapsable element~~
-
-an in-line scrolling element would be pretty cool to
-
-#Heading one has a line under it
-## Two so does heading two
-###Three
-####four
----
+###TO-DO
+- [ ] decide how I will be formatting the elements of this document
+- [ ] convert all the files in the github project to markdown files
+- [ ] record the good ideas from old versions and remove the rest of them
+- [ ] get a nav-bar for electronic versions of this
+- [ ] host this on a website somewhere
+- [ ] export the document as a PDF with pandoc for sublime
 ***
-#####five same size as normal text with different formatting and spacing
-######six same size as normal texxt with different formatting and spacing
-_italics_
-**bold**
-___both___
-~~strikethrough~~
-~~___asdf___~~
-normal text
-> blockquotes
->maybe this shit is just indented?
-> 
->i can make paragraph breaks
->> nested blockquote
+<details><summary>Done</summary>
+<p>
 
-## navigible heading maybe {#/}
-
-- what
-- are
-- these? they are bullets for a an unordered list
-###ordered list
-1. one
-2. second
-3. tertiary
-4. last
-`my name is __harley__ dutton`
-
-you need a linebreak to start/end some code elements
-this is some normal ass text
-
-###low heading (#low-heading)
-
-```
-my name is harley
-this is another code block
-	indented line
-unindented line
-```
-
-### a lower heading {#/harley/}
-
-	okay this is supposed to be a code block
-	morecode
-	loop
-		do something
-	endloop
-	okay cool now how to i get rid of the tics
-	blah
- 
-lllllllllooking at line wrappingooking at line wrappingooking at line wrappingooking at line wrappingooking at line wrappingooking at line wrappingooking at line wrappingooking at line wrappingooking at line wrapping
-lllllllllooking at line wrappingooking at line wrappingooking at line wrappingooking at line wrappingooking at line wrappingooking at line wrappingooking at line wrappingooking at line wrappingooking at line wrapping
-nonwrapped text
-nonwrapped text
-
-nonwrapped text
-
-lllllllllooking at line wrappingooking at line wrappingooking at line wrappingooking at line wrappingooking at line wrappingooking at line wrappingooking at line wrappingooking at line wrappingooking at line wrapping
-
-
-
-
-
-asdfasdf
-
-
-
-
-
-
-asdfasdf
-
-asdfasdf
-
-asdfasdf
-
-asdfasdf
-
-asdfasdf
-
-asdfasdf
-
-asdfasdf
-asdfasdf
-asdfasdf
-
-
-
-
-
-
-
-
-
-asdfasdf
-
-
-
-
-adsfasfd
-more stuff to make the doc longer for no reason
+- [x] learn markdown formatting
+- [x] version project with github
+- [x] find a grammar checker (in sublime preferences > settings > "spell_check":true)
+</p>
+</details>
