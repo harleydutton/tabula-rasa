@@ -1,8 +1,8 @@
 # Tabula-Rasa
-##About
+## About
 This README is not intended to be part of Tabula Rasa. Instead it is a meta-document for tracking design philosophy, formatting, and tasks. Created by Harley Dutton.
 
-###Design Philosophy
+### Design Philosophy
 - plays quickly
 - generic (works for any world)
 - follows the DRY design philosophy (ToC and custom links)
@@ -14,11 +14,11 @@ This README is not intended to be part of Tabula Rasa. Instead it is a meta-docu
 - i want this to be a roleplaying system, not a combat system. design the roleplaying system and figure out the combat system later. make minimal modifications to make the combat system work.
 - should be augmented by electronics but not require them (links et al)
 
-###Formatting Decisions
+### Formatting Decisions
 - include one definition and two examples for everything
 - there should be a table of contents
 
-###TO-DO
+### TO-DO
 - [ ] record the good ideas from old versions and remove the rest of them
 - [ ] decide how I will be formatting the elements of this document
 - [ ] get a nav-bar for electronic versions of this
