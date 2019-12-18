@@ -15,8 +15,13 @@ This README is not intended to be part of Tabula Rasa. Instead it is a meta-docu
 - should be augmented by electronics but not require them (links et al)
 
 ### Formatting Decisions
-- include one definition and two examples for everything
-- there should be a table of contents
+- include one definition and at least one example for everything
+- there should be a table of contents and links to everything
+- charts/tables should each have their own pages so they are easy to print
+- no details-summary blocks
+- `formulas and other super mechanical things (like definitions?) should be monospace`
+- > use block quotes for stories/examples/quotes
+
 
 ### TO-DO
 - [ ] record the good ideas from old versions and remove the rest of them
