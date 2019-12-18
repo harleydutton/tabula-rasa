@@ -11,6 +11,7 @@ This README is not intended to be part of Tabula Rasa. Instead it is a meta-docu
 - should be one file (probably PDF) for ease of sharing
 - low entry barrier (uses up to 3d6, character sheets, writing utensils and the rules (battle-grid optional)
 - this document should not tell people how to roleplay. it should only be rules.
+- i want this to be a roleplaying system, not a combat system. design the roleplaying system and figure out the combat system later. make minimal modifications to make the combat system work.
 
 ###Formatting Decisions
 - include one definition and two examples for everything

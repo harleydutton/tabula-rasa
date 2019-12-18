@@ -30,6 +30,8 @@ net good/bad stuff means a bunch of good/bad story things happen. this might be 
 ##Combat
 It looks like i was favoring shadowrun style initiative/speed in the past
 disallowing called shots in favor of the doubles -> dragon dice method from dragon age seems really good. shadowrun style initiative is where characters roll initiative and get a score, and then combat goes in rounds. Each round subtracts some number (10 in shadowrun) from each intiative and each character that still has a non-negative initiative score gets a turn.
+###action economy
+this is actually a pretty good idea. figure out how to implement it and classify actions in this game. major, minor, full, free, reaction etc. (mental, channeled) can players get additional actions? how?
 ###grouping NPCS
 provide some simple method of grouping NPCs in combat
 ###Armor
@@ -65,4 +67,38 @@ same as PCs but don't spend ALL of their exp immediately. allow them to fudge th
 ###tables
 provide tables that are blank but easy to fill in for _interesting_ random encounters, loot, traps, stores, etc. provide a fillable DM screen too. provide a fillable character sheet too
 ###worldbuilding and creating maps
+###skill checks
+a check should probably involve dice, maybe equipment, a base stat, a specialization stat, perhaps another specialization stat, and situational modifiers.
+##leveling up
+at one point i was in love with the idea that leveling up a skill was done by using it. this would mean you have to accumulate successes, failures, or both equal to something (the skills level) to level it up
+I also liked the idea of having traditional floating experience level up skills at some rate. it was also nice being able to transition smoothly from character creation to playing the game with VTM esque bonus points being the same as exp
+### called shots and stunt points
+exalted, D&D, and Dragon Age: the RPG all had different ways to deal with this. All had their own merits. In D&D you said what you wanted to do ahead of time and it modified the difficulty of the roll. If you were successful it happened. full stop. This involved many tables of modifiers usually and it was a slow process. The Star Wars RPG mitigated this issue by boiling every modifier to a die that got added to the check's pool. It kinda sucked when your checks didn't pass but it was always worded as "I try to" not "I do"
+In Dragon Age you rolled the check and then if you got stunt points (based on 2/3 dice matching faces) you got the number of stunt points on the "dragon die" (the first one). This made things go faster but limited options.
+Exalted was odd. You actually got "style points" for calling your describing your actions in detail. This resulted in most shots being called shots and having to ret-con cool descriptions when the check didn't pass.
+##attributes
+this should probably go under character creation or skill checks if anything
+dex,str,stam,perception,luck,cha,wit,int,resolve
+what are the attributes good for? Dodge[dex] only useable at dm discretion. Should be roleplayed. Stealth[dex] Firearms[dex] archery[dex] Swordfighting[dex] or any other melee weapon Intimidation[str/cha] Lying[wit] Read[int] Write[int] lockpicking[dex] Gamble[luc] Pickpocketing[dex] Lying[cha/wit] Cooking Detect magic[per] Investigate[per] Lore of ____[int] choose a culture/race Seduce[cha] Tracking[per] Convince[cha] Fishing[int] Catching fish[dex] Wound care[int] Camping[int] Horse riding[dex] sailing[int/dex] Lifting[str] jumping/acrobatics/Running/dodge[dex] ploughing/lifting/sex[str/sta] smithing/fletching/carpentry/other [dex/int] Barter[cha] Use eyes/awareness/spot check/see the thing[per] see/sense magic stuff[per] empathy/understand person[per] unarmed combat[dex] block[stam] dodge[dex]
+I think rather than having a list of this shit i should just make each of the attributes fairly self explanatory and make it so if you want to use a skill you make a case for what attribute you use to make it happen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
