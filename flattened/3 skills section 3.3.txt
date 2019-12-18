@@ -1,0 +1,16 @@
+﻿Skills
+Definition: A character’s skills are the things that character can do. Each skill has a name, two numbers (level and experience), and possibly a description associated with it. To qualify as a skill actions taken using the skill must have a chance to fail and do nothing. Magic allowing a character to breathe underwater would count because the character could fail to cast their spell. Gills would not because it would be silly to assume the character could fail at breathing in this way.
+New Skills: Characters can get new skills after character creation by spending skill points. Characters get skill points at character creation and throughout the story. The amount is determined by the storyteller. These skills begin with a starting level equal to the number of skill points spent on them.
+Modifiers: Modifiers account for the situation or a character’s flavor changing the difficulty of a roll. Each applicable piece of flavor changes the difficulty of a roll by 1. Each situational modifier does the same. These modifiers stack. Being attractive and wearing nice clothes is probably worth a bonus of 2 in a social situation. Poor visibility from rain, bad footing from mud, and being outnumbered would give a penalty of 3 in a combat situation. Having the high ground and a weapon whilst making an attack in that same combat situation would be a bonus of 2 which reduces the penalty from 3 to 1. Remember that high levels and low rolls are good. Add modifiers, both positive and negative, to skill level.
+Skill Checks: Any time a character wants to take an action they should make a skill check to see if they succeed and if so how effective the action is.
+    0. State the action you are taking and the skill you are using.
+    1. Determine difficulty. This is the sum of skill level and applicable modifiers. Positive modifiers should increase the skill level and make the check more likely to succeed.
+Difficulty = skill level + positive modifiers – negative modifiers.
+    2. Roll 2d6 and compare the dice to the skill level. A check is successful if the dice are lower than the skill level. The quality of that success is the difference between the dice and the skill level.
+Success if (skill level + modifiers) ≥ (2D6) and failure otherwise.
+Magnitude of success = (skill level + modifiers) – (2D6)
+    3. Either the storyteller or the player who made that action then describes it. Take magnitude of success into account. This step is optional but fun.
+    4. Rolling 2 or 12 is a special case. Rolling 2 is a critical success and rolling 12 is a critical failure. These are above and beyond simple success and failures. Treat them as such.
+    5. If the check was passed the skill gains one experience.
+Magnitude of Success: Take creative liberties with the magnitude of success of half of checks. That’s what it’s there for. If a blacksmith succeeds at making two swords but the magnitudes of success were 2 and 7 on the roll their flavor should be meaningfully different. Maybe one is a bit crooked and the other has some gold inlay.
+Experience and Leveling: Whenever a character makes a successful skill check the skill used gets 1 experience. When a skill accumulates experience equal to its level it levels up and loses all experience. 

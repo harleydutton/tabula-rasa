@@ -1,0 +1,6 @@
+﻿Anything that primarily influences another character’s thoughts counts as a social interaction. Some forms of magic like hypnotism, illusion, or mind control fall under this umbrella. The same goes for items like love potions or invisibility cloaks.
+When a character tries to influence another party with a skill roll a check. If the check fails the other party is unaffected. If the check succeeds one of three things can happen. One, the other party is affected. Two, the other party rolls to resist the influence with a skill of their own. Three, the other party is not affected because they have good reason not to be.
+
+
+
+

@@ -30,8 +30,15 @@ net good/bad stuff means a bunch of good/bad story things happen. this might be 
 ##Combat
 It looks like i was favoring shadowrun style initiative/speed in the past
 disallowing called shots in favor of the doubles -> dragon dice method from dragon age seems really good. shadowrun style initiative is where characters roll initiative and get a score, and then combat goes in rounds. Each round subtracts some number (10 in shadowrun) from each intiative and each character that still has a non-negative initiative score gets a turn.
+###group combat
+this looks fucking awful... division??? wtf?
+attacker defender meaning
+individual individual spend MP SP or FP to get additional damage dice
+individual group mtf fireball styled costs
+group individual multiply damage by group size
+group group multiply by attackers and divide by defenders
 ###action economy
-this is actually a pretty good idea. figure out how to implement it and classify actions in this game. major, minor, full, free, reaction etc. (mental, channeled) can players get additional actions? how?
+this is actually a pretty good idea. figure out how to implement it and classify actions in this game. major, minor, full, free, reaction etc. (mental, channeled,passive) can players get additional actions? how?
 ###grouping NPCS
 provide some simple method of grouping NPCs in combat
 ###Armor
@@ -81,7 +88,27 @@ this should probably go under character creation or skill checks if anything
 dex,str,stam,perception,luck,cha,wit,int,resolve
 what are the attributes good for? Dodge[dex] only useable at dm discretion. Should be roleplayed. Stealth[dex] Firearms[dex] archery[dex] Swordfighting[dex] or any other melee weapon Intimidation[str/cha] Lying[wit] Read[int] Write[int] lockpicking[dex] Gamble[luc] Pickpocketing[dex] Lying[cha/wit] Cooking Detect magic[per] Investigate[per] Lore of ____[int] choose a culture/race Seduce[cha] Tracking[per] Convince[cha] Fishing[int] Catching fish[dex] Wound care[int] Camping[int] Horse riding[dex] sailing[int/dex] Lifting[str] jumping/acrobatics/Running/dodge[dex] ploughing/lifting/sex[str/sta] smithing/fletching/carpentry/other [dex/int] Barter[cha] Use eyes/awareness/spot check/see the thing[per] see/sense magic stuff[per] empathy/understand person[per] unarmed combat[dex] block[stam] dodge[dex]
 I think rather than having a list of this shit i should just make each of the attributes fairly self explanatory and make it so if you want to use a skill you make a case for what attribute you use to make it happen.
-
+##problems with previous iterations of "players are allowed to create their own skills"
+- using incredibly broad skills that apply to every scenario. "social graces" applies to every social situation, provides little character depth, and makes it so a player can use the dice to walk all over the game.
+an example tree of skill scope
+animal skills
+  riding
+    horses
+    camels
+    elephants
+  driving
+    oxen
+    mules and horses
+    dogs
+  care
+    grooming
+    feeding
+    breeding
+    veterinary
+      first aid
+      diagnosis
+      medicine
+      surgery
 
 
 

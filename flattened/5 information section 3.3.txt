@@ -1,0 +1,18 @@
+﻿Information
+Definition: In this system observation is anything a character does to gain information about the world. This includes all five human senses, any information gained from high tech sensors, and any magical extrasensory abilities.
+Passive: Player characters passively and implicitly observe things that the storyteller describes to players. There are no rolls made for this.
+Active: When a character wants more information about the world they can attempt to observe it. This is done by making a skill check for a skill like hearing, seeing, sonar, or mind reading. If the check passes they get some information. The quality of that information is dependent on the magnitude of success of the roll.
+THIS NEEDS TO INCLUDE STEALTH AND LYING.
+Stealth
+Definition: Stealth is where a character hides from other characters using either magic, cunning, or advanced technologies. When a character is hidden they are not visible to cursory inspection and must be actively looked for to be found.
+Hiding: When a character wants to hide they should roll a stealth check with an applicable skill. If they succeed and the situation is plausible then they enter stealth. Invisibility requires no setup and can be done whenever but hiding using camouflage and disguise only works if no one knows you are there in advance.
+Detecting: To detect a character who is hiding roll both an observation check and a stealth check. Compare the magnitudes of success. The hidden character remains so the stealth magnitude of success is higher. They are detected if the observation magnitude of success is higher.
+THE SAME RULES FOR STEALTH WORK FOR LYING FOR THE MOST PART. HAVE THE COMBAT ASPECTS OF STEALTH BE IN THE COMBAT SECTION. LYING IS OPPOSED BY THINGS THAT CAN OPPOSE IT. SAME GOES FOR STEALTH.
+
+
+MIGRATED FROM POWER MISMATCH SECTION
+Stealth: this should be handled with stealth checks and opposed stealth vs. observation checks.
+Disguise: same as above.
+Lying: NPCs that always see through lies can be done just fine with skills or flavor. A character that can always tell a convincing lie works fine with opposed checks on skills. yeah this doesn’t seem like it can have power mismatch.
+
+

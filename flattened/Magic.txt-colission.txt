@@ -1,0 +1,5 @@
+﻿The storyteller should decide which attributes are used for maximum MP and magic damage at the beginning of the story. They should also decide which attribute or attributes will be used most often for magic skill checks. The storyteller should then tell players which attributes they have chosen before they make their characters.
+Maximum mana is usually two of a character’s attributes added together [MP = INT + WIL] but it can also be 0, two of the same attribute, some other static value, or based on something that is not an attribute.
+Magic damage is based on the character’s attributes, an item used in or created by the magic, and the character’s skill in the magic. The storyteller chooses two of these either at the beginning of the story or on a case-by-case basis. Then to find magic damage add these choices to a die [INT + item + 1d6].
+
+

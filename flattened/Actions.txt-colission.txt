@@ -1,0 +1,14 @@
+﻿Actions are the things that a character can do that are available to all characters. There is a list of examples below.
+When in a chase or combat actions cost 5 initiative and maybe some SP or MP. Common actions for combats and chases and their other costs are listed below.
+Resting regains 2 SP.
+Acrobatics or running costs 1 SP.
+Attacking and counter-attacking both cost an SP.
+Blocking and dodging both cost an SP.
+Using magic costs an MP.
+Attempting to enter stealth requires the proper conditions and possibly a check.
+Social interactions cost MP or SP where appropriate.
+Walking and footwork are not actions and do not cost initiative.
+Creating an advantage or disadvantage is part of another action and costs no initiative itself.
+
+
+
