@@ -24,8 +24,7 @@ This README is not intended to be part of Tabula Rasa. Instead it is a meta-docu
 - [ ] get a nav-bar for electronic versions of this
 - [ ] host this on a website somewhere
 - [ ] export the document as a PDF (with pandoc for sublime)
-- [ ] provide one example of each useful piece of markdown here instead and delete example.md
-***
+- [ ] provide one example of each useful piece of markdown here instead and delete example.md  
 <details><summary>Done</summary>
 <p>
 
