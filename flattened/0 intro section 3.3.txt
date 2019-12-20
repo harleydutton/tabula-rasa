@@ -1,7 +1,0 @@
-﻿Intro
-Intent: I wanted to create a role-playing system that could accommodate any character or setting and I wanted it to be easy to learn. Making my audience create their own powers, backgrounds, and lore was an elegant way to do both.
-Required Materials: Pencils, character sheets, and a pair of six-sided dice.
-How to Read: I have done my best to format this using a couple of simple rules. Headers are in bold. Examples are in italics. Names of flavor and skills are in “double quotes”. Things you should mentally substitute are in <angle brackets>.
-Warning: This system is very rule-light. The lack of structure means a novice storyteller will have nothing to fall back on if they can’t think of what to do with the story. Best when played by folks with fertile imaginations.
-Realism: Don’t expect this system to be perfectly realistic. I started by trying to make it so but when it started interfering with how fun the system was I stopped.
-Thanks: I would like to thank Nathaniel Bernheim for bearing with me for as long as he has and Stefan Walberg for occasionally giving me useful feedback. Most of all I would like to thank anyone willing to play using my creation.
