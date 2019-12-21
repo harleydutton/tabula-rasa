@@ -1,8 +1,0 @@
-﻿Items are just objects with numbers and descriptions attached to signify value and or quality.
-To make a new random item roll 3 dice, add them, and divide by 2 rounded down [3d6/2]. Add a noun and maybe a couple adjectives to the item and its done. The only difference between two “level 5 sword”s is their descriptions. Items can range in level from 1 to 9.
-To determine how much items are worth the story teller should decide how much a level 9 item costs. Then for every level the item is lower than 9 divide that price by 10 once. For example, if a level 9 luxury sports car costs $1,000,00 then a normal level 5 car is worth $1,000.
-Items can be crafted and upgraded with the appropriate skills, materials, and tools.
-Armor items stack—see the Armor section—to give more ARM. It’s up to the storyteller whether this works for wearing 2 helmets or 15 level 1 burlap sack shirts.
-A weapon’s item value is added to the damage roll—see the Damage section—for any attacks that use it. Items have no bearing on how likely an attack is to hit.
-Items like night-vision goggles can grant new abilities to a character. Some items may require characters to roll a check to use them.
-Some items never have their level used in a calculation or roll. The story should still reflect their value. For example, a single crappy lock pick made from a hairpin might break after a single failed attempt on a lock while an expensive lock picking kit might have multiple tools justifying a second try with a different tool after failing once.

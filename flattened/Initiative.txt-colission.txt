@@ -1,4 +1,0 @@
-﻿Initiative is a rough conversion of a character’s speed into turn order for chases and combats. Roll a die for each character, add it and any stealth bonus to their base initiative [1d6 + stealth + INI], and write these numbers in a table.
-The turn always goes to whichever character has the highest initiative. Each action—see the Actions section—costs 5 initiative. Characters can take up to 2 actions per turn. When each character is out of initiative roll it again.
-Characters can dodge, block, and counter-attack out of turn.
-

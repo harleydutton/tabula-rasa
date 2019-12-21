@@ -1,9 +1,0 @@
-﻿If a character is dealing damage with melee or a launcher it is usually the item level of their weapon, plus their strength, plus a die. This is not always the case but it is the intended norm [item + STR + 1d6]. For two-handed damage add two dice instead.
-For environmental damage add as many dice as you like to a hastily made “falling rocks” item.
-Trap damage is normally [item + skill + 1d6] where the skill is the trap-maker’s skill level.
-Magic damage is more varied most of the time. The storyteller chooses two of these three {character’s magic skill level, one of the character’s attributes, an item involved in the spell} and add them to 1d6.
-To figure out how much damage a character should take subtract that character’s ARM from the incoming damage. Then subtract this modified damage value from that character’s current HP.
-
-
-
-
