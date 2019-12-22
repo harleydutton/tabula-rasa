@@ -1,14 +1,5 @@
 ﻿
 
-Tabula Rasa
-A Light-weight General Roleplaying System
-
-
-Written by
-Harley Dutton
-
-
-
 
 Intro
 Intent: I wanted to create a role-playing system that could accommodate any character or setting and I wanted it to be easy to learn. Making my audience create their own powers, backgrounds, and lore was an elegant way to do both.

@@ -1,3 +1,0 @@
-﻿A character with 0 or less HP is dead or unconscious.
-A character with 0 or less magic cannot do any magic until they regain some MP.
-A character with 0 or less SP is tired and cannot do anything physically taxing until they regain some SP.
