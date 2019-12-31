@@ -321,10 +321,6 @@ this is a good time to mention that when you try to convince a character of some
 ### there should be a "starting the game" or "quick-start" top level section
 character creation, group formation, and having the storyteller describe the setting to the players for the player visible stuff. creating the setting and a story arc or two for the storyteller
 
-### what are the dice for?
-ATTRIBUTES: so if i'm not using attributes for combat then what is the point of being big and strong? well you might say "strength checks" but what if i told you that is stupid. lets break this into two categories. in the first a character is doing a strength check against the environment. prying something off/open lets say. the character has their strength score and at that point the dice are representing the environment. in another scenario you might have an armwrestling contest. this is opposed strength. in this instance i think having the strength score makes sense. on the other hand it might also make sense to just decide a winner or roll some unmodified dice.
-if we are looking at this system as skill+attr vs 2or3d6 then the left side represents the character and the right side represents the world's resistance to the action.
-
 
 
 

@@ -3,36 +3,43 @@
 This README is not intended to be part of Tabula Rasa. Instead it is a meta-document for tracking design, philosophy, formatting, and tasks. Created by Harley Dutton.
 
 ## Philosophy
-- plays quickly and flexibly
-- players can create their own skills within the bounds of the setting the storyteller lays out
-- character creation is _fast_; one hour tops for new players.
-- generic enough to work with any setting
-- one file for ease of printing and online sharing
-- low entry barrier (3d6, counters, paper, and pens)
+- players can create their own skills within the bounds of the setting
+- plays quickly (10 mins a round and 1 hr tops for CC)
+- generic with plug and play settings
+- low entry barrier (4d6, counters, paper, and pens)
+- roleplaying system first and a combat system second
+- should be short (10 pages max) and only one file for ease of reading and sharing
 - don't be preachy by telling people how they _should_ be roleplaying or storytelling
 - don't let realism or balance get in the way of fun
-- should not include any source material for a setting
-- avoid complicated math
-- avoid bookkeeping hell
-- this is a roleplaying system first and a combat system second; design those aspects in that order
-- the doc should be short; 10 pages max
-- for every release watch an episode of critical roll and see if the system can simulate it
-- avoid perverse incentives like experience whoring
+- shouldn't include anything setting specific
+- avoid complicated math and bookkeeping hell
+
+
 
 ## Design Options
-### use branches to add/remove these experimental features
-- Characters will not have health, items will not have numeric values associated with them, and damage will be detrimental flavor based on the weapon and armor involved. ALTERNATIVELY characters just have health, weapons and damage rolls, and armor providing numeric soak and penalties to relevant rolls.
-- Characters will not have levels or experience. Instead skills will level up when the character passes a number of checks with the skill equal to the skill's level. To combat experience whoring, a character can train for 8 hours in game to make one check with the skill. ALTERNATIVELY Just go white wolf style with an experience pool, flat costs for new skills and scaling costs to level things up.
-- ROUGH: I have an idea that maybe players can make DEALS with the storyteller while making checks. These deals would provide modifiers and additional effects. I had this idea mostly in relation to combat but it could also work well for more generic roleplaying. For combat it would be something like (i go and take a super recklessly hard swing at the guy: +1d6 damage, no reaction or "I wink at the shopkeeper while we are bartering": +1 to the roll, unknown social repercussions). ALTERNATIVELY don't include this option. perhaps call these deals GAMBITS and give them a cost to try, on success, or on failure, and some special effect on attempt, success, or failure.
-- I need to have either a small set of generic default skills, a larger list of non-generic default skills, or attributes.
+<!--Use feature branches and a little merging to turn these on and off for various releases.-->
+### Non-numeric combat
+Characters will not have health, items will not have numeric values associated with them, and damage will be dealt in the form of wounds. Wounds are detrimental flavor based on the weapon and armor involved.
+<!--The alternative would be to make a bunch of tables for and formulas for stuff-->
+### No leveling up
+<!-- Characters will start with a number of character points determined by the storyteller. -->
+Characters will not level up but skills will. Characters will not have levels or experience. Instead _skills_ will level up when the character passes a number of checks with the skill equal to the skill's level. Track a each skill's experience with tally marks next to the skill. To combat experience whoring, a character can train for 8 hours in game to make one check with the skill.
+### Gambits
+At its most basic a gambit is a deal you make with the storyteller. Anyone can propose a gambit but all parties must agree before the dice are rolled for the gambit to take effect.
+<!--Two common gambits would be to go for a called shot in combat or to take your time with an action out of combat. Raise the difficulty for the called shot and make it insta-kill. Lower the difficulty for the careful action and lower the quality of a success.-->
+### no attributes
+<!--This assumes that there will also be a list of common skills included with each setting-->
+Rather than having a few attributes we could have a list of __mandatory skills__ for a setting. Every character would have to take some level in __all__ of these skills.
+
+
 
 ## Formatting 
+- table of contents with links to section headers
+- legend detailing formatting choices
 - include one definition for terms
 - include examples for things
-- table of contents with links to section headers
 - sections should contain links to other sections they reference
-- legend detailing formatting choices
-- one chart or table per page
+- only one chart or table per page
 - no page elements that cannot survive being printed (other than links)
 - monospace for formulas and definitions
 - block quotes for examples
@@ -40,6 +47,103 @@ This README is not intended to be part of Tabula Rasa. Instead it is a meta-docu
 - no misspellings and grammatically correct
 - heading one will be reserved for the title at the very top
 - headings two through four will be available for (sub)sections
+- include a LEGEND if it ends up being necessary
+
+## Outline
+- INTRO
+- TABLE OF CONTENTS
+- GETTING STARTED
+	- players go to CC
+	- storyteller needs to have/make a setting
+	- storyteller needs to have/make an adventure
+- CHARACTER CREATION
+	- how to use the setting
+	- skills
+	- flavor
+	- group CC process (i think this might be getting into preachy territory)
+	- other (action delay)
+	- printable character sheet
+- SKILLS
+	- definition
+	- mandatory
+	- common
+	- player made
+		- limiting factors
+	- progression
+- FLAVOR
+	- definition
+	- items
+	- wounds
+- CHECKS (how to play the game)
+	- description of process
+	- modifiers
+	- skills
+	- contested rolls
+	- good/bad stuff die
+	- skill progression
+	- opposed checks
+- ITEMS
+	- definition
+	- crafting
+	- black market
+	- value (in money)
+- STEALTH
+	- hidden
+	- alerted
+	- detected/caught
+	- surprised
+- LYING
+	- suspicious
+	- detected
+	- fooled
+- PERSUASION
+	- willpower
+- COMBAT
+	- description of process (starting combat ie. rolling initiative)
+		- surprise round for hidden characters acting in tandem and link to stealth section
+	- action delay and actions
+		- description of process (one turn)
+		- reaction, mental, passive, major, minor, full, movement, free, bonus, continuous, teamwork, and prepared/held actions.
+	- attacking
+		- to hit
+		- wounds as damage
+	- off-turn actions
+		- roll a check and spend reaction and possibly move actions
+		- counter attacking
+		- dodging
+		- blocking
+		- intervening
+	- movement and distance
+		- zones and AUDs
+		- overlay a large grid on a bird's-eye-view image to get zones
+		- changing zones costs a movement action
+	- grouping NPCs
+		- aligning initiatives
+		- wars
+- SETTING
+	- description and anatomy
+	- common and mandatory skills
+	- recommended CP and standard array
+	- peoples and culture
+	- magic and technology
+	- government, economy, resources, and items
+	- flora, fauna, and biomes
+	- countries and cities
+- STORYTELLER SECTION
+	- making a setting
+		- baseline currency in AUCs and stores in percentage of AUCs
+		- modify an existing list of common and mandatory skills
+		- make a starting CP/standard array recommendation based on number of mandatory skills
+	- npcs
+		- planned
+		- unplanned
+		- leveling
+		- grouping them for combat
+	- making an adventure or story
+		- story arc template tree thing
+
+
+
 
 ## To-Do
 - [ ] make a graph of topics with categories, subcategories, and relates-to edges
