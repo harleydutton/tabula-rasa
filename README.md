@@ -34,9 +34,7 @@ Rather than having a few attributes we could have a list of __mandatory skills__
 
 
 ## Formatting 
-- table of contents with links to section headers
-- legend detailing formatting choices
-- include one definition for terms
+- include definition for terms
 - include examples for things
 - sections should contain links to other sections they reference
 - only one chart or table per page
@@ -47,7 +45,10 @@ Rather than having a few attributes we could have a list of __mandatory skills__
 - no misspellings and grammatically correct
 - heading one will be reserved for the title at the very top
 - headings two through four will be available for (sub)sections
-- include a LEGEND if it ends up being necessary
+
+- include a LEGEND of formatting choices?
+- if the same keyword appears twice on a page should both include a link to the relevant page?
+- should I capitalize common keywords like proper nouns? should i capitalize the keywords I make like proper nouns? I think just including links should be sufficient and none of this stuff should be capitalized... but I'm not sure.
 
 ## Outline
 - INTRO
@@ -63,6 +64,19 @@ Rather than having a few attributes we could have a list of __mandatory skills__
 	- group CC process (i think this might be getting into preachy territory)
 	- other (action delay)
 	- printable character sheet
+<!--
+	top: name, concept, setting, player, action delay
+	skills column: level, name, exp, desc.
+	flavor column: physique, knowledge, possessions, social, supernatural, wounds
+-->
+- CHECKS (how to play the game)
+	- description of process
+	- modifiers
+	- skills
+	- contested rolls
+	- good/bad stuff die
+	- skill progression
+	- opposed checks
 - SKILLS
 	- definition
 	- mandatory
@@ -74,14 +88,6 @@ Rather than having a few attributes we could have a list of __mandatory skills__
 	- definition
 	- items
 	- wounds
-- CHECKS (how to play the game)
-	- description of process
-	- modifiers
-	- skills
-	- contested rolls
-	- good/bad stuff die
-	- skill progression
-	- opposed checks
 - ITEMS
 	- definition
 	- crafting
@@ -117,18 +123,26 @@ Rather than having a few attributes we could have a list of __mandatory skills__
 		- zones and AUDs
 		- overlay a large grid on a bird's-eye-view image to get zones
 		- changing zones costs a movement action
-	- grouping NPCs
-		- aligning initiatives
-		- wars
 - SETTING
-	- description and anatomy
-	- common and mandatory skills
-	- recommended CP and standard array
-	- peoples and culture
-	- magic and technology
-	- government, economy, resources, and items
-	- flora, fauna, and biomes
-	- countries and cities
+	- description and anatomy (of settings in general)
+	- description (this is a part of every setting and should describe the setting instance)
+		- magic and or technology
+		- shop w/ prices and black market (this will involve baseline currency and AUCs)
+		- peoples, culture, government, cities, government, history, etc.
+		- biomes, flora, fauna, and resources
+	- mechanical shit
+		- typical action delay
+		- starting character points
+		- mandatory skills
+		- common skills
+		- starting equipment options
+			- AUCs
+			- clothes
+			- possessions
+			- tools
+			- weapons and armor
+			- followers
+			- make up a skill
 - STORYTELLER SECTION
 	- making a setting
 		- baseline currency in AUCs and stores in percentage of AUCs
@@ -139,8 +153,19 @@ Rather than having a few attributes we could have a list of __mandatory skills__
 		- unplanned
 		- leveling
 		- grouping them for combat
+		- wars
 	- making an adventure or story
 		- story arc template tree thing
+- GLOSSARY (page numbers and or brief descriptions)
+	- storyteller
+	- character
+	- player
+	- NPC
+	- roleplaying
+	- worldbuilding
+	- setting
+	- battlegrid
+
 
 
 

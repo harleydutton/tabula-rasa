@@ -1,55 +1,57 @@
 # Tabula Rasa
 ## Intro
-Hi, this is an RP system by Harley Dutton. Nathaniel Bernheim and Stefan Whalberg have been a great help so special thanks to them. Tabula Rasa means blank slate in Latin. This roleplaying system should be just that; a fresh start.
-## Definitions
-Storyteller = DM (Dungeon Master)  
-players != characters. players are real human people. characters are brought to life with character sheets and imagination
-## Required Materials
-Character sheets, pencils/pens, and three six-sided dice. A map of the world, a battle-grid, and character models might help as well. also tokens/counters. also a DM screen.
+Tabula Rasa is a worldbuilding framework and a rules-light, generic roleplaying game that lets players create their own skills.
+
+The worldbuilding framework produces a Setting. Settings are short, standardized, and easily sharable descriptions of a single place within a world. The intent is that Settings can be used to quickly understand a part of the world such that a player can create a Character or the Storyteller can create an Adventure.
+
+The roleplaying system is generic so it will work with any Setting produced by the worldbuilding framework. The rules are minimal meaning you and your group should be able to create any character imaginable within the setting and start playing very quickly!
+
+## Table of Contents
+<!--outline here with page numbers and links-->
+
+## Getting Started
+To start an Adventure you will need a few things. First and most important, your group will need a Setting so they can do character creation. You can use one of the included Settings, find one online, or make your own by filling out the Setting template. Otherwise you need paper, pencils, six-sided dice, and players. A printer and having your adventure planned out are both highly recommended. Once you have these things proceed to the Character Creation section.
+<!--I think a map, a battlegrid, tokens, and cards might also be helpful depending the other rules I include-->
 ## Character Creation
-Players should ask the Storyteller 
-at one point i was strongly in favor of group character creation where the other players could modify your character in minor ways
-A point buy or standard array is the quickest way to give levels to skills. the standard array is much safer. Point buy allows the DM to add a player to a group and make sure they are roughly the same power level. Point buy also lets players make stupid characters that can barely talk but do 8 different kinds of magic.
-Optionally call exp CP (character points).
-possibly uses two resources for CC. one would be exp/cp and the other would be "essence". 1 exp per flavor and skills cost their level in exp. essence would be used to govern how many special stats a character can take. this would be for stuff like special skills, special flavor, willpower, speed, etc. Separating CC into multiple resources allows the GM to control power creep a little better.
-Speed = each character gets a speed score. you can use speed points per round to get actions. off-turn actions cost more than on-turn in speed point.
-willpower = stat that governs mental defense. temporary willpower can be used to resist/cleanse mental/social influence just like in VTM as run by Ryan.
-### blood in the sand style character creation
-the main idea here was that during character creation each other player could add things to your character, specifically creating bonds between characters to make the inter-character relationships more interesting.
-***
-make a character concept. all the other players at the table do the same. then one by one each player at the table adds a bond between two characters until the character graph is mostly linked.
-I think a big part of this (or maybe just how The Order liked to do CC) was that you should pick your character's desires/motivations/long-term-goals etc. Building off the Blood in the Sand CC style maybe other players could give your character desires.
-### tabula specific character creation
-the main idea here is that players make up their own skills within the bounds of the world and then get them approved by the DM
-***
-the main point of this system is to let players create skills. that shit gets fucking wild fast. i will need to revise this later but perhaps each character gets to create ONE skill for their character. the DM should review each skill before character creation. the DM is allowed to put restrictions on your skills if they are too OP/too much of a pain in the ass/not fun for the other people at the table.
-### Attributes
-having to decide what attributes to use for magic if it is present in the setting changes the flavor and balance of the entire game. it is one reason why i would like to do without attributes.
-it might be worthwhile to split stats into physical, mental, social, and magical. Of these mental is the most generically useless in a role-playing situation.
-this should probably go under character creation or skill checks if anything
-dex,str,stam,perception,luck,cha,wit,int,resolve
-what are the attributes good for? Dodge[dex] only useable at dm discretion. Should be roleplayed. Stealth[dex] Firearms[dex] archery[dex] Swordfighting[dex] or any other melee weapon Intimidation[str/cha] Lying[wit] Read[int] Write[int] lockpicking[dex] Gamble[luc] Pickpocketing[dex] Lying[cha/wit] Cooking Detect magic[per] Investigate[per] Lore of ____[int] choose a culture/race Seduce[cha] Tracking[per] Convince[cha] Fishing[int] Catching fish[dex] Wound care[int] Camping[int] Horse riding[dex] sailing[int/dex] Lifting[str] jumping/acrobatics/Running/dodge[dex] ploughing/lifting/sex[str/sta] smithing/fletching/carpentry/other [dex/int] Barter[cha] Use eyes/awareness/spot check/see the thing[per] see/sense magic stuff[per] empathy/understand person[per] unarmed combat[dex] block[stam] dodge[dex]
-I think rather than having a list of this shit i should just make each of the attributes fairly self explanatory and make it so if you want to use a skill you make a case for what attribute you use to make it happen.
-at one point i was fiddling with the idea of having no attributes at all and just using skills for everything. unfortunately when a skill doesn't apply you need to fall back on something.
-if i decide to make attributes a thing there is going to be overlap. I am not going to worry about it because there are plenty of exclusive situations. mental and social overlap for barter checks but there are plenty of places where they don't overlap so it's fine.
-strength, dex, endurance, charasma, perception, intillect, willpower
-health points, mana points, stamina points, armor, and initiative could all be derived attributes. initiative was dex+perception/2
-REF[reflexes] might be a useful attribute to have around.
-WIT[wits] is a measure of how quickly a character thinks in combat and banter.
-### flavor
-IIRC flavor was short descriptive words or phrases that would give +1 or -1 in situations in which they applied. Ciazio stacked "strong" worded a few different ways and had a +4. balance this.
-"flavor" is a short description of anything a character knows, owns, has or is (including reputation, status, and position). these should be the videogame equivalent of passives rather than actives. they can modify checks by a small value but they are not check themselves.
-flavor is anything a character is or has: physical attributes (horns, fins, cybernetic implants), magical, social, mental, or a material possessions.
-flavor should not have numbers attached to it.
-flavor can be acquired at CC and either purchased with exp or acquired through roleplaying.
-Duplicate flavor should not stack for determining modifiers for checks. Unique flavors should. (strong, buff, muscley = +1 vs big, strong = +2 to a strength check or something)
-At one point i had something named traits/passive abilities/backgrounds. these were very, very similar to flavor. they cannot be leveled up and they cannot be taught. those two restrictions were important for defining what was and was not a trait and it could be useful for defining flavor.
-here is a list of example flavor:
-Examples: These are some examples of flavor. Some are normal, some are special, some are bad. Captain of the guard. Beautiful singing voice. Strong. Wise. Recognizable facial scar. Pathological liar. Sociopath. Owns a horse. Is liked by horses. Centaur. Gambling problem. Charming. Attractive. Fast. Knowledgeable. Lord of a castle. Friends in high places. Rich. Night vision. Night vision goggles. Owns a spaceship. Carries a spear and club. Leper. Reputation for beating priests. Kind. King’s advisor. Drug dealer. Librarian. Has many rare books. Orc. Insane. Insomniac. Carnivorous. Extra limbs. Amputee. Crippled. Talks to plants. Plants talk to me. Holy. Incorporeal. Haunted by past crimes. Haunted by angry ghosts. Has a compass. Stubborn. Magically adept. Bloodthirsty. Good manners. Boxing world champion. Dropped out of medical school. Cult leader. Shift manager at a fast food joint. Famous space pirate. Infertile. Has many decks of cards. Knows Spanish. Is Spanish. Can play the flute. Religious. Sneaky. Large. Fat. Boring. Knows the location of buried treasure. Student at Yale. Responsible for a princeling. Young and stupid. Evil. Charitable. 
-### equipment
-i think tabula lets players make their own gear too? equipment has no numeric values. instead just describe the equipment. equipment should give characters new active abilities or modify their existing active abilities. items should have made up special abilities. crappy lockpicks break after a failed attempt but a nice lockpicking set gives you two or three tries.
-### character progression
-i don't want to tell anyone how to do down-time but it is relevant for a few things in this system. first off if can be used to experience whore. i will probably make it so you can increment attributes by one during downtime and you cannot improve skills during downtime. downtime is also a good time to heal wounds.
+<!--as much as i like it i am not going to promote blood in the sand style CC-->
+<!--there should be a one page printable character sheet somewhere. beginning of CC, end of CC, or in back with other charts, tables, and templates-->
+Characters need skills, flavor and an action delay to be playable. The first thing a player should do when making a character is take a look at the setting, read through it and review the available options. Players can propose things be added to the setting because they are supposed to have a mild influence upon what exists within the setting.
+
+First fill out the top of your character sheet. In order, the boxes should contain the character's name, the character's concept, the setting's name, your name, and the setting's action delay. A character concept can be thought of as the canonical or stereotypical version of something. The setting's action delay can be found in the upper left corner of the setting template.
+
+Second, your character needs skills. Skills are used to roll checks which is how a character interacts with the game world. Skills are usually self-descriptively named and have levels. The higher level the skill the better at it a character is.
+There are two kinds of skills. Mandatory skills and the normal kind. Mandatory skills are skills every character _needs_ within the setting. They are listed at the top of the skills section in the setting. Add all of the mandatory skills to your character sheet. The rest of the skills are those that are common within the setting and you can take any of them you can afford. Players can also propose to the storyteller that skills be added to the setting. You pay for your starting skills using character points. Starting character points are listed in the upper left of the setting. Both types of skill cost a number of character points equal to the level you want the skill to start at.
+```
+Example mandatory skills: willpower, strength, magic, dexterity, charisma
+Example skills: sword fighting, pyromancy, computer hacking, seduction
+```
+
+Third, your character needs flavor. Flavor is a word or short phrase describing a character. It can include knowledge, possessions, physique, and even social position. Review the starting flavor options listed on the setting. This will almost always give your character a language, clothes, and equipment relevant for the setting. When the setting specifies a type of flavor but not what it is specifically you get to choose something that would fit within the setting. Add your choice of starting flavor to your character sheet. Afterward, add flavor to your character to describe them. Flavor costs one character point per after you have your starting flavor. Flavor is usually just that, flavor, but occasionally it can make checks easier or harder.
+
+## Checks (How to Play the Game)
+<!-- definition -->
+<!-- formula -->
+<!-- example -->
+<!-- difficulty (modifiers, flavor) -->
+<!-- progression -->
+<!-- opposed checks -->
+<!-- event die (good/bad stuff die) -->
+<!-- gambits (called shots and taking 10) -->
+<!-- magnitude of success (damage, crafting, etc.) -->
+
+## Skills <!-- incomplete outline-->
+<!-- definition -->
+<!-- examples -->
+<!-- limiting factors -->
+<!-- acquisition (getting new common skills, getting new mandatory skills) -->
+<!-- progression -->
+
+
+
+
+
+
+
 
 
 
@@ -115,6 +117,11 @@ a check fails if there are fewer successes than failures on the dice. it seems l
 excess successes and failures contribute to magnitude of success.
 excess good stuff and bad stuff mean nothing in particular.
 net good/bad stuff means a bunch of good/bad story things happen. this might be a little insane if it happens to often. the DM only has to resolve one good/bad stuff per check
+###advantages and disadvantages
+this looks like it came from the star wars RP system?
+anyway it looks interesting. I cannot tell if it is for combat or all checks or what.
+> As a part of any action a character may attempt to create an advantage for themselves. If the action succeeds whomever is controlling the character gets to describe the advantage they create. If the storyteller finds it reasonable it happens. If not, don’t waste time arguing, just move on.
+> An advantage can also take the form of having to roll fewer dice on a skill check in the future, extra damage dice on an attack roll, or a bonus to initiative. Inversely an advantage might mean that the character’s opponents have to roll more dice on skill checks, get fewer dice on their damage rolls, or lose initiative.
 ### called shots and stunt points
 exalted, D&D, and Dragon Age: the RPG all had different ways to deal with this. All had their own merits. In D&D you said what you wanted to do ahead of time and it modified the difficulty of the roll. If you were successful it happened. full stop. This involved many tables of modifiers usually and it was a slow process. The Star Wars RPG mitigated this issue by boiling every modifier to a die that got added to the check's pool. It kinda sucked when your checks didn't pass but it was always worded as "I try to" not "I do"
 In Dragon Age you rolled the check and then if you got stunt points (based on 2/3 dice matching faces) you got the number of stunt points on the "dragon die" (the first one). This made things go faster but limited options.
@@ -154,11 +161,51 @@ I also liked the idea of having traditional floating experience level up skills 
 
 
 
-#advantages and disadvantages
-this looks like it came from the star wars RP system?
-anyway it looks interesting. I cannot tell if it is for combat or all checks or what.
-> As a part of any action a character may attempt to create an advantage for themselves. If the action succeeds whomever is controlling the character gets to describe the advantage they create. If the storyteller finds it reasonable it happens. If not, don’t waste time arguing, just move on.
-> An advantage can also take the form of having to roll fewer dice on a skill check in the future, extra damage dice on an attack roll, or a bonus to initiative. Inversely an advantage might mean that the character’s opponents have to roll more dice on skill checks, get fewer dice on their damage rolls, or lose initiative.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### flavor
+IIRC flavor was short descriptive words or phrases that would give +1 or -1 in situations in which they applied. Ciazio stacked "strong" worded a few different ways and had a +4. balance this.
+"flavor" is a short description of anything a character knows, owns, has or is (including reputation, status, and position). these should be the videogame equivalent of passives rather than actives. they can modify checks by a small value but they are not check themselves.
+flavor is anything a character is or has: physical attributes (horns, fins, cybernetic implants), magical, social, mental, or a material possessions.
+flavor should not have numbers attached to it.
+flavor can be acquired at CC and either purchased with exp or acquired through roleplaying.
+Duplicate flavor should not stack for determining modifiers for checks. Unique flavors should. (strong, buff, muscley = +1 vs big, strong = +2 to a strength check or something)
+At one point i had something named traits/passive abilities/backgrounds. these were very, very similar to flavor. they cannot be leveled up and they cannot be taught. those two restrictions were important for defining what was and was not a trait and it could be useful for defining flavor.
+here is a list of example flavor:
+Examples: These are some examples of flavor. Some are normal, some are special, some are bad. Captain of the guard. Beautiful singing voice. Strong. Wise. Recognizable facial scar. Pathological liar. Sociopath. Owns a horse. Is liked by horses. Centaur. Gambling problem. Charming. Attractive. Fast. Knowledgeable. Lord of a castle. Friends in high places. Rich. Night vision. Night vision goggles. Owns a spaceship. Carries a spear and club. Leper. Reputation for beating priests. Kind. King’s advisor. Drug dealer. Librarian. Has many rare books. Orc. Insane. Insomniac. Carnivorous. Extra limbs. Amputee. Crippled. Talks to plants. Plants talk to me. Holy. Incorporeal. Haunted by past crimes. Haunted by angry ghosts. Has a compass. Stubborn. Magically adept. Bloodthirsty. Good manners. Boxing world champion. Dropped out of medical school. Cult leader. Shift manager at a fast food joint. Famous space pirate. Infertile. Has many decks of cards. Knows Spanish. Is Spanish. Can play the flute. Religious. Sneaky. Large. Fat. Boring. Knows the location of buried treasure. Student at Yale. Responsible for a princeling. Young and stupid. Evil. Charitable. 
+### equipment
+i think tabula lets players make their own gear too? equipment has no numeric values. instead just describe the equipment. equipment should give characters new active abilities or modify their existing active abilities. items should have made up special abilities. crappy lockpicks break after a failed attempt but a nice lockpicking set gives you two or three tries.
+### character progression
+i don't want to tell anyone how to do down-time but it is relevant for a few things in this system. first off if can be used to experience whore. i will probably make it so you can increment attributes by one during downtime and you cannot improve skills during downtime. downtime is also a good time to heal wounds.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
