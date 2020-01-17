@@ -32,7 +32,7 @@ Third, your character needs flavor. Flavor is a word or short phrase describing 
 <!-- definition -->
 <!-- formula -->
 <!-- example -->
-<!-- difficulty (modifiers, flavor) -->
+<!-- difficulty (modifiers, flavor, nested checks) -->
 <!-- progression -->
 <!-- opposed checks -->
 <!-- event die (good/bad stuff die) -->
@@ -45,19 +45,76 @@ Third, your character needs flavor. Flavor is a word or short phrase describing 
 <!-- limiting factors -->
 <!-- acquisition (getting new common skills, getting new mandatory skills) -->
 <!-- progression -->
+<!-- passive skills? perception? -->
+<!-- common skills -->
+<!-- mandatory skills -->
+<!-- rolling using the wrong skills -->
+<!-- taking new skills at random levels or based on the level of another skill -->
+
+## Flavor <!-- incomplete outline -->
+<!-- definition -->
+<!-- examples -->
+<!-- things (equipment, money, vehicles) -->
+<!-- followers -->
+<!-- wounds -->
+<!-- knowledge -->
+<!-- social (standing, reputation, position, occupation, respect) -->
+<!-- physique (race, mutations, disabilities) -->
+<!-- acquisition -->
+
+## Combat <!-- incomplete outline -->
+<!-- definition? -->
+<!-- rolling combat -->
+<!-- distance (grid and zones) -->
+<!-- transitions (stealth and chases) -->
+<!-- grouping NPCs -->
+<!-- wars -->
+<!-- actions (what are they? what can they be used for?) -->
+<!-- action delay -->
+<!-- defensive actions -->
+<!-- items, weapons, and armor -->
+<!-- attacking -->
+<!-- damage, wounds, death -->
+<!-- defensive actions (block, dodge, parry, counterattack, rescue, intercede) -->
+<!-- surprise round -->
+
+## Stealth <!-- incomplete outline -->
+<!-- hidden -->
+<!-- alerted -->
+<!-- detected -->
+
+## Lying <!-- incomplete outline -->
+<!-- suspicious -->
+<!-- fooled -->
+<!-- caught -->
+
+## Setting <!-- incomplete outline -->
+<!-- definition -->
+<!-- description -->
+<!-- action delay -->
+<!-- character points -->
+<!-- common skills -->
+<!-- mandatory skills -->
+<!-- AUCs, store, black market -->
+<!-- technology -->
+<!-- history -->
+<!-- institutions -->
+<!-- culture -->
+<!-- peoples (contrast them by race, class, ideology, etc.) -->
+<!-- resources -->
+<!-- magic -->
+
+# Storyteller section <!-- headings++ or make this it's own doc -->
+<!-- story -->
+<!-- npcs and how they are ungroupable -->
+<!-- tables? expand settings to include other tables? -->
+<!-- story template? -->
+<!-- resources for creating custom maps -->
+<!-- how-to and resources for quickly creating battlegrids -->
+<!-- making a setting -->
+<!-- player-made skills from the DM seat -->
 
 
-
-
-
-
-
-
-
-
-
-
-## Skills
 Definition: a skill is something a character can do and more importantly fail at. casting waterbreathing spell vs breathing under water with gills.
 new skills start at a level equal to the exp spent on them? new skills need to be apporved by dm. new skills can be leveled up with exp with dm approval.
 skills level up once they have been used a number of times equal to their level? when they accumulate succeses and fails equal to level? just one of those?
@@ -216,7 +273,6 @@ i don't want to tell anyone how to do down-time but it is relevant for a few thi
 
 
 
-
 ## Combat
 It looks like i was favoring shadowrun style initiative/speed in the past
 disallowing called shots in favor of the doubles -> dragon dice method from dragon age seems really good. shadowrun style initiative is where characters roll initiative and get a score, and then combat goes in rounds. Each round subtracts some number (10 in shadowrun) from each intiative and each character that still has a non-negative initiative score gets a turn.
@@ -293,7 +349,6 @@ Social interactions cost an action and an MP if they are magic.
 ### counter-attacking
 previously i wanted to implement counterattacking but was having a problem doing it without having a fuckton of timing issues. counter-attack chains were prevalent....
 Anyway this is solved with an action economy and a turn delay. you canonly counterattack with reactions, you can only use reactions when it isn't your turn, and you get your reactions back with all your actions when your turn delay is finished.
-
 
 
 

@@ -14,8 +14,6 @@ This README is not intended to be part of Tabula Rasa. Instead it is a meta-docu
 - shouldn't include anything setting specific
 - avoid complicated math and bookkeeping hell
 
-
-
 ## Design Options
 <!--Use feature branches and a little merging to turn these on and off for various releases.-->
 ### Non-numeric combat
@@ -27,7 +25,7 @@ Characters will not level up but skills will. Characters will not have levels or
 ### Gambits
 At its most basic a gambit is a deal you make with the storyteller. Anyone can propose a gambit but all parties must agree before the dice are rolled for the gambit to take effect.
 <!--Two common gambits would be to go for a called shot in combat or to take your time with an action out of combat. Raise the difficulty for the called shot and make it insta-kill. Lower the difficulty for the careful action and lower the quality of a success.-->
-### no attributes
+### No attributes
 <!--This assumes that there will also be a list of common skills included with each setting-->
 Rather than having a few attributes we could have a list of __mandatory skills__ for a setting. Every character would have to take some level in __all__ of these skills.
 
@@ -45,7 +43,6 @@ Rather than having a few attributes we could have a list of __mandatory skills__
 - no misspellings and grammatically correct
 - heading one will be reserved for the title at the very top
 - headings two through four will be available for (sub)sections
-
 - include a LEGEND of formatting choices?
 - if the same keyword appears twice on a page should both include a link to the relevant page?
 - should I capitalize common keywords like proper nouns? should i capitalize the keywords I make like proper nouns? I think just including links should be sufficient and none of this stuff should be capitalized... but I'm not sure.
