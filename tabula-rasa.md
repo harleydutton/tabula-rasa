@@ -11,6 +11,10 @@ The roleplaying system is generic so it will work with any Setting produced by t
 
 ## Getting Started
 To start an Adventure you will need a few things. First and most important, your group will need a Setting so they can do character creation. You can use one of the included Settings, find one online, or make your own by filling out the Setting template. Otherwise you need paper, pencils, six-sided dice, and players. A printer and having your adventure planned out are both highly recommended. Once you have these things proceed to the Character Creation section.
+<!-- the bit below needs to be written into the bit above -->
+1. The storyteller should visit the [setting](# setting) to create a setting for the story to take place in. 
+2. Players should visit the [character creation](#character-creation) section.
+3. The storyteller should head over to the [making an adventure](#making-an-adventure) section if they need help with that.
 <!--I think a map, a battlegrid, tokens, and cards might also be helpful depending the other rules I include-->
 ## Character Creation
 <!--as much as i like it i am not going to promote blood in the sand style CC-->
@@ -18,6 +22,8 @@ To start an Adventure you will need a few things. First and most important, your
 Characters need skills, flavor and an action delay to be playable. The first thing a player should do when making a character is take a look at the setting, read through it and review the available options. Players can propose things be added to the setting because they are supposed to have a mild influence upon what exists within the setting.
 
 First fill out the top of your character sheet. In order, the boxes should contain the character's name, the character's concept, the setting's name, your name, and the setting's action delay. A character concept can be thought of as the canonical or stereotypical version of something. The setting's action delay can be found in the upper left corner of the setting template.
+
+<!-- smooth into relevant section --> Characters need skills. Give 'em some. Go to the [skills](#skills) section.
 
 Second, your character needs skills. Skills are used to roll checks which is how a character interacts with the game world. Skills are usually self-descriptively named and have levels. The higher level the skill the better at it a character is.
 There are two kinds of skills. Mandatory skills and the normal kind. Mandatory skills are skills every character _needs_ within the setting. They are listed at the top of the skills section in the setting. Add all of the mandatory skills to your character sheet. The rest of the skills are those that are common within the setting and you can take any of them you can afford. Players can also propose to the storyteller that skills be added to the setting. You pay for your starting skills using character points. Starting character points are listed in the upper left of the setting. Both types of skill cost a number of character points equal to the level you want the skill to start at.
@@ -27,6 +33,14 @@ Example skills: sword fighting, pyromancy, computer hacking, seduction
 ```
 
 Third, your character needs flavor. Flavor is a word or short phrase describing a character. It can include knowledge, possessions, physique, and even social position. Review the starting flavor options listed on the setting. This will almost always give your character a language, clothes, and equipment relevant for the setting. When the setting specifies a type of flavor but not what it is specifically you get to choose something that would fit within the setting. Add your choice of starting flavor to your character sheet. Afterward, add flavor to your character to describe them. Flavor costs one character point per after you have your starting flavor. Flavor is usually just that, flavor, but occasionally it can make checks easier or harder.
+
+Your character needs flavor. Give 'em some. Here is a link to the [flavor](#flavor) section. <!-- smooth into relevant section --> 
+
+### Printable character sheet
+    top: name consept, setting, player action delay
+    left col: level, name, exp, desc
+    right col: flavor type: physique, knowledge, possessions, social, supernatural, wounds
+    flavor/skill type as dividers
 
 ## Checks (How to Play the Game)
 <!-- definition -->
@@ -42,19 +56,22 @@ Third, your character needs flavor. Flavor is a word or short phrase describing 
 ## Skills <!-- incomplete outline-->
 <!-- definition -->
 <!-- examples -->
-<!-- limiting factors -->
-<!-- acquisition (getting new common skills, getting new mandatory skills) -->
+<!-- player made
+    limiting factors -->
+<!-- mandatory -->
+<!-- common -->
+<!-- acquisition
+    no matching skill problem -->
 <!-- progression -->
-<!-- passive skills? perception? -->
 <!-- common skills -->
 <!-- mandatory skills -->
-<!-- rolling using the wrong skills -->
-<!-- taking new skills at random levels or based on the level of another skill -->
 
-## Flavor <!-- incomplete outline -->
+## Flavor
 <!-- definition -->
 <!-- examples -->
-<!-- things (equipment, money, vehicles) -->
+<!-- things (equipment, money, vehicles)
+    from setting: store and black market
+    crafting -->
 <!-- followers -->
 <!-- wounds -->
 <!-- knowledge -->
@@ -63,46 +80,54 @@ Third, your character needs flavor. Flavor is a word or short phrase describing 
 <!-- acquisition -->
 
 ## Combat <!-- incomplete outline -->
-<!-- definition? -->
-<!-- rolling combat -->
-<!-- distance (grid and zones) -->
+<!-- description of process -->
+<!-- starting combat ie. rolling initiative (surprise) -->
 <!-- transitions (stealth and chases) -->
-<!-- grouping NPCs -->
-<!-- wars -->
-<!-- actions (what are they? what can they be used for?) -->
-<!-- action delay -->
-<!-- defensive actions -->
-<!-- items, weapons, and armor -->
-<!-- attacking -->
-<!-- damage, wounds, death -->
-<!-- defensive actions (block, dodge, parry, counterattack, rescue, intercede) -->
-<!-- surprise round -->
+<!-- turns and action delay 
+    description of one turn
+    action economy: reaction, major, minor, full, mental, movement, free, bonus, continuious, teamwork, prepared/held. fukken hell, remove most of these.
+    defensive actions: dodge, block, parry, intervene, counterattack, rescue
+    off-turn actions: ...-->
+<!-- movement and distance
+    zones and AUDs
+    no battle grid, instead image+zone grid=battle map w/ zones
+    -->
+<!-- attacking
+    roll a check for to-hit
+    Flavor effect: items, weapons, armor, wounds, etc.
+    damage, wounds, death -->
+<!-- large scale: wars/double-digit followers-->
+<!-- grouping NPCs for ease of play. Move to storyteller section? -->
 
-## Stealth <!-- incomplete outline -->
+## Stealth/perception <!-- incomplete outline -->
 <!-- hidden -->
 <!-- alerted -->
 <!-- detected -->
+<!-- surprise -->
 
-## Lying <!-- incomplete outline -->
+## Lying/detecting lies <!-- incomplete outline -->
 <!-- suspicious -->
 <!-- fooled -->
 <!-- caught -->
 
+## Persuasion/willpower
+<!-- motivations -->
+<!-- willpower -->
+<!-- should this even be a section? -->
+
 ## Setting <!-- incomplete outline -->
-<!-- definition -->
-<!-- description -->
+<!-- definition (every setting is this) -->
+<!-- description (every setting has one)-->
 <!-- action delay -->
 <!-- character points -->
 <!-- common skills -->
 <!-- mandatory skills -->
-<!-- AUCs, store, black market -->
-<!-- technology -->
-<!-- history -->
-<!-- institutions -->
-<!-- culture -->
-<!-- peoples (contrast them by race, class, ideology, etc.) -->
-<!-- resources -->
-<!-- magic -->
+<!-- spacial scope -->
+<!-- technology/magic -->
+<!-- store, black market, currency, templates w/ price ratios -->
+<!-- social: history, institutions, culture, peoples, cities, countries, government -->
+<!-- physical: geography, biome, flora, fauna, natural resources -->
+<!-- template -->
 
 # Storyteller section <!-- headings++ or make this it's own doc -->
 <!-- story -->
@@ -114,6 +139,13 @@ Third, your character needs flavor. Flavor is a word or short phrase describing 
 <!-- making a setting -->
 <!-- player-made skills from the DM seat -->
 
+***
+***
+***
+***
+***
+***
+***
 
 Definition: a skill is something a character can do and more importantly fail at. casting waterbreathing spell vs breathing under water with gills.
 new skills start at a level equal to the exp spent on them? new skills need to be apporved by dm. new skills can be leveled up with exp with dm approval.
