@@ -43,7 +43,7 @@ Rather than having a few attributes we could have a list of __mandatory skills__
 4. classes/subsection
 
 ## To-Do
-- refine section names
+- refine section names using toc
 	- start defining subsections
 - learn to make tables in MD for character sheet, setting template, adventure template, etc.
 - export as PDF
