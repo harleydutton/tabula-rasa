@@ -96,8 +96,8 @@ Your character needs flavor. Give 'em some. Here is a link to the [flavor](#flav
     roll a check for to-hit
     Flavor effect: items, weapons, armor, wounds, etc.
     damage, wounds, death -->
-<!-- large scale: wars/double-digit followers-->
-<!-- grouping NPCs for ease of play. Move to storyteller section? -->
+<!-- grouping NPCs for ease of play (minions)
+    large scale: wars/double-digit followers-->
 
 ## Stealth/perception <!-- incomplete outline -->
 <!-- hidden -->
@@ -129,15 +129,22 @@ Your character needs flavor. Give 'em some. Here is a link to the [flavor](#flav
 <!-- physical: geography, biome, flora, fauna, natural resources -->
 <!-- template -->
 
-# Storyteller section <!-- headings++ or make this it's own doc -->
-<!-- story -->
-<!-- npcs and how they are ungroupable -->
-<!-- tables? expand settings to include other tables? -->
-<!-- story template? -->
-<!-- resources for creating custom maps -->
-<!-- how-to and resources for quickly creating battlegrids -->
-<!-- making a setting -->
-<!-- player-made skills from the DM seat -->
+## Glossary of Terms
+<!-- storyteller, character, player, NPC, roleplaying, worldbuilding, setting, battlegrid -->
+
+## Storyteller section <!-- headings++ or make this it's own doc -->
+<!-- how to make a setting
+    baseline currency to AUCs to prices ratio
+    add player skills (and how to vet them)
+    fill in th rest of the fields with lore shit i guess -->
+<!-- how to make an adventure
+    with a flowchart/tree template! -->
+<!-- npcs
+    grouping them for combat is a pain. instead create squads.
+    planned NPCs and leveling them.
+    unplanned NPCs -->
+
+
 
 ***
 ***
