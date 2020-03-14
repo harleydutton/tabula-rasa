@@ -37,20 +37,24 @@ At its most basic a gambit is a deal you make with the storyteller. Anyone can p
 Rather than having a few attributes we could have a list of __mandatory skills__ for a setting. Every character would have to take some level in __all__ of these skills.
 
 ## section definition
-1. definitions/description
-2. formula/charts
-3. examples/formula
-4. classes/subsection
+1. definitions
+3. example
+4. subsections
 
 ## To-Do
+- learn to make tables in MD for character sheet, setting template, adventure template, etc.
+	- look for a VSCode plugin
+- add printable character sheet to CC section
+- merge "getting started" with "how to play"?
+- edit "checks" section
 - refine section names using toc
 	- start defining subsections
-- learn to make tables in MD for character sheet, setting template, adventure template, etc.
 - export as PDF
 - spelling and grammar check
 - way to merge multiple markdown files? (feature flag sections)
-- make a legend for formatting choices?
-- make a relates-to graph of topics?
+
+## Legend
+examples of skills and flavor will be `monospace`
 
 ## formatting options
 <!--html style comment-->
@@ -58,9 +62,10 @@ _italics_
 __bold__  
 ___both___  
 ~~strikethrough~~  
-`monospace blocks`  
-
-	indented stuff
+`monospace`  
+```
+monospace blocks
+```
 > block quotes
 >> are nestable  
 ***

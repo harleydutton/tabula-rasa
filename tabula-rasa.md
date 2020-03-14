@@ -15,14 +15,23 @@ The roleplaying system is generic so it will work with any Setting produced by t
     - [Table of Contents](#table-of-contents)
     - [Getting Started](#getting-started)
     - [Character Creation](#character-creation)
-        - [Printable character sheet](#printable-character-sheet)
-    - [Checks](#checks)
+        - [Character Sheet](#character-sheet)
+    - [How to Play](#how-to-play)
+        - [Checks](#checks)
+            - [Difficulty](#difficulty)
+            - [Nested Checks](#nested-checks)
+            - [Progression](#progression)
+            - [Event Die](#event-die)
+            - [Gambits](#gambits)
+            - [Magnitude of Success](#magnitude-of-success)
+            - [Example](#example)
+            - [Contests](#contests)
     - [Skills](#skills)
     - [Flavor](#flavor)
     - [Combat](#combat)
-    - [Stealth/perception](#stealthperception)
-    - [Lying/detecting lies](#lyingdetecting-lies)
-    - [Persuasion/willpower](#persuasionwillpower)
+    - [Stealth and Perception](#stealth-and-perception)
+    - [Lying and Detecting Lies](#lying-and-detecting-lies)
+    - [Persuasion and Willpower](#persuasion-and-willpower)
     - [Setting](#setting)
     - [Glossary of Terms](#glossary-of-terms)
     - [Storyteller section](#storyteller-section)
@@ -93,41 +102,79 @@ To start an Adventure you will need a few things. First and most important, your
 <!--I think a map, a battlegrid, tokens, and cards might also be helpful depending the other rules I include-->
 
 ## Character Creation
-<!--as much as i like it i am not going to promote blood in the sand style CC-->
-<!--there should be a one page printable character sheet somewhere. beginning of CC, end of CC, or in back with other charts, tables, and templates-->
-Characters need skills, flavor and an action delay to be playable. The first thing a player should do when making a character is take a look at the setting, read through it and review the available options. Players can propose things be added to the setting because they are supposed to have a mild influence upon what exists within the setting.
+<!-- I need a link to the setting section.
+    I should to talk about what a character needs to be non-mechanically playable-->
+Characters need skills, flavor and an action delay to be playable. The first thing a player should do when making a character is take a look at the setting, read through it and make sure they understand the world. Players can propose things be added to the setting because they are supposed to have a mild influence upon what exists within the setting.
 
 First fill out the top of your character sheet. In order, the boxes should contain the character's name, the character's concept, the setting's name, your name, and the setting's action delay. A character concept can be thought of as the canonical or stereotypical version of something. The setting's action delay can be found in the upper left corner of the setting template.
 
-<!-- smooth into relevant section --> Characters need skills. Give 'em some. Go to the [skills](#skills) section.
-
-Second, your character needs skills. Skills are used to roll checks which is how a character interacts with the game world. Skills are usually self-descriptively named and have levels. The higher level the skill the better at it a character is.
+Second, your character needs [skills](#skills). Skills are used to roll checks which is how a character interacts with the game world. Skills are usually self-descriptively named and have levels. The higher level the skill the better at it a character is.
 There are two kinds of skills. Mandatory skills and the normal kind. Mandatory skills are skills every character _needs_ within the setting. They are listed at the top of the skills section in the setting. Add all of the mandatory skills to your character sheet. The rest of the skills are those that are common within the setting and you can take any of them you can afford. Players can also propose to the storyteller that skills be added to the setting. You pay for your starting skills using character points. Starting character points are listed in the upper left of the setting. Both types of skill cost a number of character points equal to the level you want the skill to start at.
 ```
 Example mandatory skills: willpower, strength, magic, dexterity, charisma
 Example skills: sword fighting, pyromancy, computer hacking, seduction
 ```
 
-Third, your character needs flavor. Flavor is a word or short phrase describing a character. It can include knowledge, possessions, physique, and even social position. Review the starting flavor options listed on the setting. This will almost always give your character a language, clothes, and equipment relevant for the setting. When the setting specifies a type of flavor but not what it is specifically you get to choose something that would fit within the setting. Add your choice of starting flavor to your character sheet. Afterward, add flavor to your character to describe them. Flavor costs one character point per after you have your starting flavor. Flavor is usually just that, flavor, but occasionally it can make checks easier or harder.
+Third, your character needs [flavor](#flavor). Flavor is a word or short phrase describing a character. It can include knowledge, possessions, physique, and even social position. Review the starting flavor options listed on the setting. This will almost always give your character a language, clothes, and equipment relevant for the setting. When the setting specifies a type of flavor but not what it is specifically you get to choose something that would fit within the setting. Add your choice of starting flavor to your character sheet. Afterward, add flavor to your character to describe them. Flavor costs one character point per after you have your starting flavor. Flavor is usually just that, flavor, but occasionally it can make checks easier or harder.
 
-Your character needs flavor. Give 'em some. Here is a link to the [flavor](#flavor) section. <!-- smooth into relevant section --> 
-
-### Printable character sheet
+### Character Sheet
     top: name consept, setting, player action delay
     left col: level, name, exp, desc
     right col: flavor type: physique, knowledge, possessions, social, supernatural, wounds
     flavor/skill type as dividers
 
-## Checks
-<!-- definition -->
-<!-- formula -->
-<!-- example -->
-<!-- difficulty (modifiers, flavor, nested checks) -->
-<!-- progression -->
-<!-- opposed checks -->
-<!-- event die (good/bad stuff die) -->
-<!-- gambits (called shots and taking 10) -->
-<!-- magnitude of success (damage, crafting, etc.) -->
+## How to Play
+Tabula Rasa is a roleplaying game. For those of you that know what this means please continue to the [Checks](#checks) section. For everyone else, roleplaying is a form of collaborative, improvizational storytelling.
+
+One person, the storyteller, will present a world and a story. The storyteller can use a world, or setting, of their own design or one from popular media. The [setting](#setting) section has more details on what you can expect from this ficticious world. The storyteller is also responsible for giving the world life. They plan out scenes between players, provide the decisions and voice acting for NPCs, and narrate events in the world to drive the story they have planned.
+
+The rest of the people in a roleplaying game are players. Usually, players will create a character for the game. See the [character_creation](#character-creation) section for help with this. Once a player has a character, they will provide voice acting, motivations, and personality for the character in addition to controlling their actions within the fictious realm of the story.
+
+A night of roleplaying usually lasts anywhere from two to six hours and usually includes a variety of scenes. Exhilirating chases, nail-biteing espionage, terrifying battles, grand speeches, descriptions of exotic lands, and of course joking around in and out of character are all hallmarks of good roleplaying.
+
+Most good stories include conflict. This will usually end up being between the the player-characters and either NPCs or some other element in the story. When a conflict arises, resolve it by rolling a skill-check. Please see the [checks](#checks) section for help with this.
+
+### Checks
+When conflict occurs during roleplaying the fairest way to resolve it most times is by rolling a skill-check. A skill-check is where one of a character's skills is tested against some number of dice which represent the difficulty of the task. If the character's skill is greater than or equal to the sum of the dice then the character passes the skill-check. Usually this will also mean that whatever the character was attmepting to accomplish succeeds. If the dice are greater than the character's skill level the action fails and something bad might happen. The number of dice depends on the difficulty of the task. Flavor can influence difficulty.
+
+#### Difficulty
+The difficulty of a skill check can be modified by a number of things. A character's flavor, other characters, and the world itself can all cause a skill-check to become easier or harder. The storyteller decides if any of these things is meaningful enough to make the roll easy or hard.
+```
+easy    |   pass if skill >= 1d6
+normal  |   pass if skill >= 2d6
+hard    |   pass if skill >= 3d6
+harder  |   pass if skill >= 4d6
+etc.    |   pass if skill >= 5d6
+```
+
+#### Nested Checks
+If a character is trying to do two things at once, juggling while doing a backflip for instance, just increase the difficulty. If a player is doing two things that are radically different, that is the apropriate time to make two skill checks. (Doing a backflip and casting a spell)
+
+#### Progression
+To level up a skill you need to pass skill checks with it. Whenever you pass a skill-check with a skill add one to that skill's experience. When the skill's experience is equal to it's level it levels up and the experience resets to zero. You can only level up a skill at level one by making the check easy.
+
+#### Event Die
+The storyteller can introduce the event die whenever they want. Basically when a check is rolled and additional d6 is rolled. If this d6 comes up 1 something bad might happen and if it comes up 6 something good might happen.
+
+#### Gambits
+Gambits are where you make a deal with the storyreller to modify the the difficulty of a check, the pass-effect, and the fail-effect. You might ask for something special to happen on a success in exchange for an increase in difficulty.
+
+#### Magnitude of Success
+If you ever need a magnitude of success for a roll, like damage or crafting, just roll a single d6 and use this chart.
+```
+1 pip   |   0%
+2 pip   |   20%
+3 pip   |   40%
+4 pip   |   60%
+5 pip   |   80%
+6 pip   |   100%
+```
+
+#### Example
+For example lets say John NPC character wants to do a backflip. The first thing John will do is look for a relevant skill on his character sheet. `Acrobatics`, `athletics`, `dexterity`, `phisique` or anything similar will work for this check. Lets say John has an `acrobatics` score of 11. Lets also say John has the flavor `leg wound` from a fight he got into recently. This would make the check hard, so john would be rolling 3d6 against his 11 in `acrobatics`. Lets say John gets a sum of 10 on the dice. This means John was able to successfully do a backflip despite his `leg wound`.
+
+#### Contests
+For contests like arm wrestling, racing, or anything else where two known values are being compared (both character's skill values are known so dice aren't needed) just have each roll a check as normal. Do this until one character fail's a check. If neither character can fail the check the stroyteller decides what happens.
 
 ## Skills 
 <!-- definition -->
@@ -175,18 +222,18 @@ Your character needs flavor. Give 'em some. Here is a link to the [flavor](#flav
 <!-- grouping NPCs for ease of play (minions)
     large scale: wars/double-digit followers-->
 
-## Stealth/perception 
+## Stealth and Perception
 <!-- hidden -->
 <!-- alerted -->
 <!-- detected -->
 <!-- surprise -->
 
-## Lying/detecting lies
+## Lying and Detecting Lies
 <!-- suspicious -->
 <!-- fooled -->
 <!-- caught -->
 
-## Persuasion/willpower
+## Persuasion and Willpower
 <!-- motivations -->
 <!-- willpower -->
 <!-- should this even be a section? -->
