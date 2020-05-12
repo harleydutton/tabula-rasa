@@ -11,105 +11,97 @@ The roleplaying system is generic so it will work with any Setting produced by t
 <!-- TOC -->
 
 - [Tabula Rasa](#tabula-rasa)
-    - [Intro](#intro)
-    - [Table of Contents](#table-of-contents)
-    - [Getting Started](#getting-started)
-    - [Character Creation](#character-creation)
-        - [Character Sheet](#character-sheet)
-    - [How to Play](#how-to-play)
-        - [Checks](#checks)
-            - [Difficulty](#difficulty)
-            - [Nested Checks](#nested-checks)
-            - [Progression](#progression)
-            - [Event Die](#event-die)
-            - [Gambits](#gambits)
-            - [Magnitude of Success](#magnitude-of-success)
-            - [Example](#example)
-            - [Contests](#contests)
-    - [Skills](#skills)
-    - [Flavor](#flavor)
-    - [Combat](#combat)
-    - [Stealth and Perception](#stealth-and-perception)
-    - [Lying and Detecting Lies](#lying-and-detecting-lies)
-    - [Persuasion and Willpower](#persuasion-and-willpower)
-    - [Setting](#setting)
-    - [Glossary of Terms](#glossary-of-terms)
-    - [Storyteller section](#storyteller-section)
+  - [Intro](#intro)
+  - [Table of Contents](#table-of-contents)
+  - [Character Creation](#character-creation)
+    - [Character Sheet](#character-sheet)
+  - [How to Play](#how-to-play)
+    - [Checks](#checks)
+      - [Difficulty](#difficulty)
+      - [Nested Checks](#nested-checks)
+      - [Progression](#progression)
+      - [Event Die](#event-die)
+      - [Gambits](#gambits)
+      - [Magnitude of Success](#magnitude-of-success)
+      - [Example](#example)
+      - [Contests](#contests)
+  - [Skills](#skills)
+    - [Mandatory Skills](#mandatory-skills)
+    - [Progression](#progression-1)
+  - [Flavor](#flavor)
+  - [Combat](#combat)
+  - [Stealth and Perception](#stealth-and-perception)
+  - [Lying and Detecting Lies](#lying-and-detecting-lies)
+  - [Persuasion and Willpower](#persuasion-and-willpower)
+  - [Setting](#setting)
+  - [Glossary of Terms](#glossary-of-terms)
+  - [Storyteller section](#storyteller-section)
+    - [Making a Setting](#making-a-setting)
+      - [Adding player-made skills to a Setting](#adding-player-made-skills-to-a-setting)
+        - [Limiting factors](#limiting-factors)
 - [the end](#the-end)
-    - [slightly after the end](#slightly-after-the-end)
-        - [Stock Skills](#stock-skills)
-        - [limiting factors](#limiting-factors)
-        - [nested checks](#nested-checks)
-        - [related skills](#related-skills)
-        - [skills when attributes are missing](#skills-when-attributes-are-missing)
-        - [Checks](#checks)
-        - [modifiers](#modifiers)
-        - [Critical Success and Failure](#critical-success-and-failure)
-        - [experience and leveling up and new skills and flavor](#experience-and-leveling-up-and-new-skills-and-flavor)
-        - [Contests as checks](#contests-as-checks)
-        - [default skills](#default-skills)
-        - [crafting](#crafting)
-        - [star wars check system](#star-wars-check-system)
-        - [advantages and disadvantages](#advantages-and-disadvantages)
-        - [called shots and stunt points](#called-shots-and-stunt-points)
-        - [problems with previous iterations of "players are allowed to create their own skills"](#problems-with-previous-iterations-of-players-are-allowed-to-create-their-own-skills)
-        - [skill check](#skill-check)
-        - [leveling up](#leveling-up)
-        - [flavor](#flavor)
-        - [equipment](#equipment)
-        - [character progression](#character-progression)
-    - [Combat](#combat)
-        - [Attacking](#attacking)
-        - [combat transitions](#combat-transitions)
-        - [distance](#distance)
-        - [group combat](#group-combat)
-        - [action economy](#action-economy)
-        - [faster and slower characters](#faster-and-slower-characters)
-        - [grouping NPCS](#grouping-npcs)
-        - [Armor](#armor)
-        - [Dodge](#dodge)
-        - [Damage, Wounds, and Death](#damage-wounds-and-death)
-        - [Stealth](#stealth)
-            - [there are some good concepts for stealth here](#there-are-some-good-concepts-for-stealth-here)
-        - [initiative and turn order](#initiative-and-turn-order)
-        - [problem: speed](#problem-speed)
-        - [problem: size -> force](#problem-size---force)
-        - [action price table](#action-price-table)
-        - [counter-attacking](#counter-attacking)
-    - [storytelling](#storytelling)
-        - [creating a story](#creating-a-story)
-        - [creating NPCs](#creating-npcs)
-        - [tables](#tables)
-        - [worldbuilding](#worldbuilding)
-        - [creating maps](#creating-maps)
-        - [money](#money)
-    - [assertions and assumptions](#assertions-and-assumptions)
-        - [assumptions](#assumptions)
-    - [mental (mind control/reading) and social (persuasion) combat](#mental-mind-controlreading-and-social-persuasion-combat)
-        - [parts of roleplaying](#parts-of-roleplaying)
-            - [information in roleplaying](#information-in-roleplaying)
-        - [persuasion, social combat, resisting persusasion etc.](#persuasion-social-combat-resisting-persusasion-etc)
-        - [there should be a "starting the game" or "quick-start" top level section](#there-should-be-a-starting-the-game-or-quick-start-top-level-section)
+  - [slightly after the end](#slightly-after-the-end)
+    - [related skills](#related-skills)
+    - [skills when attributes are missing](#skills-when-attributes-are-missing)
+    - [Checks](#checks-1)
+    - [modifiers](#modifiers)
+    - [Critical Success and Failure](#critical-success-and-failure)
+    - [experience and leveling up and new skills and flavor](#experience-and-leveling-up-and-new-skills-and-flavor)
+    - [Contests as checks](#contests-as-checks)
+    - [default skills](#default-skills)
+    - [crafting](#crafting)
+    - [star wars check system](#star-wars-check-system)
+    - [advantages and disadvantages](#advantages-and-disadvantages)
+    - [called shots and stunt points](#called-shots-and-stunt-points)
+    - [problems with previous iterations of "players are allowed to create their own skills"](#problems-with-previous-iterations-of-%22players-are-allowed-to-create-their-own-skills%22)
+    - [skill check](#skill-check)
+    - [leveling up](#leveling-up)
+    - [flavor](#flavor-1)
+    - [equipment](#equipment)
+    - [character progression](#character-progression)
+  - [Combat](#combat-1)
+    - [Attacking](#attacking)
+    - [combat transitions](#combat-transitions)
+    - [distance](#distance)
+    - [group combat](#group-combat)
+    - [action economy](#action-economy)
+    - [faster and slower characters](#faster-and-slower-characters)
+    - [grouping NPCS](#grouping-npcs)
+    - [Armor](#armor)
+    - [Dodge](#dodge)
+    - [Damage, Wounds, and Death](#damage-wounds-and-death)
+    - [Stealth](#stealth)
+      - [there are some good concepts for stealth here](#there-are-some-good-concepts-for-stealth-here)
+    - [initiative and turn order](#initiative-and-turn-order)
+    - [problem: speed](#problem-speed)
+    - [problem: size -> force](#problem-size---force)
+    - [action price table](#action-price-table)
+    - [counter-attacking](#counter-attacking)
+  - [storytelling](#storytelling)
+    - [creating a story](#creating-a-story)
+    - [creating NPCs](#creating-npcs)
+    - [tables](#tables)
+    - [worldbuilding](#worldbuilding)
+    - [creating maps](#creating-maps)
+    - [money](#money)
+  - [assertions and assumptions](#assertions-and-assumptions)
+    - [assumptions](#assumptions)
+  - [mental (mind control/reading) and social (persuasion) combat](#mental-mind-controlreading-and-social-persuasion-combat)
+    - [parts of roleplaying](#parts-of-roleplaying)
+      - [information in roleplaying](#information-in-roleplaying)
+    - [persuasion, social combat, resisting persusasion etc.](#persuasion-social-combat-resisting-persusasion-etc)
+    - [there should be a "starting the game" or "quick-start" top level section](#there-should-be-a-%22starting-the-game%22-or-%22quick-start%22-top-level-section)
 
 <!-- /TOC -->
 
-## Getting Started
-To start an Adventure you will need a few things. First and most important, your group will need a Setting so they can do character creation. You can use one of the included Settings, find one online, or make your own by filling out the Setting template. Otherwise you need paper, pencils, six-sided dice, and players. A printer and having your adventure planned out are both highly recommended. Once you have these things proceed to the Character Creation section.
-<!-- the bit below needs to be written into the bit above -->
-1. The storyteller should visit the [setting](# setting) to create a setting for the story to take place in. 
-2. Players should visit the [character creation](#character-creation) section.
-3. The storyteller should head over to the [making an adventure](#making-an-adventure) section if they need help with that.
-<!--I think a map, a battlegrid, tokens, and cards might also be helpful depending the other rules I include-->
-
 ## Character Creation
-<!-- I need a link to the setting section.
-    I should to talk about what a character needs to be non-mechanically playable-->
-Characters need skills, flavor and an action delay to be playable. The first thing a player should do when making a character is take a look at the setting, read through it and make sure they understand the world. Players can propose things be added to the setting because they are supposed to have a mild influence upon what exists within the setting.
+Characters need skills, flavor and an action delay to be playable. The first thing a player should do when making a character is take a look at the [setting](#setting), read through it and make sure they understand the world. Players can propose things be added to the setting because they are supposed to have a mild influence upon what exists within the setting.
 
 First fill out the top of your character sheet. In order, the boxes should contain the character's name, the character's concept, the setting's name, your name, and the setting's action delay. A character concept can be thought of as the canonical or stereotypical version of something. The setting's action delay can be found in the upper left corner of the setting template.
 
 Second, your character needs [skills](#skills). Skills are used to roll checks which is how a character interacts with the game world. Skills are usually self-descriptively named and have levels. The higher level the skill the better at it a character is.
-There are two kinds of skills. Mandatory skills and the normal kind. Mandatory skills are skills every character _needs_ within the setting. They are listed at the top of the skills section in the setting. Add all of the mandatory skills to your character sheet. The rest of the skills are those that are common within the setting and you can take any of them you can afford. Players can also propose to the storyteller that skills be added to the setting. You pay for your starting skills using character points. Starting character points are listed in the upper left of the setting. Both types of skill cost a number of character points equal to the level you want the skill to start at.
+There are two kinds of skills. Mandatory skills and the normal kind. Mandatory skills are skills every character _needs_ within the setting. They are listed at the top of the skills section in the setting. Add all of the mandatory skills to your character sheet. The rest of the skills are those that are common within the setting and you can take any of them you can afford. Players can also propose to the storyteller that skills be added to the setting. You pay for your starting skills using character points. Starting character points are listed in the upper left of the setting. Skills cost a number of character points equal to the level you want the skill to start at.
+
 ```
 Example mandatory skills: willpower, strength, magic, dexterity, charisma
 Example skills: sword fighting, pyromancy, computer hacking, seduction
@@ -118,15 +110,23 @@ Example skills: sword fighting, pyromancy, computer hacking, seduction
 Third, your character needs [flavor](#flavor). Flavor is a word or short phrase describing a character. It can include knowledge, possessions, physique, and even social position. Review the starting flavor options listed on the setting. This will almost always give your character a language, clothes, and equipment relevant for the setting. When the setting specifies a type of flavor but not what it is specifically you get to choose something that would fit within the setting. Add your choice of starting flavor to your character sheet. Afterward, add flavor to your character to describe them. Flavor costs one character point per after you have your starting flavor. Flavor is usually just that, flavor, but occasionally it can make checks easier or harder.
 
 ### Character Sheet
-    top: name consept, setting, player action delay
-    left col: level, name, exp, desc
-    right col: flavor type: physique, knowledge, possessions, social, supernatural, wounds
-    flavor/skill type as dividers
+| Character | Concept | Setting | Player | Action Delay |
+| --------- | ------- | ------- | ------ | ------------ |
+|           |         |         |        | 10           |
+| Skills    |         |         | Flavor |              |
+
+| level | name | exp | desc |
+| ----- | ---- | --- | ---- |
+| 1     |      |     |      |
+| 1     |      |     |      |
+| 1     |      |     |      |
+| 1     |      |     |      |
+| 1     |      |     |      |
 
 ## How to Play
-Tabula Rasa is a roleplaying game. For those of you that know what this means please continue to the [Checks](#checks) section. For everyone else, roleplaying is a form of collaborative, improvizational storytelling.
+Tabula Rasa is a roleplaying game. Experienced roleplayers can now proceed to the [Checks](#checks) section. For everyone else, roleplaying is a form of collaborative, improvizational storytelling.
 
-One person, the storyteller, will present a world and a story. The storyteller can use a world, or setting, of their own design or one from popular media. The [setting](#setting) section has more details on what you can expect from this ficticious world. The storyteller is also responsible for giving the world life. They plan out scenes between players, provide the decisions and voice acting for NPCs, and narrate events in the world to drive the story they have planned.
+One person, the storyteller, will present a world and a story. The storyteller can use a world, or setting, of their own design or one from popular media. The [setting](#setting) section has more details on what you can expect from this ficticious world. The storyteller is also responsible for giving the world life. They plan out scenes between players and NPCs, provide the decisions and voice acting for NPCs, and narrate events in the world to drive the story they have planned.
 
 The rest of the people in a roleplaying game are players. Usually, players will create a character for the game. See the [character_creation](#character-creation) section for help with this. Once a player has a character, they will provide voice acting, motivations, and personality for the character in addition to controlling their actions within the fictious realm of the story.
 
@@ -139,13 +139,13 @@ When conflict occurs during roleplaying the fairest way to resolve it most times
 
 #### Difficulty
 The difficulty of a skill check can be modified by a number of things. A character's flavor, other characters, and the world itself can all cause a skill-check to become easier or harder. The storyteller decides if any of these things is meaningful enough to make the roll easy or hard.
-```
-easy    |   pass if skill >= 1d6
-normal  |   pass if skill >= 2d6
-hard    |   pass if skill >= 3d6
-harder  |   pass if skill >= 4d6
-etc.    |   pass if skill >= 5d6
-```
+| subjective difficulty | dice representation  |
+| --------------------- | -------------------- |
+| easy                  | pass if skill >= 1d6 |
+| normal                | pass if skill >= 2d6 |
+| hard                  | pass if skill >= 3d6 |
+| harder                | pass if skill >= 4d6 |
+| etc.                  | pass if skill >= 5d6 |
 
 #### Nested Checks
 If a character is trying to do two things at once, juggling while doing a backflip for instance, just increase the difficulty. If a player is doing two things that are radically different, that is the apropriate time to make two skill checks. (Doing a backflip and casting a spell)
@@ -160,32 +160,41 @@ The storyteller can introduce the event die whenever they want. Basically when a
 Gambits are where you make a deal with the storyreller to modify the the difficulty of a check, the pass-effect, and the fail-effect. You might ask for something special to happen on a success in exchange for an increase in difficulty.
 
 #### Magnitude of Success
+
 If you ever need a magnitude of success for a roll, like damage or crafting, just roll a single d6 and use this chart.
-```
-1 pip   |   0%
-2 pip   |   20%
-3 pip   |   40%
-4 pip   |   60%
-5 pip   |   80%
-6 pip   |   100%
-```
+
+| Die result | Magnitude of success |
+| :--------: | :------------------: |
+|   6 pip    |         100%         |
+|   5 pip    |         80%          |
+|   4 pip    |         60%          |
+|   3 pip    |         40%          |
+|   2 pip    |         20%          |
+|   1 pip    |          0%          |
+
+
 
 #### Example
-For example lets say John NPC character wants to do a backflip. The first thing John will do is look for a relevant skill on his character sheet. `Acrobatics`, `athletics`, `dexterity`, `phisique` or anything similar will work for this check. Lets say John has an `acrobatics` score of 11. Lets also say John has the flavor `leg wound` from a fight he got into recently. This would make the check hard, so john would be rolling 3d6 against his 11 in `acrobatics`. Lets say John gets a sum of 10 on the dice. This means John was able to successfully do a backflip despite his `leg wound`.
+<!-- this should be right after the description probably? -->
+For example lets say John, the NPC character wants to do a backflip. The first thing John will do is look for a relevant skill on his character sheet. `Acrobatics`, `athletics`, `dexterity`, `phisique` or anything similar will work for this check. Lets say John has an `acrobatics` score of 11. Lets also say John has the flavor `leg wound` from a fight he got into recently. This would make the check hard, so john would be rolling 3d6 against his 11 in `acrobatics`. Lets say John gets a sum of 10 on the dice. This means John was able to successfully do a backflip despite his `leg wound`.
 
 #### Contests
 For contests like arm wrestling, racing, or anything else where two known values are being compared (both character's skill values are known so dice aren't needed) just have each roll a check as normal. Do this until one character fail's a check. If neither character can fail the check the stroyteller decides what happens.
 
 ## Skills 
-<!-- definition -->
+Each character has a list of skills representing the actions they can take in the story. Skills do have to be things that a character can *do* which also means they have to be able to fail as well. The setting will have a comprehensive list of skills available in the setting.
 <!-- examples -->
 <!-- player made
     limiting factors -->
-<!-- mandatory -->
+
+### Mandatory Skills
+All characters should have the ability to attack, defend, move, hide, see, lie, detect lies, persuade, resist persuasion, etc. The list of mandatory skills on the setting should represent these potential actions. All characters must have all mandatory skills for their setting.
 <!-- common -->
 <!-- acquisition
     no matching skill problem -->
-<!-- progression -->
+
+### Progression
+Skills level up once they have been used a number of times equal to their level. For example, to level up a level 7 `sword-fighting` a player would need to succeed at 7 `sword-fighting` checks. This usually means this will require over 7 attempts because failures do not earn exp. Mark successes next to the skill on your character sheet. 
 <!-- common skills -->
 <!-- mandatory skills -->
 
@@ -256,9 +265,16 @@ For contests like arm wrestling, racing, or anything else where two known values
 <!-- storyteller, character, player, NPC, roleplaying, worldbuilding, setting, battlegrid -->
 
 ## Storyteller section 
-<!-- how to make a setting
+
+### Making a Setting
+
+#### Adding player-made skills to a Setting
+Probably the coolest part of this system is that it allows players to make their own skills. This requires co-operation from you, the storyteller. Your job is to vet and occasionally veto skills players have proposed as additions to the setting. Rather than a veto however you can put some [limiting factors](#limiting-factors) on a skill to make it less disruptive.
+
+##### Limiting factors
+To limit a how disruptive a skill can be to your story a few things are necessary. Firstly, make it clear to the players that while their character *might* be the first character to have a skill they will probably not be the only character to have this skill. Next adding a cooldown, timing restriction, or cost to a skill can go a long way to making the skill less disruptive. You will have to come up with your own rules regarding this. Keep in mind they should be short and simple.
+<!--
     baseline currency to AUCs to prices ratio
-    add player skills (and how to vet them)
     fill in th rest of the fields with lore shit i guess -->
 <!-- how to make an adventure
     with a flowchart/tree template! -->
@@ -281,22 +297,6 @@ some more shit
 ***
 ***
 
-Definition: a skill is something a character can do and more importantly fail at. casting waterbreathing spell vs breathing under water with gills.
-new skills start at a level equal to the exp spent on them? new skills need to be apporved by dm. new skills can be leveled up with exp with dm approval.
-skills level up once they have been used a number of times equal to their level? when they accumulate succeses and fails equal to level? just one of those?
-Skills the players make need to have descriptive names. You should be able to tell what a skill does by reading the name and maybe the description.
-A good heuristic for skills might be that they end in "ing" or "ation". Figure out what parts of speech/tense these are.
-
-### Stock Skills
-All characters should have the ability to attack, defend, move, hide, see, lie, detect lies, persuade, resist persuasion and much more.
-Skills are all made up and characters should be able to do each of these things with their skills. probably more things too. Settings should include a list of stock/common skills. PC-made skills need tohave descriptive names. Other (stock/common) skills should have standardized names for DM sanity.
-
-### limiting factors
-at one point i recommended having the DM nerf skills while they were being made. give them a mana cost, or a cooldown, or make them take a long time or whatever to help balance them. this is a good time to say that skills should have a type of action associated with them (major, minor, reaction, etc.) and this should be determined at skill creation.
-most of the time limiting factors will need to come out for "magic" skills. a cooldown (recharges on 5 or 6 of 1d6 OR one use per day OR mana), a range restriction (you have to touch them OR be able to see them OR something), or a speed restriction (ritual magic that takes anywhere from a few minutes to a few days and cannot be done in combat).
-
-### nested checks
-nested checks provide an additional layer of realism but they also dramatically increase the character's likelihood to fail the check. 
 
 ### related skills
 if you are good with a poleaxe/polehammer it stands to reason you wouldn't suck with a spear or some other polearm. that being said if your skill is named "polehammering" or some this it wont work with a spear. i think there are a few reasonable solutions.

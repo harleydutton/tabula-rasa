@@ -21,6 +21,16 @@ The roleplaying system is generic so it will work with any Setting produced by t
 - dry using links; otherwise printable
 - avoid charts/tables
 
+| In Scope           | Out of Scope             |
+| ------------------ | ------------------------ |
+| character creation | story/adventure template |
+| rolling checks     | how to roleplay          |
+| settings           | source material          |
+| combat mechanics   |                          |
+| setting creation   |                          |
+|                    |                          |
+|                    |                          |
+
 ## Design Options
 <!--Use feature branches and a little merging to turn these on and off for various releases.-->
 ### Non-numeric combat
@@ -42,16 +52,14 @@ Rather than having a few attributes we could have a list of __mandatory skills__
 4. subsections
 
 ## To-Do
-- learn to make tables in MD for character sheet, setting template, adventure template, etc.
-	- look for a VSCode plugin
-- add printable character sheet to CC section
-- merge "getting started" with "how to play"?
+- start at 'the end' and merge old sections into outline
 - edit "checks" section
 - refine section names using toc
 	- start defining subsections
 - export as PDF
 - spelling and grammar check
 - way to merge multiple markdown files? (feature flag sections)
+- upgrade the character sheet in the CC section
 
 ## Legend
 examples of skills and flavor will be `monospace`
