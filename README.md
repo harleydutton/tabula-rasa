@@ -26,7 +26,7 @@ The roleplaying system is generic so it will work with any Setting produced by t
 | character creation | story/adventure template |
 | rolling checks     | how to roleplay          |
 | settings           | source material          |
-| combat mechanics   |                          |
+| combat mechanics   | forming the PC party     |
 | setting creation   |                          |
 |                    |                          |
 |                    |                          |

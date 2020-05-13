@@ -30,17 +30,24 @@ The roleplaying system is generic so it will work with any Setting produced by t
     - [Progression](#progression-1)
     - [Contests as checks](#contests-as-checks)
   - [Flavor](#flavor)
+    - [money](#money)
+      - [Money2](#money2)
   - [Combat](#combat)
     - [Transitions](#transitions)
     - [Turns](#turns)
       - [Actions](#actions)
+        - [Attacking](#attacking)
+        - [advantages and disadvantages](#advantages-and-disadvantages)
     - [Movement, Distance, and Zones](#movement-distance-and-zones)
-    - [Attacking](#attacking)
       - [Armor and Weapons](#armor-and-weapons)
       - [Damage, Wounds, and Death](#damage-wounds-and-death)
+        - [Damage and Wounds](#damage-and-wounds)
+        - [Death](#death)
   - [Stealth and Perception](#stealth-and-perception)
+      - [information in roleplaying](#information-in-roleplaying)
   - [Lying and Detecting Lies](#lying-and-detecting-lies)
   - [Persuasion and Willpower](#persuasion-and-willpower)
+    - [Willpower](#willpower)
   - [Setting](#setting)
   - [Glossary of Terms](#glossary-of-terms)
   - [Storyteller section](#storyteller-section)
@@ -51,18 +58,7 @@ The roleplaying system is generic so it will work with any Setting produced by t
     - [NPCs](#npcs)
       - [Planned NPCs](#planned-npcs)
       - [Unplanned NPCs](#unplanned-npcs)
-- [the end](#the-end)
-  - [slightly after the end](#slightly-after-the-end)
-    - [advantages and disadvantages](#advantages-and-disadvantages)
-    - [grouping NPCS](#grouping-npcs)
-    - [money](#money)
-    - [Money2](#money2)
-      - [Death](#death)
-  - [mental (mind control/reading) and social (persuasion) combat](#mental-mind-controlreading-and-social-persuasion-combat)
-    - [parts of roleplaying](#parts-of-roleplaying)
-      - [information in roleplaying](#information-in-roleplaying)
-    - [persuasion, social combat, resisting persusasion etc.](#persuasion-social-combat-resisting-persusasion-etc)
-    - [there should be a "starting the game" or "quick-start" top level section](#there-should-be-a-%22starting-the-game%22-or-%22quick-start%22-top-level-section)
+      - [grouping NPCS](#grouping-npcs)
 
 <!-- /TOC -->
 
@@ -179,6 +175,13 @@ Each participant in the contest rolls. Anyone who fails is eliminated/loses. If 
 <!-- things (equipment, money, vehicles)
     from setting: store and black market
     crafting -->
+
+### money
+I am thinking i want to have a chart somewhere that handles things like store prices and loot by asking the dm to define one unit of currency and then derive all the prices in their world based on some percentage or multiple of this. this would also give the DM a good time to think about what things are available or not and what things are scarce or plentiful and adjust prices and availability accordingly. Talk about money in the doc as AUCs (arbitrary units of currency). really I think this should be a part of the "settings" section.
+If i decide to give items a level/numeric value it would make sense to have them be orders of magnitude more and less expensive based on those numbers.
+
+#### Money2
+I would like to handle money the way stefan handled it in "What Stars!". The way he did this was by having VTM style resource backgrounds with some minor mods. Each background gives you either a major purchase or three minor purchases. they regenerate based on story stuff. major and minor purchases can purchase things like that. Minor purchases might be a night at an inn or a meal at a restaurant. Major purchases would be things like weapons and armor and jewelery and horses and spaceships and shit. Some things might cost multiple major purchases. Trivial purchases should be day-to-day expenses like food.
 <!-- followers -->
 <!-- wounds -->
 <!-- knowledge -->
@@ -198,6 +201,13 @@ Character get turns in combat based on their action delay. Effectively a charact
 
 #### Actions
 At the start of their turn a characters actions refresh. Actions include a major action, a move action, and a reaction. A move action can be moved for moving and occasionally for dodging when combined with a reaction. A reaction can be spent to hold your action. An action can be used for pretty much everything. A reaction can be used to make a dodge or block check. Major actions are usually used for attacking or interacting in combat. A major action can be used with a reaction to launch a counterattack. Lots of things are free actions: Talking and directing minions is a good example of this. Doing a defensive action for another player costs a reaction and a major action. Whenever you use you reaction you get to take a defensive action as long as it makes sense. Whenever you want to use a move or major action and it is not your tick of initiative it will cost your reaction.
+
+##### Attacking
+Attacking costs an action. To attack a character describe how you want to do that and the storyteller will tell you how hard that will be either before or possibly after the roll if that is hidden information--no take-backsies. The difference between what flavor you use to make the attack and what flavor the defender uses to defend from it determines the subjective difficulty of this roll. Make the roll. Each success lets you inflict one piece of flavor on the defender correlated with the attack you made. If you are attacking with a sword you can do "sword damage" as flavor which might look like impaling, hamstringing, or severing limbs. The storyteller can assign lethal damage to NPCs to speed up combat. Players cannot assign lethal damage.
+
+##### advantages and disadvantages
+As an action character may attempt to create an advantage for themselves or a disadvantage for another character. If the action succeeds whomever is controlling the character gets to describe the advantage they create. If the storyteller finds it reasonable it happens. If not, don’t waste time arguing, just move on.
+An advantage can also take the form of having to roll fewer dice on a skill check in the future, extra damage dice on an attack roll, or a bonus to initiative. Inversely an advantage might mean that the character’s opponents have to roll more dice on skill checks, get fewer dice on their damage rolls, or lose initiative.
 <!-- add some subsections:
 major actions
   attacks
@@ -211,14 +221,23 @@ reactions
 ### Movement, Distance, and Zones
 Rather than using a traditional grid I would recommend forming zones for your combat scene. If you want to use an image as a map you can either subdivide the sections of the map into large sections or overlay a large grid on the image to form zones. If you are simply describing a map you can just describe the zones. Each movement action will allow a player to change zones. There are no meaningful units of distance in this system. Use your brain if something that requires distance comes up.
 
-### Attacking
-Attacking costs an action. To attack a character describe how you want to do that and the storyteller will tell you how hard that will be either before or possibly after the roll if that is hidden information--no take-backsies. The difference between what flavor you use to make the attack and what flavor the defender uses to defend from it determines the subjective difficulty of this roll. Make the roll. Each success lets you inflict one piece of flavor on the defender correlated with the attack you made. If you are attacking with a sword you can do "sword damage" as flavor which might look like impaling, hamstringing, or severing limbs. The storyteller can assign lethal damage to NPCs to speed up combat. Players cannot assign lethal damage.
 
 #### Armor and Weapons
 Armor and weapons porvide no statistical bonuses. Weapons are used to determine the types of bad flavor an attacker can inflict on a defender. Both are used to determine the subjective difficulty of attack rolls. Attacking an armored knight with a sword is hard but attacking him with a lightsaber is easy. If it were sword vs leather armor it would probably be a normal roll.
 
 #### Damage, Wounds, and Death
 Whenever a character rolls successes on anundefended attack action they deal damage. In Tabula, damage is dealt in the form of bad flavor. Players cannot give NPCs immediately lethal flavor and the storyteller cannot give the players immediately lethal flavor unless both parties agree. If wounds (bad flavor from combat) would make a character's ability to move non-trivial, that character is downed. If a character's ability to perform actions ever becomes impossible that character is either unconsions or incapacitated and possibly dead. If a character is ever incapacitated, downed, or unconsion they are likely at risk of being killed by a coup de gras. For all of these things make "does this make sense" checks.
+
+##### Damage and Wounds
+I think it might work to have a CC/damage point buy system that allows any attack to deal those effects as long as it makes sense.
+```
+CC store: temporary CC, until cleansed CC, encounter-long CC, permanent CC, unconsious
+Damage store: minor asthetic wounds, wounds that contribute to making rolls harder, ???, death.
+perhaps make it a mix and match style effect: permanent//temporary, difficulty increaser or no, action disabler or no, etc.
+```
+
+##### Death
+allow everyone to attempt killshots. Have plot armor automatically downgrade this unless the character is downed/incapacitated/unconsious.
 <!-- roll a check for to-hit
     Flavor effect: items, weapons, armor, wounds, etc.
     damage, wounds, death -->
@@ -226,6 +245,17 @@ Whenever a character rolls successes on anundefended attack action they deal dam
     large scale: wars/double-digit followers-->
 
 ## Stealth and Perception
+
+#### information in roleplaying
+there are a few kinds of info: info freely given to the players by the DM so they can play the game, info the DM hasn't thought about explicitly, and info the DM has thought about that must be earned with a check, and meta info like "that character got a name and a description: must be important".
+stealth and lying are both methods characters use to conceal information from other characters.
+Should we talk about passive perception values and whatnot? yeah that is a relevant discussion for attributes.
+Notably, I classify “lying” as an information hiding skill, similar to “sneaking”, rather than as a persuasion skill.
+this is all relevant for determining what rolls mean.
+lying: first off you can't detect lying. you can detect if someone is uncomfortable or nervous or whatever and this can tip you off. flesh this bit out while reading Joe Navarro's body language manual. lying definitely cannot be used to convince another character of something but it can be used to convince them that you believe that thing. if you say the sky is red they wont believe you because they can just look up but if you are convincing they might believe you believe that. convincing someone of something that is false is a good time for a nested roll actually. one for the lie. one for the convincing.
+i suppose there should be a lying differentiation section. if a character is lying to hide information that information it will be treated much like stealth. if you are attempting to convince a character of something that isn't true then just do a persuasion check modified by the plausibility of the lie. 
+stealth: i am basing this bit on stealth games i have played. if you fail a stealth check you arent detected (except maybe on a crit). instead you do something that puts the "seekers" on alert and they start looking for you. if they pass their relevant observation checks THEN you get detected. If you pass your stealth check and the seekers start looking for you anyway then you can be detected if you are detectable. IF you are undetectable you cannot be detected but you can alert the seekers that you are there.
+perception: if you go looking for something and you pass the check you find it IF it is there. if you fail the check you get no information either way. you just can't tell. this goes for spot checks, detecting intention in social situations, and searching for something.
 <!-- hidden -->
 <!-- alerted -->
 <!-- detected -->
@@ -238,7 +268,10 @@ Whenever a character rolls successes on anundefended attack action they deal dam
 
 ## Persuasion and Willpower
 <!-- motivations -->
-<!-- willpower -->
+
+### Willpower
+You can only defend if you know you are being attacked. if we have attributes all characters get a check against persuasion. otherwise they don't unless they have a relevant skill. Mandatory skills make this a lot better. Everyone has to have the `willpower` skill perhaps?
+this is a good time to mention that when you try to convince a character of something they dont _have_ to be convinced. instead they can thing about it a bit and roll some relevant "resist persuasion" rolls which probably uses __willpower__.
 <!-- should this even be a section? -->
 
 ## Setting
@@ -312,83 +345,8 @@ same as PCs but don't spend ALL of their exp immediately. allow them to fudge th
 #### Unplanned NPCs
 I recommend rolling dice to determine skill levels and then standardizing the character's stats with the parties CP later.
 
-
-# the end
-some shit
-
-## slightly after the end
-some more shit 
-
-### advantages and disadvantages
-<!-- is this just a normal check? I think it is...-->
-As an action character may attempt to create an advantage for themselves or a disadvantage for another character. If the action succeeds whomever is controlling the character gets to describe the advantage they create. If the storyteller finds it reasonable it happens. If not, don’t waste time arguing, just move on.
-An advantage can also take the form of having to roll fewer dice on a skill check in the future, extra damage dice on an attack roll, or a bonus to initiative. Inversely an advantage might mean that the character’s opponents have to roll more dice on skill checks, get fewer dice on their damage rolls, or lose initiative.
-
-<!--maybe make a section for common problems and solutions with this system.-->
-
-### grouping NPCS
+#### grouping NPCS
+possibly include a mirror version of this system for the combat section
 provide some simple method of grouping NPCs in combat
 This will probably also end up being the mechanic for co-op actions, assisted rolls, etc. Flavor damage will probably be spread out.
-
-### money
-I am thinking i want to have a chart somewhere that handles things like store prices and loot by asking the dm to define one unit of currency and then derive all the prices in their world based on some percentage or multiple of this. this would also give the DM a good time to think about what things are available or not and what things are scarce or plentiful and adjust prices and availability accordingly. Talk about money in the doc as AUCs (arbitrary units of currency). really I think this should be a part of the "settings" section.
-If i decide to give items a level/numeric value it would make sense to have them be orders of magnitude more and less expensive based on those numbers.
-
-### Money2
-I would like to handle money the way stefan handled it in "What Stars!". The way he did this was by having VTM style resource backgrounds with some minor mods. Each background gives you either a major purchase or three minor purchases. they regenerate based on story stuff. major and minor purchases can purchase things like that. Minor purchases might be a night at an inn or a meal at a restaurant. Major purchases would be things like weapons and armor and jewelery and horses and spaceships and shit. Some things might cost multiple major purchases. Trivial purchases should be day-to-day expenses like food.
-
-
-***
-***
-***
-***
-***
-***
-***
-
-
-
-
-
-
-#### Death
-allow everyone to attempt killshots. Have plot armor automatically downgrade this unless the character is downed/incapacitated/unconsious.
-
-
-## mental (mind control/reading) and social (persuasion) combat
-you can only defend if you know you are being attacked. if we have attributes all characters get a check against persuasion. otherwise they don't unless they have a relevant skill.
-
-### parts of roleplaying
-combat, stealth, conversation, chases, crafting, using skills... uuh. this section seems like it is going to violate the "don't make your own content rule" of the design doc
-
-#### information in roleplaying
-there are a few kinds of info: info freely given to the players by the DM so they can play the game, info the DM hasn't thought about explicitly, and info the DM has thought about that must be earned with a check, and meta info like "that character got a name and a description: must be important".
-stealth and lying are both methods characters use to conceal information from other characters.
-Should we talk about passive perception values and whatnot? yeah that is a relevant discussion for attributes.
-Notably, I classify “lying” as an information hiding skill, similar to “sneaking”, rather than as a persuasion skill.
-this is all relevant for determining what rolls mean.
-lying: first off you can't detect lying. you can detect if someone is uncomfortable or nervous or whatever and this can tip you off. flesh this bit out while reading Joe Navarro's body language manual. lying definitely cannot be used to convince another character of something but it can be used to convince them that you believe that thing. if you say the sky is red they wont believe you because they can just look up but if you are convincing they might believe you believe that. convincing someone of something that is false is a good time for a nested roll actually. one for the lie. one for the convincing.
-i suppose there should be a lying differentiation section. if a character is lying to hide information that information it will be treated much like stealth. if you are attempting to convince a character of something that isn't true then just do a persuasion check modified by the plausibility of the lie. 
-stealth: i am basing this bit on stealth games i have played. if you fail a stealth check you arent detected (except maybe on a crit). instead you do something that puts the "seekers" on alert and they start looking for you. if they pass their relevant observation checks THEN you get detected. If you pass your stealth check and the seekers start looking for you anyway then you can be detected if you are detectable. IF you are undetectable you cannot be detected but you can alert the seekers that you are there.
-perception: if you go looking for something and you pass the check you find it IF it is there. if you fail the check you get no information either way. you just can't tell. this goes for spot checks, detecting intention in social situations, and searching for something.
-
-
-### persuasion, social combat, resisting persusasion etc.
-this is a good time to mention that when you try to convince a character of something they dont _have_ to be convinced. instead they can thing about it a bit and roll some relevant "resist persuasion" rolls which probably uses __willpower__.
-
-### there should be a "starting the game" or "quick-start" top level section
-character creation, group formation, and having the storyteller describe the setting to the players for the player visible stuff. creating the setting and a story arc or two for the storyteller
-
-
-
-
-
-
-
-
-
-
-
-
-
 
