@@ -51,7 +51,10 @@ THE RELATED SKILLS PROBLEM: how do you take new skills or make new characters in
 
 THE CRAFTING PROBLEM: Either items have numbers (NO) or magnitude of success has no bearing on the item being created. This is okay if the player creating the item is specific about what they want and this modifies the difficulty.
 
-THE WOUNDS AND DEATH PROBLEM: If we are saying MoS on attack rolls means you get to inflict bad flavor when does a character die? When they have a certain number of bad flavors? Who determines what flavor can be added to a character? Perhaps we should just have health? How do you determine when a character has accumulated enough flavor that they are unconsious or dead? This can probably be solved by saying "no giving immediately lethal flavor", "unconsious/downed characters can be coup de gra'ed", and adding a subjective system for when a character has a shit-pile of wounds they should probably go down. Not having source material makes combat messy...
+THE WOUNDS AND DEATH PROBLEM: If we are saying MoS on attack rolls means you get to inflict bad flavor when does a character die? When they have a certain number of bad flavors? Who determines what flavor can be added to a character? Perhaps we should just have health? How do you determine when a character has accumulated enough flavor that they are unconsious or dead? This can probably be solved by saying "no giving immediately lethal flavor", "unconsious/downed characters can be coup de gra'ed", and adding a subjective system for when a character has a shit-pile of wounds they should probably go down. Not having source material makes combat messy... When moving is non-trivial (on the trivial, easy, normal, hard, impossible subjective check difficulty scale) a character is downed. When attacking is impossible a character can be considered impotent and initiative can be dropped.
+
+ELDER SCROLLS LEVELING DOWNTIME: you can easily experience whore unless the DM goes outside the system to stop it. this is bad.
+
 
 ## section definition
 1. definitions
@@ -59,6 +62,7 @@ THE WOUNDS AND DEATH PROBLEM: If we are saying MoS on attack rolls means you get
 4. subsections
 
 ## To-Do
+- learn how to imbbed images in markdown
 - start at 'the end' and merge old sections into outline
 - edit "checks" section
 - refine section names using toc

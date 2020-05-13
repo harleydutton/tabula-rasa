@@ -31,6 +31,13 @@ The roleplaying system is generic so it will work with any Setting produced by t
     - [Contests as checks](#contests-as-checks)
   - [Flavor](#flavor)
   - [Combat](#combat)
+    - [Transitions](#transitions)
+    - [Turns](#turns)
+      - [Actions](#actions)
+    - [Movement, Distance, and Zones](#movement-distance-and-zones)
+    - [Attacking](#attacking)
+      - [Armor and Weapons](#armor-and-weapons)
+      - [Damage, Wounds, and Death](#damage-wounds-and-death)
   - [Stealth and Perception](#stealth-and-perception)
   - [Lying and Detecting Lies](#lying-and-detecting-lies)
   - [Persuasion and Willpower](#persuasion-and-willpower)
@@ -41,39 +48,16 @@ The roleplaying system is generic so it will work with any Setting produced by t
       - [Adding player-made skills to a Setting](#adding-player-made-skills-to-a-setting)
         - [problems with previous iterations of "players are allowed to create their own skills"](#problems-with-previous-iterations-of-%22players-are-allowed-to-create-their-own-skills%22)
         - [Limiting factors](#limiting-factors)
+    - [NPCs](#npcs)
+      - [Planned NPCs](#planned-npcs)
+      - [Unplanned NPCs](#unplanned-npcs)
 - [the end](#the-end)
   - [slightly after the end](#slightly-after-the-end)
     - [advantages and disadvantages](#advantages-and-disadvantages)
-    - [flavor](#flavor-1)
-    - [equipment](#equipment)
-    - [character progression](#character-progression)
-  - [Combat](#combat-1)
-    - [Attacking](#attacking)
-    - [combat transitions](#combat-transitions)
-    - [distance](#distance)
-    - [group combat](#group-combat)
-    - [action economy](#action-economy)
-    - [faster and slower characters](#faster-and-slower-characters)
     - [grouping NPCS](#grouping-npcs)
-    - [Armor](#armor)
-    - [Dodge](#dodge)
-    - [Damage, Wounds, and Death](#damage-wounds-and-death)
-    - [Stealth](#stealth)
-      - [there are some good concepts for stealth here](#there-are-some-good-concepts-for-stealth-here)
-    - [initiative and turn order](#initiative-and-turn-order)
-    - [problem: speed](#problem-speed)
-    - [problem: size -> force](#problem-size---force)
-    - [action price table](#action-price-table)
-    - [counter-attacking](#counter-attacking)
-  - [storytelling](#storytelling)
-    - [creating a story](#creating-a-story)
-    - [creating NPCs](#creating-npcs)
-    - [tables](#tables)
-    - [worldbuilding](#worldbuilding)
-    - [creating maps](#creating-maps)
     - [money](#money)
-  - [assertions and assumptions](#assertions-and-assumptions)
-    - [assumptions](#assumptions)
+    - [Money2](#money2)
+      - [Death](#death)
   - [mental (mind control/reading) and social (persuasion) combat](#mental-mind-controlreading-and-social-persuasion-combat)
     - [parts of roleplaying](#parts-of-roleplaying)
       - [information in roleplaying](#information-in-roleplaying)
@@ -205,18 +189,37 @@ Each participant in the contest rolls. Anyone who fails is eliminated/loses. If 
 ## Combat 
 <!-- description of process -->
 <!-- starting combat ie. rolling initiative (surprise) -->
-<!-- transitions (stealth and chases) -->
-<!-- turns and action delay 
-    description of one turn
-    action economy: reaction, major, minor, full, mental, movement, free, bonus, continuious, teamwork, prepared/held. fukken hell, remove most of these.
-    defensive actions: dodge, block, parry, intervene, counterattack, rescue
-    off-turn actions: ...-->
-<!-- movement and distance
-    zones and AUDs
-    no battle grid, instead image+zone grid=battle map w/ zones
-    -->
-<!-- attacking
-    roll a check for to-hit
+
+### Transitions
+Feel tree to maintain or drop initiative as you switch between chases, combats, and stealth scenes. Use logic to determine when it appropriate to switch between these and when to roll and drop initiative. Characters that start a combat or chase should go first. Characters need to be hidden if they want to start a stealth scene. Any of these can transition into any of the others. Chases are just combat with movement instead of fighting. Iniative for chases and combats works the same.
+
+### Turns
+Character get turns in combat based on their action delay. Effectively a character's action delay determines the cooldown on their actions. If a character has an action delay of 5 they will get to act every 5 ticks of initiative. If they started on initiative tick 8 this means they will act on 8, 13, 18, 23 and so on. Characters that start a combat go on 0. Other characters get 1d6 action delay before they can act in the combat. When a character's turn rolls around they get all of their spent actions back.
+
+#### Actions
+At the start of their turn a characters actions refresh. Actions include a major action, a move action, and a reaction. A move action can be moved for moving and occasionally for dodging when combined with a reaction. A reaction can be spent to hold your action. An action can be used for pretty much everything. A reaction can be used to make a dodge or block check. Major actions are usually used for attacking or interacting in combat. A major action can be used with a reaction to launch a counterattack. Lots of things are free actions: Talking and directing minions is a good example of this. Doing a defensive action for another player costs a reaction and a major action. Whenever you use you reaction you get to take a defensive action as long as it makes sense. Whenever you want to use a move or major action and it is not your tick of initiative it will cost your reaction.
+<!-- add some subsections:
+major actions
+  attacks
+move actions
+reactions
+  defensive actions
+-->
+<!-- description of one turn-->
+
+
+### Movement, Distance, and Zones
+Rather than using a traditional grid I would recommend forming zones for your combat scene. If you want to use an image as a map you can either subdivide the sections of the map into large sections or overlay a large grid on the image to form zones. If you are simply describing a map you can just describe the zones. Each movement action will allow a player to change zones. There are no meaningful units of distance in this system. Use your brain if something that requires distance comes up.
+
+### Attacking
+Attacking costs an action. To attack a character describe how you want to do that and the storyteller will tell you how hard that will be either before or possibly after the roll if that is hidden information--no take-backsies. The difference between what flavor you use to make the attack and what flavor the defender uses to defend from it determines the subjective difficulty of this roll. Make the roll. Each success lets you inflict one piece of flavor on the defender correlated with the attack you made. If you are attacking with a sword you can do "sword damage" as flavor which might look like impaling, hamstringing, or severing limbs. The storyteller can assign lethal damage to NPCs to speed up combat. Players cannot assign lethal damage.
+
+#### Armor and Weapons
+Armor and weapons porvide no statistical bonuses. Weapons are used to determine the types of bad flavor an attacker can inflict on a defender. Both are used to determine the subjective difficulty of attack rolls. Attacking an armored knight with a sword is hard but attacking him with a lightsaber is easy. If it were sword vs leather armor it would probably be a normal roll.
+
+#### Damage, Wounds, and Death
+Whenever a character rolls successes on anundefended attack action they deal damage. In Tabula, damage is dealt in the form of bad flavor. Players cannot give NPCs immediately lethal flavor and the storyteller cannot give the players immediately lethal flavor unless both parties agree. If wounds (bad flavor from combat) would make a character's ability to move non-trivial, that character is downed. If a character's ability to perform actions ever becomes impossible that character is either unconsions or incapacitated and possibly dead. If a character is ever incapacitated, downed, or unconsion they are likely at risk of being killed by a coup de gras. For all of these things make "does this make sense" checks.
+<!-- roll a check for to-hit
     Flavor effect: items, weapons, armor, wounds, etc.
     damage, wounds, death -->
 <!-- grouping NPCs for ease of play (minions)
@@ -301,6 +304,15 @@ To limit a how disruptive a skill can be to your story a few things are necessar
     planned NPCs and leveling them.
     unplanned NPCs -->
 
+### NPCs
+
+#### Planned NPCs
+same as PCs but don't spend ALL of their exp immediately. allow them to fudge the numbers and gain skills as needed. maybe create their special skill if they have one immediately. give them character points at the same rate as PCs.
+
+#### Unplanned NPCs
+I recommend rolling dice to determine skill levels and then standardizing the character's stats with the parties CP later.
+
+
 # the end
 some shit
 
@@ -311,199 +323,37 @@ some more shit
 <!-- is this just a normal check? I think it is...-->
 As an action character may attempt to create an advantage for themselves or a disadvantage for another character. If the action succeeds whomever is controlling the character gets to describe the advantage they create. If the storyteller finds it reasonable it happens. If not, don’t waste time arguing, just move on.
 An advantage can also take the form of having to roll fewer dice on a skill check in the future, extra damage dice on an attack roll, or a bonus to initiative. Inversely an advantage might mean that the character’s opponents have to roll more dice on skill checks, get fewer dice on their damage rolls, or lose initiative.
-***
-***
-***
-***
-***
-***
-***
 
-
-
-
-### flavor
-IIRC flavor was short descriptive words or phrases that would give +1 or -1 in situations in which they applied. Ciazio stacked "strong" worded a few different ways and had a +4. balance this.
-"flavor" is a short description of anything a character knows, owns, has or is (including reputation, status, and position). these should be the videogame equivalent of passives rather than actives. they can modify checks by a small value but they are not check themselves.
-flavor is anything a character is or has: physical attributes (horns, fins, cybernetic implants), magical, social, mental, or a material possessions.
-flavor should not have numbers attached to it.
-flavor can be acquired at CC and either purchased with exp or acquired through roleplaying.
-Duplicate flavor should not stack for determining modifiers for checks. Unique flavors should. (strong, buff, muscley = +1 vs big, strong = +2 to a strength check or something)
-At one point i had something named traits/passive abilities/backgrounds. these were very, very similar to flavor. they cannot be leveled up and they cannot be taught. those two restrictions were important for defining what was and was not a trait and it could be useful for defining flavor.
-here is a list of example flavor:
-Examples: These are some examples of flavor. Some are normal, some are special, some are bad. Captain of the guard. Beautiful singing voice. Strong. Wise. Recognizable facial scar. Pathological liar. Sociopath. Owns a horse. Is liked by horses. Centaur. Gambling problem. Charming. Attractive. Fast. Knowledgeable. Lord of a castle. Friends in high places. Rich. Night vision. Night vision goggles. Owns a spaceship. Carries a spear and club. Leper. Reputation for beating priests. Kind. King’s advisor. Drug dealer. Librarian. Has many rare books. Orc. Insane. Insomniac. Carnivorous. Extra limbs. Amputee. Crippled. Talks to plants. Plants talk to me. Holy. Incorporeal. Haunted by past crimes. Haunted by angry ghosts. Has a compass. Stubborn. Magically adept. Bloodthirsty. Good manners. Boxing world champion. Dropped out of medical school. Cult leader. Shift manager at a fast food joint. Famous space pirate. Infertile. Has many decks of cards. Knows Spanish. Is Spanish. Can play the flute. Religious. Sneaky. Large. Fat. Boring. Knows the location of buried treasure. Student at Yale. Responsible for a princeling. Young and stupid. Evil. Charitable. 
-
-### equipment
-i think tabula lets players make their own gear too? equipment has no numeric values. instead just describe the equipment. equipment should give characters new active abilities or modify their existing active abilities. items should have made up special abilities. crappy lockpicks break after a failed attempt but a nice lockpicking set gives you two or three tries.
-
-### character progression
-i don't want to tell anyone how to do down-time but it is relevant for a few things in this system. first off if can be used to experience whore. i will probably make it so you can increment attributes by one during downtime and you cannot improve skills during downtime. downtime is also a good time to heal wounds.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Combat
-It looks like i was favoring shadowrun style initiative/speed in the past
-disallowing called shots in favor of the doubles -> dragon dice method from dragon age seems really good. shadowrun style initiative is where characters roll initiative and get a score, and then combat goes in rounds. Each round subtracts some number (10 in shadowrun) from each intiative and each character that still has a non-negative initiative score gets a turn.
-
-### Attacking
-i wonder if i should even have a damage roll. perhaps doing damage in some deterministic fashion might be better. i would like to avoid having health and mana. I would also like to avoid the consept of leveling up
-having a sword should not modify the attach roll; it should just allow you do deal "sword" damage, like decapitating, impaling, cutting etc...
-
-### combat transitions
-at one point I had a system designed that would allow for seamless transitions between stealth, combat, and chases. I think this effectively just used shadowrun initiative for combat and chases and made it so stealth granted an initiative bonus
-
-### distance
-distance is an important part of combat. In the interest of avoiding specifics I think I will describe distances as AUDs or Arbitrary Units of Distance. These are equivalent to one square of graph paper or one square on a battle grid.
-Rather than using a battle-grid you might also use a sketch of the map with a very loose grid of "zones" over the top. Zones take one movement action to move between. This works best when zones are easy to define like rooms in buildings.
-
-### group combat
-this looks fucking awful... division??? wtf?
-attacker defender meaning
-individual individual spend MP SP or FP to get additional damage dice
-individual group mtf fireball styled costs
-group individual multiply damage by group size
-group group multiply by attackers and divide by defenders
-
-### action economy
-this is actually a pretty good idea. figure out how to implement it and classify actions in this game. major, minor, full, free, reaction etc. (mental, channeled,passive, teamwork action,) can players get additional actions? how?initiative and turn order
-
-### faster and slower characters
-this system doesn't have a good way to give players additional actions by default. it also doesn't have a good way to represent that one character is slower than the rest except by making all the other players in the combat faster. furthermore meaningful speed differences aren't usually fun in combat. therefore this system has all characters acting at about the same speed. additional actions can still be granted at the DM's discretion.
+<!--maybe make a section for common problems and solutions with this system.-->
 
 ### grouping NPCS
 provide some simple method of grouping NPCs in combat
-
-### Armor
-Armor should subtract from damage dealt
-previously i had the idea that armor would contribute an integer value to an armor score for each piece of armor. (+3 helmet, +2 leather breeches, +7 chestplate, +5 shield = 17 armor score)
-there are some problems with armor. first it can have more than one stat and they aren't related. there is hardness which determines what kind of attacks it will stop (soak). there is coverage which determines what percentage of your body it covers and this + dex might create a target number for to-hit checks against the character. lastly there is encumberance which can be positively or negatively affected by armor (normal plate, mithril-light-as-a-feather-BS-armor, and mjolnir power armor that actually makes the user stronger)
-furthermore the AC thing isn't a particularly good metric for avoiding explosions but the encumberance value is as far as making checks goes. furthermore the encumberance value could have different effects on stealth and athletics/acrobatics checks. I really don't think it is worth statting all this shit out.
-
-### Dodge
-Dodge should be the opposition to to-hit rolls. think about armor coverage vs armor hardness. i also have the idea that the only way to avoid damage that has independently passed the to-hit stage is to use a reaction to dodge.
-I like the notion that dodging should require a reaction. At storyteller discretion dodging some things might take a reaction and then some. I would say that to "dodge" an explosion you need to get out of it and that would require a move action as well.
-
-### Damage, Wounds, and Death
-In the current moment i vote for either perma-death or no relevant hitpoints.
-damage is dealt as flavor. no bookkeeping for hitpoints!!!
-if damage uses dice it should use a maximum of 2d6.
-A "wound" is bad flavor gotten through combat from taking damage. Wounds give a -1 to all checks due to pain and possibly disability.
-At one point I was keen on the idea that wounds and damage could be exchanged but the implementation requires me to make a bunch of charts with exchange rates and by it's nature it cannot be comprehensive. I think including this as an option with the DEALS feature might work though.
-If you are using "wounds" to track damage then a character goes down when they have enough wounds that they cannot effectively participate in combat. A character dies when it would make sense for them to die. (decapitated, heart ripped out, stabbed 20 times, bleeding out for three days, when finished off by other characters while knocked out.)
-If i am using hitpoints then 0 means dead, full stop, no death saves here.
-
-### Stealth
-At some point I though spot checks were unnecessary. AT THE ITME i was fine with players rolling spot checks for info anyway if they were stuck in a roleplaying situation.
-In previous versions I defined words for describing stealth scenes. Hider and Seeker were prevalent. This language sounds dumb. the concept might be sound though. observer? stealther? "to remain hidden a character..." "to detect a hidden character..." "the hidden character..." "the ?seeking/observing? character..."
-
-#### there are some good concepts for stealth here
-tl;dr definition, partial stealth, entering and joining from stealth, acting from stealth can cause alert or detection
-***
-Stealth is where a character hides themselves from other characters. This can be accomplished with magic as well as cunning.
-Full stealth is where no one knows where a character is except that character’s allies. Entering a chase or combat from full stealth grants 10 bonus initiative.
-Partial stealth is being hidden relative to some characters but visible to others. Entering a chase or combat from partial stealth grants 5 bonus initiative.
-Attempting to enter stealth from a chase or combat costs an action, a stealth check, and somewhere to hide.
-To stay hidden whilst doing something that could potentially reveal his or her location a character should roll additional stealth checks.
-
-### initiative and turn order
-in the past i have noticed some things. first if initiative doesn't just go around the table (counter)clockwise it takes way longer. second, sometimes you can't just go around the table (like when playing online) so Tabula should still have a way to roll initiative regardless or IRL conditions.
-So there are a few ways to do initiative. There is the usual D&D way where everyone rolls, gets a number, and then goes in order. This is a lot of work to maintain. VTM had celerity which gave characters additional turns at then end of the round. This did an excellent job of representing superhuman speed but it was OP as shit and could make players without it feel useless. then there is shadowrun initiative which was a lot of sense. essentially players rolled for initiative like normal but you subtracted initiative to take actions until everyone was out and then started a new round. I think the exalted system is probably the best system for my purposes. It can support characters that are dramatically faster than others and it doesn't require an undue ammount of bookkeeping. basically each character has an action delay and the dm calls our the current world initiative. you get to act (all of your actions refresh) once your cooldown is up. I don't remember how initial initiative order was picked. I suppose I could go take a look at an exalted book or make my own.
-
-### problem: speed
-when characters are exceptionally fast this is not represented well in the action economy. it might be good to assume characters are always roughly the same speed.
-
-### problem: size -> force
-a towering behemoth should be able to oneshot a lightly armored character with a tree he ripped out of the ground, right? well, how do you represent that in this system? We should probably assume most critters are about the same size OR we can forget the numbers in combat and just use common sense.
-
-### action price table
-previously I thought this was a good idea. now i think keeping track of 4 stats during combat in addition to the other shit is insane.
-If the timing of an action matters initiative should be rolled.
-An action is the same thing as 5 initiative in a combat or a chase.
-If the timing doesnt matter disregard the action costs.
-Resting costs an action but the character regains 2 SP.
-Walking and footwork are free.
-Acrobatics or running costs an action and an SP.
-Attacking costs an action and an SP.
-Dodging or blocking costs an action and an SP.
-Counter-attacking costs an action and an SP.
-Using magic costs an action and an MP.
-Attempting to hide costs an action.
-Social interactions cost an action and an MP if they are magic.
-
-### counter-attacking
-previously i wanted to implement counterattacking but was having a problem doing it without having a fuckton of timing issues. counter-attack chains were prevalent....
-Anyway this is solved with an action economy and a turn delay. you canonly counterattack with reactions, you can only use reactions when it isn't your turn, and you get your reactions back with all your actions when your turn delay is finished.
-
-
-
-
-
-
-## storytelling
-this should probably be divided int a few separate sections. creating settings, story arcs, the DM screen, etc. are all fairly different topics.
-***
-maybe a section for common problems and solutions with this system.
-DON'T make a section for how to roleplay NPCs.
-maybe make a section for creating NPC's? it is worth addressing why there isn't a monster manual at least.
-this section is devoted to running a game of this system and providing a DM useful tools for that. a FAQ section might also be a good idea.
-tips for running (group) combat quickly.
-
-### creating a story
-provide some kind of visual framework like a flowchart for creating episodic stories. scenes should have a few options as to how they can resolve most times.
-an alternative method of creating the story is how blood in the snow does it. make sure each scene has a granter and a petitioner. (petitioner wants _something_ from granter). the scene can resolve however it does but it should start with these two elements. I think both were supposed to be PCs. i think the players and possibly the game "referee" are supposed to come up with scenes like this on the fly. this is from blood in the snow.
-
-### creating NPCs
-same as PCs but don't spend ALL of their exp immediately. allow them to fudge the numbers and gain skills as needed. maybe create their special skill if they have one immediately.
-leveling up NPCs using the elder scrolls style tally marks might be a miserable pain. propose an alternative.
-
-### tables
-provide tables that are blank but easy to fill in for _interesting_ random encounters, loot, traps, stores, etc. provide a fillable DM screen too. provide a fillable character sheet too
-
-### worldbuilding
-i would like to provide a number of canned settings with Tabula that a group can read through quickly and get started roleplaying in. I would also like to add some kind of framework that when filled in would create similarly usable settings. a settings purpose in this context is only to describe it to the players such that they have a feel for the world and can begin roleplaying in it. it is not intended to be an exhaustive history, species catalog, spellbook, item dump, etc. it should however describe all of these things in minimal detail. what does an average character's flavor look like in this setting? what is common flavor. etc.
-
-### creating maps
-i would like to include a short tutorial on creating good maps. perhaps a nice framework to provide a starting point. links to youtube tutorials and tools might also be a good idea here.
+This will probably also end up being the mechanic for co-op actions, assisted rolls, etc. Flavor damage will probably be spread out.
 
 ### money
 I am thinking i want to have a chart somewhere that handles things like store prices and loot by asking the dm to define one unit of currency and then derive all the prices in their world based on some percentage or multiple of this. this would also give the DM a good time to think about what things are available or not and what things are scarce or plentiful and adjust prices and availability accordingly. Talk about money in the doc as AUCs (arbitrary units of currency). really I think this should be a part of the "settings" section.
 If i decide to give items a level/numeric value it would make sense to have them be orders of magnitude more and less expensive based on those numbers.
 
+### Money2
+I would like to handle money the way stefan handled it in "What Stars!". The way he did this was by having VTM style resource backgrounds with some minor mods. Each background gives you either a major purchase or three minor purchases. they regenerate based on story stuff. major and minor purchases can purchase things like that. Minor purchases might be a night at an inn or a meal at a restaurant. Major purchases would be things like weapons and armor and jewelery and horses and spaceships and shit. Some things might cost multiple major purchases. Trivial purchases should be day-to-day expenses like food.
+
+
+***
+***
+***
+***
+***
+***
+***
 
 
 
 
 
 
-## assertions and assumptions
-these are some things i believe to be true or assume will be true such that this game can function. this all should be moved to the intro to the doc or the intro to the storyteller section
+#### Death
+allow everyone to attempt killshots. Have plot armor automatically downgrade this unless the character is downed/incapacitated/unconsious.
 
-### assumptions
-I have realized I can't actually make this system without making some assumptions. I think these assumptions will be true for the majority of games this system is used in.
-- the people of your setting use money
-- characters have to eat; food and lodging is a nice baseline for currency
-- the power level of armor and weapons will be roughly equivalent--no lightsabers vs plate mail
 
 ## mental (mind control/reading) and social (persuasion) combat
 you can only defend if you know you are being attacked. if we have attributes all characters get a check against persuasion. otherwise they don't unless they have a relevant skill.
