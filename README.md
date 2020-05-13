@@ -46,6 +46,13 @@ At its most basic a gambit is a deal you make with the storyteller. Anyone can p
 <!--This assumes that there will also be a list of common skills included with each setting-->
 Rather than having a few attributes we could have a list of __mandatory skills__ for a setting. Every character would have to take some level in __all__ of these skills.
 
+### Outstanding problems
+THE RELATED SKILLS PROBLEM: how do you take new skills or make new characters in the system where skills level up independently? What if a character wants a skill similar to one of their existing skills but different? How do you make new characters or replacements when one dies in game? Elder scrolls leveling is messy...
+
+THE CRAFTING PROBLEM: Either items have numbers (NO) or magnitude of success has no bearing on the item being created. This is okay if the player creating the item is specific about what they want and this modifies the difficulty.
+
+THE WOUNDS AND DEATH PROBLEM: If we are saying MoS on attack rolls means you get to inflict bad flavor when does a character die? When they have a certain number of bad flavors? Who determines what flavor can be added to a character? Perhaps we should just have health? How do you determine when a character has accumulated enough flavor that they are unconsious or dead? This can probably be solved by saying "no giving immediately lethal flavor", "unconsious/downed characters can be coup de gra'ed", and adding a subjective system for when a character has a shit-pile of wounds they should probably go down. Not having source material makes combat messy...
+
 ## section definition
 1. definitions
 3. example

@@ -28,6 +28,7 @@ The roleplaying system is generic so it will work with any Setting produced by t
   - [Skills](#skills)
     - [Mandatory Skills](#mandatory-skills)
     - [Progression](#progression-1)
+    - [Contests as checks](#contests-as-checks)
   - [Flavor](#flavor)
   - [Combat](#combat)
   - [Stealth and Perception](#stealth-and-perception)
@@ -38,24 +39,11 @@ The roleplaying system is generic so it will work with any Setting produced by t
   - [Storyteller section](#storyteller-section)
     - [Making a Setting](#making-a-setting)
       - [Adding player-made skills to a Setting](#adding-player-made-skills-to-a-setting)
+        - [problems with previous iterations of "players are allowed to create their own skills"](#problems-with-previous-iterations-of-%22players-are-allowed-to-create-their-own-skills%22)
         - [Limiting factors](#limiting-factors)
 - [the end](#the-end)
   - [slightly after the end](#slightly-after-the-end)
-    - [related skills](#related-skills)
-    - [skills when attributes are missing](#skills-when-attributes-are-missing)
-    - [Checks](#checks-1)
-    - [modifiers](#modifiers)
-    - [Critical Success and Failure](#critical-success-and-failure)
-    - [experience and leveling up and new skills and flavor](#experience-and-leveling-up-and-new-skills-and-flavor)
-    - [Contests as checks](#contests-as-checks)
-    - [default skills](#default-skills)
-    - [crafting](#crafting)
-    - [star wars check system](#star-wars-check-system)
     - [advantages and disadvantages](#advantages-and-disadvantages)
-    - [called shots and stunt points](#called-shots-and-stunt-points)
-    - [problems with previous iterations of "players are allowed to create their own skills"](#problems-with-previous-iterations-of-%22players-are-allowed-to-create-their-own-skills%22)
-    - [skill check](#skill-check)
-    - [leveling up](#leveling-up)
     - [flavor](#flavor-1)
     - [equipment](#equipment)
     - [character progression](#character-progression)
@@ -154,7 +142,7 @@ If a character is trying to do two things at once, juggling while doing a backfl
 To level up a skill you need to pass skill checks with it. Whenever you pass a skill-check with a skill add one to that skill's experience. When the skill's experience is equal to it's level it levels up and the experience resets to zero. You can only level up a skill at level one by making the check easy.
 
 #### Event Die
-The storyteller can introduce the event die whenever they want. Basically when a check is rolled and additional d6 is rolled. If this d6 comes up 1 something bad might happen and if it comes up 6 something good might happen.
+The storyteller can introduce the event die whenever they want. Basically when a check is rolled an additional d6 is rolled. If this d6 comes up 1 something bad might happen and if it comes up 6 something good might happen. It is best to have an extra d6 of a different color if you are going to add the event die to every roll. The event die is a convenient way to handle crits and crit fails in this system.
 
 #### Gambits
 Gambits are where you make a deal with the storyreller to modify the the difficulty of a check, the pass-effect, and the fail-effect. You might ask for something special to happen on a success in exchange for an increase in difficulty.
@@ -184,8 +172,8 @@ For contests like arm wrestling, racing, or anything else where two known values
 ## Skills 
 Each character has a list of skills representing the actions they can take in the story. Skills do have to be things that a character can *do* which also means they have to be able to fail as well. The setting will have a comprehensive list of skills available in the setting.
 <!-- examples -->
-<!-- player made
-    limiting factors -->
+
+
 
 ### Mandatory Skills
 All characters should have the ability to attack, defend, move, hide, see, lie, detect lies, persuade, resist persuasion, etc. The list of mandatory skills on the setting should represent these potential actions. All characters must have all mandatory skills for their setting.
@@ -197,6 +185,9 @@ All characters should have the ability to attack, defend, move, hide, see, lie, 
 Skills level up once they have been used a number of times equal to their level. For example, to level up a level 7 `sword-fighting` a player would need to succeed at 7 `sword-fighting` checks. This usually means this will require over 7 attempts because failures do not earn exp. Mark successes next to the skill on your character sheet. 
 <!-- common skills -->
 <!-- mandatory skills -->
+
+### Contests as checks
+Each participant in the contest rolls. Anyone who fails is eliminated/loses. If using a dice system where magnitude of success is easy to calculate the player with the most successes wins the contest. Contestants can tie. All modifiers apply to the checks as normal.
 
 ## Flavor
 <!-- definition -->
@@ -271,99 +262,7 @@ Skills level up once they have been used a number of times equal to their level.
 #### Adding player-made skills to a Setting
 Probably the coolest part of this system is that it allows players to make their own skills. This requires co-operation from you, the storyteller. Your job is to vet and occasionally veto skills players have proposed as additions to the setting. Rather than a veto however you can put some [limiting factors](#limiting-factors) on a skill to make it less disruptive.
 
-##### Limiting factors
-To limit a how disruptive a skill can be to your story a few things are necessary. Firstly, make it clear to the players that while their character *might* be the first character to have a skill they will probably not be the only character to have this skill. Next adding a cooldown, timing restriction, or cost to a skill can go a long way to making the skill less disruptive. You will have to come up with your own rules regarding this. Keep in mind they should be short and simple.
-<!--
-    baseline currency to AUCs to prices ratio
-    fill in th rest of the fields with lore shit i guess -->
-<!-- how to make an adventure
-    with a flowchart/tree template! -->
-<!-- npcs
-    grouping them for combat is a pain. instead create squads.
-    planned NPCs and leveling them.
-    unplanned NPCs -->
-
-# the end
-some shit
-
-## slightly after the end
-some more shit 
-
-***
-***
-***
-***
-***
-***
-***
-
-
-### related skills
-if you are good with a poleaxe/polehammer it stands to reason you wouldn't suck with a spear or some other polearm. that being said if your skill is named "polehammering" or some this it wont work with a spear. i think there are a few reasonable solutions.
-1. the character takes a new skill at level one.
-2. the character takes a new skill at half the level of the old skill.
-3. the character renames the skill with DM permission
-4. the character can make checks as though they had the new skill with half the old skill's level
-
-### skills when attributes are missing
-so if i want to run skills without attributes there will be one major problem. what happens when a character wants to arm wrestle but they don't have the "arm wrestling" or "athletics" skills or a strength attribute. They probably have a "swordfighting" skill or some such but that doesn't apply to the contested check that is the arm wrestling match. They should be kinda good at this kind of thing, right? it just doesn't get represented well. I suppose you could have attributes as incredibly generic skills. perhaps you always get a disadvantage on them? nah, but i do like the idea of having attributes as fairly generic skill checks. it might be a good idea to map out all the usual roleplaying actions and figure out which ones need a check.
-
-### Checks
-At some point i though about a magnitude of success table. I don't remember what it was based on. i will probably forgo magnitude of success in this system.
-At some point i thought it was  a good idea to have flavor. i think this gave bonuses/detriments on rolls. I still like the idea of flavor. It's bonus should be capped.
-stacking modifiers to all rolls based on flavor, equipment, situational modifiers etc. each provides a plus or minus one.
-
-### modifiers
-modifiers can be in the form of +1's and -1's or in the form of +1d6 or -1d6.
-i like the adding and subtracting of d6's because at that point it is just a question of "is the task normal, particularly easy, or particularly hard?"
-
-### Critical Success and Failure
-When you roll the maximum or minimum values on the check dice you get a crit. The roll automatically succeeds or fails and maybe some good/bad stuff happens.
-
-### experience and leveling up and new skills and flavor
-get 1-2 exp per session/in-game night.
-spend an experience to get the first level in a made-up skill (all skills are made up) but you may have to role-play the acquisition.
-i guess you have to rolaply for new "flavor".
-
-### Contests as checks
-this looks like it is still using the starwars style checks. all parties roll and magnitude of successes are what matters for eliminating contestants and magnitude of success could determine winners. good and bad stuff could apply to whomever rolled them respectively.
-currently i am thinking that checks will involve dice, attributes, and skills with an option +2 or -2 from skills and flavor. i think equipment should probably not contribute to anything except that +2/-2. I think i just want equipment to grant new abilities. i probably don't wan't attributes changing too much throughout a game.
-
-### default skills
-attack, defend, hide, observe, lie, detect lies, persuade, resist persuasion
-
-### crafting
-previously i advocated for magnitude of success. this was likely due to "the crafting problem". if you don't have magnitude of success for crafting then any sword a blacksmith makes is as good as any other sword in the universe. magnitude of success solved this problem by generating a number you could tack onto the created equipment.
-I have though of an alternative to this (crappy) solution to "the crafting problem". Instead of determining the quality of the sword after it is done decide on the quality before the roll is made, apply an equivalently sized bonus or penalty and then make the roll. after that it is simple success/failure. the dm can determine if what is created is anything other than garbage upon failure.
-It is worth noting that the crafting problem goes away when you remove the numeric values from combat.
-
-### star wars check system
-The basic idea here is that a die is added to checks that represents a constantly shifting landscape. This means good or bad roleplaying events can occur when players roll checks in and out of combat.
-***
-at some point i liked the star wars RPG system of dice having successes and "good stuff" on them and failures and "bad stuff". this led to a system where you could have phyrric victories and defeats that weren't all bad.
-Decide whether or not i want crit successes and/or crit failures.
-possibly put crits and crit fails on a separate die to control the probability of such.
-buy successes/failures and good/bad stuff with pips on the relevant dice.
-should rolls always be opposed?
-at some point i was in favor of constructing skill checks based on positive and negative dice. negative dice represented the difficulty of the task and the difficulties resulting from the situation. positive dice would represent the character's skill at the task and any advantages they had towards completing the task. when all the positive and negative dice are rolled successes cancel failures and negatives cancel failures.
-very good/bad stuff always overrides the other good/bad in the typical opposed roll.
-a check fails if there are fewer successes than failures on the dice. it seems like this system expects you to purchase successes, failures, good stuff, and bad stuff. it also seems like it requires far more than three identical 6ds. it seems like it wants d10s and specfic symbols on those dice.
-excess successes and failures contribute to magnitude of success.
-excess good stuff and bad stuff mean nothing in particular.
-net good/bad stuff means a bunch of good/bad story things happen. this might be a little insane if it happens to often. the DM only has to resolve one good/bad stuff per check
-
-### advantages and disadvantages
-this looks like it came from the star wars RP system?
-anyway it looks interesting. I cannot tell if it is for combat or all checks or what.
-> As a part of any action a character may attempt to create an advantage for themselves. If the action succeeds whomever is controlling the character gets to describe the advantage they create. If the storyteller finds it reasonable it happens. If not, don’t waste time arguing, just move on.
-> An advantage can also take the form of having to roll fewer dice on a skill check in the future, extra damage dice on an attack roll, or a bonus to initiative. Inversely an advantage might mean that the character’s opponents have to roll more dice on skill checks, get fewer dice on their damage rolls, or lose initiative.
-
-### called shots and stunt points
-exalted, D&D, and Dragon Age: the RPG all had different ways to deal with this. All had their own merits. In D&D you said what you wanted to do ahead of time and it modified the difficulty of the roll. If you were successful it happened. full stop. This involved many tables of modifiers usually and it was a slow process. The Star Wars RPG mitigated this issue by boiling every modifier to a die that got added to the check's pool. It kinda sucked when your checks didn't pass but it was always worded as "I try to" not "I do"
-In Dragon Age you rolled the check and then if you got stunt points (based on 2/3 dice matching faces) you got the number of stunt points on the "dragon die" (the first one). This made things go faster but limited options.
-Exalted was odd. You actually got "style points" for calling your describing your actions in detail. This resulted in most shots being called shots and having to ret-con cool descriptions when the check didn't pass.
-
-### problems with previous iterations of "players are allowed to create their own skills"
+##### problems with previous iterations of "players are allowed to create their own skills"
 tl;dr players could make skills that were vague and applied to every scenario and then max them.
 - using incredibly broad skills that apply to every scenario. "social graces" applies to every social situation, provides little character depth, and makes it so a player can use the dice to walk all over the game.
 an example tree of skill scope
@@ -390,28 +289,35 @@ On the other hand I encouraged THIS at one point.
 perhaps settings should include a list of default/common skills?
 there is something of a goldilocks zone for skill scope. Magic is too broat, fireball is too narrow, but fire magic is just right.
 
-### skill check
-a check should probably involve dice, maybe equipment, a base stat, a specialization stat, perhaps another specialization stat, and situational modifiers.
+##### Limiting factors
+To limit a how disruptive a skill can be to your story a few things are necessary. Firstly, make it clear to the players that while their character *might* be the first character to have a skill they will probably not be the only character to have this skill. Next adding a cooldown, timing restriction, or cost to a skill can go a long way to making the skill less disruptive. You will have to come up with your own rules regarding this. Keep in mind they should be short and simple.
+<!--
+    baseline currency to AUCs to prices ratio
+    fill in th rest of the fields with lore shit i guess -->
+<!-- how to make an adventure
+    with a flowchart/tree template! -->
+<!-- npcs
+    grouping them for combat is a pain. instead create squads.
+    planned NPCs and leveling them.
+    unplanned NPCs -->
 
-### leveling up
-at one point i was in love with the idea that leveling up a skill was done by using it. this would mean you have to accumulate successes, failures, or both equal to something (the skills level) to level it up
-I also liked the idea of having traditional floating experience level up skills at some rate. it was also nice being able to transition smoothly from character creation to playing the game with VTM esque bonus points being the same as exp
+# the end
+some shit
 
+## slightly after the end
+some more shit 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### advantages and disadvantages
+<!-- is this just a normal check? I think it is...-->
+As an action character may attempt to create an advantage for themselves or a disadvantage for another character. If the action succeeds whomever is controlling the character gets to describe the advantage they create. If the storyteller finds it reasonable it happens. If not, don’t waste time arguing, just move on.
+An advantage can also take the form of having to roll fewer dice on a skill check in the future, extra damage dice on an attack roll, or a bonus to initiative. Inversely an advantage might mean that the character’s opponents have to roll more dice on skill checks, get fewer dice on their damage rolls, or lose initiative.
+***
+***
+***
+***
+***
+***
+***
 
 
 
