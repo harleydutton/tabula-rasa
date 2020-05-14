@@ -52,9 +52,13 @@ The roleplaying system is generic so it will work with any Setting produced by t
   - [Glossary of Terms](#glossary-of-terms)
   - [Storyteller section](#storyteller-section)
     - [Making a Setting](#making-a-setting)
+      - [Description](#description)
+      - [Action Delay and AUTs](#action-delay-and-auts)
+      - [Starting Character Points](#starting-character-points)
       - [Adding player-made skills to a Setting](#adding-player-made-skills-to-a-setting)
         - [problems with previous iterations of "players are allowed to create their own skills"](#problems-with-previous-iterations-of-%22players-are-allowed-to-create-their-own-skills%22)
         - [Limiting factors](#limiting-factors)
+      - [Money and Making the Store](#money-and-making-the-store)
     - [NPCs](#npcs)
       - [Planned NPCs](#planned-npcs)
       - [Unplanned NPCs](#unplanned-npcs)
@@ -275,7 +279,7 @@ this is a good time to mention that when you try to convince a character of some
 <!-- should this even be a section? -->
 
 ## Setting
-<!-- definition (every setting is this) -->
+A setting is a template for worldbuilding. It includes a description of the world, the typical speed of characters in the world for combat purposes, how many character points new characters in the world should start with, a list of mandatory skills, and a list of skills common within the setting. The description usually includes a the technologocal level, magic, history, spacial/geographic scope, flora, fauna, biomes, natural resources, items, culture, store, etc.
 <!-- description (every setting has one)-->
 <!-- action delay -->
 <!-- character points -->
@@ -292,8 +296,22 @@ this is a good time to mention that when you try to convince a character of some
 <!-- storyteller, character, player, NPC, roleplaying, worldbuilding, setting, battlegrid -->
 
 ## Storyteller section 
+<!-- this section is at risk of being super preachy. -->
+This section of the doc is to help storytellers play this system because it is a bit crazy. Making settings and NPCs will be the majority of this section though it is possible those should just be merged into their own sections in the main part of the book. There is some information that differs based on whether I am talking to a storyteller or a player though. Perhaps I should handle this in-line? Does any of it need to be kept secret from the players?
 
 ### Making a Setting
+This section aims to outline the necessary steps and decisions that need to be made in order to create a setting. The subsections will correlate to the various pieces of a setting. To be mechanically playable a setting needs an action delay, starting character points, a list of mandatory skills, a list of common skills, and a description.
+
+#### Description
+settings need descriptions to tell players about the world
+> example: like the star wars universe
+> example2: (an actual description)
+
+#### Action Delay and AUTs
+Choosing a suitable action delay is fairly easy but it is possible to mess it up. If the action delay is too high, counting out AUTs becomes tedious and modifying a characters action delay by small numbers becomes less meaningful. On the other hand choosing a default action delay that is too low will greatly increase turn colissions and make it such that characters with non-default action delays have very different "speeds". Default action delay effectively determines the typical speed for characters in the setting. Having an abnormal action delay is how a character becomes faster or slower. AUTs are arbitrary units of time and I think this is what I will be calling initiative "ticks" because depending on the combat they can vary wildly.
+
+#### Starting Character Points
+
 
 #### Adding player-made skills to a Setting
 Probably the coolest part of this system is that it allows players to make their own skills. This requires co-operation from you, the storyteller. Your job is to vet and occasionally veto skills players have proposed as additions to the setting. Rather than a veto however you can put some [limiting factors](#limiting-factors) on a skill to make it less disruptive.
@@ -327,6 +345,11 @@ there is something of a goldilocks zone for skill scope. Magic is too broat, fir
 
 ##### Limiting factors
 To limit a how disruptive a skill can be to your story a few things are necessary. Firstly, make it clear to the players that while their character *might* be the first character to have a skill they will probably not be the only character to have this skill. Next adding a cooldown, timing restriction, or cost to a skill can go a long way to making the skill less disruptive. You will have to come up with your own rules regarding this. Keep in mind they should be short and simple.
+
+#### Money and Making the Store
+Money in Tabula is handled with things called AUCs. An AUC is an arbitrary unit of currency. In this game an AUC might be 1000 spacebucks or $10 or an ounce of gold. The point is that it is money. The way Tabula organizes money is so that you don't have to do much bookeeping with your money. Groupings of AUCs form different levels of purchasing power. One AUC is one minor purchase. Three AUCs are a major purchase. There are 4 tiers of purchasing power. The first is trivial, then minor, major, and priceless. To ground this in the real human world trivial purchases are things like food, beer, candy, ammo, clothes, or entertainment. A minor purchase would be things that cost more like guns, cars, specialized tools, computers, or medicine. Major purchases would be things like houses, companies, famous art, fancy cars, or a college education. A priceless purchase is one that you simply cannot buy right now because it is either far to expensive or it is unavailable.
+I think to actually make the store on the setting it should be the four columns with various goods underneath them. (columns are trivial, minor, major, and priceless)
+
 <!--
     baseline currency to AUCs to prices ratio
     fill in th rest of the fields with lore shit i guess -->
