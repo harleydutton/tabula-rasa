@@ -36,8 +36,10 @@ The roleplaying system is generic so it will work with any Setting produced by t
     - [Transitions](#transitions)
     - [Turns](#turns)
       - [Actions](#actions)
-        - [Attacking](#attacking)
-        - [advantages and disadvantages](#advantages-and-disadvantages)
+        - [Major Actions](#major-actions)
+          - [Attacking](#attacking)
+          - [advantages and disadvantages](#advantages-and-disadvantages)
+        - [Move Actions](#move-actions)
     - [Movement, Distance, and Zones](#movement-distance-and-zones)
       - [Armor and Weapons](#armor-and-weapons)
       - [Damage, Wounds, and Death](#damage-wounds-and-death)
@@ -49,6 +51,8 @@ The roleplaying system is generic so it will work with any Setting produced by t
   - [Persuasion and Willpower](#persuasion-and-willpower)
     - [Willpower](#willpower)
   - [Setting](#setting)
+    - [Action Delay](#action-delay)
+    - [Mandatory Skills](#mandatory-skills-1)
   - [Glossary of Terms](#glossary-of-terms)
   - [Storyteller section](#storyteller-section)
     - [Making a Setting](#making-a-setting)
@@ -204,21 +208,25 @@ Feel tree to maintain or drop initiative as you switch between chases, combats, 
 Character get turns in combat based on their action delay. Effectively a character's action delay determines the cooldown on their actions. If a character has an action delay of 5 they will get to act every 5 ticks of initiative. If they started on initiative tick 8 this means they will act on 8, 13, 18, 23 and so on. Characters that start a combat go on 0. Other characters get 1d6 action delay before they can act in the combat. When a character's turn rolls around they get all of their spent actions back.
 
 #### Actions
-At the start of their turn a characters actions refresh. Actions include a major action, a move action, and a reaction. A move action can be moved for moving and occasionally for dodging when combined with a reaction. A reaction can be spent to hold your action. An action can be used for pretty much everything. A reaction can be used to make a dodge or block check. Major actions are usually used for attacking or interacting in combat. A major action can be used with a reaction to launch a counterattack. Lots of things are free actions: Talking and directing minions is a good example of this. Doing a defensive action for another player costs a reaction and a major action. Whenever you use you reaction you get to take a defensive action as long as it makes sense. Whenever you want to use a move or major action and it is not your tick of initiative it will cost your reaction.
+At the start of their turn a characters actions refresh. Actions include a major action, a move action, and a reaction. A move action can be moved for moving and occasionally for dodging when combined with a reaction. A reaction can be spent to hold your action. An action can be used for pretty much everything. A reaction can be used to make a dodge or block check. Major actions are usually used for attacking or interacting in combat. A major action can be used with a reaction to launch a counterattack. Lots of things are free actions: Talking and directing minions is a good example of this. Doing a defensive action for another player costs a reaction and a major action. Whenever you use you reaction you get to take a defensive action as long as it makes sense. Whenever you want to use a move or major action and it is not your tick of initiative it will cost your reaction. Major actions can also be replaced with an additional move action or reaction.
 
-##### Attacking
+##### Major Actions
+Major actions are used to do pretty much everything in combat other than move or take out-of-turn actions. Most of the time you will need to use a major action to attack, interact with the invironment, cast spells, create advantages or disadvantages, etc.
+
+###### Attacking
 Attacking costs an action. To attack a character describe how you want to do that and the storyteller will tell you how hard that will be either before or possibly after the roll if that is hidden information--no take-backsies. The difference between what flavor you use to make the attack and what flavor the defender uses to defend from it determines the subjective difficulty of this roll. Make the roll. Each success lets you inflict one piece of flavor on the defender correlated with the attack you made. If you are attacking with a sword you can do "sword damage" as flavor which might look like impaling, hamstringing, or severing limbs. The storyteller can assign lethal damage to NPCs to speed up combat. Players cannot assign lethal damage.
 
-##### advantages and disadvantages
+###### advantages and disadvantages
 As an action character may attempt to create an advantage for themselves or a disadvantage for another character. If the action succeeds whomever is controlling the character gets to describe the advantage they create. If the storyteller finds it reasonable it happens. If not, don’t waste time arguing, just move on.
 An advantage can also take the form of having to roll fewer dice on a skill check in the future, extra damage dice on an attack roll, or a bonus to initiative. Inversely an advantage might mean that the character’s opponents have to roll more dice on skill checks, get fewer dice on their damage rolls, or lose initiative.
-<!-- add some subsections:
-major actions
-  attacks
-move actions
-reactions
-  defensive actions
--->
+
+##### Move Actions
+Move actions are the simplest of the actions. If you need to change zones in battle you will need to make a move action. That said small bits of movement in the same zone like footwork in combat or walking two meters to a different computer terminal would not be considered large enough movement to require a move action. Sometimes when using a reaction to dodge the dodge won't make sense unless it also moves you. In this case you will also need a move action.
+<!-- movement
+    ZONES
+    DODGING?-->
+<!-- reactions
+    defensive actions -->
 <!-- description of one turn-->
 
 
@@ -281,10 +289,14 @@ this is a good time to mention that when you try to convince a character of some
 ## Setting
 A setting is a template for worldbuilding. It includes a description of the world, the typical speed of characters in the world for combat purposes, how many character points new characters in the world should start with, a list of mandatory skills, and a list of skills common within the setting. The description usually includes a the technologocal level, magic, history, spacial/geographic scope, flora, fauna, biomes, natural resources, items, culture, store, etc.
 <!-- description (every setting has one)-->
-<!-- action delay -->
+
+### Action Delay
+The default action delay for the setting is what all new characters in the setting will start with. This will guarantee that most of the characters in the setting are at about the same speed in combat and chases. Because it is just a default and can be modified it also allows for some characters to be faster or slower than the average character.
 <!-- character points -->
 <!-- common skills -->
-<!-- mandatory skills -->
+
+### Mandatory Skills
+Mandatory skills are those that every character must have to be make sure they will not have checks that they should be able to roll but cannot. For instance, `seeing` and `hearing` are both skills almost every humanoid character should have so that they can perceive the game world. Every character must have one level in every mandatory skill but can take more levels if they wish.
 <!-- spacial scope -->
 <!-- technology/magic -->
 <!-- store, black market, currency, templates w/ price ratios -->
@@ -351,14 +363,10 @@ Money in Tabula is handled with things called AUCs. An AUC is an arbitrary unit 
 I think to actually make the store on the setting it should be the four columns with various goods underneath them. (columns are trivial, minor, major, and priceless)
 
 <!--
-    baseline currency to AUCs to prices ratio
     fill in th rest of the fields with lore shit i guess -->
-<!-- how to make an adventure
-    with a flowchart/tree template! -->
 <!-- npcs
-    grouping them for combat is a pain. instead create squads.
-    planned NPCs and leveling them.
-    unplanned NPCs -->
+    grouping them for combat is a pain. instead create squads. squads always act as a group and have enormous stats? eh, they don't work well for this.
+ -->
 
 ### NPCs
 
