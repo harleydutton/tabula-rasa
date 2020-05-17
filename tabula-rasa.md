@@ -30,8 +30,19 @@ The roleplaying system is generic so it will work with any Setting produced by t
   - [Progression](#progression-1)
   - [Contests as checks](#contests-as-checks)
 - [Flavor](#flavor)
+  - [Deals](#deals)
+  - [Negative Flavor](#negative-flavor)
+  - [Vehicles and Properties](#vehicles-and-properties)
+  - [Knowledge](#knowledge)
+  - [Supernatural Flavor](#supernatural-flavor)
+  - [Social Flavor](#social-flavor)
+  - [Physical](#physical)
+  - [Items](#items)
+    - [Crafting](#crafting)
   - [money](#money)
     - [Money2](#money2)
+  - [Followers](#followers)
+  - [Acquisition](#acquisition-1)
 - [Combat](#combat)
   - [Rolling Initiative](#rolling-initiative)
   - [Transitions](#transitions)
@@ -191,11 +202,37 @@ Skills level up once they have been used a number of times equal to their level.
 Each participant in the contest rolls. Anyone who fails is eliminated/loses. If using a dice system where magnitude of success is easy to calculate the player with the most successes wins the contest. Contestants can tie. All modifiers apply to the checks as normal.
 
 # Flavor
-<!-- definition -->
-<!-- examples -->
-<!-- things (equipment, money, vehicles)
-    from setting: store and black market
-    crafting -->
+Flavor is a mechanic in Tabula used to describe the interesting parts of a character. Almost anything unique that a character *is* or *has* is likely to be flavor. Flavor is used primarily for DTMS (does this make sense) checks and modifying the difficulty on checks. A few examples of flavor might be `armor`, `horse`, `landed noble`, `flaming sword`, `elf`, `big and tall`, etc. for an elvish knight of the summer court. Each piece of flavor should be a short, evocative description.
+
+## Deals
+At character creaton you may have noticed that there is no way to modify action delay. There is also no way to get any special racial abilities. There is also no way to become rich and famous. Etc. The point is you have to talk to the storyteller when you are creating your character, ask for the things you want, and represent them as flavor. Sometimes the things you want are OP as shit and the DM will want to keep your character in line by raising the cost above the normal for what you are asking for. Want to be super fast? Have -2 action delay by being a vampire (instand death by sunlight). Want to be big enough you can throw cars? Become a Treant for +3 action delay and a vulnerability to fire. Perhaps you can be a world famous boxer if you also have some gambling debts. The point is, talk to your DM and work it out. Sometimes it is appropriate to add a deal to the setting such that it is available to all players and NPCs.
+
+## Negative Flavor
+Negative flavor is usually gotten in two ways. The first way is usually through deals. Rather than asking for a piece of flavor that does something good and something bad a player might ask for a piece of flavor that is mostly bad and ask to be compensated for it. In return for their character being blind a player might ask that their character be *paid* 3 or 4 CP rather than spending 1 for that piece of flavor.
+The second way characters usually get negative flavor is from combat. When one character lops off another's hand with a sword that new `-1 hand` will need to be remembered unless that character ceases to matter. Flavor can handle arbitrary negative effects like wounds perfectly.
+
+## Vehicles and Properties
+Horses, boats, spaceships, cars, planes, tanks, etc.
+Houses, castles, countries, skyscrapers, private islands, secret bases, etc.
+
+## Knowledge
+Knowledge should be represented as flavor unless that knowledge would be better represented as a skill. You cannot have a flavor and skill that are functionally identical such that the flavor just lowers the difficulty on all of that skills checks. Languages, secrets, history, specific domains of skilled labor, culture, religious rites, etc. are all examples of in character knowledge that should be represented as flavor.
+
+## Supernatural Flavor
+Supernatural flavor is how one might represent being a priest to a specific god. Seriously just put down `priest of Khorn` to be that. Similarly if a character is `haunted`, `blessed`, or in a `demonic pact` just put those things down. That covers the social aspect of supernatual flavor. On the other hand a character could be `magically adept`, `unnaturally sweaty`, or `the chosen one`.
+<!-- this supernatural column has illuminated the dichotomy in flavor as either being some kind of social relationship or an inherent quality-->
+
+## Social Flavor
+The in-game doors that position and status unlock are also represented by flavor. Typically this might look like `respected businessman`, `landed noble`, `kings advisor`, or `internet personality`. The effect of this stuff is purely RP and it will be up to the player to use it to its fullest. A character's job is always worth having as flavor because this has social implications in most societies. A character may or may not have a reputation but if they do it is worth putting down what it is and what group of people will know about it.
+
+## Physical
+Physicality is also represented as flavor. This includes but is not limited to body type, species, race, deformities, aesthetic, and disabilities. An example of each, in order, would be `fat`, `human`, `white`, `missing an ear`, `well dressed`, and `peg-leg`.
+
+## Items
+Unlike most other roleplaying games which have extensive tables for equipment, in Tabula I have opted to represent equipment as flavor. This means that armor, weapons, tools, vehicles, and treasure should be represented as flavor. Typically equipment will modify the difficulty of checks with relevant skills sometimes reducing the difficulty from `impossible` and effectively granting a character new abilities.
+
+### Crafting
+In Tabula, crafting is just a skill check. Describe what you want and how you plan on using your crafting skill to get it, ask the DM what the difficulty is, and make the roll. If you succeed you get the desired item, likely with some narritive flair. If you fail you get nothing and any materials and time that went into the crafting are likely consumed.
 
 ## money
 I am thinking i want to have a chart somewhere that handles things like store prices and loot by asking the dm to define one unit of currency and then derive all the prices in their world based on some percentage or multiple of this. this would also give the DM a good time to think about what things are available or not and what things are scarce or plentiful and adjust prices and availability accordingly. Talk about money in the doc as AUCs (arbitrary units of currency). really I think this should be a part of the "settings" section.
@@ -203,12 +240,12 @@ If i decide to give items a level/numeric value it would make sense to have them
 
 ### Money2
 I would like to handle money the way stefan handled it in "What Stars!". The way he did this was by having VTM style resource backgrounds with some minor mods. Each background gives you either a major purchase or three minor purchases. they regenerate based on story stuff. major and minor purchases can purchase things like that. Minor purchases might be a night at an inn or a meal at a restaurant. Major purchases would be things like weapons and armor and jewelery and horses and spaceships and shit. Some things might cost multiple major purchases. Trivial purchases should be day-to-day expenses like food.
-<!-- followers -->
-<!-- wounds -->
-<!-- knowledge -->
-<!-- social (standing, reputation, position, occupation, respect) -->
-<!-- physique (race, mutations, disabilities) -->
-<!-- acquisition -->
+
+## Followers
+If you have someone following you around you should list them as flavor or make a character sheet for them. Any animal companions, demonic familiars, slaves, shipboard AI, or loyal friends should be either listed as flavor or have their own character sheet made or both. Whatever is most apt. Consult the deals section and the storyteller.
+
+## Acquisition
+Flavor can be gotten in three ways. First, it can be asked for an paid for with CP at character creation. It typically costs 1 CP per word for flavor at character creation unless modified by a deal. Second, it can be earned and paid for during the story similarly to at character creation. The only difference is that the storyteller may make you spend time in character to earn the flavor you want. Thirdly, flavor might be given to or inflicted upon a character as a result of the story. Lands and title may be given to a peasant after he rescues the princess but he may have also taken some fire damage from the dragon guarding here and have a half-melted face now.
 
 # Combat 
 Combat in Tabula, like many RPGs, is turn based.

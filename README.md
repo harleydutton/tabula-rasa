@@ -27,7 +27,7 @@ The roleplaying system is generic so it will work with any Setting produced by t
 | rolling checks     | how to roleplay          |
 | settings           | source material          |
 | combat mechanics   | forming the PC party     |
-| setting creation   |                          |
+| setting creation   | storyteller section      |
 |                    |                          |
 |                    |                          |
 
@@ -38,7 +38,7 @@ Characters will not have health, items will not have numeric values associated w
 <!--The alternative would be to make a bunch of tables for and formulas for stuff-->
 ### No leveling up
 <!-- Characters will start with a number of character points determined by the storyteller. -->
-Characters will not level up but skills will. Characters will not have levels or experience. Instead _skills_ will level up when the character passes a number of checks with the skill equal to the skill's level. Track a each skill's experience with tally marks next to the skill. To combat experience whoring, a character can train for 8 hours in game to make one check with the skill.
+Characters will be created and level up using CP. This will make it easy to maintain the power level of the group and create characters quickly. The "Elder Scrolls Leveling" was neat but it was tedious and reuired lots of bookkeeping. It also gave players a perverse incentive to experience whore, manipulate check difficulty in strange ways, and it would over-reward skills a player used frequently even if the player wanted to be more focused in something they used infrequently. Lockpicking vs swordfighting.
 ### Gambits
 At its most basic a gambit is a deal you make with the storyteller. Anyone can propose a gambit but all parties must agree before the dice are rolled for the gambit to take effect.
 <!--Two common gambits would be to go for a called shot in combat or to take your time with an action out of combat. Raise the difficulty for the called shot and make it insta-kill. Lower the difficulty for the careful action and lower the quality of a success.-->
