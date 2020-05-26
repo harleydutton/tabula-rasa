@@ -62,15 +62,13 @@ ELDER SCROLLS LEVELING DOWNTIME: you can easily experience whore unless the DM g
 4. subsections
 
 ## To-Do
-- learn how to imbbed images in markdown
-- start at 'the end' and merge old sections into outline
-- edit "checks" section
-- refine section names using toc
-	- start defining subsections
+- learn how to embed images in markdown
+- add motivations to character creation
+- edit "checks" section for eldritch horror style checks
+- add subsections to character creation
+- add subsections to setting section
 - export as PDF
-- spelling and grammar check
-- way to merge multiple markdown files? (feature flag sections)
-- upgrade the character sheet in the CC section
+- add spelling and grammar check plugin
 
 ## Legend
 examples of skills and flavor will be `monospace`

@@ -13,36 +13,41 @@ The roleplaying system is generic so it will work with any Setting produced by t
 - [Table of Contents](#table-of-contents)
 - [Character Creation](#character-creation)
   - [Character Sheet](#character-sheet)
+- [getting started (fill me out or merge with how ot play)](#getting-started-fill-me-out-or-merge-with-how-ot-play)
 - [How to Play](#how-to-play)
-  - [Checks](#checks)
-    - [Difficulty](#difficulty)
-    - [Nested Checks](#nested-checks)
-    - [Progression](#progression)
-    - [Event Die](#event-die)
-    - [Gambits](#gambits)
-    - [Magnitude of Success](#magnitude-of-success)
-    - [Example](#example)
-    - [Contests](#contests)
+- [Checks](#checks)
+  - [Difficulty](#difficulty)
+  - [Nested Checks](#nested-checks)
+  - [Progression](#progression)
+  - [Event Die](#event-die)
+  - [Gambits](#gambits)
+  - [Magnitude of Success](#magnitude-of-success)
+  - [Example](#example)
+  - [Contests](#contests)
 - [Skills](#skills)
   - [Mandatory Skills](#mandatory-skills)
   - [Common Skills](#common-skills)
   - [Acquisition](#acquisition)
   - [Progression](#progression-1)
-  - [Contests as checks](#contests-as-checks)
+  - [Mandatory Skills](#mandatory-skills-1)
+  - [Available Skills](#available-skills)
 - [Flavor](#flavor)
-  - [Deals](#deals)
+  - [Acquisition](#acquisition-1)
   - [Negative Flavor](#negative-flavor)
-  - [Vehicles and Properties](#vehicles-and-properties)
-  - [Knowledge](#knowledge)
-  - [Supernatural Flavor](#supernatural-flavor)
-  - [Social Flavor](#social-flavor)
-  - [Physical](#physical)
+  - [Deals](#deals)
   - [Items](#items)
     - [Crafting](#crafting)
-  - [money](#money)
-    - [Money2](#money2)
-  - [Followers](#followers)
-  - [Acquisition](#acquisition-1)
+  - [Money](#money)
+    - [Trivial Purchases](#trivial-purchases)
+    - [Minor Purchases](#minor-purchases)
+    - [Major Purchases](#major-purchases)
+    - [Priceless Purchases](#priceless-purchases)
+  - [Social Flavor](#social-flavor)
+  - [Supernatural Flavor](#supernatural-flavor)
+  - [Relationships](#relationships)
+  - [Knowledge](#knowledge)
+  - [Vehicles and Properties](#vehicles-and-properties)
+  - [Physical](#physical)
 - [Combat](#combat)
   - [Rolling Initiative](#rolling-initiative)
   - [Transitions](#transitions)
@@ -68,15 +73,21 @@ The roleplaying system is generic so it will work with any Setting produced by t
   - [Detected](#detected)
   - [Suprise](#suprise)
 - [Lying and Detecting Lies](#lying-and-detecting-lies)
-- [Persuasion and Willpower](#persuasion-and-willpower)
+- [Persuasion, Willpower, and Motivations](#persuasion-willpower-and-motivations)
+  - [Persuasion](#persuasion)
+  - [Motivations](#motivations)
   - [Willpower](#willpower)
 - [Setting](#setting)
   - [Description](#description)
   - [Action Delay](#action-delay)
   - [Character Points](#character-points)
-  - [Mandatory Skills](#mandatory-skills-1)
+  - [Common/Available skills](#commonavailable-skills)
+  - [Mandatory Skills](#mandatory-skills-2)
+  - [Spacial Scope](#spacial-scope)
+  - [Technology and Magic](#technology-and-magic)
+  - [Store](#store)
 - [Glossary of Terms](#glossary-of-terms)
-- [Storyteller section](#storyteller-section)
+- [Storyteller section  (perhaps merge this section with the related sections and include @storyteller: tags)](#storyteller-section-perhaps-merge-this-section-with-the-related-sections-and-include-storyteller-tags)
   - [Making a Setting](#making-a-setting)
     - [Description](#description-1)
     - [Action Delay and AUTs](#action-delay-and-auts)
@@ -86,7 +97,7 @@ The roleplaying system is generic so it will work with any Setting produced by t
       - [Limiting factors](#limiting-factors)
     - [Money and Making the Store](#money-and-making-the-store)
   - [NPCs](#npcs)
-    - [Persuasion](#persuasion)
+    - [Persuasion](#persuasion-1)
     - [Planned NPCs](#planned-npcs)
     - [Unplanned NPCs](#unplanned-npcs)
     - [grouping NPCS](#grouping-npcs-1)
@@ -99,7 +110,7 @@ Characters need skills, flavor and an action delay to be playable. The first thi
 First fill out the top of your character sheet. In order, the boxes should contain the character's name, the character's concept, the setting's name, your name, and the setting's action delay. A character concept can be thought of as the canonical or stereotypical version of something. The setting's action delay can be found in the upper left corner of the setting template.
 
 Second, your character needs [skills](#skills). Skills are used to roll checks which is how a character interacts with the game world. Skills are usually self-descriptively named and have levels. The higher level the skill the better at it a character is.
-There are two kinds of skills. Mandatory skills and the normal kind. Mandatory skills are skills every character _needs_ within the setting. They are listed at the top of the skills section in the setting. Add all of the mandatory skills to your character sheet. The rest of the skills are those that are common within the setting and you can take any of them you can afford. Players can also propose to the storyteller that skills be added to the setting. You pay for your starting skills using character points. Starting character points are listed in the upper left of the setting. Skills cost a number of character points equal to the level you want the skill to start at.
+There are two kinds of skills. Mandatory skills and the normal kind. Mandatory skills are skills every character _needs_ within the setting. They are listed at the top of the skills section in the setting. Add all of the mandatory skills to your character sheet. The rest of the skills are those that are common within the setting and you can take any of them you can afford. Players can also propose to the storyteller that skills be added to the setting. You pay for your starting skills using character points. Starting character points are listed in the upper left of the setting. Skills cost a number of character points equal to the level you want the skill to start at. An important note about skills is that players are enocuraged to add new skills to the list of available skills in the setting. Storyteller approval is required for a skill to to be added to the setting.
 
 ```
 Example mandatory skills: willpower, strength, magic, dexterity, charisma
@@ -122,6 +133,8 @@ Third, your character needs [flavor](#flavor). Flavor is a word or short phrase 
 | 1     |      |     |      |
 | 1     |      |     |      |
 
+# getting started (fill me out or merge with how ot play)
+
 # How to Play
 Tabula Rasa is a roleplaying game. Experienced roleplayers can now proceed to the [Checks](#checks) section. For everyone else, roleplaying is a form of collaborative, improvizational storytelling.
 
@@ -133,10 +146,10 @@ A night of roleplaying usually lasts anywhere from two to six hours and usually 
 
 Most good stories include conflict. This will usually end up being between the the player-characters and either NPCs or some other element in the story. When a conflict arises, resolve it by rolling a skill-check. Please see the [checks](#checks) section for help with this.
 
-## Checks
+# Checks
 When conflict occurs during roleplaying the fairest way to resolve it most times is by rolling a skill-check. A skill-check is where one of a character's skills is tested against some number of dice which represent the difficulty of the task. If the character's skill is greater than or equal to the sum of the dice then the character passes the skill-check. Usually this will also mean that whatever the character was attmepting to accomplish succeeds. If the dice are greater than the character's skill level the action fails and something bad might happen. The number of dice depends on the difficulty of the task. Flavor can influence difficulty.
 
-### Difficulty
+## Difficulty
 The difficulty of a skill check can be modified by a number of things. A character's flavor, other characters, and the world itself can all cause a skill-check to become easier or harder. The storyteller decides if any of these things is meaningful enough to make the roll easy or hard.
 | subjective difficulty | dice representation  |
 | --------------------- | -------------------- |
@@ -146,20 +159,19 @@ The difficulty of a skill check can be modified by a number of things. A charact
 | harder                | pass if skill >= 4d6 |
 | etc.                  | pass if skill >= 5d6 |
 
-### Nested Checks
+## Nested Checks
 If a character is trying to do two things at once, juggling while doing a backflip for instance, just increase the difficulty. If a player is doing two things that are radically different, that is the apropriate time to make two skill checks. (Doing a backflip and casting a spell)
 
-### Progression
+## Progression
 To level up a skill you need to pass skill checks with it. Whenever you pass a skill-check with a skill add one to that skill's experience. When the skill's experience is equal to it's level it levels up and the experience resets to zero. You can only level up a skill at level one by making the check easy.
 
-### Event Die
+## Event Die
 The storyteller can introduce the event die whenever they want. Basically when a check is rolled an additional d6 is rolled. If this d6 comes up 1 something bad might happen and if it comes up 6 something good might happen. It is best to have an extra d6 of a different color if you are going to add the event die to every roll. The event die is a convenient way to handle crits and crit fails in this system.
 
-### Gambits
+## Gambits
 Gambits are where you make a deal with the storyreller to modify the the difficulty of a check, the pass-effect, and the fail-effect. You might ask for something special to happen on a success in exchange for an increase in difficulty.
 
-### Magnitude of Success
-
+## Magnitude of Success
 If you ever need a magnitude of success for a roll, like damage or crafting, just roll a single d6 and use this chart.
 
 | Die result | Magnitude of success |
@@ -173,12 +185,13 @@ If you ever need a magnitude of success for a roll, like damage or crafting, jus
 
 
 
-### Example
+## Example
 <!-- this should be right after the description probably? -->
 For example lets say John, the NPC character wants to do a backflip. The first thing John will do is look for a relevant skill on his character sheet. `Acrobatics`, `athletics`, `dexterity`, `phisique` or anything similar will work for this check. Lets say John has an `acrobatics` score of 11. Lets also say John has the flavor `leg wound` from a fight he got into recently. This would make the check hard, so john would be rolling 3d6 against his 11 in `acrobatics`. Lets say John gets a sum of 10 on the dice. This means John was able to successfully do a backflip despite his `leg wound`.
 
-### Contests
-For contests like arm wrestling, racing, or anything else where two known values are being compared (both character's skill values are known so dice aren't needed) just have each roll a check as normal. Do this until one character fail's a check. If neither character can fail the check the stroyteller decides what happens.
+## Contests
+For contests rather than just looking at whether or not a character succeeded look at the magnitude of success. Magnitude of success is how many successes were rolled on the contest check. The character with the most wins the contest.
+Examples of contests include arm wrestling and racing. Characters can tie contests.
 
 # Skills 
 Each character has a list of skills representing the actions they can take in the story. Skills do have to be things that a character can *do* which also means they have to be able to fail as well. The setting will have a comprehensive list of skills available in the setting.
@@ -195,38 +208,25 @@ New skills can be obtained at character creation by taking them off the list of 
 
 ## Progression
 Skills level up once they have been used a number of times equal to their level. For example, to level up a level 7 `sword-fighting` a player would need to succeed at 7 `sword-fighting` checks. This usually means this will require over 7 attempts because failures do not earn exp. Mark successes next to the skill on your character sheet. 
-<!-- common skills -->
-<!-- mandatory skills -->
 
-## Contests as checks
-Each participant in the contest rolls. Anyone who fails is eliminated/loses. If using a dice system where magnitude of success is easy to calculate the player with the most successes wins the contest. Contestants can tie. All modifiers apply to the checks as normal.
+## Mandatory Skills
+Mandatory skills are those that every character must take some levels in. This is meant to represent the skills that every character should naturally have access to like `seeing`, `strength`, and `persuasion`. Granted, there are some characters who will have flavor that renders these skills useless or remove them entirely. The flavors `blind` and `paralyzed` come to mind.
+
+## Available Skills
+Available skills are those that are present in the setting but that not everyone has. They can be rare or common like `surgery` and `driving` are in modern times. The point is that not *every* character has them but most characters are able to learn these skills. Some more modern-day exmaples are cooking, driving, computer programming, basketball, and surgery.
 
 # Flavor
 Flavor is a mechanic in Tabula used to describe the interesting parts of a character. Almost anything unique that a character *is* or *has* is likely to be flavor. Flavor is used primarily for DTMS (does this make sense) checks and modifying the difficulty on checks. A few examples of flavor might be `armor`, `horse`, `landed noble`, `flaming sword`, `elf`, `big and tall`, etc. for an elvish knight of the summer court. Each piece of flavor should be a short, evocative description.
 
-## Deals
-At character creaton you may have noticed that there is no way to modify action delay. There is also no way to get any special racial abilities. There is also no way to become rich and famous. Etc. The point is you have to talk to the storyteller when you are creating your character, ask for the things you want, and represent them as flavor. Sometimes the things you want are OP as shit and the DM will want to keep your character in line by raising the cost above the normal for what you are asking for. Want to be super fast? Have -2 action delay by being a vampire (instand death by sunlight). Want to be big enough you can throw cars? Become a Treant for +3 action delay and a vulnerability to fire. Perhaps you can be a world famous boxer if you also have some gambling debts. The point is, talk to your DM and work it out. Sometimes it is appropriate to add a deal to the setting such that it is available to all players and NPCs.
+## Acquisition
+Flavor can be gotten in three ways. First, it can be asked for an paid for with CP at character creation. It typically costs 1 CP per word for flavor at character creation unless modified by a deal. Second, it can be earned and paid for during the story similarly to at character creation. The only difference is that the storyteller may make you spend time in character to earn the flavor you want. Thirdly, flavor might be given to or inflicted upon a character as a result of the story. Lands and title may be given to a peasant after he rescues the princess but he may have also taken some fire damage from the dragon guarding here and have a half-melted face now.
 
 ## Negative Flavor
 Negative flavor is usually gotten in two ways. The first way is usually through deals. Rather than asking for a piece of flavor that does something good and something bad a player might ask for a piece of flavor that is mostly bad and ask to be compensated for it. In return for their character being blind a player might ask that their character be *paid* 3 or 4 CP rather than spending 1 for that piece of flavor.
 The second way characters usually get negative flavor is from combat. When one character lops off another's hand with a sword that new `-1 hand` will need to be remembered unless that character ceases to matter. Flavor can handle arbitrary negative effects like wounds perfectly.
 
-## Vehicles and Properties
-Horses, boats, spaceships, cars, planes, tanks, etc.
-Houses, castles, countries, skyscrapers, private islands, secret bases, etc.
-
-## Knowledge
-Knowledge should be represented as flavor unless that knowledge would be better represented as a skill. You cannot have a flavor and skill that are functionally identical such that the flavor just lowers the difficulty on all of that skills checks. Languages, secrets, history, specific domains of skilled labor, culture, religious rites, etc. are all examples of in character knowledge that should be represented as flavor.
-
-## Supernatural Flavor
-Supernatural flavor is how one might represent being a priest to a specific god. Seriously just put down `priest of Khorn` to be that. Similarly if a character is `haunted`, `blessed`, or in a `demonic pact` just put those things down. That covers the social aspect of supernatual flavor. On the other hand a character could be `magically adept`, `unnaturally sweaty`, or `the chosen one`.
-<!-- this supernatural column has illuminated the dichotomy in flavor as either being some kind of social relationship or an inherent quality-->
-
-## Social Flavor
-The in-game doors that position and status unlock are also represented by flavor. Typically this might look like `respected businessman`, `landed noble`, `kings advisor`, or `internet personality`. The effect of this stuff is purely RP and it will be up to the player to use it to its fullest. A character's job is always worth having as flavor because this has social implications in most societies. A character may or may not have a reputation but if they do it is worth putting down what it is and what group of people will know about it.
-
-## Physical
-Physicality is also represented as flavor. This includes but is not limited to body type, species, race, deformities, aesthetic, and disabilities. An example of each, in order, would be `fat`, `human`, `white`, `missing an ear`, `well dressed`, and `peg-leg`.
+## Deals
+At character creaton you may have noticed that there is no way to modify action delay. There is also no way to get any special racial abilities. There is also no way to become rich and famous. Etc. The point is you have to talk to the storyteller when you are creating your character, ask for the things you want, and represent them as flavor. Sometimes the things you want are OP as shit and the DM will want to keep your character in line by raising the cost above the normal for what you are asking for. Want to be super fast? Have -2 action delay by being a vampire (instand death by sunlight). Want to be big enough you can throw cars? Become a Treant for +3 action delay and a vulnerability to fire. Perhaps you can be a world famous boxer if you also have some gambling debts. The point is, talk to your DM and work it out. Sometimes it is appropriate to add a deal to the setting such that it is available to all players and NPCs.
 
 ## Items
 Unlike most other roleplaying games which have extensive tables for equipment, in Tabula I have opted to represent equipment as flavor. This means that armor, weapons, tools, vehicles, and treasure should be represented as flavor. Typically equipment will modify the difficulty of checks with relevant skills sometimes reducing the difficulty from `impossible` and effectively granting a character new abilities.
@@ -234,22 +234,42 @@ Unlike most other roleplaying games which have extensive tables for equipment, i
 ### Crafting
 In Tabula, crafting is just a skill check. Describe what you want and how you plan on using your crafting skill to get it, ask the DM what the difficulty is, and make the roll. If you succeed you get the desired item, likely with some narritive flair. If you fail you get nothing and any materials and time that went into the crafting are likely consumed.
 
-## money
-I am thinking i want to have a chart somewhere that handles things like store prices and loot by asking the dm to define one unit of currency and then derive all the prices in their world based on some percentage or multiple of this. this would also give the DM a good time to think about what things are available or not and what things are scarce or plentiful and adjust prices and availability accordingly. Talk about money in the doc as AUCs (arbitrary units of currency). really I think this should be a part of the "settings" section.
-If i decide to give items a level/numeric value it would make sense to have them be orders of magnitude more and less expensive based on those numbers.
+## Money
+In Tabula, money is represented even more abstractly than usual as flavor. Before we get into that lets talk about how money spends in roleplaying games. A simple breakdown of prices would be to say that things can be non-numerically priced as trivial, minor, major, priceless. The legality and availability of items will vary with the story. It is intended that minor and major purchases be acquired through roleplaying.
 
-### Money2
-I would like to handle money the way stefan handled it in "What Stars!". The way he did this was by having VTM style resource backgrounds with some minor mods. Each background gives you either a major purchase or three minor purchases. they regenerate based on story stuff. major and minor purchases can purchase things like that. Minor purchases might be a night at an inn or a meal at a restaurant. Major purchases would be things like weapons and armor and jewelery and horses and spaceships and shit. Some things might cost multiple major purchases. Trivial purchases should be day-to-day expenses like food.
+### Trivial Purchases
+Trivial purchases are things like food, clothes, entertainment, ammunition, and gasoline that should typically be available to the players with little fuss. Trivial purchases are small enough that players don't have to keep track of the money used for trivial purchases at all. It is assumed that characters have either income or savings from which they spend to pay for their trivial purchases with no meaningful net gain or loss. (w00t communisim; w00t privledge).
 
-## Followers
-If you have someone following you around you should list them as flavor or make a character sheet for them. Any animal companions, demonic familiars, slaves, shipboard AI, or loyal friends should be either listed as flavor or have their own character sheet made or both. Whatever is most apt. Consult the deals section and the storyteller.
+### Minor Purchases
+Next, minor purchases are things like tools, weapons and armor, vehicles, medicine, and jewelrey. Minor purchases are typically worth one CP and should be represented as the flavor `minor purchase`. A character can have multiple of the `minor purchase` flavor.
 
-## Acquisition
-Flavor can be gotten in three ways. First, it can be asked for an paid for with CP at character creation. It typically costs 1 CP per word for flavor at character creation unless modified by a deal. Second, it can be earned and paid for during the story similarly to at character creation. The only difference is that the storyteller may make you spend time in character to earn the flavor you want. Thirdly, flavor might be given to or inflicted upon a character as a result of the story. Lands and title may be given to a peasant after he rescues the princess but he may have also taken some fire damage from the dragon guarding here and have a half-melted face now.
+### Major Purchases
+Major purchases are just like minor purchases except they can purchase more expensive things. Major purchases can typically purchase companies, elite training, houses, spaceships and the like. Major purchases should be represented as the flavor `major purchase` as many times as is necessary.
+
+### Priceless Purchases
+Lastly and of least importance we have priceless purchases. Priceless purchases are things that are so expensive that no character has any hope of ever purchasing them.
+
+## Social Flavor
+The in-game doors that position and status unlock are also represented by flavor. Typically this might look like `respected businessman`, `landed noble`, `kings advisor`, or `internet personality`. The effect of this stuff is purely RP and it will be up to the player to use it to its fullest. A character's job is always worth having as flavor because this has social implications in most societies. A character may or may not have a reputation but if they do it is worth putting down what it is and what group of people will know about it.
+
+## Supernatural Flavor
+Supernatural flavor is how one might represent being a priest to a specific god. Seriously just put down `priest of Khorn` to be that. Similarly if a character is `haunted`, `blessed`, or in a `demonic pact` just put those things down. That covers the social aspect of supernatual flavor. On the other hand a character could be `magically adept`, `unnaturally sweaty`, or `the chosen one`.
+
+## Relationships
+If you have another character as a companion you should list them as flavor or make a character sheet for them. Any animal companions, demonic familiars, slaves, shipboard AI, or loyal friends should be either listed as flavor or have their own character sheet made or both. Whatever is most apt. Consult the deals section and the storyteller.
+
+## Knowledge
+Knowledge should be represented as flavor unless that knowledge would be better represented as a skill. You cannot have a flavor and skill that are functionally identical such that the flavor just lowers the difficulty on all of that skills checks. Languages, secrets, history, specific domains of skilled labor, culture, religious rites, etc. are all examples of in character knowledge that should be represented as flavor.
+
+## Vehicles and Properties
+Horses, boats, spaceships, cars, planes, tanks, etc.
+Houses, castles, countries, skyscrapers, private islands, secret bases, etc.
+
+## Physical
+Physicality is also represented as flavor. This includes but is not limited to body type, species, race, deformities, aesthetic, and disabilities. An example of each, in order, would be `fat`, `human`, `white`, `missing an ear`, `well dressed`, and `peg-leg`.
 
 # Combat 
-Combat in Tabula, like many RPGs, is turn based.
-<!-- description of process -->
+Combat in Tabula, like many RPGs, is turn based. Players will take turns describing their action, rolling checks to determine the result of their attempted actions, and the storyteller will narrate how things unfold.
 
 ## Rolling Initiative
 To start a combat scene each character involved will need to roll initiative. To do this each character rolls one d6. The number of pips represents how many turns it will be until that character can act in the combat. I haven't decided if starting delay should be 1d6 or 1d6+AD (AD=a characters action delay).
@@ -343,13 +363,17 @@ When a character or synchronized group of hidden characters start a combat they 
 <!-- fooled -->
 <!-- caught -->
 
-# Persuasion and Willpower
-<!-- motivations -->
+# Persuasion, Willpower, and Motivations
+
+## Persuasion
+Persuasion is a mandatory skill in most settings. It is any character's ability to pursuade another character to think or do something. It is resisted by willpower and the difficulty of both rolls is strongly affected by motivations.
+
+## Motivations
+Motivations are what a character wants. These are a characters dreams, long term goals, morality, and fears. Some examples of motivations are `family legacy`, `money`, `serving the gods`, `following the law`, `afraid of spiders`, `pride`, and many many more. Motivations strongly influence the difficulty of most persuasion and willpower rolls.
 
 ## Willpower
 You can only defend if you know you are being attacked. if we have attributes all characters get a check against persuasion. otherwise they don't unless they have a relevant skill. Mandatory skills make this a lot better. Everyone has to have the `willpower` skill perhaps?
-this is a good time to mention that when you try to convince a character of something they dont _have_ to be convinced. instead they can thing about it a bit and roll some relevant "resist persuasion" rolls which probably uses __willpower__.
-<!-- should this even be a section? -->
+this is a good time to mention that when you try to convince a character of something they dont _have_ to be convinced. instead they can thing about it a bit and roll some relevant "resist persuasion" rolls which probably uses __willpower__. It is worth noting that not every persuasion roll needs an acompanying willpower roll to resist it. Sometimes a character has no reason to attempt to rest a persuasion roll.
 
 # Setting
 A setting is a template for worldbuilding. It includes a description of the world, the typical speed of characters in the world for combat purposes, how many character points new characters in the world should start with, a list of mandatory skills, and a list of skills common within the setting. The description usually includes a the technologocal level, magic, history, spacial/geographic scope, flora, fauna, biomes, natural resources, items, culture, store, etc.
@@ -362,13 +386,21 @@ The default action delay for the setting is what all new characters in the setti
 
 ## Character Points
 Character Points, also known as CP, are a resource used by players throughout the game to take new skills and flavor and level up existing skills. The suggested starting character points for a setting is basically a recommendation for starting level. If characters start with 30 CP rather than 25 they will be a little stronger on average. There is usually a positive correlation between the number of mandatory skills in a setting and the starting CP.
-<!-- common skills -->
+
+## Common/Available skills
+Available skills are skills that every character in a setting has access to. Any character can learn these skills with storyteller approval either at character creation or during the story. Players are encouraged to suggest additions to the list of available skills for the setting. Available skills are where characters get their options for interesting actions. A few examples of available skills are `swordfighting`, `necromancy`, `seduction`, and `piloting`. Available skills can be purchased with CP at character creation and during the story by any character. Characters do not need to have every available skill.
 
 ## Mandatory Skills
 Mandatory skills are those that every character must have to be make sure they will not have checks that they should be able to roll but cannot. For instance, `seeing` and `hearing` are both skills almost every humanoid character should have so that they can perceive the game world. Every character must have one level in every mandatory skill but can take more levels if they wish.
-<!-- spacial scope -->
-<!-- technology/magic -->
-<!-- store, black market, currency, templates w/ price ratios -->
+
+## Spacial Scope
+Settings have a size. They might be the entire known universe but even that has a size. Tell your players what that is. It is worth noting that you can have settings that are smaller than the known world and have multiple settings within the same story. A map with a some kind of scale marker and a region marked out as the place the setting governs is a good idea.
+
+## Technology and Magic
+A couple of initial questions players usually have when they are making characters in a new setting are "Is there magic?" and "What is the technological level?" and for this reason the answers to these questions should be on the setting. They are commonly asked, important, and usually easy to answer. If there is any ficticious magic in the setting it should be described here.
+
+## Store
+<!-- use the various purchasing power columns trivial, minor, major, priceless and also include something for unavailable, illegal things -->
 <!-- social: history, institutions, culture, peoples, cities, countries, government -->
 <!-- physical: geography, biome, flora, fauna, natural resources -->
 <!-- template -->
@@ -386,7 +418,7 @@ Mandatory skills are those that every character must have to be make sure they w
 - Battlegrid: A battlegrid is a checkerboard or hex-tiled board game board, usually accompanied by figurines, that visually represents locations for combat in a roleplaying game.
 - RPG: Roleplaying Game. Also sometimes known as Table-top, or Table-top RPG.
 
-# Storyteller section 
+# Storyteller section  (perhaps merge this section with the related sections and include @storyteller: tags)
 <!-- this section is at risk of being super preachy. -->
 This section of the doc is to help storytellers play this system because it is a bit crazy. Making settings and NPCs will be the majority of this section though it is possible those should just be merged into their own sections in the main part of the book. There is some information that differs based on whether I am talking to a storyteller or a player though. Perhaps I should handle this in-line? Does any of it need to be kept secret from the players?
 
