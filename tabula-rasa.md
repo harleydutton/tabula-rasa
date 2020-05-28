@@ -1,5 +1,6 @@
-# Tabula Rasa (Introduction)
+<!-- i think here would be a good place for a banner image with "Tabula Rasa" on it-->
 
+# Introduction
 Tabula Rasa is a worldbuilding framework and a rules-light, generic roleplaying game that lets players create their own skills.
 
 The worldbuilding framework produces a Setting. Settings are short, standardized, and easily sharable descriptions of a single place within a world. The intent is that Settings can be used to quickly understand a part of the world such that a player can create a Character or the Storyteller can create an Adventure.
@@ -9,9 +10,17 @@ The roleplaying system is generic so it will work with any Setting produced by t
 # Table of Contents
 <!-- TOC -->
 
-- [Tabula Rasa (Introduction)](#tabula-rasa-introduction)
+- [Introduction](#introduction)
 - [Table of Contents](#table-of-contents)
 - [Character Creation](#character-creation)
+  - [Identification and Misc info](#identification-and-misc-info)
+  - [Motivations](#motivations)
+  - [Skills](#skills)
+    - [Player-Made Skills](#player-made-skills)
+      - [Adding player-made skills to a Setting](#adding-player-made-skills-to-a-setting)
+        - [problems with previous iterations of "players are allowed to create their own skills"](#problems-with-previous-iterations-of-players-are-allowed-to-create-their-own-skills)
+        - [Limiting factors](#limiting-factors)
+  - [Flavor](#flavor)
   - [Character Sheet](#character-sheet)
 - [getting started (fill me out or merge with how ot play)](#getting-started-fill-me-out-or-merge-with-how-ot-play)
 - [How to Play](#how-to-play)
@@ -24,14 +33,14 @@ The roleplaying system is generic so it will work with any Setting produced by t
   - [Magnitude of Success](#magnitude-of-success)
   - [Example](#example)
   - [Contests](#contests)
-- [Skills](#skills)
+- [Skills](#skills-1)
   - [Mandatory Skills](#mandatory-skills)
   - [Common Skills](#common-skills)
   - [Acquisition](#acquisition)
   - [Progression](#progression-1)
   - [Mandatory Skills](#mandatory-skills-1)
   - [Available Skills](#available-skills)
-- [Flavor](#flavor)
+- [Flavor](#flavor-1)
   - [Acquisition](#acquisition-1)
   - [Negative Flavor](#negative-flavor)
   - [Deals](#deals)
@@ -66,49 +75,45 @@ The roleplaying system is generic so it will work with any Setting produced by t
       - [Defensive Actions](#defensive-actions)
   - [Grouping NPCs](#grouping-npcs)
     - [War](#war)
-- [Stealth and Perception](#stealth-and-perception)
-    - [information in roleplaying](#information-in-roleplaying)
+- [Stealth and Perception (fill me out!)](#stealth-and-perception-fill-me-out)
+  - [Perception](#perception)
   - [Hidden](#hidden)
   - [Alerted](#alerted)
   - [Detected](#detected)
   - [Suprise](#suprise)
-- [Lying and Detecting Lies](#lying-and-detecting-lies)
+- [Lying](#lying)
+  - [Suspicious](#suspicious)
+  - [Fooled](#fooled)
+  - [Caught](#caught)
 - [Persuasion, Willpower, and Motivations](#persuasion-willpower-and-motivations)
   - [Persuasion](#persuasion)
-  - [Motivations](#motivations)
+  - [Motivations](#motivations-1)
   - [Willpower](#willpower)
 - [Setting](#setting)
-  - [Description](#description)
   - [Action Delay](#action-delay)
   - [Character Points](#character-points)
   - [Common/Available skills](#commonavailable-skills)
   - [Mandatory Skills](#mandatory-skills-2)
-  - [Spacial Scope](#spacial-scope)
   - [Technology and Magic](#technology-and-magic)
   - [Store](#store)
+  - [Social Description](#social-description)
+  - [Physical Description](#physical-description)
+    - [Spacial Scope](#spacial-scope)
 - [Glossary of Terms](#glossary-of-terms)
-- [Storyteller section  (perhaps merge this section with the related sections and include @storyteller: tags)](#storyteller-section-perhaps-merge-this-section-with-the-related-sections-and-include-storyteller-tags)
-  - [Making a Setting](#making-a-setting)
-    - [Description](#description-1)
-    - [Action Delay and AUTs](#action-delay-and-auts)
-    - [Starting Character Points](#starting-character-points)
-    - [Adding player-made skills to a Setting](#adding-player-made-skills-to-a-setting)
-      - [problems with previous iterations of "players are allowed to create their own skills"](#problems-with-previous-iterations-of-%22players-are-allowed-to-create-their-own-skills%22)
-      - [Limiting factors](#limiting-factors)
-    - [Money and Making the Store](#money-and-making-the-store)
-  - [NPCs](#npcs)
-    - [Persuasion](#persuasion-1)
-    - [Planned NPCs](#planned-npcs)
-    - [Unplanned NPCs](#unplanned-npcs)
-    - [grouping NPCS](#grouping-npcs-1)
 
 <!-- /TOC -->
 
 # Character Creation
 Characters need skills, flavor and an action delay to be playable. The first thing a player should do when making a character is take a look at the [setting](#setting), read through it and make sure they understand the world. Players can propose things be added to the setting because they are supposed to have a mild influence upon what exists within the setting.
 
+## Identification and Misc info
 First fill out the top of your character sheet. In order, the boxes should contain the character's name, the character's concept, the setting's name, your name, and the setting's action delay. A character concept can be thought of as the canonical or stereotypical version of something. The setting's action delay can be found in the upper left corner of the setting template.
 
+## Motivations
+<!-- is this its own section or should it be a part of flavor. misc info?-->
+Each character should have at least one motivation and probably not more than 5 though this number is flexible. Motivations describe at a high level what your character wants from the world in which the story takes place and gives the storyteller useful ways to interact with your character. NPCs should also have motivations to influence the difficulty of their persuasion and willpower tests.
+
+## Skills
 Second, your character needs [skills](#skills). Skills are used to roll checks which is how a character interacts with the game world. Skills are usually self-descriptively named and have levels. The higher level the skill the better at it a character is.
 There are two kinds of skills. Mandatory skills and the normal kind. Mandatory skills are skills every character _needs_ within the setting. They are listed at the top of the skills section in the setting. Add all of the mandatory skills to your character sheet. The rest of the skills are those that are common within the setting and you can take any of them you can afford. Players can also propose to the storyteller that skills be added to the setting. You pay for your starting skills using character points. Starting character points are listed in the upper left of the setting. Skills cost a number of character points equal to the level you want the skill to start at. An important note about skills is that players are enocuraged to add new skills to the list of available skills in the setting. Storyteller approval is required for a skill to to be added to the setting.
 
@@ -117,21 +122,79 @@ Example mandatory skills: willpower, strength, magic, dexterity, charisma
 Example skills: sword fighting, pyromancy, computer hacking, seduction
 ```
 
+### Player-Made Skills
+
+#### Adding player-made skills to a Setting
+Probably the coolest part of this system is that it allows players to make their own skills. This requires co-operation from you, the storyteller. Your job is to vet and occasionally veto skills players have proposed as additions to the setting. Rather than a veto however you can put some [limiting factors](#limiting-factors) on a skill to make it less disruptive.
+
+##### problems with previous iterations of "players are allowed to create their own skills"
+tl;dr players could make skills that were vague and applied to every scenario and then max them.
+- using incredibly broad skills that apply to every scenario. "social graces" applies to every social situation, provides little character depth, and makes it so a player can use the dice to walk all over the game.
+an example tree of skill scope
+> animal skills  
+>> riding  
+>>> horses  
+>>> camels  
+>>> elephants  
+>> driving  
+>>> oxen  
+>>> mules and horses  
+>>> dogs  
+>> care  
+>>> grooming  
+>>> feeding  
+>>> breeding  
+>>> veterinary  
+>>>> first aid  
+>>>> diagnosis  
+>>>> medicine  
+>>>> surgery    
+A character might know “knots” because they know the skill “sailing” and that’s fine even though the character is getting a lot of skills for free under the umbrella-skill of “sailing”. 
+On the other hand I encouraged THIS at one point.
+perhaps settings should include a list of default/common skills?
+there is something of a goldilocks zone for skill scope. Magic is too broat, fireball is too narrow, but fire magic is just right.
+
+##### Limiting factors
+To limit a how disruptive a skill can be to your story a few things are necessary. Firstly, make it clear to the players that while their character *might* be the first character to have a skill they will probably not be the only character to have this skill. Next adding a cooldown, timing restriction, or cost to a skill can go a long way to making the skill less disruptive. You will have to come up with your own rules regarding this. Keep in mind they should be short and simple.
+
+## Flavor
 Third, your character needs [flavor](#flavor). Flavor is a word or short phrase describing a character. It can include knowledge, possessions, physique, and even social position. Review the starting flavor options listed on the setting. This will almost always give your character a language, clothes, and equipment relevant for the setting. When the setting specifies a type of flavor but not what it is specifically you get to choose something that would fit within the setting. Add your choice of starting flavor to your character sheet. Afterward, add flavor to your character to describe them. Flavor costs one character point per after you have your starting flavor. Flavor is usually just that, flavor, but occasionally it can make checks easier or harder.
 
 ## Character Sheet
+<!-- replace everything here with an image of printable size-->
 | Character | Concept | Setting | Player | Action Delay |
 | --------- | ------- | ------- | ------ | ------------ |
-|           |         |         |        | 10           |
-| Skills    |         |         | Flavor |              |
+|           |         |         |        |              |
+
+> Skills
 
 | level | name | exp | desc |
 | ----- | ---- | --- | ---- |
-| 1     |      |     |      |
-| 1     |      |     |      |
-| 1     |      |     |      |
-| 1     |      |     |      |
-| 1     |      |     |      |
+|       |      |     |      |
+|       |      |     |      |
+|       |      |     |      |
+|       |      |     |      |
+| ...   | ...  | ... | ...  |
+
+> Flavor
+
+| Flavor |
+| ------ |
+|        |
+|        |
+|        |
+|        |
+| ...    |
+
+> Motivations
+
+| Motivations |
+| ----------- |
+|             |
+|             |
+|             |
+|             |
+| ...         |
 
 # getting started (fill me out or merge with how ot play)
 
@@ -332,41 +395,44 @@ I haven't found a good way to do this yet. One idea is to treat them as though t
 
 ### War
 Once the number of NCPs gets into the double digits it doesn't make a whole lot of sense to actually play the individual characters in combat. In this case the NPCs battle is best described narratively with the PCs party being able to influence the outcome directly. This is also a good time to include the event die.
+<!-- the second half of this section is from the storyteller section-->
+possibly include a mirror version of this system for the combat section
+provide some simple method of grouping NPCs in combat
+This will probably also end up being the mechanic for co-op actions, assisted rolls, etc. Flavor damage will probably be spread out.
 
-# Stealth and Perception
+# Stealth and Perception (fill me out!)
 
-### information in roleplaying
-there are a few kinds of info: info freely given to the players by the DM so they can play the game, info the DM hasn't thought about explicitly, and info the DM has thought about that must be earned with a check, and meta info like "that character got a name and a description: must be important".
-stealth and lying are both methods characters use to conceal information from other characters.
-Should we talk about passive perception values and whatnot? yeah that is a relevant discussion for attributes.
-Notably, I classify “lying” as an information hiding skill, similar to “sneaking”, rather than as a persuasion skill.
-this is all relevant for determining what rolls mean.
-lying: first off you can't detect lying. you can detect if someone is uncomfortable or nervous or whatever and this can tip you off. flesh this bit out while reading Joe Navarro's body language manual. lying definitely cannot be used to convince another character of something but it can be used to convince them that you believe that thing. if you say the sky is red they wont believe you because they can just look up but if you are convincing they might believe you believe that. convincing someone of something that is false is a good time for a nested roll actually. one for the lie. one for the convincing.
-i suppose there should be a lying differentiation section. if a character is lying to hide information that information it will be treated much like stealth. if you are attempting to convince a character of something that isn't true then just do a persuasion check modified by the plausibility of the lie. 
-stealth: i am basing this bit on stealth games i have played. if you fail a stealth check you arent detected (except maybe on a crit). instead you do something that puts the "seekers" on alert and they start looking for you. if they pass their relevant observation checks THEN you get detected. If you pass your stealth check and the seekers start looking for you anyway then you can be detected if you are detectable. IF you are undetectable you cannot be detected but you can alert the seekers that you are there.
-perception: if you go looking for something and you pass the check you find it IF it is there. if you fail the check you get no information either way. you just can't tell. this goes for spot checks, detecting intention in social situations, and searching for something.
+## Perception
+Perception can be rolled any time a character becomes suspicious and would like to look around for something. Typical skills for perception are `seeing` and `hearing` though more interesting ones are common in high magic and high tech settings. The storyreller can also indicate that a player should roll a spot check or simply give players information without a check. There is no passive perception in Tabula. Characters attempting to hide can slip up and do something that is perceptable or a spot check can be trivially easy but there is no passive perception. To roll a perception check declare what you are looking for as vaguely or as specifically as you like, get the subjective difficulty from the storyteller, roll the check, and stand by the result.
 
 ## Hidden
 Being hidden is the typical starting state for a stealth scene. If one character is hidden, other characters don't know they are there. Whenever they want to make actions they will have to roll stealth checks to avoid alerting other characters.
 
 ## Alerted
-Alerted characters are those who have seen, heard, smelled, or sensed something strange and are going to look around for it. They can make various perception checks like investigation, searching, seeing, smelling, etc. to try and uncover hidden thigns and characters. If an alerted character succeeds at their check to detect a hidden character then the hidden character goes from hidden to detected.
+Alerted characters are those who have seen, heard, smelled, or sensed something strange and are going to look around for it. They can make various perception checks like investigation, searching, seeing, smelling, etc. to try and uncover hidden thigns and characters. If an alerted character succeeds at their check to detect a hidden character then the hidden character goes from hidden to detected. Use DTMS checks for taking characters out of the alerted state. The NPCs will probably eventually get bored if they dont find anything.
 
 ## Detected
-Detected characters are no longer hidden or in stealth. Everyone can interact with them normally or as though their location is known.
+Detected characters are no longer hidden or in stealth. Everyone can interact with them normally or as though their location is known. Whether one character can detect another is strongly dependant on DTMS checks. A blind man can't detect anyone precisely but he can be alerted and alert other character. A character with ESP can probably sense characters through stealth even if they didn't fail any stealth checks which would have alerted the character with ESP.
 
 ## Suprise
 When a character or synchronized group of hidden characters start a combat they start on turn 0 at the very beginning of the initiative track. Other characters roll for initiative in the usual way.
 
-# Lying and Detecting Lies
-<!-- suspicious -->
-<!-- fooled -->
-<!-- caught -->
+# Lying
+In Tabula, lying is defined as trying to get other characters to believe information that is not true or at the very least to get other characters to believe that you believe that information. This is not persuasion. Mechanically, lying is resisted in an entirely different way from persuasion and more closely resembles stealth. Where persuasion is resisted by willpower lying has no specific resistance roll or skill. Instead it is always resisted by knowledge and DTMS checks. Characters may become suspicious if your lie isn't good enough or they may happen to know the truth and can catch you in the lie immediately. As a point of order IRL it is night impossible to detect lying, but it is possible to tell if someone is uncomfortable or something like that when certain topics are brought up. If you are trying to convince a character to act on untrue information you might need to make both lying and persuasion checks. If you don't have to make a lying check the lie might factor into the difficulty of the persuasion check.
+
+## Suspicious
+When a character is suspicious they don't know you are lying but things don't quite add up and they want more information. If you fail on your lying check characters typically become suspicious and begin looking for more information so they can get to the truth (if they care).
+
+## Fooled
+When you have fooled a character they have effectively accepted the false information you have presented. They will operate on this naturally. If they find something that contradicts this information they will become suspicious. A fooled character will not typically look for the truth of things because they believe they have found it.
+
+## Caught
+When a character catches you in a lie you are caught. They will act as though the information you have presented is false and as though you were trying to deceive them. They may go as far as to tell other characters about your deception.
 
 # Persuasion, Willpower, and Motivations
 
 ## Persuasion
-Persuasion is a mandatory skill in most settings. It is any character's ability to pursuade another character to think or do something. It is resisted by willpower and the difficulty of both rolls is strongly affected by motivations.
+Persuasion is a mandatory skill in most settings. It is any character's ability to pursuade another character to do something. It is resisted by willpower and the difficulty of both rolls is strongly affected by motivations. If a character tries to pursuade another based on something that isn't true, that action might require a deception roll in addition to the perception check, or it might just increase the dificulty of the perception check. It depends on how suspicious the mark is of the false information.
 
 ## Motivations
 Motivations are what a character wants. These are a characters dreams, long term goals, morality, and fears. Some examples of motivations are `family legacy`, `money`, `serving the gods`, `following the law`, `afraid of spiders`, `pride`, and many many more. Motivations strongly influence the difficulty of most persuasion and willpower rolls.
@@ -377,12 +443,12 @@ this is a good time to mention that when you try to convince a character of some
 
 # Setting
 A setting is a template for worldbuilding. It includes a description of the world, the typical speed of characters in the world for combat purposes, how many character points new characters in the world should start with, a list of mandatory skills, and a list of skills common within the setting. The description usually includes a the technologocal level, magic, history, spacial/geographic scope, flora, fauna, biomes, natural resources, items, culture, store, etc.
-
-## Description
-Right now descriptions are a catch-all for things that go into a setting that I don't know how to articulate well enough to add to the template. *Otherwise*, the setting's description should just describe it in general terms. For example Middle Earth might be described as "a land of Men and magical creatures including Hobbits, Men, Elves, Dwarves, Treants, Draogons, etc. set in a medieval era. Magic permeates the land and peoples. Swords, sorcery, and adventure are what a player can expect."
+To be mechanically playable a setting needs an action delay, starting character points, a list of mandatory skills, a list of common skills, and a  general description. Splitting the description into the cultural and the physical can be helpful. Creating a store is a good idea in most cases.
 
 ## Action Delay
 The default action delay for the setting is what all new characters in the setting will start with. This will guarantee that most of the characters in the setting are at about the same speed in combat and chases. Because it is just a default and can be modified it also allows for some characters to be faster or slower than the average character.
+<!-- everything below from storyteller section on action delay-->
+Choosing a suitable action delay is fairly easy but it is possible to mess it up. If the action delay is too high, counting out AUTs becomes tedious and modifying a characters action delay by small numbers becomes less meaningful. On the other hand choosing a default action delay that is too low will greatly increase turn colissions and make it such that characters with non-default action delays have very different "speeds". Default action delay effectively determines the typical speed for characters in the setting. Having an abnormal action delay is how a character becomes faster or slower. AUTs are arbitrary units of time and I think this is what I will be calling initiative "ticks" because depending on the combat they can vary wildly.
 
 ## Character Points
 Character Points, also known as CP, are a resource used by players throughout the game to take new skills and flavor and level up existing skills. The suggested starting character points for a setting is basically a recommendation for starting level. If characters start with 30 CP rather than 25 they will be a little stronger on average. There is usually a positive correlation between the number of mandatory skills in a setting and the starting CP.
@@ -393,17 +459,23 @@ Available skills are skills that every character in a setting has access to. Any
 ## Mandatory Skills
 Mandatory skills are those that every character must have to be make sure they will not have checks that they should be able to roll but cannot. For instance, `seeing` and `hearing` are both skills almost every humanoid character should have so that they can perceive the game world. Every character must have one level in every mandatory skill but can take more levels if they wish.
 
-## Spacial Scope
-Settings have a size. They might be the entire known universe but even that has a size. Tell your players what that is. It is worth noting that you can have settings that are smaller than the known world and have multiple settings within the same story. A map with a some kind of scale marker and a region marked out as the place the setting governs is a good idea.
-
 ## Technology and Magic
 A couple of initial questions players usually have when they are making characters in a new setting are "Is there magic?" and "What is the technological level?" and for this reason the answers to these questions should be on the setting. They are commonly asked, important, and usually easy to answer. If there is any ficticious magic in the setting it should be described here.
 
 ## Store
-<!-- use the various purchasing power columns trivial, minor, major, priceless and also include something for unavailable, illegal things -->
-<!-- social: history, institutions, culture, peoples, cities, countries, government -->
-<!-- physical: geography, biome, flora, fauna, natural resources -->
-<!-- template -->
+First off *the* store doesn't really exist after character creation. Characters will have to go stores in the story to purchase things listed on *the* store. Going to *a* store within the story rather than *the* store will drastically affect what is available for sale and maybe even what it is legal to trade. This is all subject to DTMS checks and storyteller approval after character creation. Anyway, *the* store is set up as a series of priced columns. The flavor section describes the purchasing power of various pieces of flavor-money, also known as AUTs. The columns should be "Trivial", "Minor", "Major", and "Priceless/Unreachable?". Trivial purchases are effectively free, minor purchases are worth one CP, major purchases need to be roleplayed for or a deal needs to be struck, and unreachable purchases are typically too expensive to ever purchase. Unreachable purchases may become available through roleplaying. The columns of the store should all have things characters can purchase in/under them.
+<!-- everything below from the storyteller section on store/money-->
+Money in Tabula is handled with things called AUCs. An AUC is an arbitrary unit of currency. In this game an AUC might be 1000 spacebucks or $10 or an ounce of gold. The point is that it is money. The way Tabula organizes money is so that you don't have to do much bookeeping with your money. Groupings of AUCs form different levels of purchasing power. One AUC is one minor purchase. Three AUCs are a major purchase. There are 4 tiers of purchasing power. The first is trivial, then minor, major, and priceless. To ground this in the real human world trivial purchases are things like food, beer, candy, ammo, clothes, or entertainment. A minor purchase would be things that cost more like guns, cars, specialized tools, computers, or medicine. Major purchases would be things like houses, companies, famous art, fancy cars, or a college education. A priceless purchase is one that you simply cannot buy right now because it is either far to expensive or it is unavailable.
+I think to actually make the store on the setting it should be the four columns with various goods underneath them. (columns are trivial, minor, major, and priceless)
+
+## Social Description
+The social description for the setting should describe what the people of the setting are like and what they have done. This will be things like important places, institutions, cultural events, and historic events. This will also include the races/peoples/cultures within the setting and the countries and govenments they have formed.
+
+## Physical Description
+The physical description for the setting should describe what the land itself is like (assuming there is land). This would be things like geography, weather, plants, and animals. This goes well with spacial scope and a map.
+
+### Spacial Scope
+Settings have a size. They might be the entire known universe but even that has a size. Tell your players what that is. It is worth noting that you can have settings that are smaller than the known world and have multiple settings within the same story. A map with a some kind of scale marker and a region marked out as the place the setting governs is a good idea.
 
 # Glossary of Terms
 <!-- section links for some of these will be better than a description-->
@@ -417,81 +489,4 @@ A couple of initial questions players usually have when they are making characte
 - Setting: A setting is the result of worldbuilding applied to the setting template present in Tabula
 - Battlegrid: A battlegrid is a checkerboard or hex-tiled board game board, usually accompanied by figurines, that visually represents locations for combat in a roleplaying game.
 - RPG: Roleplaying Game. Also sometimes known as Table-top, or Table-top RPG.
-
-# Storyteller section  (perhaps merge this section with the related sections and include @storyteller: tags)
-<!-- this section is at risk of being super preachy. -->
-This section of the doc is to help storytellers play this system because it is a bit crazy. Making settings and NPCs will be the majority of this section though it is possible those should just be merged into their own sections in the main part of the book. There is some information that differs based on whether I am talking to a storyteller or a player though. Perhaps I should handle this in-line? Does any of it need to be kept secret from the players?
-
-## Making a Setting
-This section aims to outline the necessary steps and decisions that need to be made in order to create a setting. The subsections will correlate to the various pieces of a setting. To be mechanically playable a setting needs an action delay, starting character points, a list of mandatory skills, a list of common skills, and a description.
-
-### Description
-settings need descriptions to tell players about the world
-> example: like the star wars universe
-> example2: (an actual description)
-
-### Action Delay and AUTs
-Choosing a suitable action delay is fairly easy but it is possible to mess it up. If the action delay is too high, counting out AUTs becomes tedious and modifying a characters action delay by small numbers becomes less meaningful. On the other hand choosing a default action delay that is too low will greatly increase turn colissions and make it such that characters with non-default action delays have very different "speeds". Default action delay effectively determines the typical speed for characters in the setting. Having an abnormal action delay is how a character becomes faster or slower. AUTs are arbitrary units of time and I think this is what I will be calling initiative "ticks" because depending on the combat they can vary wildly.
-
-### Starting Character Points
-
-
-### Adding player-made skills to a Setting
-Probably the coolest part of this system is that it allows players to make their own skills. This requires co-operation from you, the storyteller. Your job is to vet and occasionally veto skills players have proposed as additions to the setting. Rather than a veto however you can put some [limiting factors](#limiting-factors) on a skill to make it less disruptive.
-
-#### problems with previous iterations of "players are allowed to create their own skills"
-tl;dr players could make skills that were vague and applied to every scenario and then max them.
-- using incredibly broad skills that apply to every scenario. "social graces" applies to every social situation, provides little character depth, and makes it so a player can use the dice to walk all over the game.
-an example tree of skill scope
-> animal skills  
->> riding  
->>> horses  
->>> camels  
->>> elephants  
->> driving  
->>> oxen  
->>> mules and horses  
->>> dogs  
->> care  
->>> grooming  
->>> feeding  
->>> breeding  
->>> veterinary  
->>>> first aid  
->>>> diagnosis  
->>>> medicine  
->>>> surgery    
-A character might know “knots” because they know the skill “sailing” and that’s fine even though the character is getting a lot of skills for free under the umbrella-skill of “sailing”. 
-On the other hand I encouraged THIS at one point.
-perhaps settings should include a list of default/common skills?
-there is something of a goldilocks zone for skill scope. Magic is too broat, fireball is too narrow, but fire magic is just right.
-
-#### Limiting factors
-To limit a how disruptive a skill can be to your story a few things are necessary. Firstly, make it clear to the players that while their character *might* be the first character to have a skill they will probably not be the only character to have this skill. Next adding a cooldown, timing restriction, or cost to a skill can go a long way to making the skill less disruptive. You will have to come up with your own rules regarding this. Keep in mind they should be short and simple.
-
-### Money and Making the Store
-Money in Tabula is handled with things called AUCs. An AUC is an arbitrary unit of currency. In this game an AUC might be 1000 spacebucks or $10 or an ounce of gold. The point is that it is money. The way Tabula organizes money is so that you don't have to do much bookeeping with your money. Groupings of AUCs form different levels of purchasing power. One AUC is one minor purchase. Three AUCs are a major purchase. There are 4 tiers of purchasing power. The first is trivial, then minor, major, and priceless. To ground this in the real human world trivial purchases are things like food, beer, candy, ammo, clothes, or entertainment. A minor purchase would be things that cost more like guns, cars, specialized tools, computers, or medicine. Major purchases would be things like houses, companies, famous art, fancy cars, or a college education. A priceless purchase is one that you simply cannot buy right now because it is either far to expensive or it is unavailable.
-I think to actually make the store on the setting it should be the four columns with various goods underneath them. (columns are trivial, minor, major, and priceless)
-
-<!--
-    fill in th rest of the fields with lore shit i guess -->
-<!-- npcs
-    grouping them for combat is a pain. instead create squads. squads always act as a group and have enormous stats? eh, they don't work well for this.
- -->
-
-## NPCs
-
-### Persuasion
-It is best to give your NPCs a couple short motivations to make pursuading them less like talking to a well. If an NPC is motivated by money I would think bribes would be fairly evvective. If instead they are modivated by principles then asking them to do the right thing might be more effective.
-
-### Planned NPCs
-same as PCs but don't spend ALL of their exp immediately. allow them to fudge the numbers and gain skills as needed. maybe create their special skill if they have one immediately. give them character points at the same rate as PCs.
-
-### Unplanned NPCs
-I recommend rolling dice to determine skill levels and then standardizing the character's stats with the parties CP later.
-
-### grouping NPCS
-possibly include a mirror version of this system for the combat section
-provide some simple method of grouping NPCs in combat
-This will probably also end up being the mechanic for co-op actions, assisted rolls, etc. Flavor damage will probably be spread out.
 
