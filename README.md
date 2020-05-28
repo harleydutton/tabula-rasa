@@ -62,13 +62,8 @@ ELDER SCROLLS LEVELING DOWNTIME: you can easily experience whore unless the DM g
 4. subsections
 
 ## To-Do
-- add motivations to character creation
-- come up with a better name for priceless
-- add a section on NPCs to character creation
-- make sure a section regarding NPCs+motivations+persuasion exists
-- add subsections to character creation
-- add subsections to setting section
 - edit "checks" section for eldritch horror style checks
+- clean up damage, wounds, and death
 - learn how to embed images in markdown
 - add spelling and grammar check plugin
 - export as PDF

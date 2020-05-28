@@ -12,17 +12,17 @@ The roleplaying system is generic so it will work with any Setting produced by t
 
 - [Introduction](#introduction)
 - [Table of Contents](#table-of-contents)
+- [getting started](#getting-started)
 - [Character Creation](#character-creation)
-  - [Identification and Misc info](#identification-and-misc-info)
+  - [How to Fill out a Character Sheet](#how-to-fill-out-a-character-sheet)
+  - [Adding Skills to the Setting](#adding-skills-to-the-setting)
+    - [problems with previous iterations](#problems-with-previous-iterations)
+    - [Limiting factors](#limiting-factors)
   - [Motivations](#motivations)
   - [Skills](#skills)
-    - [Player-Made Skills](#player-made-skills)
-      - [Adding player-made skills to a Setting](#adding-player-made-skills-to-a-setting)
-        - [problems with previous iterations of "players are allowed to create their own skills"](#problems-with-previous-iterations-of-players-are-allowed-to-create-their-own-skills)
-        - [Limiting factors](#limiting-factors)
   - [Flavor](#flavor)
+  - [Non-Player Characters](#non-player-characters)
   - [Character Sheet](#character-sheet)
-- [getting started (fill me out or merge with how ot play)](#getting-started-fill-me-out-or-merge-with-how-ot-play)
 - [How to Play](#how-to-play)
 - [Checks](#checks)
   - [Difficulty](#difficulty)
@@ -50,7 +50,7 @@ The roleplaying system is generic so it will work with any Setting produced by t
     - [Trivial Purchases](#trivial-purchases)
     - [Minor Purchases](#minor-purchases)
     - [Major Purchases](#major-purchases)
-    - [Priceless Purchases](#priceless-purchases)
+    - [Unreachable Purchases](#unreachable-purchases)
   - [Social Flavor](#social-flavor)
   - [Supernatural Flavor](#supernatural-flavor)
   - [Relationships](#relationships)
@@ -103,31 +103,20 @@ The roleplaying system is generic so it will work with any Setting produced by t
 
 <!-- /TOC -->
 
+# getting started
+The storyteller should go take a look at the setting section and make sure they understand settings. Then the storyteller will need to make a setting or find one online.
+The players should go take a look at character creation and begin creating characters using the setting your storyteller has provded you with.
+
 # Character Creation
 Characters need skills, flavor and an action delay to be playable. The first thing a player should do when making a character is take a look at the [setting](#setting), read through it and make sure they understand the world. Players can propose things be added to the setting because they are supposed to have a mild influence upon what exists within the setting.
 
-## Identification and Misc info
+## How to Fill out a Character Sheet
 First fill out the top of your character sheet. In order, the boxes should contain the character's name, the character's concept, the setting's name, your name, and the setting's action delay. A character concept can be thought of as the canonical or stereotypical version of something. The setting's action delay can be found in the upper left corner of the setting template.
 
-## Motivations
-<!-- is this its own section or should it be a part of flavor. misc info?-->
-Each character should have at least one motivation and probably not more than 5 though this number is flexible. Motivations describe at a high level what your character wants from the world in which the story takes place and gives the storyteller useful ways to interact with your character. NPCs should also have motivations to influence the difficulty of their persuasion and willpower tests.
-
-## Skills
-Second, your character needs [skills](#skills). Skills are used to roll checks which is how a character interacts with the game world. Skills are usually self-descriptively named and have levels. The higher level the skill the better at it a character is.
-There are two kinds of skills. Mandatory skills and the normal kind. Mandatory skills are skills every character _needs_ within the setting. They are listed at the top of the skills section in the setting. Add all of the mandatory skills to your character sheet. The rest of the skills are those that are common within the setting and you can take any of them you can afford. Players can also propose to the storyteller that skills be added to the setting. You pay for your starting skills using character points. Starting character points are listed in the upper left of the setting. Skills cost a number of character points equal to the level you want the skill to start at. An important note about skills is that players are enocuraged to add new skills to the list of available skills in the setting. Storyteller approval is required for a skill to to be added to the setting.
-
-```
-Example mandatory skills: willpower, strength, magic, dexterity, charisma
-Example skills: sword fighting, pyromancy, computer hacking, seduction
-```
-
-### Player-Made Skills
-
-#### Adding player-made skills to a Setting
+## Adding Skills to the Setting
 Probably the coolest part of this system is that it allows players to make their own skills. This requires co-operation from you, the storyteller. Your job is to vet and occasionally veto skills players have proposed as additions to the setting. Rather than a veto however you can put some [limiting factors](#limiting-factors) on a skill to make it less disruptive.
 
-##### problems with previous iterations of "players are allowed to create their own skills"
+### problems with previous iterations
 tl;dr players could make skills that were vague and applied to every scenario and then max them.
 - using incredibly broad skills that apply to every scenario. "social graces" applies to every social situation, provides little character depth, and makes it so a player can use the dice to walk all over the game.
 an example tree of skill scope
@@ -154,11 +143,29 @@ On the other hand I encouraged THIS at one point.
 perhaps settings should include a list of default/common skills?
 there is something of a goldilocks zone for skill scope. Magic is too broat, fireball is too narrow, but fire magic is just right.
 
-##### Limiting factors
+### Limiting factors
 To limit a how disruptive a skill can be to your story a few things are necessary. Firstly, make it clear to the players that while their character *might* be the first character to have a skill they will probably not be the only character to have this skill. Next adding a cooldown, timing restriction, or cost to a skill can go a long way to making the skill less disruptive. You will have to come up with your own rules regarding this. Keep in mind they should be short and simple.
+
+## Motivations
+<!-- is this its own section or should it be a part of flavor. misc info?-->
+Each character should have at least one motivation and probably not more than 5 though this number is flexible. Motivations describe at a high level what your character wants from the world in which the story takes place and gives the storyteller useful ways to interact with your character. NPCs should also have motivations to influence the difficulty of their persuasion and willpower tests.
+
+## Skills
+Second, your character needs [skills](#skills). Skills are used to roll checks which is how a character interacts with the game world. Skills are usually self-descriptively named and have levels. The higher level the skill the better at it a character is.
+There are two kinds of skills. Mandatory skills and the normal kind. Mandatory skills are skills every character _needs_ within the setting. They are listed at the top of the skills section in the setting. Add all of the mandatory skills to your character sheet. The rest of the skills are those that are common within the setting and you can take any of them you can afford. Players can also propose to the storyteller that skills be added to the setting. You pay for your starting skills using character points. Starting character points are listed in the upper left of the setting. Skills cost a number of character points equal to the level you want the skill to start at. An important note about skills is that players are enocuraged to add new skills to the list of available skills in the setting. Storyteller approval is required for a skill to to be added to the setting.
+
+```
+Example mandatory skills: willpower, strength, magic, dexterity, charisma
+Example skills: sword fighting, pyromancy, computer hacking, seduction
+```
+
+
 
 ## Flavor
 Third, your character needs [flavor](#flavor). Flavor is a word or short phrase describing a character. It can include knowledge, possessions, physique, and even social position. Review the starting flavor options listed on the setting. This will almost always give your character a language, clothes, and equipment relevant for the setting. When the setting specifies a type of flavor but not what it is specifically you get to choose something that would fit within the setting. Add your choice of starting flavor to your character sheet. Afterward, add flavor to your character to describe them. Flavor costs one character point per after you have your starting flavor. Flavor is usually just that, flavor, but occasionally it can make checks easier or harder.
+
+## Non-Player Characters
+Tabula treats NPCs the same as every other character. They should have motivations, skills, flavor, action delay, and all the other fields of a character sheet filled out. Creating them should be relatively quick as you only need to fill things in as necessary and can leave most of their character points un-spent. Careful, as this can result in some very min-maxed NPCs. NPCs should always have motiations to influence their decisions. Make sure you include motivation.
 
 ## Character Sheet
 <!-- replace everything here with an image of printable size-->
@@ -196,7 +203,6 @@ Third, your character needs [flavor](#flavor). Flavor is a word or short phrase 
 |             |
 | ...         |
 
-# getting started (fill me out or merge with how ot play)
 
 # How to Play
 Tabula Rasa is a roleplaying game. Experienced roleplayers can now proceed to the [Checks](#checks) section. For everyone else, roleplaying is a form of collaborative, improvizational storytelling.
@@ -298,7 +304,7 @@ Unlike most other roleplaying games which have extensive tables for equipment, i
 In Tabula, crafting is just a skill check. Describe what you want and how you plan on using your crafting skill to get it, ask the DM what the difficulty is, and make the roll. If you succeed you get the desired item, likely with some narritive flair. If you fail you get nothing and any materials and time that went into the crafting are likely consumed.
 
 ## Money
-In Tabula, money is represented even more abstractly than usual as flavor. Before we get into that lets talk about how money spends in roleplaying games. A simple breakdown of prices would be to say that things can be non-numerically priced as trivial, minor, major, priceless. The legality and availability of items will vary with the story. It is intended that minor and major purchases be acquired through roleplaying.
+In Tabula, money is represented even more abstractly than usual as flavor. Before we get into that lets talk about how money spends in roleplaying games. A simple breakdown of prices would be to say that things can be non-numerically priced as trivial, minor, major, unreachable. The legality and availability of items will vary with the story. It is intended that minor and major purchases be acquired through roleplaying.
 
 ### Trivial Purchases
 Trivial purchases are things like food, clothes, entertainment, ammunition, and gasoline that should typically be available to the players with little fuss. Trivial purchases are small enough that players don't have to keep track of the money used for trivial purchases at all. It is assumed that characters have either income or savings from which they spend to pay for their trivial purchases with no meaningful net gain or loss. (w00t communisim; w00t privledge).
@@ -309,8 +315,8 @@ Next, minor purchases are things like tools, weapons and armor, vehicles, medici
 ### Major Purchases
 Major purchases are just like minor purchases except they can purchase more expensive things. Major purchases can typically purchase companies, elite training, houses, spaceships and the like. Major purchases should be represented as the flavor `major purchase` as many times as is necessary.
 
-### Priceless Purchases
-Lastly and of least importance we have priceless purchases. Priceless purchases are things that are so expensive that no character has any hope of ever purchasing them.
+### Unreachable Purchases
+Lastly and of least importance we have unreachable purchases. unreachable purchases are things that are so expensive that no character has any hope of ever purchasing them.
 
 ## Social Flavor
 The in-game doors that position and status unlock are also represented by flavor. Typically this might look like `respected businessman`, `landed noble`, `kings advisor`, or `internet personality`. The effect of this stuff is purely RP and it will be up to the player to use it to its fullest. A character's job is always worth having as flavor because this has social implications in most societies. A character may or may not have a reputation but if they do it is worth putting down what it is and what group of people will know about it.
@@ -463,10 +469,10 @@ Mandatory skills are those that every character must have to be make sure they w
 A couple of initial questions players usually have when they are making characters in a new setting are "Is there magic?" and "What is the technological level?" and for this reason the answers to these questions should be on the setting. They are commonly asked, important, and usually easy to answer. If there is any ficticious magic in the setting it should be described here.
 
 ## Store
-First off *the* store doesn't really exist after character creation. Characters will have to go stores in the story to purchase things listed on *the* store. Going to *a* store within the story rather than *the* store will drastically affect what is available for sale and maybe even what it is legal to trade. This is all subject to DTMS checks and storyteller approval after character creation. Anyway, *the* store is set up as a series of priced columns. The flavor section describes the purchasing power of various pieces of flavor-money, also known as AUTs. The columns should be "Trivial", "Minor", "Major", and "Priceless/Unreachable?". Trivial purchases are effectively free, minor purchases are worth one CP, major purchases need to be roleplayed for or a deal needs to be struck, and unreachable purchases are typically too expensive to ever purchase. Unreachable purchases may become available through roleplaying. The columns of the store should all have things characters can purchase in/under them.
+First off *the* store doesn't really exist after character creation. Characters will have to go stores in the story to purchase things listed on *the* store. Going to *a* store within the story rather than *the* store will drastically affect what is available for sale and maybe even what it is legal to trade. This is all subject to DTMS checks and storyteller approval after character creation. Anyway, *the* store is set up as a series of priced columns. The flavor section describes the purchasing power of various pieces of flavor-money, also known as AUTs. The columns should be "Trivial", "Minor", "Major", and "unreachable/Unreachable?". Trivial purchases are effectively free, minor purchases are worth one CP, major purchases need to be roleplayed for or a deal needs to be struck, and unreachable purchases are typically too expensive to ever purchase. Unreachable purchases may become available through roleplaying. The columns of the store should all have things characters can purchase in/under them.
 <!-- everything below from the storyteller section on store/money-->
-Money in Tabula is handled with things called AUCs. An AUC is an arbitrary unit of currency. In this game an AUC might be 1000 spacebucks or $10 or an ounce of gold. The point is that it is money. The way Tabula organizes money is so that you don't have to do much bookeeping with your money. Groupings of AUCs form different levels of purchasing power. One AUC is one minor purchase. Three AUCs are a major purchase. There are 4 tiers of purchasing power. The first is trivial, then minor, major, and priceless. To ground this in the real human world trivial purchases are things like food, beer, candy, ammo, clothes, or entertainment. A minor purchase would be things that cost more like guns, cars, specialized tools, computers, or medicine. Major purchases would be things like houses, companies, famous art, fancy cars, or a college education. A priceless purchase is one that you simply cannot buy right now because it is either far to expensive or it is unavailable.
-I think to actually make the store on the setting it should be the four columns with various goods underneath them. (columns are trivial, minor, major, and priceless)
+Money in Tabula is handled with things called AUCs. An AUC is an arbitrary unit of currency. In this game an AUC might be 1000 spacebucks or $10 or an ounce of gold. The point is that it is money. The way Tabula organizes money is so that you don't have to do much bookeeping with your money. Groupings of AUCs form different levels of purchasing power. One AUC is one minor purchase. Three AUCs are a major purchase. There are 4 tiers of purchasing power. The first is trivial, then minor, major, and unreachable. To ground this in the real human world trivial purchases are things like food, beer, candy, ammo, clothes, or entertainment. A minor purchase would be things that cost more like guns, cars, specialized tools, computers, or medicine. Major purchases would be things like houses, companies, famous art, fancy cars, or a college education. A unreachable purchase is one that you simply cannot buy right now because it is either far to expensive or it is unavailable.
+I think to actually make the store on the setting it should be the four columns with various goods underneath them. (columns are trivial, minor, major, and unreachable)
 
 ## Social Description
 The social description for the setting should describe what the people of the setting are like and what they have done. This will be things like important places, institutions, cultural events, and historic events. This will also include the races/peoples/cultures within the setting and the countries and govenments they have formed.
