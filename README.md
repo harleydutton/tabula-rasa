@@ -19,7 +19,7 @@ The roleplaying system is generic so it will work with any Setting produced by t
 - fun > balance/realism
 - avoid math/book-keeping
 - dry using links; otherwise printable
-- avoid charts/tables
+- avoid charts/tables (in the actual doc)
 
 | In Scope           | Out of Scope             |
 | ------------------ | ------------------------ |
@@ -28,7 +28,7 @@ The roleplaying system is generic so it will work with any Setting produced by t
 | settings           | source material          |
 | combat mechanics   | forming the PC party     |
 | setting creation   | storyteller section      |
-|                    |                          |
+|                    | probability charts       |
 |                    |                          |
 
 ### Outstanding problems
@@ -41,7 +41,23 @@ THE WOUNDS AND DEATH PROBLEM: If we are saying MoS on attack rolls means you get
 ELDER SCROLLS LEVELING DOWNTIME: you can easily experience whore unless the DM goes outside the system to stop it. this is bad.
 
 ## To-Do
-- edit "checks" section for eldritch horror style checks
+- steal initiative description from exalted 2
+- steal action economy description from D&D
+- add a section for plot armor in combat
+- add more structure for motivations (major/minor, internal/external, etc.)
+- add title page (probably an image)
+- update readme>outstanding problems
+- put headings in title case
+- make intro, toc, setting, character, and gameplay the top level sections.
+  - character: cc, sheet, skills, flavor, etc.
+  - setting: the usual
+  - gameplay: checks, combat, money, persuasion, persuasion
+- use "> Example: ..." formatting for examples. Include them as needed
+- steal definition of roleplaying from one book or another
+- move purchasing power subsections of character>flavor>money over to gameplay
+- procedural way to modify AD? (default is always 10. getting faster has the same cost as leveling skills. getting slower is inverted in that it gives you CP)
+- rename negative flavor. (flaws? bad flavor?)
+- move how to play into gameplay or delete it
 - clean up damage, wounds, and death
 - remove duplicate subsections in skills section
 - add description to top level section "stealth and perception"

@@ -1,4 +1,5 @@
-<!-- i think here would be a good place for a banner image with "Tabula Rasa" on it-->
+
+![Title Page is Missing](titlePage.png "Title Page")
 
 # Introduction
 Tabula Rasa is a worldbuilding framework and a rules-light, generic roleplaying game that lets players create their own skills.
@@ -31,18 +32,16 @@ The players should go take a look at character creation and begin creating chara
 - [Checks](#checks)
   - [Difficulty](#difficulty)
   - [Nested Checks](#nested-checks)
-  - [Progression](#progression)
-  - [Event Die](#event-die)
+  - [Aquisition and Progression](#aquisition-and-progression)
   - [Gambits](#gambits)
   - [Magnitude of Success](#magnitude-of-success)
-  - [Example](#example)
   - [Contests](#contests)
 - [Skills](#skills-1)
   - [Mandatory Skills](#mandatory-skills)
   - [Common Skills](#common-skills)
     - [Gambits](#gambits-1)
   - [Acquisition](#acquisition)
-  - [Progression](#progression-1)
+  - [Progression](#progression)
   - [Mandatory Skills](#mandatory-skills-1)
   - [Available Skills](#available-skills)
 - [Flavor](#flavor-1)
@@ -64,20 +63,21 @@ The players should go take a look at character creation and begin creating chara
   - [Physical](#physical)
 - [Combat](#combat)
   - [Rolling Initiative](#rolling-initiative)
-  - [Transitions](#transitions)
   - [Turns](#turns)
     - [Major Actions](#major-actions)
       - [Attacking](#attacking)
-        - [Armor and Weapons](#armor-and-weapons)
-        - [Damage, Wounds, and Death](#damage-wounds-and-death)
-        - [Damage and Wounds 2](#damage-and-wounds-2)
-        - [Death 2](#death-2)
       - [advantages and disadvantages](#advantages-and-disadvantages)
     - [Move Actions](#move-actions)
       - [Zones](#zones)
       - [Dodging](#dodging)
     - [Reactions](#reactions)
       - [Defensive Actions](#defensive-actions)
+  - [Transitions](#transitions)
+  - [Entering and Leaving combat](#entering-and-leaving-combat)
+        - [Armor and Weapons](#armor-and-weapons)
+        - [Damage, Wounds, and Death](#damage-wounds-and-death)
+        - [Damage and Wounds 2](#damage-and-wounds-2)
+        - [Death and plot armor](#death-and-plot-armor)
   - [Grouping NPCs](#grouping-npcs)
     - [War](#war)
 - [Stealth and Perception (fill me out!)](#stealth-and-perception-fill-me-out)
@@ -182,47 +182,22 @@ A night of roleplaying usually lasts anywhere from two to six hours and usually 
 Most good stories include conflict. This will usually end up being between the the player-characters and either NPCs or some other element in the story. When a conflict arises, resolve it by rolling a skill-check. Please see the [checks](#checks) section for help with this.
 
 # Checks
-When conflict occurs during roleplaying the fairest way to resolve it most times is by rolling a skill-check. A skill-check is where one of a character's skills is tested against some number of dice which represent the difficulty of the task. If the character's skill is greater than or equal to the sum of the dice then the character passes the skill-check. Usually this will also mean that whatever the character was attempting to accomplish succeeds. If the dice are greater than the character's skill level the action fails and something bad might happen. The number of dice depends on the difficulty of the task. Flavor can influence difficulty.
+When conflict occurs during roleplaying the fairest way to resolve it most times is by rolling a skill-check. A skill-check is where one of a character's skills is tested against a subjective difficulty determined by the storyteller based on flavor and story elements. Each level a character has in a skill will give them one d6 towards the check. The target difficulty is typically 5 and can be modified. Each die is rolled and if a character gets any successes among their dice pool the check is a success.
 
 ## Difficulty
-The difficulty of a skill check can be modified by a number of things. A character's flavor, other characters, and the world itself can all cause a skill-check to become easier or harder. The storyteller decides if any of these things is meaningful enough to make the roll easy or hard.
-| subjective difficulty | dice representation  |
-| --------------------- | -------------------- |
-| easy                  | pass if skill >= 1d6 |
-| normal                | pass if skill >= 2d6 |
-| hard                  | pass if skill >= 3d6 |
-| harder                | pass if skill >= 4d6 |
-| etc.                  | pass if skill >= 5d6 |
+The difficulty of a skill check can be modified by a number of things. A character's flavor, other characters, and the world itself can all cause a skill-check to become easier or harder. The storyteller decides if any of these things is meaningful enough to make the roll easy or hard. What this means for the check is that the target number for the success of an individual die changes based on the subjective difficulty. The usual difficulty is 5 meaning 5's and 6's are successes. For hard checks only 6's are successes. For easy checks 4's, 5's, and 6's are all successes. Checks with a difficulty of impossible are automatic failures and checks with a difficulty of trivial are automatic successes.
 
 ## Nested Checks
 If a character is trying to do two things at once, juggling while doing a backflip for instance, just increase the difficulty. If a player is doing two things that are radically different, that is the appropriate time to make two skill checks. (Doing a backflip and casting a spell)
 
-## Progression
-To level up a skill you need to pass skill checks with it. Whenever you pass a skill-check with a skill add one to that skill's experience. When the skill's experience is equal to it's level it levels up and the experience resets to zero. You can only level up a skill at level one by making the check easy.
-
-## Event Die
-The storyteller can introduce the event die whenever they want. Basically when a check is rolled an additional d6 is rolled. If this d6 comes up 1 something bad might happen and if it comes up 6 something good might happen. It is best to have an extra d6 of a different color if you are going to add the event die to every roll. The event die is a convenient way to handle crits and crit fails in this system.
+## Aquisition and Progression
+Taking new skills and leveling them up use the same process. Skills always cost a number of CP (Character Points) equal to the desired level of the skill. You must spend CP on each level individually. Taking a new skill costs 1 CP. Leveling that skill up to level 2 costs 2 CP. The total for this is 3 CP. Taking a skill at level 5 during character creation costs 15 CP. Get storyteller approval before taking new skills during a story. Otherwise skills can be leveled up any time.
 
 ## Gambits
 Gambits are where you make a deal with the storyteller to modify the the difficulty of a check, the pass-effect, and the fail-effect. You might ask for something special to happen on a success in exchange for an increase in difficulty.
 
 ## Magnitude of Success
-If you ever need a magnitude of success for a roll, like damage or crafting, just roll a single d6 and use this chart.
-
-| Die result | Magnitude of success |
-| :--------: | :------------------: |
-|   6 pip    |         100%         |
-|   5 pip    |         80%          |
-|   4 pip    |         60%          |
-|   3 pip    |         40%          |
-|   2 pip    |         20%          |
-|   1 pip    |          0%          |
-
-
-
-## Example
-<!-- this should be right after the description probably? -->
-For example lets say John, the NPC character wants to do a backflip. The first thing John will do is look for a relevant skill on his character sheet. `Acrobatics`, `athletics`, `dexterity`, `physique` or anything similar will work for this check. Lets say John has an `acrobatics` score of 11. Lets also say John has the flavor `leg wound` from a fight he got into recently. This would make the check hard, so john would be rolling 3d6 against his 11 in `acrobatics`. Lets say John gets a sum of 10 on the dice. This means John was able to successfully do a backflip despite his `leg wound`.
+When a character succeeds at a check sometimes this is not enough to determine success or failure. This happens most often in contests between multiple characters like races and contests of strength. It can also color the following narration of a check if a character gets a large magnitude of success on a typical check. Anyway, to get magnitude of success a character has to succeed. The number of successes on the dice is their magnitude of success.
 
 ## Contests
 For contests rather than just looking at whether or not a character succeeded look at the magnitude of success. Magnitude of success is how many successes were rolled on the contest check. The character with the most wins the contest.
@@ -307,42 +282,26 @@ Houses, castles, countries, skyscrapers, private islands, secret bases, etc.
 ## Physical
 Physicality is also represented as flavor. This includes but is not limited to body type, species, race, deformities, aesthetic, and disabilities. An example of each, in order, would be `fat`, `human`, `white`, `missing an ear`, `well dressed`, and `peg-leg`.
 
-# Combat 
-Combat in Tabula, like many RPGs, is turn based. Players will take turns describing their action, rolling checks to determine the result of their attempted actions, and the storyteller will narrate how things unfold.
+# Combat
+<!-- this should be a BRIEF description of combat and a more lengthy description of why it is necessary -->
+Combat in Tabula, unlike many roleplaying games, is based on AUTs and action cooldowns. AUTs, or Arbitrary Units of Time, are usually around one second but can be modified to suit the scale of the battle. During combat it is the storyteller's job to call out the current AUT starting from 0 and counting up. Characters participating the fight have their actions refreshed every time a number of AUTs have passed equal to their action delay. On the AUT a character's actions refresh that character can use as many of their actions as they want by describing them and rolling skill checks as appropriate. When all characters acting on an AUT are done taking actions the storyteller calls out the next AUT. It is intended that players track the action cooldowns for their characters. Repeat until the fight is over.
 
 ## Rolling Initiative
+<!-- this should be a purely mechanical description of how to start a combat -->
 To start a combat scene each character involved will need to roll initiative. To do this each character rolls one d6. The number of pips represents how many turns it will be until that character can act in the combat. I haven't decided if starting delay should be 1d6 or 1d6+AD (AD=a characters action delay).
 
-## Transitions
-Feel tree to maintain or drop initiative as you switch between chases, combats, and stealth scenes. Use logic to determine when it appropriate to switch between these and when to roll and drop initiative. Characters that start a combat or chase should go first. Characters need to be hidden if they want to start a stealth scene. Any of these can transition into any of the others. Chases are just combat with movement instead of fighting. Initiative for chases and combats works the same.
-
 ## Turns
+<!-- this should be a purely mechanical description of how characters take their turns-->
+<!-- all of the various actions should be subsections to this-->
 Character get turns in combat based on their action delay. Effectively a character's action delay determines the cooldown on their actions. If a character has an action delay of 5 they will get to act every 5 ticks of initiative. If they started on initiative tick 8 this means they will act on 8, 13, 18, 23 and so on. Characters that start a combat go on 0. Other characters get 1d6 action delay before they can act in the combat. When a character's turn rolls around they get all of their spent actions back.
 At the start of their turn a characters actions refresh. Actions include a major action, a move action, and a reaction. A move action can be moved for moving and occasionally for dodging when combined with a reaction. A reaction can be spent to hold your action. An action can be used for pretty much everything. A reaction can be used to make a dodge or block check. Major actions are usually used for attacking or interacting in combat. A major action can be used with a reaction to launch a counterattack. Lots of things are free actions: Talking and directing minions is a good example of this. Doing a defensive action for another player costs a reaction and a major action. Whenever you use you reaction you get to take a defensive action as long as it makes sense. Whenever you want to use a move or major action and it is not your tick of initiative it will cost your reaction. Major actions can also be replaced with an additional move action or reaction.
+
 
 ### Major Actions
 Major actions are used to do pretty much everything in combat other than move or take out-of-turn actions. Most of the time you will need to use a major action to attack, interact with the environment, cast spells, create advantages or disadvantages, etc.
 
 #### Attacking
 Attacking costs an action. To attack a character describe how you want to do that and the storyteller will tell you how hard that will be either before or possibly after the roll if that is hidden information--no take-backsies. The difference between what flavor you use to make the attack and what flavor the defender uses to defend from it determines the subjective difficulty of this roll. Make the roll. Each success lets you inflict one piece of flavor on the defender correlated with the attack you made. If you are attacking with a sword you can do "sword damage" as flavor which might look like impaling, hamstringing, or severing limbs. The storyteller can assign lethal damage to NPCs to speed up combat. Players cannot assign lethal damage.
-
-##### Armor and Weapons
-Armor and weapons provide no statistical bonuses. Weapons are used to determine the types of bad flavor an attacker can inflict on a defender. Both are used to determine the subjective difficulty of attack rolls. Attacking an armored knight with a sword is hard but attacking him with a lightsaber is easy. If it were sword vs leather armor it would probably be a normal roll.
-
-##### Damage, Wounds, and Death
-Whenever a character rolls successes on an undefended attack action they deal damage. In Tabula, damage is dealt in the form of bad flavor. Players cannot give NPCs immediately lethal flavor and the storyteller cannot give the players immediately lethal flavor unless both parties agree. If wounds (bad flavor from combat) would make a character's ability to move non-trivial, that character is downed. If a character's ability to perform actions ever becomes impossible that character is either unconscious or incapacitated and possibly dead. If a character is ever incapacitated, downed, or unconscious they are likely at risk of being killed by a coup de gras. For all of these things make "does this make sense" checks.
-
-##### Damage and Wounds 2
-I think it might work to have a CC/damage point buy system that allows any attack to deal those effects as long as it makes sense.
-```
-CC store: temporary CC, until cleansed CC, encounter-long CC, permanent CC, unconscious
-Damage store: minor aesthetic wounds, wounds that contribute to making rolls harder, ???, death.
-perhaps make it a mix and match style effect: permanent//temporary, difficulty increaser or no, action disabler or no, etc.
-```
-This point-buy system seems complicated. I think I am going to scrap it in favor of "all attacks are called shots. modify the difficulty accordingly. if your attack connects what you described happens*. *= unless the thing you attacked had plot armor"
-
-##### Death 2
-allow everyone to attempt killshots. Have plot armor automatically downgrade this unless the character is downed/incapacitated/unconscious.
 
 #### advantages and disadvantages
 As an action character may attempt to create an advantage for themselves or a disadvantage for another character. If the action succeeds whomever is controlling the character gets to describe the advantage they create. If the storyteller finds it reasonable it happens. If not, don’t waste time arguing, just move on.
@@ -363,7 +322,29 @@ Reactions are actions that characters can use to act out of turn. This is most c
 #### Defensive Actions
 Defensive actions are those that characters do to avoid the bad flavor that comes with an attack. Commonly this means blocking, dodging, parrying, etc. Uncommonly this means counterattacking to remove a threat before it can hurt you, or jumping in front of an attack for another character.
 
+## Transitions
+Feel tree to maintain or drop initiative as you switch between chases, combats, and stealth scenes. Use logic to determine when it appropriate to switch between these and when to roll and drop initiative. Characters that start a combat or chase should go first. Characters need to be hidden if they want to start a stealth scene. Any of these can transition into any of the others. Chases are just combat with movement instead of fighting. Initiative for chases and combats works the same.
 
+## Entering and Leaving combat
+<!-- entering is simple and when a character is present and wants to join combat they roll 1d6+AD and their first time is then-->
+
+##### Armor and Weapons
+Armor and weapons provide no statistical bonuses. Weapons are used to determine the types of bad flavor an attacker can inflict on a defender. Both are used to determine the subjective difficulty of attack rolls. Attacking an armored knight with a sword is hard but attacking him with a lightsaber is easy. If it were sword vs leather armor it would probably be a normal roll.
+
+##### Damage, Wounds, and Death
+Whenever a character rolls successes on an undefended attack action they deal damage. In Tabula, damage is dealt in the form of bad flavor. Players cannot give NPCs immediately lethal flavor and the storyteller cannot give the players immediately lethal flavor unless both parties agree. If wounds (bad flavor from combat) would make a character's ability to move non-trivial, that character is downed. If a character's ability to perform actions ever becomes impossible that character is either unconscious or incapacitated and possibly dead. If a character is ever incapacitated, downed, or unconscious they are likely at risk of being killed by a coup de gras. For all of these things make "does this make sense" checks.
+
+##### Damage and Wounds 2
+I think it might work to have a CC/damage point buy system that allows any attack to deal those effects as long as it makes sense.
+```
+CC store: temporary CC, until cleansed CC, encounter-long CC, permanent CC, unconscious
+Damage store: minor aesthetic wounds, wounds that contribute to making rolls harder, ???, death.
+perhaps make it a mix and match style effect: permanent//temporary, difficulty increaser or no, action disabler or no, etc.
+```
+This point-buy system seems complicated. I think I am going to scrap it in favor of "all attacks are called shots. modify the difficulty accordingly. if your attack connects what you described happens*. *= unless the thing you attacked had plot armor"
+
+##### Death and plot armor
+allow everyone to attempt killshots. Have plot armor automatically downgrade this unless the character is downed/incapacitated/unconscious.
 
 
 ## Grouping NPCs
