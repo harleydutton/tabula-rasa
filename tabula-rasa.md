@@ -23,12 +23,17 @@ A night of roleplaying usually lasts anywhere from two to six hours and usually 
 
 Most good stories include conflict. This will usually end up being between the the player-characters and either NPCs or some other element in the story. When a conflict arises, resolve it by rolling a skill-check. Please see the [checks](#checks) section for help with this.
 
+## Legend
+examples of specific skills and flavor will be `monospace` in-line
+> larger examples will be quoted and appear under the relevant section with no header.
+
 ## Table of Contents
 <!-- TOC -->
 
 - [Introduction](#introduction)
   - [getting started](#getting-started)
   - [How to Play (maybe remove this section or merge with getting started?)](#how-to-play-maybe-remove-this-section-or-merge-with-getting-started)
+  - [Legend](#legend)
   - [Table of Contents](#table-of-contents)
 - [Setting](#setting)
   - [Action Delay](#action-delay)
@@ -37,18 +42,21 @@ Most good stories include conflict. This will usually end up being between the t
   - [Mandatory Skills](#mandatory-skills)
   - [Technology and Magic Descriptions](#technology-and-magic-descriptions)
   - [Store](#store)
+  - [Tone](#tone)
   - [Social Description](#social-description)
   - [Physical Description](#physical-description)
     - [Spacial Scope](#spacial-scope)
 - [Character](#character)
+  - [Motivations](#motivations)
   - [Character Creation](#character-creation)
     - [How to Fill out a Character Sheet](#how-to-fill-out-a-character-sheet)
     - [Adding Skills to the Setting](#adding-skills-to-the-setting)
       - [problems with previous iterations (scope and ... ?)](#problems-with-previous-iterations-scope-and--)
       - [Limiting factors](#limiting-factors)
-    - [Motivations](#motivations)
+    - [Motivations](#motivations-1)
     - [Skills](#skills)
     - [Flavor](#flavor)
+    - [Action Delay](#action-delay-1)
     - [Non-Player Characters](#non-player-characters)
     - [Printable Character Sheet](#printable-character-sheet)
   - [Skills](#skills-1)
@@ -61,9 +69,10 @@ Most good stories include conflict. This will usually end up being between the t
     - [Available Skills](#available-skills)
   - [Flavor](#flavor-1)
     - [Acquisition](#acquisition-1)
-    - [Negative Flavor](#negative-flavor)
+    - [Bad Flavor](#bad-flavor)
     - [Deals](#deals)
     - [Items](#items)
+    - [Money](#money)
     - [Social Flavor](#social-flavor)
     - [Supernatural Flavor](#supernatural-flavor)
     - [Relationships](#relationships)
@@ -72,7 +81,7 @@ Most good stories include conflict. This will usually end up being between the t
     - [Physical](#physical)
 - [Gameplay](#gameplay)
   - [Crafting](#crafting)
-  - [Money](#money)
+  - [Money](#money-1)
     - [Trivial Purchases](#trivial-purchases)
     - [Minor Purchases](#minor-purchases)
     - [Major Purchases](#major-purchases)
@@ -96,7 +105,7 @@ Most good stories include conflict. This will usually end up being between the t
     - [Caught](#caught)
   - [Persuasion, Willpower, and Motivations](#persuasion-willpower-and-motivations)
     - [Persuasion](#persuasion)
-    - [Motivations](#motivations-1)
+    - [Motivations](#motivations-2)
     - [Willpower](#willpower)
   - [Combat](#combat)
     - [Rolling Initiative](#rolling-initiative)
@@ -150,6 +159,9 @@ First off *the* store doesn't really exist after character creation. Characters 
 Money in Tabula is handled with things called AUCs. An AUC is an arbitrary unit of currency. In this game an AUC might be 1000 spacebucks or $10 or an ounce of gold. The point is that it is money. The way Tabula organizes money is so that you don't have to do much bookkeeping with your money. Groupings of AUCs form different levels of purchasing power. One AUC is one minor purchase. Three AUCs are a major purchase. There are 4 tiers of purchasing power. The first is trivial, then minor, major, and unreachable. To ground this in the real human world trivial purchases are things like food, beer, candy, ammo, clothes, or entertainment. A minor purchase would be things that cost more like guns, cars, specialized tools, computers, or medicine. Major purchases would be things like houses, companies, famous art, fancy cars, or a college education. A unreachable purchase is one that you simply cannot buy right now because it is either far to expensive or it is unavailable.
 I think to actually make the store on the setting it should be the four columns with various goods underneath them. (columns are trivial, minor, major, and unreachable)
 
+## Tone
+It is typically a good idea to set expectations for the tone of the story such that people have the same expectations for the game and those expectations are met. It can ruin a scary horror campaign to have a bunch of goofy shit happening all the time. It can ruin a serious campaign to have a character named reginald fuck-hammer. Siilarly it can ruin a goofy space-romp to have a character with a depressing or sinister history.
+
 ## Social Description
 The social description for the setting should describe what the people of the setting are like and what they have done. This will be things like important places, institutions, cultural events, and historic events. This will also include the races/peoples/cultures within the setting and the countries and governments they have formed.
 
@@ -160,6 +172,12 @@ The physical description for the setting should describe what the land itself is
 Settings have a size. They might be the entire known universe but even that has a size. Tell your players what that is. It is worth noting that you can have settings that are smaller than the known world and have multiple settings within the same story. A map with a some kind of scale marker and a region marked out as the place the setting governs is a good idea.
 
 # Character
+Characters are representations of the fictional people within the setting. To be mechanically playable a character needs an action delay, a motivation, skills, and flavor and a number of other shit.
+
+## Motivations
+Characters must have at least one motivation and typically fewer than five motivations. Motivations can be Ideals, Values, Causes, or anything else that causes the character to get out bed in the morning.
+> Alice is motivated by escaping wonderland and finding her way home. Harry is motivated to defeat the dark lord to protect his friends. 
+
 ## Character Creation
 Characters need skills, flavor and an action delay to be playable. The first thing a player should do when making a character is take a look at the [setting](#setting), read through it and make sure they understand the world. Players can propose things be added to the setting because they are supposed to have a mild influence upon what exists within the setting.
 
@@ -215,6 +233,9 @@ Example skills: sword fighting, pyromancy, computer hacking, seduction
 ### Flavor
 Third, your character needs [flavor](#flavor). Flavor is a word or short phrase describing a character. It can include knowledge, possessions, physique, and even social position. Review the starting flavor options listed on the setting. This will almost always give your character a language, clothes, and equipment relevant for the setting. When the setting specifies a type of flavor but not what it is specifically you get to choose something that would fit within the setting. Add your choice of starting flavor to your character sheet. Afterward, add flavor to your character to describe them. Flavor costs one character point per after you have your starting flavor. Flavor is usually just that, flavor, but occasionally it can make checks easier or harder.
 
+### Action Delay
+I have been thinking about a procedural way for players to modify action delay. If I suggest a typical action delay of 10 for every setting then I think it would be reasonable to allow players to modify their action delays at a cost equal to the difference between the desired AD and 10 squared. This would only work for decreasing a characters AD as characters should not be able to max out a character for non-combat stuff by deciding to never have a turn. Instead I think it might be reasonable to give players the default option to increase their character's size by increasing their action delay. I am unsure how to price reductions in action delay that started above ten. I think the same cost progression just starting form the character's starting AD. I guess characters will need to document their starting AD on their character sheets.
+
 ### Non-Player Characters
 Tabula treats NPCs the same as every other character. They should have motivations, skills, flavor, action delay, and all the other fields of a character sheet filled out. Creating them should be relatively quick as you only need to fill things in as necessary and can leave most of their character points un-spent. Careful, as this can result in some very min-maxed NPCs. NPCs should always have motivations to influence their decisions. Make sure you include motivation.
 
@@ -252,7 +273,7 @@ Flavor is a mechanic in Tabula used to describe the interesting parts of a chara
 ### Acquisition
 Flavor can be gotten in three ways. First, it can be asked for an paid for with CP at character creation. It typically costs 1 CP per word for flavor at character creation unless modified by a deal. Second, it can be earned and paid for during the story similarly to at character creation. The only difference is that the storyteller may make you spend time in character to earn the flavor you want. Thirdly, flavor might be given to or inflicted upon a character as a result of the story. Lands and title may be given to a peasant after he rescues the princess but he may have also taken some fire damage from the dragon guarding here and have a half-melted face now.
 
-### Negative Flavor
+### Bad Flavor
 Negative flavor is usually gotten in two ways. The first way is usually through deals. Rather than asking for a piece of flavor that does something good and something bad a player might ask for a piece of flavor that is mostly bad and ask to be compensated for it. In return for their character being blind a player might ask that their character be *paid* 3 or 4 CP rather than spending 1 for that piece of flavor.
 The second way characters usually get negative flavor is from combat. When one character lops off another character's hand with a sword that new `-1 hand` will need to be remembered unless that character ceases to matter. Flavor can handle arbitrary negative effects like wounds perfectly.
 
@@ -262,6 +283,8 @@ At character creation you may have noticed that there is no way to modify action
 ### Items
 Unlike most other roleplaying games which have extensive tables for equipment, in Tabula I have opted to represent equipment as flavor. This means that armor, weapons, tools, vehicles, and treasure should be represented as flavor. Typically equipment will modify the difficulty of checks with relevant skills sometimes reducing the difficulty from `impossible` and effectively granting a character new abilities.
 
+### Money
+Money is represented as flavor in Tabula. Character points can be converted into minor purchases. Money-flavor represents a character's liquid assets or the stuff they have for trade. Money-flavor can be aliased to whatever the currency for you game is: `gold coins`, `spacebucks`, `dollars`, `bullets`, `litres (of water)`, etc. If you want to know more go visit the [Money](#money-1) section. Typically money can be spent on things on the settings store as long as you find a store selling that thing in-game.
 
 ### Social Flavor
 The in-game doors that position and status unlock are also represented by flavor. Typically this might look like `respected businessman`, `landed noble`, `kings advisor`, or `internet personality`. The effect of this stuff is purely RP and it will be up to the player to use it to its fullest. A character's job is always worth having as flavor because this has social implications in most societies. A character may or may not have a reputation but if they do it is worth putting down what it is and what group of people will know about it.

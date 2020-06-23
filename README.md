@@ -41,20 +41,26 @@ THE WOUNDS AND DEATH PROBLEM: If we are saying MoS on attack rolls means you get
 ELDER SCROLLS LEVELING DOWNTIME: you can easily experience whore unless the DM goes outside the system to stop it. this is bad.
 
 ## To-Do
-- add a section for plot armor in combat
-- add more structure for motivations (major/minor, internal/external, etc.) for characters and character creation
-- format examples using legend
-- procedural way to modify AD? (default is usually 10. the cost to decrease AD is CP squared or in geometric sequence of absolute difference from default. For increasing your AD you might grow in size if that is possible within the world.
-- rename negative flavor. (flaws? bad flavor?)
-- legend should be included in intro section
-- deal with 'THESE SUBSECTIONS NEED HELP'
-- remove duplicate subsections in skills section
+- deal with 'THESE SUBSECTIONS NEED HELP' in gameplay -> combat
 - add description to top level section "stealth and perception"
-- put headings in title case
-- add a description of DTMS checks somewhere
+- add a description of DTMS  (does this make sense) checks somewhere
 - merge the stealth and lying sections. should become "deception and perception"
-- add grammar check plugin
-- export as PDF
+- CC
+  - reduce the "character creation" section and add sections to "character" (really just move them and refine both)
+  - redo the "adding skills to the setting" section in CC
+  - change character sheet such that it has "current AD" and "initial AD"
+  - remove duplicate subsections in skills section
+- images
+  - add an example image/table for the store
+  - add an example image for a whole setting
+- formatting
+  - format things using legend
+  - make sure all formatting options appearing in the legend can be in a list so the legend looks less crazy and random.
+  - put headings in title case
+- polish
+  - add grammar check plugin
+  - make the images non-shit
+  - export as PDF
 
 
 ## Legend
