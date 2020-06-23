@@ -41,34 +41,26 @@ THE WOUNDS AND DEATH PROBLEM: If we are saying MoS on attack rolls means you get
 ELDER SCROLLS LEVELING DOWNTIME: you can easily experience whore unless the DM goes outside the system to stop it. this is bad.
 
 ## To-Do
-- steal initiative description from exalted 2
-- steal action economy description from D&D
 - add a section for plot armor in combat
-- add more structure for motivations (major/minor, internal/external, etc.)
-- add title page (probably an image)
-- update readme>outstanding problems
-- put headings in title case
-- make intro, toc, setting, character, and gameplay the top level sections.
-  - character: cc, sheet, skills, flavor, etc.
-  - setting: the usual
-  - gameplay: checks, combat, money, persuasion, persuasion
-- use "> Example: ..." formatting for examples. Include them as needed
-- steal definition of roleplaying from one book or another
-- move purchasing power subsections of character>flavor>money over to gameplay
-- procedural way to modify AD? (default is always 10. getting faster has the same cost as leveling skills. getting slower is inverted in that it gives you CP)
+- add more structure for motivations (major/minor, internal/external, etc.) for characters and character creation
+- format examples using legend
+- procedural way to modify AD? (default is usually 10. the cost to decrease AD is CP squared or in geometric sequence of absolute difference from default. For increasing your AD you might grow in size if that is possible within the world.
 - rename negative flavor. (flaws? bad flavor?)
-- move how to play into gameplay or delete it
-- clean up damage, wounds, and death
+- legend should be included in intro section
+- deal with 'THESE SUBSECTIONS NEED HELP'
 - remove duplicate subsections in skills section
 - add description to top level section "stealth and perception"
-- remove the grouping NPCs section from combat and promote the war section of combat
+- put headings in title case
 - add a description of DTMS checks somewhere
 - merge the stealth and lying sections. should become "deception and perception"
 - add grammar check plugin
 - export as PDF
 
+
 ## Legend
-examples of skills and flavor will be `monospace`
+examples of specific skills and flavor will be `monospace` in-line
+> larger examples will be quoted and appear under the relevant section with no header.
+
 
 ## formatting options
 <!--html style comment-->
