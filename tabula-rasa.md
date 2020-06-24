@@ -93,6 +93,7 @@ examples of specific skills and flavor will be `monospace` in-line
     - [Gambits](#gambits-1)
     - [Magnitude of Success](#magnitude-of-success)
     - [Contests](#contests)
+    - [DTMS Checks](#dtms-checks)
   - [Stealth and Perception (fill me out!)](#stealth-and-perception-fill-me-out)
     - [Perception](#perception)
     - [Hidden](#hidden)
@@ -112,8 +113,6 @@ examples of specific skills and flavor will be `monospace` in-line
     - [Turns](#turns)
       - [Major Actions](#major-actions)
         - [Attacking](#attacking)
-          - [Difficulty](#difficulty-1)
-          - [Damage, wounds, death, and plot armor](#damage-wounds-death-and-plot-armor)
         - [advantages and disadvantages](#advantages-and-disadvantages)
         - [Interactions](#interactions)
       - [Move Actions](#move-actions)
@@ -123,11 +122,6 @@ examples of specific skills and flavor will be `monospace` in-line
         - [Defensive Actions](#defensive-actions)
     - [Transitions](#transitions)
     - [Entering and Leaving combat](#entering-and-leaving-combat)
-        - [THESE SUBSECTIONS NEED HELP](#these-subsections-need-help)
-          - [Armor and Weapons](#armor-and-weapons)
-          - [Damage, Wounds, and Death](#damage-wounds-and-death)
-          - [Damage and Wounds 2](#damage-and-wounds-2)
-          - [Death and plot armor](#death-and-plot-armor)
     - [War](#war)
 - [Glossary of Terms](#glossary-of-terms)
 
@@ -349,6 +343,9 @@ When a character succeeds at a check sometimes this is not enough to determine s
 For contests rather than just looking at whether or not a character succeeded look at the magnitude of success. Magnitude of success is how many successes were rolled on the contest check. The character with the most wins the contest.
 Examples of contests include arm wrestling and racing. Characters can tie contests.
 
+### DTMS Checks
+There is one special kind of die that the storyteller will make frequently. These are DTMS (Does this make sense?) checks. They don't use dice. This is just the storyteller deciding if something is possible within the world or not.
+
 ## Stealth and Perception (fill me out!)
 This should probably be combined with the lying section...
 
@@ -410,13 +407,7 @@ At the start of their turn a characters actions refresh. Actions include a major
 Major actions are used to do pretty much everything in combat other than move or take out-of-turn actions. Most of the time you will need to use a major action to attack, interact with the environment, cast spells, create advantages or disadvantages, etc.
 
 ##### Attacking
-Attacking costs an action. To attack a character describe how you want to do that and the storyteller will tell you how hard that will be either before or possibly after the roll if that is hidden information--no take-backsies. The difference between what flavor you use to make the attack and what flavor the defender uses to defend from it determines the subjective difficulty of this roll. Make the roll. Each success lets you inflict one piece of flavor on the defender correlated with the attack you made. If you are attacking with a sword you can do "sword damage" as flavor which might look like impaling, hamstringing, or severing limbs. The storyteller can assign lethal damage to NPCs to speed up combat. Players cannot assign lethal damage.
-
-###### Difficulty
-The difficulty of an attack is typically determined by how hard a character is to hit and do damage to. This will always end up being a DTMS check involving the accuracy and weapon of the attacker and the evasive ability and armor of the defender. A hummingbird is difficult to hit with a crossbow and a lightsaber goes straight through plate armor. Called shots also typically increase the difficulty of an attack roll
-
-###### Damage, wounds, death, and plot armor
-When a character lands a hit they have at that point already declared the damage they intend to do. The relevant character takes this damage in the form of flavor. Cutting off a character's arm or even their head is well within the realm of possibilities for most successful attack rolls. That being said it is intended that powerful characters have their defences removed before they can be outright killed. To this end it is entirely possible and even likely for bosses that enemies are completely invulnerable until you find and exploit their weaknesses. This may feel like plot armor if you don't announce the defence making a character immune to a form of attack when the player is asking for the difficulty but the players are operating on their characters' knowledge and do not have perfect information about the world and it's inhabitants. This is usually fine if it is only done once at the beginning of combat and all subsequent rolls are rated at a difficulty of impossible. Sometimes, characters want to disable and capture other characters. The appropriate called shot should be made in the attack
+Attacking costs an action. All attacks are called shots. Describe the attack to the storyteller and they will assign a difficulty. The storyteller does not have to reveal all of an NPCs defences or their effect on the difficulty of attacks made against that NPC but in general they should because it saves time. If a player makes an attack and passes the check and passes it the called shot just happens as usual unless the defender has relevant defences the attacker didn't know about. The idea here is that weak enemies can be defeated outright and you will need to chip down the defences of more difficult enemies before you can defeat them. Attacks that result in wounds that will take a long time to heal or will never heal should be marked on the relevant character sheet as flavor. The difficulty of an attack is based on any relevant flavor like armor and weapons, the context of the attack, and how difficult the called shot is. Consider the attacker's weapon and the defender's armor. Consider context like visibility, elevation, flanking, wounds, etc. Consider how these things influence the difficulty of that specific called shot. Consider the players opinions on what the difficulty should be. To disable and capture an enemy make the appropriate called shot. Weapons do damage in a way that makes sense. Swords do sword-damage, guns do gun-damage and fireballs do fireball-damage. Respective this would be things like cuts/stabs, bullet wounds, and being blown up/set on fire. If wounds (bad flavor from combat) would make a character's ability to move non-trivial, that character is downed. If a character's ability to perform actions ever becomes impossible that character is either unconscious or incapacitated and possibly dead. If a character is ever incapacitated, downed, or unconscious they are likely at risk of being killed by a coup de gras. For all of these things make "does this make sense" checks.
 
 ##### advantages and disadvantages
 As an action character may attempt to create an advantage for themselves or a disadvantage for another character. If the action succeeds whomever is controlling the character gets to describe the advantage they create. If the storyteller finds it reasonable it happens. If not, don’t waste time arguing, just move on.
@@ -444,28 +435,8 @@ Defensive actions are those that characters do to avoid the bad flavor that come
 Feel tree to maintain or drop initiative as you switch between chases, combats, and stealth scenes. Use logic to determine when it appropriate to switch between these and when to roll and drop initiative. Characters that start a combat or chase should go first. Characters need to be hidden if they want to start a stealth scene. Any of these can transition into any of the others. Chases are just combat with movement instead of fighting. Initiative for chases and combats works the same.
 
 ### Entering and Leaving combat
-<!-- entering is simple and when a character is present and wants to join combat they roll 1d6+AD and their first time is then-->
-##### THESE SUBSECTIONS NEED HELP
-Do they go under attacking in "Combat" or do they go under their own thing in gameplay? You can take wounds out of combat so i can see an argument for either.
-There is already a section "damage, wounds, death, and plot armor" that takes care of most of this. Double check and delete. Still, possibly put in a location that makes sense for the purpose of environmental damage OR make environmental damage it's own section in "Gameplay".
+Entering combat is simple. When a player decides they would like to enter combat they do so in 1d6+AD AUTs. The same goes for the storyteller's NPCs. Characters must pass a DTMS check to join combat ie. they must be present.
 
-###### Armor and Weapons
-Armor and weapons provide no statistical bonuses. Weapons are used to determine the types of bad flavor an attacker can inflict on a defender. Both are used to determine the subjective difficulty of attack rolls. Attacking an armored knight with a sword is hard but attacking him with a lightsaber is easy. If it were sword vs leather armor it would probably be a normal roll.
-
-###### Damage, Wounds, and Death
-Whenever a character rolls successes on an undefended attack action they deal damage. In Tabula, damage is dealt in the form of bad flavor. Players cannot give NPCs immediately lethal flavor and the storyteller cannot give the players immediately lethal flavor unless both parties agree. If wounds (bad flavor from combat) would make a character's ability to move non-trivial, that character is downed. If a character's ability to perform actions ever becomes impossible that character is either unconscious or incapacitated and possibly dead. If a character is ever incapacitated, downed, or unconscious they are likely at risk of being killed by a coup de gras. For all of these things make "does this make sense" checks.
-
-###### Damage and Wounds 2
-I think it might work to have a CC/damage point buy system that allows any attack to deal those effects as long as it makes sense.
-```
-CC store: temporary CC, until cleansed CC, encounter-long CC, permanent CC, unconscious
-Damage store: minor aesthetic wounds, wounds that contribute to making rolls harder, ???, death.
-perhaps make it a mix and match style effect: permanent//temporary, difficulty increaser or no, action disabler or no, etc.
-```
-This point-buy system seems complicated. I think I am going to scrap it in favor of "all attacks are called shots. modify the difficulty accordingly. if your attack connects what you described happens*. *= unless the thing you attacked had plot armor"
-
-###### Death and plot armor
-allow everyone to attempt killshots. Have plot armor automatically downgrade this unless the character is downed/incapacitated/unconscious.
 
 ### War
 Once the number of NCPs gets into the double digits it doesn't make a whole lot of sense to actually play the individual characters in combat. In this case the NPCs battle is narrated with the PCs party being able to influence the outcome through their success or failure in smaller battles where most of the combatants matter. This is also a good time to include the event die. When the storyteller ends up controlling more than triple the number of units the PCs do that is probably a good time to change things to a simultaneous battle and war.

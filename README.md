@@ -38,13 +38,10 @@ THE CRAFTING PROBLEM: Either items have numbers (NO) or magnitude of success has
 
 THE WOUNDS AND DEATH PROBLEM: If we are saying MoS on attack rolls means you get to inflict bad flavor when does a character die? When they have a certain number of bad flavors? Who determines what flavor can be added to a character? Perhaps we should just have health? How do you determine when a character has accumulated enough flavor that they are unconscious or dead? This can probably be solved by saying "no giving immediately lethal flavor", "unconscious/downed characters can be coup de gra'ed", and adding a subjective system for when a character has a shit-pile of wounds they should probably go down. Not having source material makes combat messy... When moving is non-trivial (on the trivial, easy, normal, hard, impossible subjective check difficulty scale) a character is downed. When attacking is impossible a character can be considered impotent and initiative can be dropped.
 
-ELDER SCROLLS LEVELING DOWNTIME: you can easily experience whore unless the DM goes outside the system to stop it. this is bad.
 
 ## To-Do
-- deal with 'THESE SUBSECTIONS NEED HELP' in gameplay -> combat
-- add description to top level section "stealth and perception"
-- add a description of DTMS  (does this make sense) checks somewhere
 - merge the stealth and lying sections. should become "deception and perception"
+- add description to top level section "stealth and perception"
 - CC
   - reduce the "character creation" section and add sections to "character" (really just move them and refine both)
   - redo the "adding skills to the setting" section in CC
@@ -53,6 +50,10 @@ ELDER SCROLLS LEVELING DOWNTIME: you can easily experience whore unless the DM g
 - images
   - add an example image/table for the store
   - add an example image for a whole setting
+- feedback
+  - which terms need to go in the glossary. does the glossary need to exist?
+  - does the attacking section need subsections?
+  - where do we need example images, charts, or descriptions?
 - formatting
   - format things using legend
   - make sure all formatting options appearing in the legend can be in a list so the legend looks less crazy and random.
