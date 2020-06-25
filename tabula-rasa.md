@@ -2,24 +2,20 @@
 ![titlePage.png not found](titlePage.png "Title Page")
 
 # Introduction
-Tabula Rasa is a worldbuilding framework and a rules-light, generic roleplaying game that lets players create their own skills.
+Tabula Rasa is a worldbuilding framework and a rules-light, adaptable roleplaying game that lets players create their own skills.
 
 The worldbuilding framework produces a Setting. Settings are short, standardized, and easily sharable descriptions of a single place within a world. The intent is that Settings can be used to quickly understand a part of the world such that a player can create a Character or the Storyteller can create an Adventure.
 
-The roleplaying system is generic so it will work with any Setting produced by the worldbuilding framework. The rules are minimal meaning you and your group should be able to create any character imaginable within the setting and start playing very quickly!
+The roleplaying system is adaptable so it will work with any Setting produced by the worldbuilding framework. The rules are minimal, meaning you and your group should be able to create any character imaginable within the Setting and start playing very quickly!
 
-## getting started
-The storyteller should go take a look at the setting section and make sure they understand settings. Then the storyteller will need to make a setting or find one online.
-The players should go take a look at character creation and begin creating characters using the setting your storyteller has provided you with.
+## Getting started
+Tabula Rasa is a roleplaying game. Experienced role-players can now proceed to the [Checks](#checks) section; For Newbies, roleplaying is a form of collaborative, improvisational storytelling.
 
-## How to Play (maybe remove this section or merge with getting started?)
-Tabula Rasa is a roleplaying game. Experienced role-players can now proceed to the [Checks](#checks) section. For everyone else, roleplaying is a form of collaborative, improvisational storytelling.
+One person, the storyteller, will present a world and a story. The storyteller should review the Setting section and make sure they understand Settings. The storyteller can use a world, or setting, of their own design or one from popular media.  The [setting](#setting) section has more details on what you can expect from this fictitious world. The storyteller is also responsible for giving the world life. They plan out scenes between players and NPCs, provide the decisions and voice acting for NPCs, and narrate events in the world to drive the story they have planned.
 
-One person, the storyteller, will present a world and a story. The storyteller can use a world, or setting, of their own design or one from popular media. The [setting](#setting) section has more details on what you can expect from this fictitious world. The storyteller is also responsible for giving the world life. They plan out scenes between players and NPCs, provide the decisions and voice acting for NPCs, and narrate events in the world to drive the story they have planned.
+The rest of the party in a roleplaying game are players. Typically, players will create a character for the game. See the [character_creation](#character-creation) section for help with this. Once a player has a character, they will provide voice acting, motivations, and personality for the character in addition to controlling their actions within the fictitious realm of the story. The players should look at character creation and begin creating characters using the Setting your storyteller has provided.
 
-The rest of the people in a roleplaying game are players. Usually, players will create a character for the game. See the [character_creation](#character-creation) section for help with this. Once a player has a character, they will provide voice acting, motivations, and personality for the character in addition to controlling their actions within the fictitious realm of the story.
-
-A night of roleplaying usually lasts anywhere from two to six hours and usually includes a variety of scenes. Exhilarating chases, nail-biting espionage, terrifying battles, grand speeches, descriptions of exotic lands, and of course joking around in and out of character are all hallmarks of good roleplaying.
+A night of roleplaying usually lasts anywhere from two to six hours and includes a variety of scenes: Exhilarating chases, nail-biting espionage, terrifying battles, grand speeches, descriptions of exotic lands, and of course joking around in and out of character are all hallmarks of good roleplaying.
 
 Most good stories include conflict. This will usually end up being between the the player-characters and either NPCs or some other element in the story. When a conflict arises, resolve it by rolling a skill-check. Please see the [checks](#checks) section for help with this.
 
@@ -32,7 +28,6 @@ examples of specific skills and flavor will be `monospace` in-line
 
 - [Introduction](#introduction)
   - [getting started](#getting-started)
-  - [How to Play (maybe remove this section or merge with getting started?)](#how-to-play-maybe-remove-this-section-or-merge-with-getting-started)
   - [Legend](#legend)
   - [Table of Contents](#table-of-contents)
 - [Setting](#setting)
