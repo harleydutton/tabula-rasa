@@ -12,7 +12,7 @@ The roleplaying system is generic so it will work with any Setting produced by t
 The storyteller should go take a look at the setting section and make sure they understand settings. Then the storyteller will need to make a setting or find one online.
 The players should go take a look at character creation and begin creating characters using the setting your storyteller has provided you with.
 
-## How to Play (maybe remove this section or merge with getting started?)
+## How to Play (maybe remove this section or merge with something?)
 Tabula Rasa is a roleplaying game. Experienced role-players can now proceed to the [Checks](#checks) section. For everyone else, roleplaying is a form of collaborative, improvisational storytelling.
 
 One person, the storyteller, will present a world and a story. The storyteller can use a world, or setting, of their own design or one from popular media. The [setting](#setting) section has more details on what you can expect from this fictitious world. The storyteller is also responsible for giving the world life. They plan out scenes between players and NPCs, provide the decisions and voice acting for NPCs, and narrate events in the world to drive the story they have planned.
@@ -32,7 +32,7 @@ examples of specific skills and flavor will be `monospace` in-line
 
 - [Introduction](#introduction)
   - [getting started](#getting-started)
-  - [How to Play (maybe remove this section or merge with getting started?)](#how-to-play-maybe-remove-this-section-or-merge-with-getting-started)
+  - [How to Play (maybe remove this section or merge with something?)](#how-to-play-maybe-remove-this-section-or-merge-with-something)
   - [Legend](#legend)
   - [Table of Contents](#table-of-contents)
 - [Setting](#setting)
