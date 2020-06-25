@@ -127,16 +127,16 @@ examples of specific skills and flavor will be `monospace` in-line
 
 <!-- /TOC -->
 # Setting
-A setting is a template for worldbuilding. It includes a description of the world, the typical speed of characters in the world for combat purposes, how many character points new characters in the world should start with, a list of mandatory skills, and a list of skills common within the setting. The description usually includes a the technological level, magic, history, spacial/geographic scope, flora, fauna, biomes, natural resources, items, culture, store, etc.
-To be mechanically playable a setting needs an action delay, starting character points, a list of mandatory skills, a list of common skills, and a  general description. Splitting the description into the cultural and the physical can be helpful. Creating a store is a good idea in most cases.
+A Setting is a template for worldbuilding. It includes a description of the world, the normal speed of characters in the world for combat, the amount of character points new characters in the world start with, a list of Mandatory Skills, and a list of Skills common within the Setting. The description includes the technological level, magic, history, spacial/geographic scope, flora, fauna, biomes, natural resources, items, culture, store, etc. of the World.
+To be mechanically playable a Setting needs an Action Delay, starting character points, a list of Mandatory Skills, a list of common skills, and a  general description. Splitting the description into the cultural and the physical aspects of the world can be helpful. Creating a store is a good idea in most cases (unless you're a communist).
 
 ## Action Delay
-The default action delay for the setting is what all new characters in the setting will start with. This will guarantee that most of the characters in the setting are at about the same speed in combat and chases. Because it is just a default and can be modified it also allows for some characters to be faster or slower than the average character.
+The default Action Delay for the Setting is what all new characters in the Setting will start with. This will guarantee that most of the characters in the Setting are at about the same speed in combat and chases. Because it is just a default and can be modified it also allows for some characters to be faster or slower than the average character.
 <!-- everything below from storyteller section on action delay-->
 Choosing a suitable action delay is fairly easy but it is possible to mess it up. If the action delay is too high, counting out AUTs becomes tedious and modifying a characters action delay by small numbers becomes less meaningful. On the other hand choosing a default action delay that is too low will greatly increase turn collisions and make it such that characters with non-default action delays have very different "speeds". Default action delay effectively determines the typical speed for characters in the setting. Having an abnormal action delay is how a character becomes faster or slower. AUTs are arbitrary units of time and I think this is what I will be calling initiative "ticks" because depending on the combat they can vary wildly.
 
 ## Character Points
-Character Points, also known as CP, are a resource used by players throughout the game to take new skills and flavor and level up existing skills. The suggested starting character points for a setting is basically a recommendation for starting level. If characters start with 30 CP rather than 25 they will be a little stronger on average. There is usually a positive correlation between the number of mandatory skills in a setting and the starting CP.
+Character Points, also known as CP, are a resource used by players throughout the game to take new Skills and Flavor and level up existing skills. The suggested starting character points for a setting is basically a recommendation for starting level. If characters start with 30 CP rather than 25 they will be a little stronger on average. There is usually a positive correlation between the number of mandatory skills in a setting and the starting CP.
 
 ## Common/Available skills
 Available skills are skills that every character in a setting has access to. Any character can learn these skills with storyteller approval either at character creation or during the story. Players are encouraged to suggest additions to the list of available skills for the setting. Available skills are where characters get their options for interesting actions. A few examples of available skills are `swordfighting`, `necromancy`, `seduction`, and `piloting`. Available skills can be purchased with CP at character creation and during the story by any character. Characters do not need to have every available skill.
@@ -166,22 +166,35 @@ The physical description for the setting should describe what the land itself is
 Settings have a size. They might be the entire known universe but even that has a size. Tell your players what that is. It is worth noting that you can have settings that are smaller than the known world and have multiple settings within the same story. A map with a some kind of scale marker and a region marked out as the place the setting governs is a good idea.
 
 # Character
-Characters are representations of the fictional people within the setting. To be mechanically playable a character needs an action delay, a motivation, skills, and flavor and a number of other shit.
+This chapter is for you, the Player. Characters are representations of the fictional people within the Setting. To be mechanically playable, your character needs an action delay, a motivation, skills, flavor and a number of other shit.
 
 ## Motivations
-Characters must have at least one motivation and typically fewer than five motivations. Motivations can be Ideals, Values, Causes, or anything else that causes the character to get out bed in the morning.
+Characters must have at least one motivation and ideally less than five motivations. Motivations can be Ideals, Values, Causes, or anything else that gets the character out of bed in the morning.
 > Alice is motivated by escaping wonderland and finding her way home. Harry is motivated to defeat the dark lord to protect his friends. 
 
 ## Character Creation
-Characters need skills, flavor and an action delay to be playable. The first thing a player should do when making a character is take a look at the [setting](#setting), read through it and make sure they understand the world. Players can propose things be added to the setting because they are supposed to have a mild influence upon what exists within the setting.
+Characters need skills, flavor and an action delay to be playable. The first thing you should do when making a character is take a look at the [setting](#setting), read through it and make sure they understand the world. Players can propose things to be added to the Setting because they are supposed to have a mild influence upon what exists within the setting.
 
 ### How to Fill out a Character Sheet
-First fill out the top of your character sheet. In order, the boxes should contain the character's name, the character's concept, the setting's name, your name, and the setting's action delay. A character concept can be thought of as the canonical or stereotypical version of something. The setting's action delay can be found in the upper left corner of the setting template.
+Begin at the top of the character sheet; In order, the boxes should contain your character's name, your name, the setting's name, the setting's Action Delay, your character points, your character's motivations, and your character's concept/story. 
+> Character name: Your character's name is the name he/she will carry throughout the world that you must decide prior to playing the game. 
+> Your Name: Your real life name.
+> Setting Name: The name of the Setting chosen by the Storyteller.
+> Action Delay: The Setting's Action Delay can be found in the upper left corner of the Setting template.
+> Character Points: Points determined by the Setting -- for use in acquiring/ leveling Skills.
+> Motivations: What makes your character get out of bed or keeps them up at night. 
+> Concept/Story: A character concept can be thought of as the canonical or stereotypical version of something. 
+
+Next you should see a section for your Skills, Mandatory and Acquired. 
+> Mandatory Skills: Skills you gain from the start that are determined by the Setting.
+> Acquired Skills: Skills that your character has gained, either through training or some other means. These can be Common or Available skills or self-invented skills.  
+
+
 
 ### Adding Skills to the Setting
-Probably the coolest part of this system is that it allows players to make their own skills. This requires co-operation from you, the storyteller. Your job is to vet and occasionally veto skills players have proposed as additions to the setting. Rather than a veto however you can put some [limiting factors](#limiting-factors) on a skill to make it less disruptive.
+The unique part of this system is that it allows you to make your own skills. This requires co-operation from the Storyteller -- who will vet and occasionally veto skills players have proposed as additions to the Setting. Rather than a veto, however, the Storyteller can put some [limiting factors](#limiting-factors) on a skill to make it less disruptive (and arguably more interesting).
 
-#### problems with previous iterations (scope and ... ?)
+#### Problems with previous iterations (scope and ... ?)
 tl;dr players could make skills that were vague and applied to every scenario and then max them.
 - using incredibly broad skills that apply to every scenario. "social graces" applies to every social situation, provides little character depth, and makes it so a player can use the dice to walk all over the game.
 an example tree of skill scope
@@ -209,29 +222,33 @@ perhaps settings should include a list of default/common skills?
 there is something of a goldilocks zone for skill scope. Magic is too broad, fireball is too narrow, but fire magic is just right.
 
 #### Limiting factors
-To limit a how disruptive a skill can be to your story a few things are necessary. Firstly, make it clear to the players that while their character *might* be the first character to have a skill they will probably not be the only character to have this skill. Next adding a cooldown, timing restriction, or cost to a skill can go a long way to making the skill less disruptive. You will have to come up with your own rules regarding this. Keep in mind they should be short and simple.
+To limit a how disruptive a Skill can be to the story a few things are necessary. Firstly, the Storyteller, must make it clear to the players that while their character *might* be the first character to have a Skill they will probably not be the only character to have this Skill. Next adding a cooldown, timing restriction, or cost to a Skill can go a long way to making the Skill less disruptive. You will have to come up with your own rules regarding this--Keep in mind they should be short and simple.
 
 ### Motivations
 <!-- is this its own section or should it be a part of flavor. misc info?-->
-Each character should have at least one motivation and probably not more than 5 though this number is flexible. Motivations describe at a high level what your character wants from the world in which the story takes place and gives the storyteller useful ways to interact with your character. NPCs should also have motivations to influence the difficulty of their persuasion and willpower tests.
+Each character must have at least one motivation but not more than 5, however, this number is flexible. Motivations describe at a high level what your character wants from the world and gives the Storyteller useful ways to interact with your character. NPCs will also have motivations to influence the difficulty of their persuasion and willpower tests.
 
 ### Skills
-Second, your character needs [skills](#skills). Skills are used to roll checks which is how a character interacts with the game world. Skills are usually self-descriptively named and have levels. The higher level the skill the better at it a character is.
-There are two kinds of skills. Mandatory skills and the normal kind. Mandatory skills are skills every character _needs_ within the setting. They are listed at the top of the skills section in the setting. Add all of the mandatory skills to your character sheet. The rest of the skills are those that are common within the setting and you can take any of them you can afford. Players can also propose to the storyteller that skills be added to the setting. You pay for your starting skills using character points. Starting character points are listed in the upper left of the setting. Skills cost a number of character points equal to the level you want the skill to start at. An important note about skills is that players are encouraged to add new skills to the list of available skills in the setting. Storyteller approval is required for a skill to to be added to the setting.
+Second, your character needs [skills](#skills). Skills are used to roll checks, which is how a character interacts with the game world. Skills are usually self-descriptively named and have levels. The higher level the Skill the better at it a character is.
+There are three kinds of Skills. Mandatory Skills, Common Skills, and Self-Invented Skills. Mandatory skills are skills every character _needs_ within the Setting. They are listed at the top of the Skills section in the Setting. Add all of the Sandatory Skills to your character sheet. Common Skills are those that are frequent within the Setting and you can take any of them you can afford. Players can also propose to the zstoryteller that Skills be added to the Setting; These are Self-Invented Skills. You pay for your starting Skills using Character Points (CP). Starting CPs are listed in the upper left of the Setting template. Skills cost a number of CPs equal to the level you want the Skill to start at.
+```
+For example, a level 3 skill will cost 3 CPs intially. 
+```
+> An important note about Self-Invented Skills (new Skills added to the list of available Skills in the Setting; this is highly engouraged). Storyteller approval is required for a Skill to be added to the Setting.
 
 ```
-Example mandatory skills: willpower, strength, magic, dexterity, charisma
-Example skills: sword fighting, pyromancy, computer hacking, seduction
+Example Mandatory skills: willpower, strength, magic, dexterity, charisma
+Example Common or Self-Invented Skills: sword fighting, pyromancy, computer hacking, seduction
 ```
 
 ### Flavor
-Third, your character needs [flavor](#flavor). Flavor is a word or short phrase describing a character. It can include knowledge, possessions, physique, and even social position. Review the starting flavor options listed on the setting. This will almost always give your character a language, clothes, and equipment relevant for the setting. When the setting specifies a type of flavor but not what it is specifically you get to choose something that would fit within the setting. Add your choice of starting flavor to your character sheet. Afterward, add flavor to your character to describe them. Flavor costs one character point per after you have your starting flavor. Flavor is usually just that, flavor, but occasionally it can make checks easier or harder.
+Third, your character needs [flavor](#flavor). Flavor is a word or short phrase describing your character. It can include knowledge, possessions, physique, and even social position. Review the starting Flavor options listed on the Setting. The Setting will almost always give your character a language, clothes, and equipment that is relevant to the story. When the Setting specifies a type of flavor but not what it is specifically, you get to choose something that would fit within the Setting. Add your choice of starting Flavor to your character sheet. Afterward, add Flavor to your character to describe them. Flavor costs one CP per Flavor after you have allocated starting flavor. Flavor is usually benign, but can occasionally make checks easier or harder.
 
 ### Action Delay
-I have been thinking about a procedural way for players to modify action delay. If I suggest a typical action delay of 10 for every setting then I think it would be reasonable to allow players to modify their action delays at a cost equal to the difference between the desired AD and 10 squared. This would only work for decreasing a characters AD as characters should not be able to max out a character for non-combat stuff by deciding to never have a turn. Instead I think it might be reasonable to give players the default option to increase their character's size by increasing their action delay. I am unsure how to price reductions in action delay that started above ten. I think the same cost progression just starting form the character's starting AD. I guess characters will need to document their starting AD on their character sheets.
+I have been thinking about a procedural way for players to modify Action Delay. If I suggest a typical action delay of 10 for every setting then I think it would be reasonable to allow players to modify their action delays at a cost equal to the difference between the desired AD and 10 squared. This would only work for decreasing a characters AD as characters should not be able to max out a character for non-combat stuff by deciding to never have a turn. Instead I think it might be reasonable to give players the default option to increase their character's size by increasing their action delay. I am unsure how to price reductions in action delay that started above ten. I think the same cost progression just starting form the character's starting AD. I guess characters will need to document their starting AD on their character sheets.
 
 ### Non-Player Characters
-Tabula treats NPCs the same as every other character. They should have motivations, skills, flavor, action delay, and all the other fields of a character sheet filled out. Creating them should be relatively quick as you only need to fill things in as necessary and can leave most of their character points un-spent. Careful, as this can result in some very min-maxed NPCs. NPCs should always have motivations to influence their decisions. Make sure you include motivation.
+Tabula Rasa treats NPCs the same as every other character. They should have motivations, skills, flavor, action delay, and all the other fields of a character sheet filled out. Creating them should be relatively quick as you only need to fill things in as necessary and can leave most of their character points un-spent. Careful, as this can result in some very min-maxed NPCs. NPCs should always have motivations to influence their decisions. Make sure you include motivation.
 
 ### Printable Character Sheet
 ![characterSheet.png not found](characterSheet.png "Printable Character Sheet")
