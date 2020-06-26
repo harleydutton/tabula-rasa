@@ -41,6 +41,7 @@ THE WOUNDS AND DEATH PROBLEM: If we are saying MoS on attack rolls means you get
 
 ## To-Do
 - merge the stealth and lying sections. should become "deception and perception"
+- CP are given to you by the storyteller at CC and at the end of sessions or when you do cool stuff
 - add description to top level section "stealth and perception"
 - CC
   - reduce the "character creation" section and add sections to "character" (really just move them and refine both)
