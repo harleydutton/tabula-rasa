@@ -351,7 +351,7 @@ In Tabula, crafting an item is just a skill check. Describe what you want and ho
 
 ### Skill Acquisition
 
-Skills can be learned from other characters in the story. If a skill is fairly simple or if a character is fairly dedicated they can learn it on their own. Dedicated characters can also create new skills and add them to the setting--once again, only with storyteller approval. The first level of any new skill costs one character point. All skill acquisitions need to pass a DTMS check.
+Skills can be learned in a variety of ways including from books, other characters in the story or they can even be invented/created. If a skill is fairly simple or if a character is fairly dedicated they can learn it on their own. Dedicated characters can also create new skills and add them to the setting--once again, only with storyteller approval. The first level of any new skill costs one character point. All skill acquisitions need to pass a DTMS check.
 
 ### Skill Progression
 
@@ -583,7 +583,7 @@ If you let another player character borrow one of your items, it still counts as
 
 ## Hidden Information
 
-Hidden information in roleplaying games can range from lying, to sneaking up on someone, to hiding things. Hidden info is a source of tension and surprise but resolving can be tricky. The way I like to think about it there are two roles when talking about hidden information. One is the thief, the character going around hiding information. The other is the guard, the character trying to discover this information. The information the thief hides can be undiscovered or discovered. The guard can be suspicious or unsuspicious. Because it will almost certainly come up, it is worth noting that the difficulty of checks related to hidden information should be disclosed by default but doesn't have to be revealed before or even after the check is made. Whenever the thief wishes to hide info or change hidden info they need to make a check.
+Hidden information in roleplaying games can range from lying, to sneaking up on someone, to hiding things. Hidden info is a source of tension and surprise but resolving can be tricky. The way I like to think about it there are two roles when talking about hidden information. One is the thief, the character going around hiding information. The other is the guard, the character trying to discover this information. The information the thief hides can be undiscovered or discovered. The guard can be suspicious or oblivious. Because it will almost certainly come up, it is worth noting that the difficulty of checks related to hidden information should be disclosed by default but doesn't have to be revealed before or even after the check is made. Whenever the thief wishes to hide info or change hidden info they need to make a check.
 
 ### Oblivious
 
@@ -595,7 +595,7 @@ Actions to hide information: Lying, moving silently, putting on a disguise, sett
 
 ### Suspicious
 
-Suspicious represents the state where the guard knows the thief's hidden information exists but doesn't have it. At this point the guard can start making checks to attempt to uncover the hidden info. Pass or fail, when the guard stops looking for the information they should be considered unsuspicious. The guard might use seeing, hearing, some extra-sensory perception skill, a domain-specific skill like animal handling, or an attribute to try and detect the hidden information.
+Suspicious represents the state where the guard knows the thief's hidden information exists but doesn't have it. At this point the guard can start making checks to attempt to uncover the hidden info. Pass or fail, when the guard stops looking for the information they should be considered oblivious. The guard might use seeing, hearing, some extra-sensory perception skill, a domain-specific skill like animal handling, or an attribute to try and detect the hidden information.
 
 As a guard on duty, some reasons to become suspicious: Nervous stuttering, heard a noise, clothes don't fit well, saw a wire, felt something in pants, etc.
 
@@ -1000,7 +1000,7 @@ Physicality is also represented as flavor. This includes but is not limited to b
 
 # DeleteMe ToC
 
-[Introduction](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.4ysk1g6cyjjv)
+[Introduction](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.4ysk1g6cyjjv) ^e798d9
 
 [Getting Started](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.yardssvg7u2c)
 

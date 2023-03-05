@@ -15,7 +15,8 @@ Used to determine melee damage and dodge type.
 Used to scale sorceries.
 
 ## Faith
-
+[[tabula-rasa#^14efb1|asdfasdf]]
+[[Tabula Rasa from gDocs#^e798d9]]
 Used to scale miracles.
 
 ## Dexterity
