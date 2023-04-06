@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old/Tabula Rasa from gDocs.md",
+                "file": "meta/Skeleton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "old/Tabula Rasa from gDocs.md",
+                "file": "meta/Skeleton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "old/Tabula Rasa from gDocs.md"
+                "file": "meta/Skeleton.md"
               }
             }
           }
@@ -189,10 +189,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ff766f7911f9e0a",
+  "active": "43ba26ea3f910c47",
   "lastOpenFiles": [
-    "meta/Skeleton.md",
     "old/Tabula Rasa from gDocs.md",
+    "meta/Skeleton.md",
     "old/tabula-rasa.md",
     "meta/Design.md",
     "meta/Temp.md",

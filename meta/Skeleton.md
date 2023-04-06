@@ -33,7 +33,6 @@
 ## battlefields
 ## movement
 
-
 # Checks
 ## Difficulty
 ### Challenging
