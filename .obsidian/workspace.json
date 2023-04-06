@@ -13,7 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Top-Level Sections/Character Creation.md",
+                "file": "meta/Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43ba26ea3f910c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meta/Skeleton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5fdc07a5de75e5ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ff766f7911f9e0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "old/Tabula Rasa from gDocs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea72e83d9cfa64d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "old/tabula-rasa.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 226.500732421875
   },
   "right": {
     "id": "564a7db3d1c77aba",
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Top-Level Sections/Character Creation.md",
+                "file": "old/Tabula Rasa from gDocs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Top-Level Sections/Character Creation.md",
+                "file": "old/Tabula Rasa from gDocs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Top-Level Sections/Character Creation.md"
+                "file": "old/Tabula Rasa from gDocs.md"
               }
             }
           }
@@ -134,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,12 +189,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4448b3f0efb2672",
+  "active": "4ff766f7911f9e0a",
   "lastOpenFiles": [
+    "meta/Skeleton.md",
+    "old/Tabula Rasa from gDocs.md",
+    "old/tabula-rasa.md",
+    "meta/Design.md",
+    "meta/Temp.md",
+    "meta/PROBLEM.md",
+    "meta/TODO.md",
+    "Tabula Rasa.md",
+    "Gathering.md",
+    "meta/Formatting.md",
+    "old/Sark Douls.md",
+    "Top-Level Sections/Character Creation.md",
     "Top-Level Sections/Setting Creation.md",
     "Top-Level Sections/Introduction.md",
-    "Top-Level Sections/Character Creation.md",
-    "Gathering.md",
     "Crafting.md",
     "Converting.md",
     "Charater Points.md",
@@ -164,19 +217,9 @@
     "storyteller controls/DTMS.md",
     "storyteller controls/Controls.md",
     "storyteller controls",
-    "old/tabula-rasa.md",
-    "old/Tabula Rasa from gDocs.md",
     "old/Sequoia.md",
-    "old/Sark Douls.md",
     "old",
-    "meta/Temp.md",
-    "meta/TODO.md",
-    "meta/PROBLEM.md",
-    "meta/Formatting.md",
-    "meta/Design.md",
     "meta",
-    "Wealth.md",
-    "Untitled.md",
     "Top-Level Sections",
     "Definitions/skills/attributes",
     "Definitions/skills",

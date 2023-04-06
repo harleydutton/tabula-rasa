@@ -6,7 +6,7 @@ https://docs.google.com/document/d/1KrCQbFtP4JWlYYK49pctjfHmTaw4WqypJB3PVWblAbw/
 
 
 
-
+these are just examples of sections embedded using obsidian
 ![[What is not allowed#^8c0ae3]]
 
 ![[Wealth]]
