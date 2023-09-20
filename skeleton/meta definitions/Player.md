@@ -1,0 +1,1 @@
+A real, live person playing a [[Character|character]] in the [[Story|story]].
