@@ -1,0 +1,1 @@
+One instance of the [[Storyteller 1|storyteller]] and [[Player 1|players]] meeting up to play the game.

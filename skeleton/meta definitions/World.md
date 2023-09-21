@@ -1,1 +1,0 @@
-The place where the [[Character|characters]] exist and the [[Story]] is told

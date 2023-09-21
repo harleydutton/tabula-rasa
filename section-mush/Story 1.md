@@ -1,0 +1,1 @@
+The overarching plot as presented by the [[Storyteller 1|storyteller]] to the [[Player 1|players]].

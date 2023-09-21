@@ -1,0 +1,1 @@
+The person telling the [[Story 1|story]] the [[Character 1|characters]] exist in that the [[Player 1|players]] engage with.
