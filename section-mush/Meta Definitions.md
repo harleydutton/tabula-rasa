@@ -2,9 +2,9 @@
 
 [[organization decisions]] [[naming decisions]] these all have an in-game meaning so I'm not sure if they really count as meta. What's a better word to describe them? 
 
-![[Storyteller 1]]
-![[Player 1]]
+![[Storyteller]]
+![[Player]]
 ![[Player Character (PC)]]
 ![[Non-Player Character (NPC)]]
-![[Story 1]]
+![[Story]]
 ![[Session]]

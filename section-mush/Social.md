@@ -1,1 +1,1 @@
-[[naming decisions]] thinking about renaming this Communication
+[[naming decisions]] thinking about renaming this heart or presence

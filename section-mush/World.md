@@ -1,1 +1,1 @@
-The place where the [[Character 1|characters]] exist and the [[Story 1]] is told
+The place where the [[Character 1|characters]] exist and the [[Story]] is told

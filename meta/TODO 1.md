@@ -1,5 +1,5 @@
 - Sections to add
-	- [[Storyteller 1]] v [[Player 1]] v [[Character 1]] v npc section
+	- [[Storyteller]] v [[Player]] v [[Character 1]] v npc section
 	- sleep/rest/fatigue
 	- morality (spiritual damage?)
 	- healing
@@ -34,9 +34,9 @@
 			- probably need a more generic attack modifiers list. also something that will work in mental or [[section-mush/Social]] combat. I.e. Making an attack hard to evade is difficulty hard. Other mods include multitarget, lethal, feint, etc.
 			- [[Scandals]] and damage system as currently imagined (physical; adapt for mental/[[section-mush/Social]]. Spiritual [[Scandals]] tracks morality)
 			- [[section-mush/Body]] is a [[Character 1]]’s capacity to receive wounds (flavor) before going unconscious.
-			- [[Storyteller 1]] represents characters as weak/vulnerable/bloody once they have [[section-mush/Body]]-1 wounds.
+			- [[Storyteller]] represents characters as weak/vulnerable/bloody once they have [[section-mush/Body]]-1 wounds.
 			- some flavor can be bigger maybe? Mortal wounds?
-			- characters with wounds equal to [[section-mush/Body]] are incapacitated. [[Storyteller 1]] discretion as to what happens to them
+			- characters with wounds equal to [[section-mush/Body]] are incapacitated. [[Storyteller]] discretion as to what happens to them
 			- characters with more wounds than [[section-mush/Body]] die
 	- [[Character 1]] Creation
 		- at [[Skills]]/flavor creation, discuss power level as a limiting factor. it should be a consideration at the least.

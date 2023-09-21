@@ -6,7 +6,7 @@ In Tabula, money is very abstract to avoid tedium and allow each setting to have
 Wealth scaling is a [[problems]] previously it was 1cp -> 1 wealth though I think I might want change that to geometric or exponential scaling.
 
 ## Currency
-Currency is a generic name for whatever the money in the [[Setting 1]] is called. That said, it will  always spend the same and one unit of currency can pay for one "cheap" item.
+Currency is a generic name for whatever the money in the [[Setting]] is called. That said, it will  always spend the same and one unit of currency can pay for one "cheap" item.
 
 [[problems]] where should I talk about boons?
 
