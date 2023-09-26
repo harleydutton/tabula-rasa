@@ -1,4 +1,4 @@
-[[Character comments]]
+[[meta/comments/Character comments]]
 This chapter is for you, the Player. Characters are representations of the fictional people within the Setting. To be mechanically playable, your character needs an action delay, a motivation, skills, flavor and a number of other shit.
 
 ## **Identification Information**

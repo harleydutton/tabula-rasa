@@ -1,3 +1,4 @@
+[[glossary of terms comment]]
 - Storyteller: The storyteller is the guy telling the story. In other games you might have heard this person referred to as the DM (Dungeon Master) or GM (Game Master).
     
 - Players: Players are the humans playing a roleplaying game who aren't the storyteller.
