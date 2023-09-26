@@ -8,5 +8,5 @@ Yank this shit from the readme
 Put the legend and anything similar here
 
 ## Next Steps 
-Direct [[section-mush/Player]] to [[Character Creation]]
+Direct [[section-mush/Player]] to [[section-mush/Character Creation]]
 Direct [[section-mush/Storyteller]] to [[Setting Creation]]

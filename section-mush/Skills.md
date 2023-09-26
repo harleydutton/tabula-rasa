@@ -1,4 +1,4 @@
-Skills represent the things a [[section-mush/Character|character]] is good at doing. A skill consists of a name and level. The level determines how many dice the character gets to roll when making a [[Checks|check]] using the skill.
+Skills represent the things a [[section-mush/Character|character]] is good at doing. A skill consists of a name and level. The level determines how many dice the character gets to roll when making a [[section-mush/Checks|check]] using the skill.
 
 ## Creating a Skill
 Consult the [[Limits|limits]] section of the [[section-mush/Setting|setting]] and think up a skill within those bounds and run the idea by your [[section-mush/Storyteller|storyteller]]. If they approve it it will be added to the setting (possibly with new limits) after which characters can take and level the skill like any other.
