@@ -1,0 +1,5 @@
+- examples of specific skills and flavor will be `monospace` in-line
+- section specific keywords will be in **bold**
+- interjections (like this) will be in parenthesis
+- sections will be referenced using [links](#legend)
+- > larger examples will be quoted and appear under the relevant section with no header
