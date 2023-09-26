@@ -22,7 +22,7 @@ Contests are where two or more characters are trying to be best at some action. 
 > Racing, feats of strength, public debates, drinking contents, and gambling are all common contests.
 
 ### DTMS Checks
-There is one special kind of check that the storyteller will make frequently. These are DTMS checks which stands for "Does this make sense?" They don't use dice and they aren't a check in the traditional sense. DTMS checks are just a way for me to shorthand the idea "use your brain to decide if this should be allowed or not."
+There is one special kind of check that the storyteller will make frequently. These are [[DTMS checks comment]]which stands for "Does this make sense?" They don't use dice and they aren't a check in the traditional sense. DTMS checks are just a way for me to shorthand the idea "use your brain to decide if this should be allowed or not."
 
 ### Challenging
 When a player disagrees with the difficulty of a check they can challenge the difficulty the storyteller has set. When a player challenges the difficulty of a check, this means they are asking the table to vote for what they think the difficulty should be. The storyteller's vote counts as 1.5. The purpose of this system is to deal with storytellers who are a little unfair some of the time, not make all checks **easy**. Each check can only have it's difficulty challenged once.
