@@ -1,5 +1,3 @@
-**
-
 # Introduction
 
 Tabula Rasa is a rules-light, generic, table-top roleplaying game that allows and encourages players to create their own skills, powers, lore, etc. and easily add them to the game world.
@@ -7,7 +5,6 @@ Tabula Rasa is a rules-light, generic, table-top roleplaying game that allows an
 It also includes a worldbuilding framework to more easily allow the storyteller to create a setting. Settings are short, standardized, and shareable descriptions of a single place within a world. The intent is that settings can be used to quickly understand a part of the world such that a player can create a character or the storyteller can create an adventure.
 
 The role playing system is generic so it will work with any setting produced by the worldbuilding framework. The rules are minimal meaning you and your group should be able to create characters and start playing very quickly!
-
 ## Getting Started
 
 A night of roleplaying usually lasts anywhere from two to six hours and includes a variety of scenes: Exhilarating chases, nail-biting espionage, terrifying battles, grand speeches, descriptions of exotic lands, and, of course, joking around in and out of character are all hallmarks of good roleplaying.
@@ -23,19 +20,12 @@ Most good stories include conflict. Once you have a storyteller, a setting, a st
 This is a list of formatting choices I have made throughout this document to better inform you, dear reader:
 
 -   section specific keywords will be in bold
-    
 -   things–like interjections–will be hyphenated
-    
 -   The first example of each abbreviation (ABRV) in a section will be in parenthesis
-    
 -   placing emphasis on words will be done with italics
-    
 -   sections will be referenced using links
-    
 -   examples of specific skills and flavor will be monospace in-line
-    
 -   larger examples will be block-quoted and appear under the relevant section with no header
-    
 
 # Systems
 
@@ -52,15 +42,10 @@ When you have done this and understand the world you will be playing in, read th
 These things go on your sheet to keep you and your storyteller sane in real life. You can omit these things if you like but it is not recommended and I already carved out some space on the sheet for it.
 
 -   Name: The character's name
-    
 -   Concept: The characters desired or intended role in the story
-    
 -   Player: The player's name
-    
 -   Setting: The setting for the story
-    
 -   Story: The name of the story the character was in if available
-    
 
 ### Remaining Character Points
 
@@ -92,47 +77,7 @@ Boons are the exception to the rules when it comes to flavor and skills. Specifi
 
 Skills are the most mechanical part of a character. They represent the things your character can do within the game and allow your character to take actions by rolling checks. Skills have levels and are usually self-descriptively named though there is space for skill descriptions on the character sheet. You can purchase skills with character points (CP) at character creation and level them up later using CP. Your setting document will have a list of a few example skills you can take that are appropriate for the setting.
 
-Level
-
-1
-
-2
-
-3
-
-4
-
-5
-
-X+1
-
-CP Cost
-
-1 CP
-
-2 CP
-
-3 CP
-
-4 CP
-
-5 CP
-
-X CP
-
-Total CP
-
-1 CP
-
-3 CP
-
-6 CP
-
-10 CP
-
-15 CP
-
-X(X+1)/2 CP
+(CP to level chart was here)
 
 pickpocket, pyromancy, intimidation, stealth, clairvoyance, and blocking are all examples of skills.
 
@@ -166,47 +111,7 @@ When you add something to the setting you may have it in your head that it will 
 
 Attributes Body, Mind, Spirit and Social. They are very similar to skills but have meaningful differences. First, every character gets the first level of each attribute for free. Second, attributes cost significantly more CP to level up than skills do. Third, attributes are broad and if a character does not have an applicable skill they can roll an attribute. For this reason attributes are frequently used as defensive skills and for perception checks. Lastly, attributes represent a character's physical, mental, spiritual, and social health. This is discussed in more depth in the Damage section.
 
-Level
-
-1
-
-2
-
-3
-
-4
-
-5
-
-X
-
-CP Cost
-
-free
-
-4 CP
-
-9 CP
-
-16 CP
-
-25 CP
-
-X*X CP
-
-Total CP
-
-free
-
-4 CP
-
-13 CP
-
-29 CP
-
-54 CP
-
-(X(X+1)(2X+1)/6)-1 CP
+(CP to level chart was here)
 
 ####   
 
@@ -215,52 +120,7 @@ free
 This is how long your character has to wait to do things in combat or some other timed conflict. A lower value means you can act more frequently in timed scenes which is why the speed stat is called “action delay.” If you would like to decrease your action delay you can do so by spending character points (CP) based on the chart below. The default action delay is 10 but you should take a look at the setting document provided by your storyteller to make sure. If you wish to be slower than normal, talk to your storyteller about it and they may grant you one or more boons depending upon how much slower than average you intend to be.
 
   
-
-Default
-
--1 AD
-
--2 AD
-
--3 AD
-
--4 AD
-
--5 AD
-
--X AD
-
-Cost for -1 AD
-
-free
-
-1 CP
-
-4 CP
-
-9 CP
-
-16 CP
-
-25 CP
-
-X*X CP
-
-Total cost
-
-free
-
-1 CP
-
-5 CP
-
-14 CP
-
-30 CP
-
-55 CP
-
-...
+(CP to level chart was here)
 
 ### NPCs
 
@@ -280,40 +140,22 @@ If Sam wants to jump over a river and has an athletics skill of 5, Sam would say
 
 The storyteller can assign five different difficulties to actions for checks: Trivial, Easy, Normal, Hard, and Impossible. The difficulty of a skill check can be modified by flavor, context, or the innate ease or difficulty of the action itself. The storyteller decides if any of these things is meaningful enough to change the difficulty though players can [challenge](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.w7f8x3j78p3y) this ruling if they wish. The subjective difficulty of a roll translates directly to a target number, meaning when you roll a check only dice that are greater than or equal to the target number count as successes.
 
-Difficulty
 
-Trivial
-
-Easy
-
-Moderate
-
-Hard
-
-Impossible
-
-Target Number
-
-Automatic Pass
-
-4
-
-5
-
-6
-
-Automatic Fail
+|difficulty|target number|
+|-|-|
+|trivial|auto pass|
+|wasy|4|
+|moderate|5|
+|hard|6|
+|impossible|auto fail|
 
 ### Composite Actions
 
 If a character wants to do two or more things that are both possible but not trivial at the same time, you might be wondering what to do. Which skill do you use? What affect does this have on the difficulty?
 
 1.  If both actions would be using the same skill or attribute, simply make the check using that and modify the difficulty to fit.
-    
 2.  If the composite action resembles one action more than the other, use that skill and modify the difficulty to fit.
-    
 3.  If one of the actions is dependent on the other, roll multiple checks sequentially and modify the difficulty of the later checks based on the results of the earlier checks.
-    
 
 ### Magnitude of Success
 
@@ -361,93 +203,12 @@ Leveling up skills can happen at any time and requires character points (CP). Th
 
 The attributes are Body, Mind, Spirit and Social. The cost to level an attribute is the desired level squared in CP. If you wish to raise an attribute more than one level at a time you must still pay for the intermediate levels.
 
-Level
-
-1
-
-2
-
-3
-
-4
-
-5
-
-X
-
-CP Cost
-
-0 CP
-
-4 CP
-
-9 CP
-
-16 CP
-
-25 CP
-
-X*X CP
-
-Total CP
-
-0 CP
-
-4 CP
-
-13 CP
-
-29 CP
-
-54 CP
-
-...
-
+(CP to level chart was here)
 #### Skill Progression
 
 The cost to level is the desired level in CP. If you with to level a skill more than one level at a time you must pay for the intermediary levels too.
 
-Level
-
-1
-
-2
-
-3
-
-4
-
-5
-
-X+1
-
-CP Cost
-
-1 CP
-
-2 CP
-
-3 CP
-
-4 CP
-
-5 CP
-
-X CP
-
-Total CP
-
-1 CP
-
-3 CP
-
-6 CP
-
-10 CP
-
-15 CP
-
-...
+(CP to level chart was here)
 
 ---
 
@@ -471,85 +232,7 @@ In Sequoia, the included setting,  there are two popular currencies. Amber is c
 
 Items are a type of flavor that can be bought, found, looted, lost, made, destroyed, broken, sold, borrowed, lent, etc. A unit of minor currency can be used to buy cheap items. Similarly a unit of major currency can be used to buy expensive items. When tracking items on your character sheet, keep track of their price. To do this, put an F, C, or E next to each item to denote them as free, cheap, or expensive respectively. The setting store should give you an idea what is available within the world and what it will cost. Individual stores within the story almost never match up with what is available in the entire world of the setting.
 
-Store
-
-Free
-
-Cheap
-
-Expensive
-
-Unavailable
-
-clothes
-
-work
-
-training
-
-metal
-
-water
-
-a weapon
-
-a magic weapon
-
-  
-
-torches
-
-rope
-
-a house
-
-  
-
-entertainment
-
-a chicken
-
-a horse
-
-  
-
-  
-
-a good time
-
-medicine
-
-  
-
-  
-
-booze
-
-ironwood
-
-  
-
-  
-
-armor
-
-magic items
-
-  
-
-  
-
-food
-
-allies
-
-  
-
-  
-
-lodging
-
-jewelry
+(store example was here)
 
   
 
@@ -557,8 +240,7 @@ jewelry
 
 Some of you may be concerned that if you convert boons and CP to items and then lose them your character will be weaker forever. Fear not! Purchases refresh at the beginning of downtime. Specifically, at the beginning of downtime if you have fewer combined cheap items and units of minor currency than out have minor purchasing power, you get units of minor currency equal to the difference. The same is true of expensive items, units of major currency and major purchasing power. The idea here is that not all of your time within the story is accounted for and while the camera isn’t on you, you are trending back toward your typical level of wealthare doing something profitable.
 
-### ![](https://lh6.googleusercontent.com/M_VMdn94vZDbsVgxbDP-WVjpMYArkYPmCfBNxfoTWpmJ0p4fmVtAaGTShGGA1ZWLf-2g67J4zBb2FRHvT-xdR9y4RklZNrfWgF9eeOiYjG50rsU8m1R3YPckotnTC8H3-2OmCo14dcnIhG0)
-
+![[moneyTimeline.jpg]]
 ### Buying
 
 The typical way characters get items is by buying them. This is done by finding a store that has what you want and trading the relevant purchase for it. The upside of this is that you can get the items you want immediately. The downside is that selection is often limited.
@@ -691,29 +373,11 @@ Lets say the tick is 32 and one of the spectators, Joey, has decided he wants to
 
 When one character starts a fight another wasn't prepared for by hiding information they do not get any benefit. Instead, characters that are surprised are disadvantaged. By default, when a character joins a timed scene they start with all of their actions off cooldown. When a suspicious character joins a timed scene they start with their major action on cooldown. If a character is oblivious they start with their major action on cooldown and their cooldowns do not refresh on their first turn.
 
-state
-
-first turn on tick
-
-actions on cooldown
-
-default
-
-current tick + 1d6
-
-none
-
-suspicious
-
-current tick + 1d6
-
-major
-
-oblivious
-
-current tick + AD + 1d6
-
-major
+|state|first turn is on tick...|actions available to you|
+|-|-|-|
+|default|current tick +1d6|all|
+|suspicious|current tick +1d6|all but major|
+|oblivious|current tick + [[Action Delay\|AD]] + 1d6|all but major|
 
 ### Held Actions
 
@@ -802,35 +466,20 @@ The default Action Delay for the Setting is what all new characters in the Setti
 This section is a multiple-choice questionnaire of common problematic elements within stories and whether or not each thing exists within the setting. This might be things like resurrection, undodgeable attack actions, and fast, long-range communications. Each element on this list should have a concept and a circleable descriptor indicating its availability within the setting. The storyteller should circle one descriptor for each and consider adding more entries. Sometimes entire game systems like crafting will be removed and this is intended.
 
 mind control: exists | boon | taboo | lost | impossible 
-
 personal flight: exists | boon | taboo | lost | impossible
-
 invisibility: exists | boon | taboo | lost | impossible
-
 instant, long range communication i.e. cell phones: exists | boon | taboo | lost | impossible
-
 undodgable attacks i.e. guns/explosions: exists | boon | taboo | lost | impossible
-
 aoe attacks i.e. explosions or shooting multiple arrows from a bow: exists | boon | taboo | lost | impossible
-
 teleportation: exists | boon | taboo | lost | impossible
-
 reincarnation: exists | boon | taboo | lost | impossible
-
 mind reading: exists | boon | taboo | lost | impossible
-
 minions: exists | boon | taboo | lost | impossible
-
 crafting: exists | boon | taboo | lost | impossible
-
 agelessness: exists | boon | taboo | lost | impossible
-
 super strength/speed: exists | boon | taboo | lost | impossible
-
 letters of credit: exists | boon | taboo | lost | impossible
-
 damage immunities i.e. incorporeality: exists | boon | taboo | lost | impossible
-
 money as a superpower: exists | boon | taboo | lost | impossible
 
 ## Starting Character Points
@@ -850,11 +499,8 @@ A couple of initial questions players usually have when they are making characte
 A list of potential backgrounds could be useful. In a fantasy setting you will want to include all of the magical species here. If you feel the need to balance the versatility of magic out by giving it a downside you could include “magic user” as a background and use it to gatekeep and give downsides to magic. It is also worth listing which backgrounds are incompatible here. Typically players will want to add to this list.
 
 Wizard - must be 30+ and a virgin
-
 Vampire - catches on fire in the sun, needs to drink blood, pretty, strong, ageless etc.
-
 Goblin - Bad reputation, short, ugly, don’t live long
-
 Robot - Immune to electric and mental damage, cannot heal but can be repaired with crafting checks. Can modify body and knowledge easily. Needs to charge, doesn’t need to eat or sleep. Cannot be a wizard.
 
 ## Store
@@ -888,15 +534,10 @@ This chapter is for you, the Player. Characters are representations of the ficti
 This info is of little relevance to a character and of great relevance to the actual human people playing them. This stuff is useful to put on your sheet to keep things from getting lost or disorganized but you are welcome to skip it.
 
 -   Name: The character's name
-    
 -   Concept: The characters role in the story
-    
 -   Player: The player's name
-    
 -   Setting: The name of the character's setting
-    
 -   Story: The name of the story the character was in
-    
 
 ## Action Delay
 
@@ -959,7 +600,6 @@ Knowledge should be represented as flavor unless that knowledge would be better 
 ### Vehicles and Properties
 
 Horses, boats, spaceships, cars, planes, tanks, etc.
-
 Houses, castles, countries, skyscrapers, private islands, secret bases, etc.
 
 ### Physical
@@ -969,271 +609,19 @@ Physicality is also represented as flavor. This includes but is not limited to b
 # Glossary of Terms
 
 -   Storyteller: The storyteller is the guy telling the story. In other games you might have heard this person referred to as the DM (Dungeon Master) or GM (Game Master).
-    
 -   Players: Players are the humans playing a roleplaying game who aren't the storyteller.
-    
 -   Characters: Characters are the (usually) imaginary people within the world of the roleplaying game and story.
-    
 -   Player Characters: Player Characters, also known as PCs, are the characters the players control.
-    
 -   Non-Player Characters: Non-Player Characters, also known as NPCs, are those characters not controlled by players.
-    
 -   Worldbuilding: Worldbuilding is where a real human person takes some time and thinks up an imaginary world.
-    
 -   Roleplaying: Roleplaying, also known as RPing, is where a human person dons the personality of a character and begins using method (voice) acting to indicate that characters actions to the other players and storyteller.
-    
 -   Setting: A setting is the result of worldbuilding applied to the setting template present in Tabula
-    
 -   Battlegrid: A battlegrid is a checkerboard or hex-tiled board game board, usually accompanied by figurines, that visually represents locations for combat in a roleplaying game.
-    
 -   RPG: Roleplaying Game. Also sometimes known as Table-top, or Table-top RPG.
-    
 -   Power Level: The strengths of one thing with relation to other things with which it is comparable.
-    
 -   Scene: 
-    
 
   
   
   
   
-
-# DeleteMe ToC
-
-[Introduction](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.4ysk1g6cyjjv) ^e798d9
-
-[Getting Started](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.yardssvg7u2c)
-
-[Legend](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.8gcgukcj6u6l)
-
-[Systems](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.b5fx3m25lu1)
-
-[Character Creation](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.dn576iy4uaao)
-
-[Identifying Information](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.fo9itdvh65fc)
-
-[Remaining Character Points](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.3uu1ln4bh9bn)
-
-[Motivations](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.e09wjp9o73xs)
-
-[Aesthetic Description](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.n86y1vspqkkj)
-
-[Flavor](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.bymgkamyzgs1)
-
-[Hooks](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.70rrmsajp8bb)
-
-[Boons](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.rs3g7nvhriss)
-
-[Skills](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.mmw0z1t2ipek)
-
-[Adding to the Setting](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.prbjxqy6uhh6)
-
-[Veto](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.6484bane2aal)
-
-[Theme](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.60a7d6l1e2xc)
-
-[Scope](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.bd918oryijbq)
-
-[Limiting Factors](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.bkie262erahg)
-
-[Uniqueness](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.i9195wgv1ake)
-
-[Attributes](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.ui05pt9g2l8t)
-
-[Speed](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.a0rgxvemkjk2)
-
-[NPCs](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.9cnyw8x6ywx8)
-
-[Printable Character Sheet](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.40pfbp1mrmwk)
-
-[Checks](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.am9vzyktgfbt)
-
-[Difficulty](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.ogl1qn75g9xv)
-
-[Composite Actions](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.nd5m4un1amio)
-
-[Magnitude of Success](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.gf2m8t55dak6)
-
-[DTMS Checks](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.5z2o7x92mgdt)
-
-[Challenging](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.w7f8x3j78p3y)
-
-[Character Progression](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.qs14nat9nhr8)
-
-[Character Point Acquisition](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.szns86u3q8ys)
-
-[Flavor Acquisition](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.vjc68efnuc8k)
-
-[Crafting](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.evaye5s6p9t3)
-
-[Skill Acquisition](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.gp36ilz0wpaf)
-
-[Skill Progression](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.g89pkk1wv0kx)
-
-[Attribute Progression](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.vdperit9c2kq)
-
-[Skill Progression](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.q3063tm3hom1)
-
-[Money and Items](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.71dmv5b6754)
-
-[Purchasing Power](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.x2b0z0w0koq9)
-
-[Currency](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.404bchuhffi5)
-
-[Items](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.r2jw5yeki2l2)
-
-[Refreshing](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.bdm2sdvgvsuz)
-
-[Buying](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.jq076j2yjkvv)
-
-[Commissioning](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.ujaioynzqyjs)
-
-[Crafting](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.fhlpiy10fgsm)
-
-[Selling](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.jk3ptt7c5m7z)
-
-[Lending](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.9giye1yakc7)
-
-[Hidden Information](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.2e5y5y12wd80)
-
-[Oblivious](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.lemajtoqxtjm)
-
-[Suspicious](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.ol95vg1alek8)
-
-[Detected](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.f5aks099fly3)
-
-[Influence](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.pc11rq5ul8h)
-
-[Social Influence](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.tmam15g3p8fc)
-
-[Difficulty](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.7nvf8z2jqug7)
-
-[Resistance](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.q6q11u3uxbw)
-
-[Mental Influence](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.es02xfx951nt)
-
-[Difficulty](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.3sgdffl25lsh)
-
-[Resistance](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.kxlv1j8q12i)
-
-[Distance](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.zwnosfjfims)
-
-[Zones](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.5gj8s5go723)
-
-[Battlefields](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.pl5ji18k6elo)
-
-[Movement](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.n3jz8h7kbze)
-
-[Timing](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.neshbpoyxm6m)
-
-[Tick Length](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.fnu9la20i9bz)
-
-[Action Delay](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.h5bru2ah336g)
-
-[Global Ticker](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.xa66kahyloem)
-
-[Initiative](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.g1qm48gzsar3)
-
-[Surprise](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.n1yz0qrh0oao)
-
-[Held Actions](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.20qjgr5e328d)
-
-[Ties](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.knqg2hn1zdk)
-
-[Combat](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.j0uns3plwi5f)
-
-[Intent](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.yytyugv0l16r)
-
-[Major Actions](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.ely9tb3bgi2i)
-
-[Attacking](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.ak30pjk1fo5w)
-
-[advantages and disadvantages](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.4fgzhis5tifn)
-
-[Interactions](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.3z9030kut313)
-
-[Move Actions](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.ceid2ub8uklq)
-
-[Dodging](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.k2qelrxt8ag8)
-
-[Reactions](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.5kzdpq5j446i)
-
-[Counterattacks](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.dw5r7ygql33j)
-
-[Defensive Actions](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.t74qsr9udkc9)
-
-[Free Actions](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.wdvjtkut10o6)
-
-[Transitions](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.us6cun86cwdn)
-
-[Entering and Leaving combat](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.hw22gyu3i7qq)
-
-[War](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.ozz1jdyew1mw)
-
-[Setting](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.j7bs83i9z31d)
-
-[Action Delay](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.jgxsdchx5eg0)
-
-[What is not allowed](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.5nz680a5nyup)
-
-[Starting Character Points](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.mtktmza3ekzu)
-
-[Skills](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.n92aar1u43ec)
-
-[Technology and Magic Descriptions](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.90ud1qqw7upv)
-
-[Backgrounds](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.nk0pqkqmcwm2)
-
-[Store](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.89f0s7g94t18)
-
-[Tone](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.wxfee6tt9cga)
-
-[Social Description](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.8rpug1lzrxkr)
-
-[Physical Description](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.z80j09izrwo8)
-
-[Theme](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.gkrrzbkcbp4)
-
-[Character](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.8u0qp5a8rsu7)
-
-[Identification Information](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.1n0ftkc9z26q)
-
-[Action Delay](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.y87m7v660i47)
-
-[Character Points](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.o3tr0ykifwm1)
-
-[Motivations](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.5xy6yk416fg)
-
-[Skills](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.3vxvxk5t6lil)
-
-[Attributes](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.bum70lr9he29)
-
-[Flavor](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.wfx8nx9bshpm)
-
-[Bad Flavor](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.wlec6d1nulph)
-
-[Deals](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.5ssxpp2zho8i)
-
-[Items](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.rjay73f265q3)
-
-[Money](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.cf6rvavich78)
-
-[Social Flavor](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.pxrjvpjb1oix)
-
-[Supernatural Flavor](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.qjaqw7j20pz3)
-
-[Relationships](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.rf6pw6ylawzc)
-
-[Knowledge](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.w46i0uvodf0c)
-
-[Vehicles and Properties](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.oxv8ih7lye6)
-
-[Physical](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.bxcp549da563)
-
-[Glossary of Terms](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.gf7xmtlj96r3)
-
-[DeleteMe ToC](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.pz9sp4kwmmyb)
-
-  
-  
-**
