@@ -1,0 +1,50 @@
+- Sections to add
+	- [[Storyteller]] v [[Player]] v [[Character 1]] v npc section
+	- sleep/rest/fatigue
+	- morality (spiritual damage?)
+	- healing
+	- system of measures (pinch, handful, swallow, etc.)
+	- inventory capacity/ bulk
+	- travel on the world map
+	- insight (detect lies/emotions)
+- Section specific gripes
+	- Timing
+		- Define actions in the timing section. All of them. main/major action, reaction, minor, free, move, held action, extended action, offhand, mental, etc. see existing combat section/todo
+		- Big actions can be converted to littler actions (attack -> move)
+		- In addition all reactions occur after the action that caused them.
+	- Hidden Information
+		- say somewhere that moving in stealth requires stealth rolls
+		- I should make it clear that undetectable is not a state but rather a difficulty modifier in this system. context: invisible rogue and guard who may or may not have true sight.
+	- [[Character 1]] sheet
+		- Should include a money and items section to track spent income, purchases, current wealth, etc.
+	- skills
+		- taking new skills acts as an unlock. some actions are only possible if you actually have the relevant [[Skills]]. mandatory skills don't work for everything. 
+		- Restrictions on when you can learn new skills. Need training, need downtime, etc.
+		- define skills better. Possible Heuristic: skills allow you to do
+		- add an example to [[Scope]]: fireball, fire magic, magic
+	- Flavor
+		- rename flavor to be countable (flavor is uncountable)
+		- define flavor better. Heuristic: flavor represents thing you are or have
+		- flavor cannot point to a specific [[Skills]]. If a flavor boils down to "+1 to a [[Skills]]" or "X [[Skills]] is easy for me" it isn't really flavor. Instead it should have many ups and downs and they should be situational.
+		- Define more flavor systems than just money and items. What does it mean to be a species? What does it mean to have knowledge? What does reputation mean? Inherent spiritual, mental or physical attributes?
+	- Combat
+		- What the heck do defences look like these days?
+		- round based conflict using action economy. series of opposed checks. synchronous as opposed to async.
+		- damage
+			- probably need a more generic attack modifiers list. also something that will work in mental or [[section-mush/Social]] combat. I.e. Making an attack hard to evade is difficulty hard. Other mods include multitarget, lethal, feint, etc.
+			- [[Scandals]] and damage system as currently imagined (physical; adapt for mental/[[section-mush/Social]]. Spiritual [[Scandals]] tracks morality)
+			- [[section-mush/Body]] is a [[Character 1]]’s capacity to receive wounds (flavor) before going unconscious.
+			- [[Storyteller]] represents characters as weak/vulnerable/bloody once they have [[section-mush/Body]]-1 wounds.
+			- some flavor can be bigger maybe? Mortal wounds?
+			- characters with wounds equal to [[section-mush/Body]] are incapacitated. [[Storyteller]] discretion as to what happens to them
+			- characters with more wounds than [[section-mush/Body]] die
+	- [[Character 1]] Creation
+		- at [[Skills]]/flavor creation, discuss power level as a limiting factor. it should be a consideration at the least.
+		- at [[Skills]]/flavor creation, discuss the typical use case and difficulty.
+		- Make sure [[Character 1]] creation, the “[[Character 1]]” section (if it exists), and the [[Character 1]] sheet (which I’m pretty sure doesn’t yet) all match up. Think about how I might make it so I only have to make updates to what a [[Character 1]] is in one place. (perhaps split systems and definitions like I did in [[Sark Douls]])
+	- [[Sequoia (grapes)]]
+		- Update store using the one found in Money and Items
+		- The example [[section-mush/Setting]] doc should define its own currency. I think it does. [[Sequoia (grapes)]] uses amber and aether to my knowledge.
+	- [[section-mush/Setting]]
+		- Should I include system switches as part of the settings doc? (morality, money, fatigue, bulk, etc)
+		- The [[section-mush/Setting]] should define the currency

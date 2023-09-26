@@ -1,0 +1,1 @@
+A [[Character 1|character]] played by someone other than the [[Storyteller|storyteller]].

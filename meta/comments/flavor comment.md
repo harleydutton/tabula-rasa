@@ -1,0 +1,2 @@
+you have not described in any way what the practical benefit of flavors might be. this is particularly a problem in this section because you have described what the /cost/ of a basic flavor is, and what the /cost/ of a  'particularly powerful' flavor might be, but at this point no one has any idea of what the purpose of flavor is supposed to be in the first place. This persists into the boons section.
+--stefan
