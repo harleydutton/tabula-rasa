@@ -1,0 +1,7 @@
+A night of roleplaying usually lasts anywhere from two to six hours and includes a variety of scenes: Exhilarating chases, nail-biting espionage, terrifying battles, grand speeches, descriptions of exotic lands, and, of course, joking around in and out of character are all hallmarks of good roleplaying.
+
+One person will need to be the storyteller. The storyteller is largely responsible for running the game. A storyteller's responsibilities include setting up scenes between characters, planning and narrating events that drive the story, roleplaying NPCs, setting check difficulties, and managing the setting. Once a storyteller is chosen they should go take a look at the setting section and either create or find a setting for their story.
+
+Everyone else will be a player. Players should go straight to the character creation section and begin creating characters using the setting provided by the storyteller. Once a player has a character, they make decisions and provide , motivations, and personality, and maybe some voice acting for the character within the story.
+
+Most good stories include conflict. Once you have a storyteller, a setting, a story, and a character for each player you will need to know how to resolve conflicts. Conflicts are usually between characters (both player and non-player) and when they arise they can be resolved by rolling checks. Everyone should make sure they understand how checks work.
