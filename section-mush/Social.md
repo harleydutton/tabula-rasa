@@ -1,1 +1,1 @@
-[[naming decisions]] thinking about renaming this heart or presence
+[[naming decisions]] thinking about renaming this "heart" or "presence"

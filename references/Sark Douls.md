@@ -15,8 +15,6 @@ Used to determine melee damage and dodge type.
 Used to scale sorceries.
 
 ## Faith
-[[tabula-rasa#^14efb1|asdfasdf]]
-[[Tabula Rasa from gDocs#^e798d9]]
 Used to scale miracles.
 
 ## Dexterity
@@ -49,40 +47,6 @@ Determined by armor. If the incoming damage is greater than your poise value you
 
 Load is the total weight of your gear divided by your strength. It determines your dodge type.
 
-  
-
-  
-
-load
-
-time
-
-Light roll
-
-less than 25% or less
-
-1 second
-
-Med roll
-
-less than 50% or less
-
-2 seconds
-
-Heavy roll
-
-less than 100%
-
-4 seconds
-
-Cannot roll
-
-More than 100%
-
-  
-
-  
-
 ## Abilities
 
 Steal these from a medieval white wolf game’s sheet
@@ -102,10 +66,6 @@ Estus Flasks, Ashen Estus Flasks, Hollowing, Humanity/Ember, souls
 ## Defences
 
 Sharp, Blunt, Fire, Lightning, Dark, Holy, Poison
-
-  
-  
-
 # Combat
 
 ## Timing
@@ -115,9 +75,6 @@ Combat starts at zero seconds. Using actions stuns you for X seconds where X is 
 ### Turns
 
 Start with the DM on each second and move clockwise around the table. If there are no turns on a second just skip it. Stamina recovery happens at the end of the second. 
-
-  
-
 ## Actions
 
 ### Attack/Cast/Use
@@ -179,9 +136,6 @@ Leech gives you one bleed stack per second until you come into contact with fire
 ### Stun
 
 You cannot take actions. If you are stunned because you cast/attacked you do not regain stamina.
-
-  
-
 # Powers
 
 ## Sorcery
@@ -193,9 +147,6 @@ Takes 3 seconds and 1 mana to deal your catalyst’s magic damage up to 8 square
 ### Magic Weapon
 
 Gives your melee weapon additional magic damage equal to half of your catalyst’s magic damage for seconds equal to your catalyst’s magic damage. Takes 4 seconds to cast and costs 2 mana.
-
-  
-
 ### Soul-sword
 
 You manifest a blade of soul energy and strike nearby foes with it. Deals magic damage equal to your catalyst’s magic damage. Takes 2 seconds. Costs 1 mana. Cannot be parried.
@@ -219,71 +170,6 @@ Combustion, fireball, poison mist, inner fire, flaming weapon
 ### Melee Weapon
 
 Can take whatever shape you like and does physical damage based on the sum of the dex and strength scalings plus the upgrade level. Starting strength and dex for most characters is 10 so a normal weapon would have 20 damage. All characters start with a non-ultra weapon of their choice.
-
-  
-
-  
-
-strength
-
-dex
-
-delay//stamina cost
-
-range
-
-weight
-
-light
-
-0.5
-
-1.5
-
-1
-
-1
-
-1
-
-normal
-
-1
-
-1
-
-2
-
-1
-
-2
-
-heavy
-
-2
-
-0.5
-
-3
-
-2
-
-4
-
-ultra
-
-4
-
-0
-
-4
-
-2
-
-8
-
-  
-
 ### Bow // Crossbow
 
 Has a base damage of 10 plus 1 per upgrade level. Scales off of dex//str. Has a short range of 10 and a long range of 60. You must make a dex check to hit if the target is beyond short range. The TN is 20+range/10 rounded up. Requires ammo to use and ammo determines damage type.
@@ -295,87 +181,9 @@ Has a fire damage value of 0 that increases by 1 per upgrade level. Scales off o
 ### Sorcery Catalyst // Sacred Chime
 
 Has a magic//lightning damage value of 10 that increases by 1 per upgrade level. Scales off of int//faith.
-
-  
-
 ## Armor
 
 All characters start with an armor of their choice. More armor can be created by the DM and dropped by enemies.
-
-  
-
-  
-
-physical
-
-magical
-
-fire
-
-lightning
-
-poise
-
-weight
-
-light
-
-3
-
-4
-
-4
-
-4
-
-1
-
-1
-
-medium
-
-6
-
-2
-
-2
-
-2
-
-2
-
-3
-
-heavy
-
-12
-
-2
-
-2
-
-2
-
-9
-
-7
-
-ultra
-
-30
-
-10
-
-10
-
-10
-
-15
-
-10
-
-  
-
 ## Jewelry
 
 You can have 2 rings and one necklace. Jewelry is made by the DM and does whatever the DM says.
