@@ -1,0 +1,2 @@
+### combat transitions
+at one point I had a system designed that would allow for seamless transitions between stealth, combat, and chases. I think this effectively just used shadowrun initiative for combat and chases and made it so stealth granted an initiative bonus

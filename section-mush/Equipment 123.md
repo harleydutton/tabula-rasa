@@ -1,0 +1,2 @@
+### equipment
+i think tabula lets players make their own gear too? equipment has no numeric values. instead just describe the equipment. equipment should give characters new active abilities or modify their existing active abilities. items should have made up special abilities. crappy lockpicks break after a failed attempt but a nice lockpicking set gives you two or three tries.

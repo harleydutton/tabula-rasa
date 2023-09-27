@@ -1,0 +1,3 @@
+
+### faster and slower characters
+this system doesn't have a good way to give players additional actions by default. it also doesn't have a good way to represent that one character is slower than the rest except by making all the other players in the combat faster. furthermore meaningful speed differences aren't usually fun in combat. therefore this system has all characters acting at about the same speed. additional actions can still be granted at the DM's discretion.

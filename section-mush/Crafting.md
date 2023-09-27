@@ -1,1 +1,1 @@
-This is related to [[Flavor]], [[Wealth]], [[Money and Items]], [[Money]], [[Currency]], [[Flavor Aquisition]], [[Comissioning]], [[Buying]], [[Liquid Currency]], [[Selling]], [[Refreshing]], [[Lending]], [[Items]], [[Downtime]], etc.
+This is related to [[section-mush/Flavor]], [[Wealth]], [[Hidden Information 1]], [[money]], [[Currency]], [[Flavor Aquisition]], [[Comissioning]], [[Buying]], [[Liquid Currency]], [[Selling]], [[Refreshing]], [[Lending]], [[Items]], [[Downtime]], etc.

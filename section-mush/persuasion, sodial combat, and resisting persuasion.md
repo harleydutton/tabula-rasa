@@ -1,0 +1,2 @@
+### persuasion, social combat, resisting persusasion etc.
+this is a good time to mention that when you try to convince a character of something they dont _have_ to be convinced. instead they can thing about it a bit and roll some relevant "resist persuasion" rolls which probably uses __willpower__.
