@@ -1,0 +1,3 @@
+### money
+I am thinking i want to have a chart somewhere that handles things like store prices and loot by asking the dm to define one unit of currency and then derive all the prices in their world based on some percentage or multiple of this. this would also give the DM a good time to think about what things are available or not and what things are scarce or plentiful and adjust prices and availability accordingly. Talk about money in the doc as AUCs (arbitrary units of currency). really I think this should be a part of the "settings" section.
+If i decide to give items a level/numeric value it would make sense to have them be orders of magnitude more and less expensive based on those numbers.

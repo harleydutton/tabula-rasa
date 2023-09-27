@@ -1,0 +1,3 @@
+### Attacking
+i wonder if i should even have a damage roll. perhaps doing damage in some deterministic fashion might be better. i would like to avoid having health and mana. I would also like to avoid the consept of leveling up
+having a sword should not modify the attach roll; it should just allow you do deal "sword" damage, like decapitating, impaling, cutting etc...

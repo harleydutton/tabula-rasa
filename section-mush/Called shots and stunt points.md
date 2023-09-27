@@ -1,0 +1,6 @@
+
+
+### called shots and stunt points
+exalted, D&D, and Dragon Age: the RPG all had different ways to deal with this. All had their own merits. In D&D you said what you wanted to do ahead of time and it modified the difficulty of the roll. If you were successful it happened. full stop. This involved many tables of modifiers usually and it was a slow process. The Star Wars RPG mitigated this issue by boiling every modifier to a die that got added to the check's pool. It kinda sucked when your checks didn't pass but it was always worded as "I try to" not "I do"
+In Dragon Age you rolled the check and then if you got stunt points (based on 2/3 dice matching faces) you got the number of stunt points on the "dragon die" (the first one). This made things go faster but limited options.
+Exalted was odd. You actually got "style points" for calling your describing your actions in detail. This resulted in most shots being called shots and having to ret-con cool descriptions when the check didn't pass.

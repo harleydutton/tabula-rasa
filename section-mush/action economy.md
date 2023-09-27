@@ -1,0 +1,2 @@
+### action economy
+this is actually a pretty good idea. figure out how to implement it and classify actions in this game. major, minor, full, free, reaction etc. (mental, channeled,passive, teamwork action,) can players get additional actions? how?initiative and turn order
