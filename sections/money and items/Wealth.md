@@ -1,4 +1,4 @@
-Wealth is guaranteed stat like speed and attributes that represents a character's [[Hidden Information 1]].
+Wealth is guaranteed stat like speed and attributes that represents a character's [[Hidden Information 1]].  [[problems]] i think this is meant to link to "money and items"
 
 At [[Downtime]], the sum of a [[Character 1]]s [[Currency]], [[Assets]], and [[Expenses]] will trend back towards their wealth. 
 

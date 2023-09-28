@@ -93,6 +93,8 @@ If you create a skill with appropriate scope that is just too powerful for the s
 
 @Storyteller: A few good limiting factors are timing restrictions(requires multiple turns in combat, cannot be done in combat, takes multiple days, etc.), resource costs (add a mana bar, minor purchases, major purchases, etc.), context restrictions (must have line of sight, must have eye contact, must be touching the target, must have a piece of the target, etc.), and cooldowns (AUTs or turns, once per combat, once per day, refreshes randomly, etc.).
 
+[[problems]] according to ethan, describing round/turn based game actions with the word cooldowns is "unhinged"
+
 #### **Uniqueness**
 
 When you add something to the setting you may have it in your head that it will be unique. You will be the only fire mage, you will have the only gun, you will be the only alien, etc. This can very quickly lead to an unbalanced and unenjoyable setting or story. Do not expect to have a monopoly on anything you add to the setting. Where there is one, there can be two.

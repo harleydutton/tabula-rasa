@@ -10,3 +10,4 @@
 - Battlegrid: A battlegrid is a checkerboard or hex-tiled board game board, usually accompanied by figurines, that visually represents locations for combat in a roleplaying game.
 - RPG: Roleplaying Game. Also sometimes known as Table-top, or Table-top RPG.
 - Power Level: The strengths of one *thing* with relation to other *things* with which it is comparable.
+[[problems]] ethan has said he finds this to be readable but not useful. stefan has said this is not useful but if it described terms I have defined rather than terms that are ubiquitous it could be useful.
