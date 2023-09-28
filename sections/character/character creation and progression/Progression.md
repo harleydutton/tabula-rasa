@@ -1,0 +1,1 @@
+To level up a skill you need to pass skill checks with it. Whenever you pass a skill-check with a skill add one to that skill's experience. When the skill's experience is equal to it's level it levels up and the experience resets to zero. You can only level up a skill at level one by making the check easy.

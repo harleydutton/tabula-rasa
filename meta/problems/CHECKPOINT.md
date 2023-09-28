@@ -1,4 +1,4 @@
-working on [[Character 1]], therefore working on [[Skills]], therefore working on [[Limits]] in [[Setting]] and [[Setting Creation and Evolution]]
+working on [[Character 1]], therefore working on [[big Skills]], therefore working on [[big Limits]] in [[Setting]] and [[Setting Creation and Evolution]]
 
 I have come to some realizations. I don't think tabula rasa is a worldbuilding framework. I think it is more like an interface defining the minimum attributes any world must have in order to be playable with this system.
 

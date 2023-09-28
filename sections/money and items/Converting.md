@@ -1,4 +1,4 @@
-[[Hidden Information 1]]
+[[big Hidden Information 1]]
 When can you convert a [[Boon]] to a [[Major Purchase]]?
 When can you get minor purchases?
 

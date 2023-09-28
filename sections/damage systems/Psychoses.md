@@ -4,3 +4,4 @@
 - "dysphoria" 
 - (cognitive) "dissonance"
 
+[[Mind]]'s version of [[Wounds]]

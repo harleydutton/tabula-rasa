@@ -1,0 +1,1 @@
+For contests like arm wrestling, racing, or anything else where two known values are being compared (both character's skill values are known so dice aren't needed) just have each roll a check as normal. Do this until one character fail's a check. If neither character can fail the check the stroyteller decides what happens.

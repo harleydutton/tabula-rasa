@@ -1,2 +1,1 @@
-[[Skills]]
-[[difficulty]]
+When conflict occurs during roleplaying the fairest way to resolve it most times is by rolling a skill-check. A skill-check is where one of a character's skills is tested against some number of dice which represent the difficulty of the task. If the character's skill is greater than or equal to the sum of the dice then the character passes the skill-check. Usually this will also mean that whatever the character was attmepting to accomplish succeeds. If the dice are greater than the character's skill level the action fails and something bad might happen. The number of dice depends on the difficulty of the task. Flavor can influence difficulty.

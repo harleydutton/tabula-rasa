@@ -18,14 +18,14 @@
 	- [[Character 1]] sheet
 		- Should include a money and items section to track spent income, purchases, current wealth, etc.
 	- skills
-		- taking new skills acts as an unlock. some actions are only possible if you actually have the relevant [[Skills]]. mandatory skills don't work for everything. 
+		- taking new skills acts as an unlock. some actions are only possible if you actually have the relevant [[big Skills]]. mandatory skills don't work for everything. 
 		- Restrictions on when you can learn new skills. Need training, need downtime, etc.
 		- define skills better. Possible Heuristic: skills allow you to do
 		- add an example to [[Scope]]: fireball, fire magic, magic
 	- Flavor
 		- rename flavor to be countable (flavor is uncountable)
 		- define flavor better. Heuristic: flavor represents thing you are or have
-		- flavor cannot point to a specific [[Skills]]. If a flavor boils down to "+1 to a [[Skills]]" or "X [[Skills]] is easy for me" it isn't really flavor. Instead it should have many ups and downs and they should be situational.
+		- flavor cannot point to a specific [[big Skills]]. If a flavor boils down to "+1 to a [[big Skills]]" or "X [[big Skills]] is easy for me" it isn't really flavor. Instead it should have many ups and downs and they should be situational.
 		- Define more flavor systems than just money and items. What does it mean to be a species? What does it mean to have knowledge? What does reputation mean? Inherent spiritual, mental or physical attributes?
 	- Combat
 		- What the heck do defences look like these days?
@@ -39,8 +39,8 @@
 			- characters with wounds equal to [[Body]] are incapacitated. [[Storyteller]] discretion as to what happens to them
 			- characters with more wounds than [[Body]] die
 	- [[Character 1]] Creation
-		- at [[Skills]]/flavor creation, discuss power level as a limiting factor. it should be a consideration at the least.
-		- at [[Skills]]/flavor creation, discuss the typical use case and difficulty.
+		- at [[big Skills]]/flavor creation, discuss power level as a limiting factor. it should be a consideration at the least.
+		- at [[big Skills]]/flavor creation, discuss the typical use case and difficulty.
 		- Make sure [[Character 1]] creation, the “[[Character 1]]” section (if it exists), and the [[Character 1]] sheet (which I’m pretty sure doesn’t yet) all match up. Think about how I might make it so I only have to make updates to what a [[Character 1]] is in one place. (perhaps split systems and definitions like I did in [[Sark Douls]])
 	- [[Sequoia (grapes)]]
 		- Update store using the one found in Money and Items

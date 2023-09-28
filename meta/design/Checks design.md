@@ -1,0 +1,3 @@
+At some point i though about a magnitude of success table. I don't remember what it was based on. i will probably forgo magnitude of success in this system.
+At some point i thought it was  a good idea to have flavor. i think this gave bonuses/detriments on rolls. I still like the idea of flavor. It's bonus should be capped.
+stacking modifiers to all rolls based on flavor, equipment, situational modifiers etc. each provides a plus or minus one.

@@ -1,4 +1,4 @@
-Wealth is guaranteed stat like speed and attributes that represents a character's [[Hidden Information 1]].  [[problems]] i think this is meant to link to "money and items"
+Wealth is guaranteed stat like speed and attributes that represents a character's [[big Hidden Information 1]].  [[problems]] i think this is meant to link to "money and items"
 
 At [[Downtime]], the sum of a [[Character 1]]s [[Currency]], [[Assets]], and [[Expenses]] will trend back towards their wealth. 
 
@@ -7,7 +7,7 @@ A character's method of currency [[Income]] is a big part of what their wealth i
 
 
 Dumping this here from temp because I think this is going to be the top level section:
-Was somewhere in the process of reworking [[Hidden Information 1]]. Could I rename it? It involves liquid currency, assets and expenses. Rename the section "wealth" perhaps? This is the stat characters would be leveling.
+Was somewhere in the process of reworking [[big Hidden Information 1]]. Could I rename it? It involves liquid currency, assets and expenses. Rename the section "wealth" perhaps? This is the stat characters would be leveling.
 Assets and Expenses go together.
 liquid currency =  wealth - (assets + expenses)
 liquid currency should trend toward this formula 

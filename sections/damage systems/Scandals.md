@@ -1,1 +1,2 @@
-consider calling this "reputation"
+[[consider]] calling this "reputation"
+[[Social]]'s version of [[Wounds]]
