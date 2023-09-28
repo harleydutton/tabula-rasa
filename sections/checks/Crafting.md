@@ -1,0 +1,1 @@
+This is related to [[Flavor]], [[Wealth]], [[Hidden Information 1]], [[money]], [[Currency]], [[Flavor Aquisition]], [[Comissioning]], [[Buying]], [[Liquid Currency]], [[Selling]], [[Refreshing]], [[Lending]], [[Items]], [[Downtime]], etc.

@@ -1,2 +1,0 @@
-Works of popular fiction like Lord of the Rings, Star Wars, Disney, etc. (please don't sue me) are source material and can be used to create a [[section-mush/Setting]].
-[[naming decisions]] this is not the same as [[Content]]

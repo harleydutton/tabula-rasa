@@ -31,20 +31,20 @@
 		- What the heck do defences look like these days?
 		- round based conflict using action economy. series of opposed checks. synchronous as opposed to async.
 		- damage
-			- probably need a more generic attack modifiers list. also something that will work in mental or [[section-mush/Social]] combat. I.e. Making an attack hard to evade is difficulty hard. Other mods include multitarget, lethal, feint, etc.
-			- [[Scandals]] and damage system as currently imagined (physical; adapt for mental/[[section-mush/Social]]. Spiritual [[Scandals]] tracks morality)
-			- [[section-mush/Body]] is a [[Character 1]]’s capacity to receive wounds (flavor) before going unconscious.
-			- [[Storyteller]] represents characters as weak/vulnerable/bloody once they have [[section-mush/Body]]-1 wounds.
+			- probably need a more generic attack modifiers list. also something that will work in mental or [[Social]] combat. I.e. Making an attack hard to evade is difficulty hard. Other mods include multitarget, lethal, feint, etc.
+			- [[Scandals]] and damage system as currently imagined (physical; adapt for mental/[[Social]]. Spiritual [[Scandals]] tracks morality)
+			- [[Body]] is a [[Character 1]]’s capacity to receive wounds (flavor) before going unconscious.
+			- [[Storyteller]] represents characters as weak/vulnerable/bloody once they have [[Body]]-1 wounds.
 			- some flavor can be bigger maybe? Mortal wounds?
-			- characters with wounds equal to [[section-mush/Body]] are incapacitated. [[Storyteller]] discretion as to what happens to them
-			- characters with more wounds than [[section-mush/Body]] die
+			- characters with wounds equal to [[Body]] are incapacitated. [[Storyteller]] discretion as to what happens to them
+			- characters with more wounds than [[Body]] die
 	- [[Character 1]] Creation
 		- at [[Skills]]/flavor creation, discuss power level as a limiting factor. it should be a consideration at the least.
 		- at [[Skills]]/flavor creation, discuss the typical use case and difficulty.
 		- Make sure [[Character 1]] creation, the “[[Character 1]]” section (if it exists), and the [[Character 1]] sheet (which I’m pretty sure doesn’t yet) all match up. Think about how I might make it so I only have to make updates to what a [[Character 1]] is in one place. (perhaps split systems and definitions like I did in [[Sark Douls]])
 	- [[Sequoia (grapes)]]
 		- Update store using the one found in Money and Items
-		- The example [[section-mush/Setting]] doc should define its own currency. I think it does. [[Sequoia (grapes)]] uses amber and aether to my knowledge.
-	- [[section-mush/Setting]]
+		- The example [[Setting]] doc should define its own currency. I think it does. [[Sequoia (grapes)]] uses amber and aether to my knowledge.
+	- [[Setting]]
 		- Should I include system switches as part of the settings doc? (morality, money, fatigue, bulk, etc)
-		- The [[section-mush/Setting]] should define the currency
+		- The [[Setting]] should define the currency
