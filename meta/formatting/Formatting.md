@@ -1,2 +1,2 @@
-- Formatting decisions like links and examples that I explicitly want readers to pay attention to will be in a legend (or similar) section in the main document
+- Formatting decisions like links and examples that I explicitly want readers to pay attention to will be in a legend in the main document.
 - This document will favor being DRY and having links over being printable.
