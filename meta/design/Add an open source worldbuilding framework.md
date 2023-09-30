@@ -1,0 +1,4 @@
+- GRAPES
+- HERMETICS
+- anthropology follows the religion backwards usually
+- that one big framework with the compass

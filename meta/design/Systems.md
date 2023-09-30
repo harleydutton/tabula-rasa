@@ -1,1 +1,0 @@
-This section goes into detail on the typical systems involved in roleplaying games and how this game chooses to represent them. This game draws inspiration from a number of other popular roleplaying games but even, some of these will be far from the norm given that this is a generic system and we cannot assume any source material to reference for skills, items, monsters, etc.

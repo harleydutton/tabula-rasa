@@ -1,0 +1,1 @@
+define all the things a setting in tabla needs to inform players on what sort of game they are walking into. This is an interface rather than a framework because I don't specifically need to define all the parts of the setting and not all of them will be useful or necessary every game.

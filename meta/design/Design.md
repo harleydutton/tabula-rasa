@@ -1,23 +1,20 @@
-## Design Pillars
-- plays quickly
-- promotes drama
-- no source material
+- promotes drama over balance and realism
+- plays fast
+- players make skills
 - generic
-- low barrier to entry
+- low entry barrier
+- short
+- orthogonal
+- avoid difficult math
+- avoid bookkeeping
+- avoid constant lookups
 - DRY using links
-- avoid complicated math
-- minimal book-keeping
+- avoid charts/tables (source material. illustrations okay)
 
-### In Scope
-- character creation
-- rolling checks
-- settings
-- combat mechanics
-- setting creation
-
-### Out of Scope
-- story/adventure template
-- probability charts
-- source material
-- forming the PC party
-- preachy-ness/tips
+| In Scope           | Out of Scope                                                   |
+| ------------------ | -------------------------------------------------------------- |
+| character creation | story/adventure template                                       |
+| rolling checks     | probability charts                                             |
+| settings           | source material                                                |
+| combat mechanics   | forming the PC party                                           |
+| setting creation   | preachy-ness/tips sections (single, tabula-specific tips okay) |
