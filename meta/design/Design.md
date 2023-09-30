@@ -1,5 +1,5 @@
 - promotes drama over balance and realism
-- plays fast
+- plays quickly
 - players make skills
 - generic
 - low entry barrier

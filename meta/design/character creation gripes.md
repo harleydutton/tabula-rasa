@@ -1,0 +1,13 @@
+- [[Character 1]] Creation
+	- at [[Skill]]/flavor creation, discuss power level as a limiting factor. it should be a consideration at the least.
+	- at [[Skill]]/flavor creation, discuss the typical use case and difficulty.
+	- Make sure [[Character 1]] creation, the “[[Character 1]]” section (if it exists), and the [[Character 1]] sheet (which I’m pretty sure doesn’t yet) all match up. Think about how I might make it so I only have to make updates to what a [[Character 1]] is in one place. (perhaps split systems and definitions like I did in [[Sark Douls]])
+	- the character and character creations settings are largely redundant. make them different or remove one.
+	- reduce the "character creation" section and add sections to "character" (really just move them and refine both) (at this point just double check that character has definitions for everything it needs to have defs for.)
+	- make sure CC, the sheet, and character match. Right now the sheet has "concept" and CC has "aesthetic description" and these are different.
+	  - flavor cannot point to a specific skill. If a flavor boils down to "+1 to a skill" or "X skill is easy for me" it isn't really flavor. Instead it should have many ups and downs and they should be situational.
+	  - at skill/flavor creation, discuss power level as a limiting factor. it should be a consideration at the least.
+	  - at skill/flavor creation, discuss the typical use case and difficulty.
+	  - add an example to scope: fireball, fire magic, magic
+	  - the character and character creations settings are largely redundant. make them different or remove one.
+		- maybe to complement "systems" have another top level section called "definitions". split the parts out of character and setting but still include character and setting and have them reference the smaller sections now. To some degree this is a bad idea because it implies that I should move the things I have defined in each subsection into it and that is crappy organization.
