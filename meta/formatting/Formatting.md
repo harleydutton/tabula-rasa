@@ -1,3 +1,4 @@
 - Formatting decisions like links and examples that I explicitly want readers to pay attention to will be in a legend in the main document.
 - This document will favor being DRY and favor having links over being printable. Link the first reference to another note in each note.
 - Note names and headings should be in title case.
+- Links should be lowercase if they appear in the middle of a sentence.

@@ -1,3 +1,5 @@
-
-### character progression
-i don't want to tell anyone how to do down-time but it is relevant for a few things in this system. first off if can be used to experience whore. i will probably make it so you can increment attributes by one during downtime and you cannot improve skills during downtime. downtime is also a good time to heal wounds.
+Over the course of the [[Story]], as the [[Storyteller]] distributes [[Character Points]], players will have the option to make their [[Character 1]]s stronger by spending those Character points. They can level up [[skills]] and [[Attributes]] or acquire new skills or [[flavor]]:
+- [[Skill Acquisition]]
+- [[Attribute Progression]]
+- [[Skill Progression]]
+- [[Flavor Aquisition]]
