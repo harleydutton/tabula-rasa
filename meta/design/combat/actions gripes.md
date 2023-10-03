@@ -1,0 +1,10 @@
+- Actions
+	- In addition all reactions occur after the action that caused them.
+	- add running to actions (by converting a major to a move)
+	- define more free actions. possibly convert some to minor actions
+	- consider renaming move action minor action and defining some minor actions
+	- extended (multiple turn) actions?
+	- In addition all reactions occur after the action that caused them.
+	- Big actions can be converted to littler actions (attack -> move)
+	- Timing
+		- Subsections: Downtime, Conflict, and normal adventuring time/storytelling time. usually “scenes” will be my descriptive unit here.

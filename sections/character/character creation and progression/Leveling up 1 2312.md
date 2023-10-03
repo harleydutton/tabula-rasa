@@ -1,3 +1,0 @@
-### leveling up
-at one point i was in love with the idea that leveling up a skill was done by using it. this would mean you have to accumulate successes, failures, or both equal to something (the skills level) to level it up
-I also liked the idea of having traditional floating experience level up skills at some rate. it was also nice being able to transition smoothly from character creation to playing the game with VTM esque bonus points being the same as exp

@@ -1,0 +1,1 @@
+what if they were physical, mental, supernatural, and social rather than mind, body, spirit, and presense? this is less quippy but more descriptive.

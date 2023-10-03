@@ -1,0 +1,3 @@
+- [[Sequoia]]
+	- Update store using the one found in Money and Items
+	- The example [[Setting]] doc should define its own currency. I think it does. [[Sequoia]] uses amber and aether to my knowledge.

@@ -1,0 +1,3 @@
+comment: [[Knowledge comment]]
+
+Knowledge should be represented as flavor unless that [[knowledge would be better represented as a skill]]. You cannot have a flavor and skill that are functionally identical such that the flavor just lowers the difficulty on all of that skills checks. Languages, secrets, history, specific domains of skilled labor, culture, religious rites, etc. are all examples of in character knowledge that should be represented as flavor.
