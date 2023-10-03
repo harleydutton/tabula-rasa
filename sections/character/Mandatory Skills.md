@@ -1,0 +1,1 @@
+Mandatory Skills are those that every character receives from the given Setting. This is meant to represent the Skills that every character should naturally have access to like seeing, strength, and persuasion. There are some characters who will have Flavor that renders these skills useless or remove them entirely. The flavors blind and paralyzed come to mind.

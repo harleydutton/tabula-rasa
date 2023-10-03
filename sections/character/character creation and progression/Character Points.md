@@ -1,1 +1,0 @@
-Character points are used to give [[characters]] stats. Character points can be used to level up [[Attributes]] and [[skills]], learn a new skill, or take new [[Flavor]].

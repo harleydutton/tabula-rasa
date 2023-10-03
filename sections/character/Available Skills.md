@@ -1,0 +1,1 @@
+Available skills are those that are present in the setting but not everyone has. They can be rare or common like surgery and driving are in modern times. The point is that not _every_ character has them but most characters are able to learn these skills. A few more modern-day examples are cooking, driving, computer programming, basketball, and surgery.

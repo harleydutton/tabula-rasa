@@ -1,0 +1,8 @@
+
+Each character has a list of skills representing the actions they can take in the story. Skills do have to be things that a character can _do_ which also means they have to be able to fail as well. Characters may take levels in any skills listed on the setting document unless it wouldn't make sense for them to do so. Skills can be rare or common like `surgery` and `driving` are in modern times or more outlandish like `necromancy`.
+
+Each character has a list of skills representing the actions they can take in the story. Skills do have to be things that a character can _do_ [[which also means they have to be able to fail as well]]. Skills can be either mandatory or available. All characters must have at least one level in all mandatory skills. Otherwise characters may take levels in available skills unless it doesn't make sense.
+
+Each character has a list of skills representing the actions they can take in the story. Skills do have to be things that a character can _do_ which also means they have to be able to fail as well. Skills can be either mandatory or available. All characters must have at least one level in all mandatory skills. Otherwise characters may take levels in available skills unless it doesn't make sense.
+
+Each character has a list of skills representing the actions they can take in the story. Skills do have to be things that a character can _do_ which also means they have to be able to fail as well. Characters may take levels in any skills listed on the setting document unless it wouldn't make sense for them to do so. Skills can be rare or common like surgery and driving are in modern times or more outlandish like necromancy.
