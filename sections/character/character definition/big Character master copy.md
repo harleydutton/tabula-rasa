@@ -1,4 +1,8 @@
+
+## comment: I think this may have been the meta definition I was using
 A character is a person in the story rather than one of the ones playing in it or telling it.
+
+
 
 ## Specification
 def:
@@ -31,6 +35,18 @@ def:
 	- visual {string+/img}
 	- personality {string}
 	- history {string}
+
+This looks like another spec:
+from a design list of what should go on a character sheet:
+    top: name consept, setting, player action delay
+    left col: level, name, exp, desc
+    right col: flavor type: physique, knowledge, possessions, social, supernatural, wounds
+    flavor/skill type as dividers
+
+unique item from yet another spec:
+- number of hooks
+Tracking # of hooks is an interesting idea.
+
 
 # Character
 
