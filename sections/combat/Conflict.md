@@ -1,3 +1,7 @@
-This is measured in seconds
+This is measured in seconds.
+Encompasses fights and arguments and races and such.
 
-fights and arguments and races and such
+[[Timing]]
+[[Actions]]
+[[Distance]]
+[[big Health]]

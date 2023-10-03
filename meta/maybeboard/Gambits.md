@@ -1,0 +1,1 @@
+Gambits are where you make a deal with the storyreller to modify the the difficulty of a check, the pass-effect, and the fail-effect. You might ask for something special to happen on a success in exchange for an increase in difficulty.

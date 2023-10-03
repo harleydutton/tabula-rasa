@@ -1,4 +1,3 @@
-
 - combat, chases, and other high intensity stuff
 	- health and damage
 	- timing

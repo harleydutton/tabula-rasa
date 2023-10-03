@@ -1,2 +1,0 @@
-	- [[Character 1]] sheet
-		- Should include a money and items section to track spent income, purchases, current wealth, etc.
