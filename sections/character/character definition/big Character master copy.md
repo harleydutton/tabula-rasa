@@ -1,5 +1,6 @@
 A character is a person in the story rather than one of the ones playing in it or telling it.
 
+## Specification
 def:
 - info
 	- name {string}
@@ -31,14 +32,9 @@ def:
 	- personality {string}
 	- history {string}
 
-
-
-
-___
----
----
 # Character
 
+[[meta/comments/Character comments]]
 This chapter is for you, the Player. Characters are representations of the fictional people within the Setting. To be mechanically playable, your character needs an action delay, a motivation, skills, flavor and a number of other shit.
 
 ## Identification Information
@@ -53,7 +49,8 @@ This info is of little relevance to a character and of great relevance to the ac
 
 ## Action Delay
 
-This is how fast a character is. Making it lower makes the character faster. Action delay can be reduced by spending character points.
+This is how fast a character is. Making it lower makes the character faster. Action delay can be reduced by spending character points. See [combat](https://github.com/harleydutton/Tabula-Rasa/blob/develop/tabula-rasa.md#combat) for an explanation of how action delay works.
+
 
 ## Character Points
 
@@ -69,6 +66,9 @@ Characters must have at least one motivation. Motivations can be Ideals, Values,
 
 Each character has a list of skills representing the actions they can take in the story. Skills do have to be things that a character can _do_ which also means they have to be able to fail as well. Characters may take levels in any skills listed on the setting document unless it wouldn't make sense for them to do so. Skills can be rare or common like `surgery` and `driving` are in modern times or more outlandish like `necromancy`.
 
+Each character has a list of skills representing the actions they can take in the story. Skills do have to be things that a character can _do_ which also means they have to be able to fail as well. Skills can be either mandatory or available. All characters must have at least one level in all mandatory skills. Otherwise characters may take levels in available skills unless it doesn't make sense.
+
+Each character has a list of skills representing the actions they can take in the story. Skills do have to be things that a character can _do_ which also means they have to be able to fail as well. Characters may take levels in any skills listed on the setting document unless it wouldn't make sense for them to do so. Skills can be rare or common like surgery and driving are in modern times or more outlandish like necromancy.
 ## Attributes
 
 Attributes are very similar to skills with a few exceptions. Like skills, attributes can be used to roll checks but unlike skills attributes are as broad in [scope](https://github.com/harleydutton/Tabula-Rasa/blob/develop/tabula-rasa.md#scope) as they can be. Like skills, attributes can be leveled up using CP but they are far more expensive. Unlike skills, attributes act as a character's physical, mental, spiritual, and social health. Furthermore, attributes are often used defensively when no other skill would apply. Lastly, attributes can and often are used for perception checks.
@@ -85,11 +85,11 @@ Negative Flavor is usually acquired in two ways. The first way is usually throug
 
 At character creation you may have noticed that there is no way to modify action delay. There is also no way to get any special racial abilities. There is also no way to become rich and famous. Etc. The point is you have to talk to the storyteller when you are creating your character, ask for the things you want, and represent them as flavor. Sometimes the things you want are OP as shit and the DM will want to keep your character in line by raising the cost above the normal for what you are asking for. Want to be super fast? Have -2 action delay by being a vampire (instead death by sunlight). Want to be big enough you can throw cars? Become an Ent for +3 action delay and a vulnerability to fire. Perhaps you can be a world famous boxer if you also have some gambling debts. The point is, talk to your DM and work it out. Sometimes it is appropriate to add a deal to the setting such that it is available to all players and NPCs.
 
-### Items
+### Items--comment: handled in money and items; remove
 
 Unlike most other roleplaying games which have extensive tables for equipment, in Tabula I have opted to represent equipment as flavor. This means that armor, weapons, tools, vehicles, and treasure should be represented as flavor. Typically equipment will modify the difficulty of checks with relevant skills sometimes reducing the difficulty from `impossible` and effectively granting a character new abilities.
 
-### Money
+### Money--comment: handled in money and items; remove
 
 Money is represented as flavor in Tabula. Character points can be converted into minor purchases. Money-flavor represents a character's liquid assets or the stuff they have for trade. Money-flavor can be aliased to whatever the currency for you game is: `gold coins`, `spacebucks`, `dollars`, `bullets`, `litres (of water)`, etc. If you want to know more go visit the [Money](https://github.com/harleydutton/Tabula-Rasa/blob/develop/tabula-rasa.md#money-1) section. Typically money can be spent on things on the settings store as long as you find a store selling that thing in-game.
 
@@ -105,9 +105,9 @@ Supernatural flavor is how one might represent being a priest to a specific god.
 
 If you have another character as a companion you should list them as flavor or make a character sheet for them. Any animal companions, demonic familiars, slaves, shipboard AI, or loyal friends should be either listed as flavor or have their own character sheet made or both. Whatever is most apt. Consult the deals section and the storyteller.
 
-### Knowledge
+### Knowledge [[Knowledge comment]]
 
-Knowledge should be represented as flavor unless that knowledge would be better represented as a skill. You cannot have a flavor and skill that are functionally identical such that the flavor just lowers the difficulty on all of that skills checks. Languages, secrets, history, specific domains of skilled labor, culture, religious rites, etc. are all examples of in character knowledge that should be represented as flavor.
+Knowledge should be represented as flavor unless that [[knowledge would be better represented as a skill]]. You cannot have a flavor and skill that are functionally identical such that the flavor just lowers the difficulty on all of that skills checks. Languages, secrets, history, specific domains of skilled labor, culture, religious rites, etc. are all examples of in character knowledge that should be represented as flavor.
 
 ### Vehicles and Properties
 
