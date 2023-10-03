@@ -1,6 +1,0 @@
-When conflict occurs during roleplaying, most of the time, the fairest way to resolve it is by rolling a skill check, or check for short. You can always use one of the mandatory skills (mind, body, spirit, and social) or you can use another relevant skill your character has. Tell the storyteller what you want to do with your skill and feel free to be specific--Actually specific is better. The storyteller will set a subjective difficulty (target number) for the action. At this point you have options. You can roll, abort, or challenge the difficulty the storyteller set. Roll a number of dice equal the skill's level. If any beat the target number you pass the check and what you described happens.
-
-If Sam wants to stab a goblin and sam has a fencing skill of 5, Sam would say "I want to skewer the goblin through the heart with my rapier!". The storyteller tells him "that will be hard" which means the target number is 6. If any one of Sam's 5 dice come up as a 6, Sam kills the goblin.
-
-[[problems]] there was an image here. probably an example. maybe this?
-![[checkFlowchart.jpg]]

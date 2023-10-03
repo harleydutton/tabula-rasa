@@ -39,3 +39,5 @@ from a design list of what should go on a character sheet:
 unique item from yet another spec:
 - number of hooks
 Tracking # of hooks is an interesting idea.
+
+- Should include a money and items section to track spent income, purchases, current wealth, etc.

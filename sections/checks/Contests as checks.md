@@ -1,3 +1,0 @@
-### Contests as checks
-this looks like it is still using the starwars style checks. all parties roll and magnitude of successes are what matters for eliminating contestants and magnitude of success could determine winners. good and bad stuff could apply to whomever rolled them respectively.
-currently i am thinking that checks will involve dice, attributes, and skills with an option +2 or -2 from skills and flavor. i think equipment should probably not contribute to anything except that +2/-2. I think i just want equipment to grant new abilities. i probably don't wan't attributes changing too much throughout a game.

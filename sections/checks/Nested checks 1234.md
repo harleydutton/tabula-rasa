@@ -1,1 +1,0 @@
-If a character is trying to do two things at once, juggling while doing a backflip for instance, just increase the difficulty. If a player is doing two things that are radically different, that is the apropriate time to make two skill checks. (Doing a backflip and casting a spell)
