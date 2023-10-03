@@ -10,3 +10,9 @@ tldr
 1. look at setting
 2. work with storyteller to make hooks and skills
 4. CP -> flavor, skills, attributes
+
+To make a character first read through the setting document your storyteller has provided you with. When you have done this and understand the world you will be playing in read through this and fill in the sections for the character sheet--located at the end of this section--using what you have learned. Ask your storyteller for help with things you do not understand or consult the table of contents.
+
+To make a character first read through the setting document your storyteller has provided you with. If they have not done so, bug them about it. You cannot go forward without it.
+
+When you have done this and understand the world you will be playing in, read this section and fill in the character sheet at the end with what you have learned. Ask your storyteller for help with things you do not understand or consult the table of contents.
