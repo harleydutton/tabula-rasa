@@ -1,7 +1,8 @@
 formerly "Action Delay"
-is an [[Attribute]]
+is an [[Attribute]]; levels exponentially
+The purpose of this stat is [[Action Delay]], a stat derived from it.
 
-This is how fast a character is. Making it lower makes the character faster. Action delay can be reduced by spending character points. See [combat](https://github.com/harleydutton/Tabula-Rasa/blob/develop/tabula-rasa.md#combat) for an explanation of how action delay works.
+This is how fast a character is. Making it higer makes the character faster. Speed can be reduced by spending character points. See [combat](https://github.com/harleydutton/Tabula-Rasa/blob/develop/tabula-rasa.md#combat) for an explanation of how action delay works.
 
 
 This is how long your character has to wait to do things in combat. Lower means faster. If you would like to decrease your action delay you can do so by spending CP. The typical default action delay is 10 but you should take a look at the setting document provided by your storyteller to make sure.

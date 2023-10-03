@@ -1,3 +1,5 @@
+this appears to deal with mana and stamina points, likely in addition to health.
+
 ### action price table
 previously I thought this was a good idea. now i think keeping track of 4 stats during combat in addition to the other shit is insane.
 If the timing of an action matters initiative should be rolled.
