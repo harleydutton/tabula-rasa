@@ -1,0 +1,1 @@
+If you want to stab a bitch that tried to stab you, you must consume your major action and your reaction.

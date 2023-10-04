@@ -1,0 +1,1 @@
+Two characters are adjacent if they are next to each other regardless of what zone(s) they are in.

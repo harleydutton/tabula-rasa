@@ -1,0 +1,1 @@
+Changing zones requires one movement action. Movement within a zone is a free action.

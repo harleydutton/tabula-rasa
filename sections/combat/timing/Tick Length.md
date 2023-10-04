@@ -1,0 +1,1 @@
+In Tabula, timed scenes use ticks, an abstract and arbitrary unit of time, to measure how long the scene has lasted and when any individual character can act. The storyteller determines the length of a tick for any given scene. Typically ticks are about a second long but for large scale scenes ticks might be days or even weeks.

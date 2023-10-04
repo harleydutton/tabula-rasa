@@ -1,0 +1,1 @@
+Defensive actions are those that characters do to avoid the bad flavor that comes with an attack. Commonly this means blocking, dodging, parrying, etc. Uncommonly this means counterattacking to remove a threat before it can hurt you, or jumping in front of an attack for another character.

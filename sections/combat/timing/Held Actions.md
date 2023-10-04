@@ -1,0 +1,1 @@
+Reactions allow you to take your other actions on a tick that is not your own. If you choose to spend any actions non-defensively on a tick that is not your own, you act last on that tick. If multiple players would act last on a tick, break the tie with the [ties](#ties) section.
