@@ -1,6 +1,3 @@
-The purpose of a setting is to introduce the [[World|world]] to the [[Player|players]] such that they can create [[Character 1|characters]]. To this end some parts are required and some are optional.
-
-## Required
 - Basic description of the world
 - Default action delay
 - Granted character points (this is a running total. You can have it vary by player if you want)
@@ -46,11 +43,7 @@ The purpose of a setting is to introduce the [[World|world]] to the [[Player|pla
 		- planes
 		- geography and weather
 
-
-
-
-
 [[problems]] I want there to be a place players can go looking for in-setting skills and flavor.
 Currently this is the [[Content]] section but I think I might change that to be purely for limited skills and flavor and rename it so it's something along the lines of "additional mechanics" or "mechanical content" because non-mechanical skills and flavor could just be part of one of the many descriptions in the setting. Not sure if this holds up so I'm going to try it.
 
-descriptions will be broadly following the hermetics framework.
+descriptions will be broadly following the HERMETICS worldbuilding framework.

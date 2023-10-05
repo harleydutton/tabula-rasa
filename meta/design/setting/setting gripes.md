@@ -1,5 +1,5 @@
-- [[Setting]]
+- [[sections/setting/Setting]]
 	- Should I include system switches as part of the settings doc? (morality, money, fatigue, bulk, etc)
-	- The [[Setting]] should define the currency
+	- The [[sections/setting/Setting]] should define the currency
 	- add an example image/table for the store
 	- add an example image for a whole setting doc

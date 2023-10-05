@@ -1,7 +1,7 @@
 Skills represent the things a [[big Character master copy|character]] is good at doing. A skill consists of a name and level. The level determines how many dice the character gets to roll when making a [[Checks|check]] using the skill.
 
 ## Creating a Skill
-Consult the [[big Limits|limits]] section of the [[Setting|setting]] and think up a skill within those bounds and run the idea by your [[Storyteller|storyteller]]. If they approve it it will be added to the setting (possibly with new limits) after which characters can take and level the skill like any other.
+Consult the [[big Limits|limits]] section of the [[sections/setting/Setting|setting]] and think up a skill within those bounds and run the idea by your [[Storyteller|storyteller]]. If they approve it it will be added to the setting (possibly with new limits) after which characters can take and level the skill like any other.
 
 ## Taking Skills
 [[Content]]/[[big Limits]]([[problems]]) will have a list of skills characters can take that are appropriate to the setting. To take a skill simply add it to your character sheet in the skills section and pay CP to level it up to at least level 1. As defined in the [[big Limits]] section you may also have to pay [[Hooks]]/[[Boons]] ([[problems]]).

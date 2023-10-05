@@ -1,0 +1,2 @@
+The default Action Delay for the Setting is what all new characters in the Setting will start with. Typically this is 10. This will guarantee that most of the characters in the Setting are at about the same speed in scenes where timing matters like combat and chases. Because it is just a default and can be modified it also allows for some characters to be faster or slower than the average character.
+
