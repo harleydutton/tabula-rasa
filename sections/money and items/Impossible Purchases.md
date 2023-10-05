@@ -1,0 +1,1 @@
+Lastly and of least importance we have impossible purchases. There isn't much to say here really. You typically can't obtain these things for one reason or another. They might be illegal, one-of-a-kind, insanely expensive, or simply non-existent in the setting.

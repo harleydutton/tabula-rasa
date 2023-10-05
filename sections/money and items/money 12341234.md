@@ -1,3 +1,0 @@
-comment: handled in money and items; remove
-
-Money is represented as flavor in Tabula. Character points can be converted into minor purchases. Money-flavor represents a character's liquid assets or the stuff they have for trade. Money-flavor can be aliased to whatever the currency for you game is: `gold coins`, `spacebucks`, `dollars`, `bullets`, `litres (of water)`, etc. If you want to know more go visit the [Money](https://github.com/harleydutton/Tabula-Rasa/blob/develop/tabula-rasa.md#money-1) section. Typically money can be spent on things on the settings store as long as you find a store selling that thing in-game.

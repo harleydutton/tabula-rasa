@@ -14,3 +14,9 @@ liquid currency should trend toward this formula
 `liquid currency =  wealth - (assets + expenses)`
 
 Setting specific currency is currency is money. Should I remove one of money/currency from that chain? It's more natural to talk about as money.
+
+---
+
+In Tabula, money is very abstract to avoid tedium and allow each setting to have its own currency. Wealth is [[big Character master copy]] stat representing the total material posessions and liquid currency a character *should* posess.
+
+[[problems]] what if there isn't a currenncy? barter obviously becomes a thing but the *should* part of wealth breaks down. I'm going to say the character acquires flavor the storyteller deems reasonable based on their character's gethering skills or something like that. Maybe they deal in favors, idk.
