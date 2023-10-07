@@ -16,7 +16,7 @@ Attributes Body, Mind, Spirit and Social. They are very similar to skills but ha
 
 The attribtues are [[Mind 1]], [[Body 1]], [[Spirit 1]], and [[Social 1]] though I think I want to rename the social one. maybe `Communication`, `comms`, `Grace`, or `Graces`? [[big -- many sections worth of design notes]]
 
-Attributes are [[Skill]] of the highest [[sections/storyteller/Scope]]
+Attributes are [[Skill]] of the highest [[sections/storyteller/setting/Scope]]
 
 The attributes are [[Body]], [[Mind]], [[Spirit]], [[Presence]], [[Wealth]], and [[Speed]].
 
