@@ -2,8 +2,8 @@
 	- What the heck do defences look like these days?
 	- round based conflict using action economy. series of opposed checks. synchronous as opposed to async.
 	- damage
-	- probably need a more generic attack modifiers list. also something that will work in mental or [[Social]] combat. I.e. Making an attack hard to evade is difficulty hard. Other mods include multitarget, lethal, feint, etc.
-	- [[big Health]] and damage system as currently imagined (physical; adapt for mental/[[Social]]. Spiritual [[big Health]] tracks morality)
+	- probably need a more generic attack modifiers list. also something that will work in mental or [[Presence]] combat. I.e. Making an attack hard to evade is difficulty hard. Other mods include multitarget, lethal, feint, etc.
+	- [[big Health]] and damage system as currently imagined (physical; adapt for mental/[[Presence]]. Spiritual [[big Health]] tracks morality)
 	- [[Body]] is a [[Character 1]]’s capacity to receive wounds (flavor) before going unconscious.
 	- [[Storyteller]] represents characters as weak/vulnerable/bloody once they have [[Body]]-1 wounds.
 	- some flavor can be bigger maybe? Mortal wounds?

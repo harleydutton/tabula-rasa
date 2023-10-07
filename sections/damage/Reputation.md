@@ -1,2 +1,2 @@
 previously "scandals"
-[[Social]]'s version of [[Wounds]]
+[[Presence]]'s version of [[Wounds]]

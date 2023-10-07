@@ -7,3 +7,8 @@ The rest of the skills are those that are common within the setting and you can 
 Example mandatory skills: willpower, strength, magic, dexterity, charisma
 Example skills: sword fighting, pyromancy, computer hacking, seduction
 ```
+
+---
+
+## Available Skills -- the idea that skills should be listed on the setting doc
+Skills are all made up and characters should be able to do each of these things with their skills. probably more things too. Settings should include a list of stock/common skills. PC-made skills need tohave descriptive names. Other (stock/common) skills should have standardized names for DM sanity.
