@@ -1,0 +1,1 @@
+This roleplaying system was created by Harley Dutton. Some supplemental materials like the Sequoia setting were also created by me.

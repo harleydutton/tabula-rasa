@@ -1,5 +1,0 @@
-If you create a skill with appropriate scope that is just too powerful for the setting or story (most magic skills) your storyteller may inflict a few limiting factors upon the skill you have proposed or your character.
-
-@Storyteller: A few good limiting factors are timing restrictions(requires multiple turns in combat, cannot be done in combat, takes multiple days, etc.), resource costs (add a mana bar, minor purchases, major purchases, etc.), context restrictions (must have line of sight, must have eye contact, must be touching the target, must have a piece of the target, etc.), and cooldowns (AUTs or turns, once per combat, once per day, refreshes randomly, etc.). If you cannot balance a skill, [veto](#veto) it.
-
-[[problems]] according to ethan, describing round/turn based game actions with the word cooldowns is "unhinged"

@@ -1,3 +1,0 @@
-### Stock Skills
-All characters should have the ability to attack, defend, move, hide, see, lie, detect lies, persuade, resist persuasion and much more.
-Skills are all made up and characters should be able to do each of these things with their skills. probably more things too. Settings should include a list of stock/common skills. PC-made skills need tohave descriptive names. Other (stock/common) skills should have standardized names for DM sanity.

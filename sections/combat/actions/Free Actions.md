@@ -1,0 +1,1 @@
+Free actions do not require an action and can be performed at any time during combat assuming you pass a DTMS check. Actions that would be trivial out of combat are typically free actions in combat. This would include talking, inventory management (dropping items or giving them to another character), and most perception checks--sometimes even those that are non-trivial.

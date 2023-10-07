@@ -1,0 +1,1 @@
+Expenses are recurring costs a character is paying that limit their available wealth. Though they are intangible, they can be thought of as items.

@@ -1,1 +1,0 @@
-[[naming decisions]] thinking about renaming this "heart" or "presence"

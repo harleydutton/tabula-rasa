@@ -2,5 +2,5 @@
 	- taking new skills acts as an unlock. some actions are only possible if you actually have the relevant [[Skill]]. mandatory skills don't work for everything. ([[problems]] this just means I need to define skills and knowledge flavor better lol) 
 	- Restrictions on when you can learn new skills. Need training, need downtime, etc.
 	- define skills better. Possible Heuristic: skills allow you to do
-	- add an example to [[sections/skills and attributes/Scope]]: fireball, fire magic, magic
+	- add an example to [[sections/storyteller/setting/Scope]]: fireball, fire magic, magic
 	- define skills better. Heuristic: skills allow you to *do*
