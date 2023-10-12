@@ -1,5 +1,9 @@
-[[problems]] strong reasons to remove this entirely.
-more articulately, this is an issue because it turns every single thing in the game into a [[mother may i]]. moving to maybeboard with strong preference to remove
+"Does this make sense?" checks are a bad idea because they turn everything they apply to into a [[Mother May I]]
+
+---
+
+\strong reasons to remove this entirely.
+more articulately, this is an issue because it turns every single thing in the game into a [[Mother May I]]. moving to maybeboard with strong preference to remove
 
 ---
 

@@ -1,0 +1,1 @@
+This is a useful shorthand for the concept that players typically don't don't self-regulate despite the fact that they will likely have more fun overall if they were to do so.

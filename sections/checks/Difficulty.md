@@ -5,7 +5,7 @@ The storyteller can assign a check five different difficulties: Trivial, Easy, N
 |**Difficulty**|**Trivial**|**Easy**|**Normal**|**Hard**|**Impossible**|
 |Target Number|Automatic Pass|4|5|6|Automatic Fail|
 
-[[problems]] this table is oriented poorly with regards to the bold table headings
+[[Problem]] this table is oriented poorly with regards to the bold table headings
 
 ---
 

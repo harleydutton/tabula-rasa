@@ -1,4 +1,4 @@
-Wealth is guaranteed stat like speed and attributes that represents a character's [[big Hidden Information 1]].  [[problems]] i think this is meant to link to "money and items"
+Wealth is guaranteed stat like speed and attributes that represents a character's [[big Hidden Information 1]].  [[Problem]] i think this is meant to link to "money and items"
 
 At [[Downtime]], the sum of a [[Character 1]]s [[Currency]], [[Assets]], and [[Expenses]] will trend back towards their wealth. 
 
@@ -19,4 +19,4 @@ Setting specific currency is currency is money. Should I remove one of money/cur
 
 In Tabula, money is very abstract to avoid tedium and allow each setting to have its own currency. Wealth is [[big Character master copy]] stat representing the total material posessions and liquid currency a character *should* posess.
 
-[[problems]] what if there isn't a currenncy? barter obviously becomes a thing but the *should* part of wealth breaks down. I'm going to say the character acquires flavor the storyteller deems reasonable based on their character's gethering skills or something like that. Maybe they deal in favors, idk.
+[[Problem]] what if there isn't a currenncy? barter obviously becomes a thing but the *should* part of wealth breaks down. I'm going to say the character acquires flavor the storyteller deems reasonable based on their character's gethering skills or something like that. Maybe they deal in favors, idk.

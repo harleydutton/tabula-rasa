@@ -4,7 +4,7 @@ I think I want MOS to be # of successes on the roll and to generally not matter 
 
 other outcomes are failure and [[Crit success and fail]]
 
-[[problems]] what is a success; do I want crits?, define outcomes better
+[[Problem]] what is a success; do I want crits?, define outcomes better
 
 |successes|outcome|
 |-|-|

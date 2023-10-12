@@ -43,7 +43,7 @@
 		- planes
 		- geography and weather
 
-[[problems]] I want there to be a place players can go looking for in-setting skills and flavor.
+[[Problem]] I want there to be a place players can go looking for in-setting skills and flavor.
 Currently this is the [[Content]] section but I think I might change that to be purely for limited skills and flavor and rename it so it's something along the lines of "additional mechanics" or "mechanical content" because non-mechanical skills and flavor could just be part of one of the many descriptions in the setting. Not sure if this holds up so I'm going to try it.
 
 descriptions will be broadly following the HERMETICS worldbuilding framework.

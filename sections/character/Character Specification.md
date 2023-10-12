@@ -14,13 +14,13 @@ def:
 		- mental illnesses {list{string}}
 	- spirit
 		- sins {list{string}}
-	- social [[problems]] this should really be communication...
+	- social [[Problem]] this should really be communication...
 		- scandals {list{string}}
 - flavor (small mechanical influence)
 	- motivations
 	- species
 	- adjectives
-	- hooks and boons [[problems]] how do i represent these?
+	- hooks and boons [[Problem]] how do i represent these?
 - skills (mechanical)
 	- {list{string, int}}
 - description (on optional second page)
