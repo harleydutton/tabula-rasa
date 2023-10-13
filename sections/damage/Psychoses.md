@@ -1,4 +1,4 @@
-[[consider]] calling these 
+[[Consider]] calling these 
 - "neuroses"
 - "mental illnesses"
 - "dysphoria" 

@@ -8,3 +8,7 @@ I like the notion that dodging should require a reaction. At storyteller discret
 ---
 
 Some defensive actions require a character to get out of the way to avoid an attack. In these cases character will need to spend a movement action in addition to a reaction to make a defensive action.
+
+---
+
+I think this section is the more generic version of a dodge action. Defensive actions should require [[Reaction]] and possibly also a [[Supporting Action]]

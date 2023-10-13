@@ -16,4 +16,8 @@ When one character sneaks up on another using the [hidden information](https://g
 |**state**|**first turn on tick**|**actions on cooldown**|
 |default|current tick + 1d6|none|
 |suspicious|current tick + 1d6|major|
-|oblivious|current tick + [[Action Delay\|AD]] + 1d6|major|
+|oblivious|current tick + [[sections/conflict/timing/Action Delay|AD]] + 1d6|major|
+
+---
+
+<!-- starting combat ie. rolling initiative (surprise) -->

@@ -1,0 +1,1 @@
+This would be an action to cause another character to lose control of their character for a bit. This would probably take a [[Main Action]] and I will probably need to create some status effects--or one at the very least--in order to make this happen.

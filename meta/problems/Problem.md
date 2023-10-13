@@ -1,0 +1,1 @@
+This note is meant to catch back-links to problems. The issue is I don't want any of this shit to be in-line anymore so I will need to clean all this up. This is probably some combination of the [[No More TODOs]] and [[Extant Problems]] issues.

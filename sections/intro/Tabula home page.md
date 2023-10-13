@@ -1,4 +1,4 @@
-[[Introduction]] [[consider]] linking to the design pages here or detailing their contents
+[[Introduction]] [[Consider]] linking to the design pages here or detailing their contents
 
 [[Legend]] i.e. how to use this document
 

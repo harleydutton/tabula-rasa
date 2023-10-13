@@ -1,4 +1,6 @@
-"Does this make sense?" checks are a bad idea because they turn everything they apply to into a [[Mother May I]]
+"Does this make sense?" checks are a bad idea because they turn everything they apply to into a [[Mother May I]].
+
+This opposes the pillar of being [[Empowering]]
 
 ---
 

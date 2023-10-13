@@ -8,7 +8,7 @@ flavor's difficulty modifier can only ever make a roll one step easier.
 
 ---
 
-[[consider]] renaming this "adjectives"
+[[Consider]] renaming this "adjectives"
 
 ---
 
