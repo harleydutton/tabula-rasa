@@ -1,0 +1,1 @@
+This is basically the idea of [[meta/design/decisions/Feature Flags|Feature Flags]] taken to a greater extreme with storyteller tips for which systems to turn on or off.

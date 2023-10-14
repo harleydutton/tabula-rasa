@@ -1,1 +1,0 @@
-[[Problem]] should starting wealth be a thing on the setting doc?

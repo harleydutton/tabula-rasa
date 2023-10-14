@@ -1,0 +1,1 @@
+[[Problem]] should starting wealth be a thing on the setting doc? this would be a baseline level for the wealth stat.
