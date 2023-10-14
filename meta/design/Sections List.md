@@ -1,4 +1,4 @@
-What all systems and definitions do you need in a roleplaying system?
+What all systems and definitions do you need in a roleplaying system? I think the [[System Generator]] will be able to answer this question.
 
 - [[Timing]]
 - [[Conflict]]
