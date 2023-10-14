@@ -40,3 +40,21 @@ Spiritual wounds must be healed through roleplaying.
 Spiritual incapacitation and death might result in divine wrath and smitings/hauntings or just a mental crisis that results in mental wounds.
 
 
+---
+
+	- [[big Health]] and damage system as currently imagined (physical; adapt for mental/[[Presence]]. Spiritual [[big Health]] tracks morality)
+	- [[Body]] is a [[Character 1]]’s capacity to receive wounds (flavor) before going unconscious.
+	- [[Storyteller]] represents characters as weak/vulnerable/bloody once they have [[Body]]-1 wounds.
+	- characters with wounds equal to [[Body]] are incapacitated. [[Storyteller]] discretion as to what happens to them
+	- characters with more wounds than [[Body]] die
+
+---
+
+A "wound" is bad flavor gotten through combat from taking damage. Wounds give a -1 to all checks due to pain and possibly disability.
+
+If I want to actually implement a wound system, I should probably add in common flavor's to represent status effects like "pain" and "shock" to give these temporary dice penalties. Realistically this should just be modifying the difficulty of the roll though because players should be the only ones modifying the dice pools of a check.
+
+[[Consider]] a system I heard about recently, I think for savage worlds. The basic premise is that when you take physical damage you get some quantity of pain, shock and blood loss.
+- shock gives you an immediate, temporary, and short lived disadvantage to your rolls.
+- pain gives you a slightly delayed, somewhat lasting disadvantage to your rolls
+- blood loss will eventually kill you in some fashion

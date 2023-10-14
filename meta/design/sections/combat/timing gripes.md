@@ -1,5 +1,0 @@
-- Timing
-	- Define actions in the timing section. All of them. main/major action, reaction, minor, free, move, held action, extended action, offhand, mental, etc. see existing combat section/todo
-	- On the subject of ordering, all actions must be able to be reacted to. Do they though? Shooting?
-	- Big actions can be converted to littler actions (attack -> move)
-	- In addition all reactions occur after the action that caused them.

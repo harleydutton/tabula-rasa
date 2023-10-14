@@ -12,3 +12,9 @@ Some defensive actions require a character to get out of the way to avoid an att
 ---
 
 I think this section is the more generic version of a dodge action. Defensive actions should require [[Reaction]] and possibly also a [[Supporting Action]]
+
+---
+
+- round based conflict using action economy. series of opposed checks. synchronous as opposed to async.
+
+I think this means you 

@@ -1,0 +1,1 @@
+This is an [[Check Modifier]] that removes defenses from a character. I don't think I will be using this presently as there aren't any [[Defenses]] to strip right now.

@@ -1,4 +1,0 @@
-- Distance
-	- rename battlefields to something less combat oriented
-	- switch the distance and movement sections. make it clear in the distance section that the system does not determine weapon ranges or the like
-	- is the map section in distance useful?

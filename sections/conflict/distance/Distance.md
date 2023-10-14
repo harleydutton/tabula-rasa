@@ -6,3 +6,8 @@ This system does not use distance for anything mechanical. It does not govern ho
     zones and AUDs
     no battle grid, instead image+zone grid=battle map w/ zones
     -->
+
+---
+
+	- rename battlefields to something less combat oriented
+	- switch the distance and movement sections. make it clear in the distance section that the system does not determine weapon ranges or the like
