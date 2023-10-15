@@ -9,3 +9,6 @@ A night of roleplaying usually lasts anywhere from two to six hours and usually 
 
 Most good stories include conflict. This will usually end up being between the the player-characters and either NPCs or some other element in the story. When a conflict arises, resolve it by rolling a skill-check. Please see the [checks](#checks) section for help with this.
 
+---
+
+same as [[Getting started]]. rejected

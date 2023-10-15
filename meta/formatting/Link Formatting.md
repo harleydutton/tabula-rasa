@@ -1,2 +1,2 @@
-- Note names in links should be unmodified. This may require more creative writing.
+- Links should be grammatically correct. Aliases should be added to notes to enable this.
 - In each section, the first reference to another section should be linked. The others should be **bold**.

@@ -1,2 +1,1 @@
 - Note names should be in title case.
-- The plurality of a note name should be based on the most common case of whatever is being described.

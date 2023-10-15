@@ -1,1 +1,0 @@
-Formatting decisions that I explicitly want readers to pay attention to will be in a legend in the getting started section.

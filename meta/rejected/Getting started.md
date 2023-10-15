@@ -14,3 +14,7 @@ To start an Adventure you will need a few things. First and most important, your
 2. Players should visit the [character creation](#character-creation) section.
 3. The storyteller should head over to the [making an adventure](#making-an-adventure) section if they need help with that.
 <!--I think a map, a battlegrid, tokens, and cards might also be helpful depending the other rules I include-->
+
+---
+
+both the player and the storyteller are going to need getting started pages that are relevant to them. This page is redundant with [[Tabula home page]]. rejected.

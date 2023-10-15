@@ -3,8 +3,12 @@
 [[organization decisions]] [[naming decisions]] these all have an in-game meaning so I'm not sure if they really count as meta. What's a better word to describe them? 
 
 ![[Storyteller]]
-![[Player]]
-![[Player Character (PC)]]
-![[Non-Player Character (NPC)]]
+![[sections/meta definitions/Player]]
+![[Player Character]]
+![[Non-Player Character]]
 ![[Story]]
 ![[Session]]
+
+---
+
+per [[aaa Glossary Design]], it a single page like this is effectively just a glossary and unnecessary

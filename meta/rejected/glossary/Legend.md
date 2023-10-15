@@ -42,3 +42,7 @@ This is a list of formatting choices I have made throughout this document to bet
 -   sections will be referenced using links
 -   examples of specific skills and flavor will be monospace in-line
 -   larger examples will be block-quoted and appear under the relevant section with no header
+
+---
+
+per [[aaa Glossary Design]] this is useless. rejected. 

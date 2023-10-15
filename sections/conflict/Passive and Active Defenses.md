@@ -12,3 +12,16 @@ furthermore the AC thing isn't a particularly good metric for avoiding explosion
 - it could be an additional health pool for all 4 attributes? this doesn't really make sense.
 
 The previous thought for armor and weapons, was that they would collectively modify the subjective difficulty of the attack roll. Attacking someone in plate armor with a sword would be pretty standard, possibly hard, attacking an armored knight with a lightsaber would be easy. This would also influence the wounds given.
+
+---
+
+Numeric active defenses make sense. These are skills. These are things you can DO. I use my swordfighting skill to parry the incoming attack.
+
+Passive defenses would be things like armor, things that you are. They would be flavor. It is hard to hit me with a sword because I am wearing plate mail.
+
+It doesn't make sense for passive defenses to be numeric because there is no defined way to interact with the numeric parts of the system without making a check and all checks require actions.
+
+It doesn't make sense for active defenses to be anything other than a check. Checks use numbers. Flavor might play a role.
+
+- [[Passive Defences]] should probably live in the [[Damage]] section.
+- [[Active Defenses]] should live in the [[Actions]] section of [[Conflict]]
