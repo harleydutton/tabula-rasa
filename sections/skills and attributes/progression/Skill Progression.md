@@ -14,3 +14,7 @@ The cost to level is the desired level in character points. If you wish to level
 
 Increase your equipment’s level by one at the cost of the equipment’s current level plus one, in souls.
 included from sark douls as this is a possibly useful phrasing.
+
+---
+
+Restrictions on when you can learn new skills. Need training, need downtime, etc. This tidbit might be better in [[Limits]]

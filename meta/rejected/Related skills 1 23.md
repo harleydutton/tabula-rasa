@@ -4,3 +4,7 @@ if you are good with a poleaxe/polehammer it stands to reason you wouldn't suck 
 2. the character takes a new skill at half the level of the old skill.
 3. the character renames the skill with DM permission
 4. the character can make checks as though they had the new skill with half the old skill's level
+
+---
+
+I think the recent take is, you have attributes to default to. Try to convince the Storyteller to let you use your skill, use an attribute, or get bent. rejected.

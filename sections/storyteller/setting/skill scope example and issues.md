@@ -24,3 +24,7 @@ A character might know “knots” because they know the skill “sailing” and
 On the other hand I encouraged THIS at one point.
 perhaps settings should include a list of default/common skills?
 there is something of a goldilocks zone for skill scope. Magic is too broat, fireball is too narrow, but fire magic is just right.
+
+---
+
+With regards to magic, I think my most recent thought is fireball is probably the appropriate scope, not fire magic. Spirit == magic in this canonical scope example (magic > fire magic > fireball)
