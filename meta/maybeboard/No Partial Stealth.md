@@ -1,0 +1,3 @@
+Partial stealth is being hidden relative to some characters but visible to others.
+
+This is a pain in the ass to manage and conflicts with the [[Avoid Overwhelming Bookkeeping]] design decision. As such, all seekers within a scene *can* be aware of a caught character, because talking is a free action. Characters outside the scene will be unaware of caught characters within the scene by default, though once again, talking is a free action. I think this is mostly relevant to communicate to storytellers though it might be a design decision.
