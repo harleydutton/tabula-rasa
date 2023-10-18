@@ -3,3 +3,7 @@ This is a relevant stealth state for combat stuff. I think the guards would need
 ---
 
 ![[Initiative]]
+
+---
+
+Attempting to enter stealth from a chase or combat costs an action, a stealth check, and somewhere to hide.

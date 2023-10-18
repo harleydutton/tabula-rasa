@@ -31,3 +31,7 @@ When you add something to the setting you may have it in your head that it will 
 skill gripes:
 
 add an example of/to Scope: fireball, fire magic, magic?
+
+---
+
+- at [[Skill]]/flavor creation, discuss power level as a limiting factor. it should be a consideration at the least.

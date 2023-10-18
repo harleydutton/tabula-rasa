@@ -34,3 +34,7 @@ What is tabula these days? I think it's probably not going to be a system genera
 It will be a setting interface and include at least one worldbuilding framework.
 
 It will discuss types of stories and provide tools for running/making a variety of them.
+
+---
+
+it is worth addressing why there isn't a monster manual at least. yes. more generally explain what a generic roleplaying system is.
