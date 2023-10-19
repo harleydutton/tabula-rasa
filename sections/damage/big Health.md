@@ -53,8 +53,3 @@ Spiritual incapacitation and death might result in divine wrath and smitings/hau
 A "wound" is bad flavor gotten through combat from taking damage. Wounds give a -1 to all checks due to pain and possibly disability.
 
 If I want to actually implement a wound system, I should probably add in common flavor's to represent status effects like "pain" and "shock" to give these temporary dice penalties. Realistically this should just be modifying the difficulty of the roll though because players should be the only ones modifying the dice pools of a check.
-
-[[Consider]] a system I heard about recently, I think for savage worlds. The basic premise is that when you take physical damage you get some quantity of pain, shock and blood loss.
-- shock gives you an immediate, temporary, and short lived disadvantage to your rolls.
-- pain gives you a slightly delayed, somewhat lasting disadvantage to your rolls
-- blood loss will eventually kill you in some fashion

@@ -1,4 +1,4 @@
-[[Consider]] renaming to "Major Action"
+Previously "Major Action"
 
 In a typical turn of combat each character will want to do something. This is their main action. It's probably an attack or something. Anything proactive really.
 
