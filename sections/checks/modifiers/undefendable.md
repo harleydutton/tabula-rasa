@@ -1,0 +1,1 @@
+- On the subject of ordering, all actions must be able to be reacted to. Do they though? Shooting? no, "undefendable" [[Check Modifier]]

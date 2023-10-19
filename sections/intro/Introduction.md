@@ -15,3 +15,26 @@ The role playing system is generic so it will work with any setting produced by 
 ---
 
 Tabula Rasa is a worldbuilding framework and a rules-light, generic roleplaying game that lets players create their own skills.
+
+---
+
+This README is not intended to be part of Tabula Rasa. Instead it is a meta-document for tracking design, philosophy, formatting, and tasks. Created by Harley Dutton.
+
+Tabula Rasa is a worldbuilding framework and a rules-light, generic roleplaying game that lets players create their own skills.
+
+The worldbuilding framework produces a Setting. Settings are short, standardized, and easily shareable descriptions of a single place within a world. The intent is that Settings can be used to quickly understand a part of the world such that a player can create a Character or the Storyteller can create an Adventure.
+
+The roleplaying system is generic so it will work with any Setting produced by the worldbuilding framework. The rules are minimal meaning you and your group should be able to create any character imaginable within the setting and start playing very quickly!'
+'
+
+---
+
+What is tabula these days? I think it's probably not going to be a system generator for a while if ever. I think it will be a roleplaying system, if only because I will have default systems picked out.
+
+It will be a setting interface and include at least one worldbuilding framework.
+
+It will discuss types of stories and provide tools for running/making a variety of them.
+
+---
+
+it is worth addressing why there isn't a monster manual at least. yes. more generally explain what a generic roleplaying system is.

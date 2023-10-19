@@ -1,0 +1,3 @@
+I am defining a rules document. What players decide to do with those rules is up to them. I will not write anything telling people how to play the game beyond what they *must* do to follow the rules. A big part of this decision is that in the past I would get caught up with giving tips rather explaining rules, and the tips were changing as I learned so it was hard to maintain.
+
+This decision supports the pillars of being [[Empowering]] and [[Maintainable]].

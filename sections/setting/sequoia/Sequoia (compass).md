@@ -6,7 +6,7 @@ The world is filled with packed dirt.
 Pine needles filled with amber large enough to impale a house fall from the sky outside [[Sunspots]].
 The rolling stone/metal(hard) roots of the tree form mountain ranges and interesting topography.
 There is abundant stagnant water that freeezes outside of sunspots.
-[[problems]] I want to talk about the mushroom forests and the darkness and the vampires here but those should go in the flora and fauna sections and the cosmology sections because the are so tightly coupled.
+[[Problem]] I want to talk about the mushroom forests and the darkness and the vampires here but those should go in the flora and fauna sections and the cosmology sections because the are so tightly coupled.
 Its hella hot in sunspots and hella cold outside of them.
 There are giant glaciers that can form interesting landmasses and push ice/water closer to civilizations.
 ## Climate and weather

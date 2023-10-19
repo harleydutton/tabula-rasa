@@ -1,5 +1,0 @@
-- Hidden Information
-	- rename unsuspicious to oblivious
-	- rename undetected to hidden
-	- say somewhere that moving in stealth requires stealth rolls
-	- I should make it clear that undetectable is not a state but rather a difficulty modifier in this system. context: invisible rogue and guard who may or may not have true sight.

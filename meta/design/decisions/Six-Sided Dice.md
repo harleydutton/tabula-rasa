@@ -1,0 +1,3 @@
+This system will use six-sided dice because they are the most common of the dice. They can be stolen from poker sets and old board games which most people have. Furthermore they can be cheaply bought in bulk--not that the dice goblins care.
+
+This decision supports the pillar of being [[Accessible]].

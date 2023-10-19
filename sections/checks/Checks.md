@@ -12,7 +12,7 @@ When conflict occurs during roleplaying, most of the time, the fairest way to re
 
 If Sam wants to stab a goblin and sam has a fencing skill of 5, Sam would say "I want to skewer the goblin through the heart with my rapier!". The storyteller tells him "that will be hard" which means the target number is 6. If any one of Sam's 5 dice come up as a 6, Sam kills the goblin.
 
-[[problems]] there was an image here. probably an example. maybe this?
+[[Problem]] there was an image here. probably an example. maybe this?
 ![[checkFlowchart.jpg]]
 
 ---

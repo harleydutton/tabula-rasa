@@ -11,7 +11,7 @@ Items are a type of flavor that can be bought using money. When tracking them on
 
 Items are a character's material posessions. Items are represented on a character sheet as a list of short, descriptive names with quantity where appliccable.
 
-[[problems]] where do I talk about the store?
+[[Problem]] where do I talk about the store?
 
 ---
 

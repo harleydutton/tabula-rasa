@@ -1,0 +1,1 @@
+- Note names should be in title case.

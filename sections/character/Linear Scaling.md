@@ -1,0 +1,1 @@
+Linear scaling is simple. Each point costs one [[Character Points]]
