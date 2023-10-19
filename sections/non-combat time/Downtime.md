@@ -3,4 +3,4 @@ Downtime is the time between adventures when the characters go about a more regu
 - physical wounds heal
 - mental wounds heal
 - currency refreshes
-- [[Problem]] use backlinks to find other effects
+- use backlinks to find other effects

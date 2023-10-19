@@ -1,3 +1,5 @@
-"Mother may I?" is a useful shorthand for a [[Problem]] I am trying to avoid.
+"Mother may I?" is a useful shorthand for a problem I am trying to avoid with regards to **skill creation** and ~~actions~~.
 
-mother may I" is a useful shorthand for the idea I am trying to avoid with  regards to players creating skills (have the storyteller inform on boundaries ahead of time with limits in the setting doc) and when making skill checks (using possibly unrelated skills, attempting to do truly outlandish things
+**When players are creating skills (and flavor), they should know the bounds they are constrained by. This should be the limits in the setting document. They should largely be able to answer the question of "is this skill okay" by themselves, though of course the storyteller will oversee anyway.**
+
+~~The summary of checks within this system is that players can ask to use a skill to perform an action, the storyteller sets a difficulty, and then people roll dice. The problem here is that anytime a player wants to do something (action) they are asking the storyteller if they can use a specific skill for that task. I think this is more okay than the prior issue with skill creation. I have played plenty of games that were like this and it has never been a problem. It will be less of an issue in this game because of the [[Catch-All Skills]]~~

@@ -6,4 +6,4 @@ In Sequoia, the included setting,  there are two popular currencies. Amber is c
 
 Currency is a generic name for whatever the money in the [[sections/setting/Setting]] is called. That said, it will  always spend the same and one unit of currency can pay for one "cheap" item.
 
-[[Problem]] where should I talk about boons?
+where should I talk about boons? Boons would get you wealth slots for expensive items rather than cheap items.

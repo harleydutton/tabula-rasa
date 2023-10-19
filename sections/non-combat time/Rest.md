@@ -1,6 +1,7 @@
 Though it does not apply to all, many beings need to rest. Whenever a character rests they lose a point of fatigue.
 
-## Fatigue
-If a character needs rest but goes without it they gain a point of fatigue. Points of fatigue are cumulative. As fatigue increases the character experiences more bad stuff, but what exactly is a [[Problem]] I haven't sorted out yet. Other sources of fatigue may include casting powerful spells or performing strenuous activity while wounded.
 
-[[Healing]] [[Problem]]
+
+----
+From "Healing" which seems synonomous.
+Most characters that heal naturally, do so slowly. To this end, remove all temporary, physical wounds when downtime concludes. Characters with faster healing might remove their wounds after they rest or an even shorter period of time.

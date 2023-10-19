@@ -1,4 +1,4 @@
-[[Problem]] what should I do with these? Should they be part of the doc? where? How should they be organized? where should they live?
+what should I do with these? Should they be part of the doc? where? How should they be organized? where should they live? I don't think a glossary is necessary given I will have a ToC, a file browser, and the obsidian style graph. Rejected.
 
 [[organization decisions]] [[naming decisions]] these all have an in-game meaning so I'm not sure if they really count as meta. What's a better word to describe them? 
 
