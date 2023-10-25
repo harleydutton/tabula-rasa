@@ -6,7 +6,7 @@ Character points (CP) are a resource used by players throughout the game to take
 
 ---
 
-The storyteller should be tracking the [[Character Points]] they have distributed to the group on the setting document.
+The storyteller should be tracking the [[Experience]] they have distributed to the group on the setting document.
 
 ---
 

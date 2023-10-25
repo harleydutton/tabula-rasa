@@ -13,7 +13,7 @@ mechanical
 |speed|x|action delay: y|
 |body |x|wound... |
 |||wound...|
-|mind|x|[[Mental Illnesses]]|
+|mind|x|[[Malaise]]|
 |||mental damage...|
 |spirit|x|sin...|
 |||sin...|
