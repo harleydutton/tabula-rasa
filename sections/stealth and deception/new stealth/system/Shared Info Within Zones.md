@@ -1,0 +1,1 @@
+If one guard in a zone sees a sneak, all guards in that zone are aware of the sneak due to talking being a free action. This effectively means you only have to track the zone's level of alertness rather than all the individual guards.

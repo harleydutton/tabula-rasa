@@ -1,0 +1,1 @@
+You get to take the first move in a fight! You start at initiative 0, 1d6, or [[Speed]] rather than xd6+speed like normal.
