@@ -1,0 +1,1 @@
+This is when the [[Sneak]] has failed the stealth part of their check. they can be detected in this state.

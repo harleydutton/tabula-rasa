@@ -5,3 +5,7 @@ Hidden information in roleplaying games can range from lying, to sneaking up on 
 Tabula Rasa treats all of stealth, mind-reading, lies, plots, locks, lying, etc. as essentially the same thing: secrets. A secret is a piece of information at least one [[big Character master copy|character]] is trying to keep hidden from other characters.
 
 Uses the name "Secrets" rather than "Hidden Information" or "Stealth and Lying"
+
+----
+
+the idea is sound but this is poorly written and should go in the trash where it belongs. rejected.

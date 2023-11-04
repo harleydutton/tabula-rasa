@@ -1,0 +1,1 @@
+This is the guard/zone state for having detected a sneak

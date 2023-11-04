@@ -1,0 +1,1 @@
+One of the benefits of keeping your location secret in a fight is that it's much harder for enemies to attack you if they don't know precisely where you are.

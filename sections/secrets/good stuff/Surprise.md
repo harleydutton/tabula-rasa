@@ -7,3 +7,8 @@ This is a relevant stealth state for combat stuff. I think the guards would need
 ---
 
 Attempting to enter stealth from a chase or combat costs an action, a stealth check, and somewhere to hide.
+
+
+---
+
+You get to take the first move in a fight! You start at initiative 0, 1d6, or [[Speed]] rather than xd6+speed like normal.

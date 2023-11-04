@@ -1,1 +1,0 @@
-Undetectable is not a state but rather a difficulty modifier in this system. If you can't see invisible dudes, you have absolutely no hope of noticing an invisible guy robbing your convenience store.

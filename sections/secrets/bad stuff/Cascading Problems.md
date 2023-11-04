@@ -1,0 +1,1 @@
+Getting caught doing something you shouldn't causes problems. The problems that come from getting caught doing things you shouldn't also cause problems. And so on. Maybe these problems don't cause you any pain immediately but they will eventually. More importantly, they will build upon themselves.
