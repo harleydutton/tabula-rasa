@@ -1,1 +1,0 @@
-stealth is it's own reward. you didn't get caught doing something you shouldn't have been doing. good job.

@@ -1,1 +1,1 @@
-This is the guard/zone state for having detected a sneak
+This is the [[Observer]] state for having [[Detected]] a [[Sneak]].

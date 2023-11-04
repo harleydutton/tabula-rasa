@@ -1,1 +1,0 @@
-Sneaks are simpler than guards. They only have two states: Hidden and not-hidden. Notably, not-hidden isn't "seen/caught", it just means that they could be as per [[If a Tree Falls]]

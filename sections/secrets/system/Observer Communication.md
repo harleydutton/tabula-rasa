@@ -1,0 +1,1 @@
+If an [[Observer]] is [[Aware]] of or [[Suspicious]] of a [[Sneak]], they can make any other **Observers** in the [[Zone]] **Suspicious** of that **Sneak** because communicating is a [[Free Action]].
