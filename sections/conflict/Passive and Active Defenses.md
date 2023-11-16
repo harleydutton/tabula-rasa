@@ -15,9 +15,9 @@ The previous thought for armor and weapons, was that they would collectively mod
 
 ---
 
-Numeric active defenses make sense. These are skills. These are things you can DO. I use my swordfighting skill to parry the incoming attack.
+**Numeric active defenses make sense. These are skills. These are things you can DO. I use my swordfighting skill to parry the incoming attack.**
 
-Passive defenses would be things like armor, things that you are. They would be flavor. It is hard to hit me with a sword because I am wearing plate mail.
+**Passive defenses would be things like armor, things that you are. They would be flavor. It is hard to hit me with a sword because I am wearing plate mail.**
 
 It doesn't make sense for passive defenses to be numeric because there is no defined way to interact with the numeric parts of the system without making a check and all checks require actions.
 

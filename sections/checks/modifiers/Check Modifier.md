@@ -1,4 +1,4 @@
-Checks are made such that one success is a partial success and two is a full success. The idea here is that players choose one or more modifiers, each making the check harder, and if they get a full success, they happen. Otherwise, the attack happens but the modifiers do not.
+Checks are made such that one success is a partial success and two is a full success. The idea here is that players choose one or more modifiers, each making the check harder, and if they get a full success, they happen. Otherwise, the attack happens but the modifiers do not. Whenever you are taking a modified action you are also using your [[Supporting Action]].
 
 ---
 
