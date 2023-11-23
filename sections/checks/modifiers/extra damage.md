@@ -13,4 +13,4 @@ This is the modifier promised by [[size differential damage]]. the attacker deal
 
 Perhaps all damage should be from modifiers.
 
-Rather than modifiers, whenever you roll a check you can specify two effects. For attacks, usually one or both of these would be damage.
+Rather than modifiers, whenever you roll a check you can specify two effects. For attacks, usually one or both of these would be damage. that would make this a [[Check Modifier]]
