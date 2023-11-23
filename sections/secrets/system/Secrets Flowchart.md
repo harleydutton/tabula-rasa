@@ -12,4 +12,4 @@ see [[Outcome]] for info on failure and partial/perfect successes.
 
 ---
 
-I'm not sure if I want to use the sneaky check mod system or the main/supporting actions system.
+I'm not sure if I want to use the sneaky check mod system or the main/supporting actions system. they are almost the same system. what if i say anytime you want a check modifier, it would use your supporting action?
