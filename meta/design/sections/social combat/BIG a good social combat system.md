@@ -8,6 +8,8 @@
 perhaps, social health is hits you have taken to your reputation in an engagement. if you push harder than you should you start collecting wounds sort of thing. breaking social decorum is the main one.
 
 social health:
+- but what about persuasion/mind control?
+	- posessing/convincing should be a simple opposed roll I think
 - social damage is super localized
 	- leaving the area makes the damage not count against your total
 	- doing stuff to fix your bad rep can fix it
