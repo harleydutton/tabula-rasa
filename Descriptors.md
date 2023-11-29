@@ -1,0 +1,1 @@
+This is one of the three new types of [[Flavor]] per the [[New Flavor Plan]]. Presumably it should go live in the character (creation) family of sections because it doesn't specifically interact with any other subsystems.

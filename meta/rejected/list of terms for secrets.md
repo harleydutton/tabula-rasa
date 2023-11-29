@@ -25,3 +25,7 @@ h: hidden and caught
 ---
 
 These musing's are prioritizing realism more than they probably should. I think I need to make sure the system plays fast, whatever it is as per [[Abstractions Over Realism]]
+
+---
+
+these have already been listed elsewhere, rejected.
