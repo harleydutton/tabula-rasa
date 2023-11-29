@@ -1,3 +1,7 @@
+---
+aliases:
+  - Unplayable
+---
 A character becomes unplayable in some way after they accumulate more:
 - [[Wounds]] than [[Body]]
 - [[Curses]] than [[Spirit]]

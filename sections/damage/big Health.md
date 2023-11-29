@@ -5,12 +5,12 @@ There are going to be a couple different systems for handling "health", "damage"
 ## Physical
 This one is the most straight-forward.
 
-Whenever a character takes damage, they receive a [[Wound]] [[sections/flavor/Flavor]]. 
+Whenever a character takes damage, they receive a [[Wounds]] [[sections/flavor/Flavor]]. 
 [[Character 1|Characters]] can have as many [[Wound|wounds]] as they have points in [[Body 1|body]] before falling [[Unconsious]].
-Characters with more wounds than body [[Unplayable|die]].
+Characters with more wounds than body [[Death|die]].
 Characters with at least one wound and one fewer wound than body are considered `bloodied`.
 Players can ask the [[Storyteller]] if character's are `bloodied`.
-The storyteller decides what happens to [[Unconsious]]. [[Unplayable]] is an option.
+The storyteller decides what happens to [[Unconsious]]. [[Death]] is an option.
 Heal wounds as would be appropriate.
 
 

@@ -1,7 +1,7 @@
 - [[Timing]]
 - [[Conflict]]
 - [[Downtime]]
-- [[Damage]] -- naturally includes rest and fatigue
+- [[damage flavor]] -- naturally includes rest and fatigue
 - [[Actions]]
 - [[Distance]] -- travel and in-combat movement
 - [[Secrets]] -- stealth and lying

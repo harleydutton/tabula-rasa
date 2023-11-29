@@ -38,3 +38,10 @@ Examples: These are some examples of flavor. Some are normal, some are special, 
 Flavor == adjectives and nouns?
 skill == verbs?
 flavor cannot point to a specific [[Skill]]. If a flavor boils down to "+1 to a [[Skill]]" or "X [[Skill]] is easy for me" it isn't really flavor. Instead it should have many ups and downs and they should be situational.
+
+---
+
+[[New Flavor Plan]]:
+- things you are = [[Backgrounds]]
+- things you have = [[Items]]
+- things you are affected by = [[Statuses]]
