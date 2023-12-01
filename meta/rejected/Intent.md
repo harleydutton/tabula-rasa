@@ -4,3 +4,7 @@ It isn't intended to be fair, realistic, or deep. It is intended to be dramatic 
 
 The intent is to make it hard to kill named characters before their defences have been lowered. Once the boss robot's force field has been shorted out with a bucket of water then can be dealt some form of the `dying` flavor at normal difficulty and finished off as an action or once combat ends. 
 <!-- this should be a BRIEF description of combat and a more lengthy description of why it is necessary -->
+
+---
+
+this is design. it is also design I have moved away from in a couple different ways. rejected.

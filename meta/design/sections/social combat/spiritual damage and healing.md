@@ -8,5 +8,3 @@ spiritual health:
 	- you must sacrifice something
 	- you have to figure out how to talk to your higher power and get a pardon
 - consequences
-	- spooky shit and warnings at 0, maybe mental or physical chip damage
-	- [[Cascading Problems]] leading to death or crazyness via the supernatural. the character should be unplayable (soon) at -1

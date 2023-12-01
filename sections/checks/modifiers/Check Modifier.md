@@ -3,3 +3,7 @@ Checks are made such that one success is a partial success and two is a full suc
 ---
 
 	- probably need a more generic attack modifiers list. also something that will work in mental or [[Presence]] combat. I.e. Making an attack hard to evade is difficulty hard. Other mods include multitarget, lethal, feint, etc.
+
+---
+
+I think I'm scrapping this system in favor of the [[Supporting Action]] system. rejecting as soon as I iron this all out.

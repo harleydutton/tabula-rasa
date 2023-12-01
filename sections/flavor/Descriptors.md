@@ -1,3 +1,16 @@
+---
+aliases:
+  - Descriptor
+---
+Descriptors are just a couple English words that describe one of the in game concepts below:
+- [[Items]], which are things you have
+- [[Backgrounds]], which are things you are and things you know perfectly
+- [[Statuses]], which are things that affect you in a temporary fashion
+
+Descriptors are usually put on lists on your character sheet and represent everything about your character that isn't purely mechanical.
+
+---
+
 [[Wealth]] -> Items handles the things a character has. These are still flavor?
 [[big Skills]] handle the things a character can do.
 Flavor handles the things a character is.

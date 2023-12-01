@@ -13,3 +13,7 @@ A guard has obvious reasons to not tell you about the secret entrance and should
 ---
 
 Mental influence is almost always resisted. When the **salesman** uses `mind control` and tells the **mark** "Give me your wallet.", the **mark** probably doesn't have a relevant motivation to influence their resistance roll but will definitely want to resist. Usually the **mark** resists by rolling a check with the `mind` attribute or a relevant skill. Typically this check goes unmodified unless magic items or flavor are involved.
+
+---
+
+this is just going to be an opposed check. rejected.

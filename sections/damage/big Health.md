@@ -5,7 +5,7 @@ There are going to be a couple different systems for handling "health", "damage"
 ## Physical
 This one is the most straight-forward.
 
-Whenever a character takes damage, they receive a [[Wounds]] [[sections/flavor/Flavor]]. 
+Whenever a character takes damage, they receive a [[Wounds]] [[Descriptors]]. 
 [[Character 1|Characters]] can have as many [[Wound|wounds]] as they have points in [[Body 1|body]] before falling [[Unconsious]].
 Characters with more wounds than body [[Death|die]].
 Characters with at least one wound and one fewer wound than body are considered `bloodied`.

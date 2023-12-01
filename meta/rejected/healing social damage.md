@@ -18,3 +18,7 @@ social health:
 			- perfect success clears up bad rep
 			- partial success grudge by individual
 			- failure still have bad rep with group
+
+---
+
+This is the resultant system of the [[GTA Wanted Meter]] decision and it is written more articulately in [[Reputation]]. rejected.

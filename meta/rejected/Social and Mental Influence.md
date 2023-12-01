@@ -17,3 +17,7 @@ you can only defend if you know you are being attacked. if we have attributes al
 ---
 
 this is a good time to mention that when you try to convince a character of something they dont _have_ to be convinced. instead they can thing about it a bit and roll some relevant "resist persuasion" rolls which probably uses __willpower__.
+
+---
+
+this is just going to be an opposed check. rejected.

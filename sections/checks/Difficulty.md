@@ -29,3 +29,7 @@ The storyteller can assign five different difficulties to actions for checks: Tr
 |moderate|5|
 |hard|6|
 |impossible|auto fail|
+
+---
+
+the storyteller sets the difficulty based on all the advantages and disadvantages that are brought up. however many pieces of flavor you have all get accounted for at the same time. you can only stack flavor if your storyteller says you can in the moment.

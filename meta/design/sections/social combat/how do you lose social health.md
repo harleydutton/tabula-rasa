@@ -1,1 +1,0 @@
-by getting caught doing things you shouldn't
