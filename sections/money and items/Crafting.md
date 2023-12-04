@@ -6,7 +6,7 @@ previously i advocated for magnitude of success. this was likely due to "the cra
 I have though of an alternative to this (crappy) solution to "the crafting problem". Instead of determining the quality of the sword after it is done decide on the quality before the roll is made, apply an equivalently sized bonus or penalty and then make the roll. after that it is simple success/failure. the dm can determine if what is created is anything other than garbage upon failure.
 It is worth noting that the crafting problem goes away when you remove the numeric values from combat.
 
-This is related to [[sections/flavor/Flavor]], [[Wealth]], [[big Hidden Information 1]], [[money 1212121212]], [[Currency]], [[Flavor Aquisition]], [[Comissioning]], [[Buying]], [[Liquid Currency]], [[Selling]], [[Refreshing]], [[Lending]], [[Items]], [[Downtime]], etc.
+This is related to [[Descriptors]], [[Wealth]], [[big Hidden Information 1]], [[money 1212121212]], [[Currency]], [[Flavor Aquisition]], [[Comissioning]], [[Buying]], [[Liquid Currency]], [[Selling]], [[Refreshing]], [[Lending]], [[Items]], [[Downtime]], etc.
 
 ---
 

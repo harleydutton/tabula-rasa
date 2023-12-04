@@ -1,0 +1,5 @@
+If a tree falls in the forest does it make a noise? For my purposes, only if there is someone there to hear it.
+
+If a [[Sneak]] fails a [[Secret]] check, and no [[Observer]] detect it, you aren't detected. Failing a [[Secret]] check just puts the ball in the [[Observer|Observer's]] court. Then the observer must make a check to see if they detect the sneak. Effectively this is a system of opposed checks for secrets that triggers when the sneak fails to sneak properly or the observers are on high alert for some other reason.
+
+This decision supports the pillars of being [[Empowering]] and [[Generic]].

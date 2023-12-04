@@ -1,4 +1,4 @@
-these are [[sections/flavor/Flavor]]
+these are [[Descriptors]]
 uses [[Body]] as capacity
 probably touches on [[Rest]]+/[[Healing]]
 

@@ -6,4 +6,8 @@ anyway it looks interesting. I cannot tell if it is for combat or all checks or 
 
 ---
 
-This sounds like it could make for an interesting [[Check Modifier]]
+This sounds like it could make for an interesting [[Check Modifier]].
+
+---
+
+This is implicitly built into the game. Building it into the game explicitly would change the system where the player modifies check pass rate by leveling up and storyteller modifies it with difficulty. rejected.

@@ -1,3 +1,9 @@
+---
+aliases:
+  - Check
+---
+
+
 When conflict occurs during roleplaying the fairest way to resolve it most times is by rolling a skill-check. A skill-check is where one of a character's skills is tested against some number of dice which represent the difficulty of the task. If the character's skill is greater than or equal to the sum of the dice then the character passes the skill-check. Usually this will also mean that whatever the character was attmepting to accomplish succeeds. If the dice are greater than the character's skill level the action fails and something bad might happen. The number of dice depends on the difficulty of the task. Flavor can influence difficulty.
 
 ---
@@ -12,7 +18,7 @@ When conflict occurs during roleplaying, most of the time, the fairest way to re
 
 If Sam wants to stab a goblin and sam has a fencing skill of 5, Sam would say "I want to skewer the goblin through the heart with my rapier!". The storyteller tells him "that will be hard" which means the target number is 6. If any one of Sam's 5 dice come up as a 6, Sam kills the goblin.
 
-[[Problem]] there was an image here. probably an example. maybe this?
+there was an image here. probably an example. maybe this? this image sucks
 ![[checkFlowchart.jpg]]
 
 ---

@@ -22,9 +22,7 @@ The attributes are [[Body]], [[Mind]], [[Spirit]], [[Presence]], [[Wealth]], and
 
 ---
 
-what if they were physical, mental, supernatural, and social rather than mind, body, spirit, and presense? this is less quippy but more descriptive.
-
----
-
-## Mandatory skills i.e. Attributes -- the idea that every character should be able to attempt any check
-All characters should have the ability to attack, defend, move, hide, see, lie, detect lies, persuade, resist persuasion and much more.
+The attributes are [[Mind]], [[Body]], [[Spirit]], and [[Presence]].
+Attributes scale quadratically:
+![[Quadratic Scaling]]
+The first level of each attribute is free.

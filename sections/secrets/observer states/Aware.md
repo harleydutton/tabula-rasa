@@ -1,0 +1,1 @@
+This is the [[Observer]] state for having [[Detected]] a [[Sneak]].

@@ -18,3 +18,8 @@ Skills are the most mechanical part of a character. They represent the things yo
 
 Second, your character needs [skills](#skills). Skills are used to roll checks which is how a character interacts with the game world. Skills are usually self-descriptively named and have levels. The higher level the skill the better at it a character is.
 There are two kinds of skills. Mandatory skills and the normal kind. 
+
+---
+
+Skills scale linearly:
+![[Linear Scaling]]
