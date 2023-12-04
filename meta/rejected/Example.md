@@ -1,3 +1,0 @@
-For example lets say John NPC character wants to do a backflip. The first thing John will do is look for a relevant skill on his character sheet. `Acrobatics`, `athletics`, `dexterity`, `phisique` or anything similar will work for this check. Lets say John has an `acrobatics` score of 11. Lets also say John has the flavor `leg wound` from a fight he got into recently. This would make the check hard, so john would be rolling 3d6 against his 11 in `acrobatics`. Lets say John gets a sum of 10 on the dice. This means John was able to successfully do a backflip despite his `leg wound`.
-
-the fuck is this for, some 3d6 system? rejected.

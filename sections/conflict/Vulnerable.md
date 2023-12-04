@@ -6,4 +6,4 @@ if I make [[Statuses]] this might be one
 
 ---
 
-with how I have changed damage, wounds, health, and death this no longer holds any relevance. rejected.
+with how I have changed damage, wounds, health, and death this no longer seems necessary but it should be evaluated further
