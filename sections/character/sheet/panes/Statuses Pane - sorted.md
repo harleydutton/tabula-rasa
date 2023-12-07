@@ -3,7 +3,7 @@
 	- qwer
 	- qwer
 - [[Wounds]]
-	- qqwer
+	- qwer
 	- qwer
 	- qwer
 - [[Curses]]

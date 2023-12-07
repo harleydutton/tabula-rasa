@@ -1,3 +1,3 @@
-|[[Character]]|[[Player]]|
+|[[Character]]|trogdor, the burninator|
 |-|-|
-|bob|harley|
+|[[Player]]|harley|
