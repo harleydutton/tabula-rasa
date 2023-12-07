@@ -1,1 +1,1 @@
-The person telling the [[Story|story]] the [[Character 1|characters]] exist in that the [[sections/meta definitions/Player|players]] engage with.
+The person telling the [[Story|story]] the [[Character|Characters]] exist in that the [[sections/meta definitions/Player|players]] engage with.

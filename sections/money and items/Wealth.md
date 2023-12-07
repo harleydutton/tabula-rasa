@@ -1,6 +1,6 @@
 Wealth is guaranteed stat like speed and attributes that represents a character's money and items.
 
-At [[Downtime]], the sum of a [[Character 1]]s [[Currency]], [[Assets]], and [[Expenses]] will trend back towards their wealth. 
+At [[Downtime]], the sum of a [[Character|Characters]] [[Currency]], [[Assets]], and [[Expenses]] will trend back towards their wealth. 
 
 A character's method of currency [[Income]] is a big part of what their wealth is or the shape it takes. I'm not sure if I want wealth to be a number or a bunch of flavor yet. It needs to be used as a number. It probably makes the most sense to just have it be a number.
 
@@ -17,6 +17,6 @@ Setting specific currency is currency is money. Should I remove one of money/cur
 
 ---
 
-In Tabula, money is very abstract to avoid tedium and allow each setting to have its own currency. Wealth is [[big Character master copy]] stat representing the total material posessions and liquid currency a character *should* posess.
+In Tabula, money is very abstract to avoid tedium and allow each setting to have its own currency. Wealth is [[Character|Characters]] stat representing the total material posessions and liquid currency a character *should* posess.
 
 problem what if there isn't a currenncy? Then this system works fine because cheap == cheap. This isn't a problem. barter obviously becomes a thing but the *should* part of wealth breaks down. I'm going to say the character acquires flavor the storyteller deems reasonable based on their character's gethering skills or something like that. Maybe they deal in favors, idk. Yeah, this solution seems fine. Rich cavemen have extra sticks and rocks

@@ -1,0 +1,3 @@
+|[[Character]]|[[Player]]|
+|-|-|
+|bob|harley|

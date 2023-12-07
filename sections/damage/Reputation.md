@@ -1,5 +1,9 @@
+---
+aliases:
+  - Reputations
+---
 What is it:
-reputation is what it sounds like. mechanically it is [[Descriptors]], usually [[Statuses]], sometimes [[Backgrounds]].
+reputation is what it sounds like. mechanically it is [[Descriptors]], usually [[sections/conflict/Statuses]], sometimes [[Background]].
 
 getting it:
 - you get bad rep by being a naughty, naughty boy and getting caught.

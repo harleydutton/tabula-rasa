@@ -6,7 +6,7 @@ There are going to be a couple different systems for handling "health", "damage"
 This one is the most straight-forward.
 
 Whenever a character takes damage, they receive a [[Wounds]] [[Descriptors]]. 
-[[Character 1|Characters]] can have as many [[Wound|wounds]] as they have points in [[Body 1|body]] before falling [[Unconsious]].
+[[Character|Characters]] can have as many [[Wounds]] as they have points in [[Body 1|body]] before falling [[Unconsious]].
 Characters with more wounds than body [[Death|die]].
 Characters with at least one wound and one fewer wound than body are considered `bloodied`.
 Players can ask the [[Storyteller]] if character's are `bloodied`.
@@ -27,7 +27,7 @@ Healing mental wounds can be way more difficult. Doors of sleep, forgetting, mad
 The social variation of this system uses the [[Social 1]] [[Attribute]].
 This is intended to represent social standing or reputation.
 Death is inteneded to be you getting run out of town.
-A social wound is having a (few) [[Character 1|character(s)]] turn against you. 
+A social wound is having a (few) [[Character|Characters]] turn against you. 
 A social incapacitation would be getting kicked out of an important organization.
 A social death would be to have this social malize begin spreading to your other social circles or resulting in consequences like mob lynching or assassins.
 Healing social problems requires roleplaying.

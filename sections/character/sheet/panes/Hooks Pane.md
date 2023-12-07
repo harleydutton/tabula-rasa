@@ -1,0 +1,3 @@
+- [[Hooks]]
+	- dead family
+	- amnesia

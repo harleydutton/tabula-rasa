@@ -1,0 +1,16 @@
+- [[Malaise|Malaises]]
+	- qwer
+	- qwer
+	- qwer
+- [[Wounds]]
+	- qqwer
+	- qwer
+	- qwer
+- [[Curses]]
+	- qwer
+	- qwer
+	- qwer
+- [[Reputation|Reputations]]
+	- qwer
+	- qwer
+	- qwer
