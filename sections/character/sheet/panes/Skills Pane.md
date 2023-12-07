@@ -5,5 +5,3 @@
 |asdf|3|
 |asdf|4|
 |asdf|5|
-|asdf|6|
-|asdf|7|

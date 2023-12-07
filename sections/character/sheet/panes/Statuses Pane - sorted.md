@@ -1,7 +1,5 @@
 - [[Malaise|Malaises]]
 	- qwer
-	- qwer
-	- qwer
 - [[Wounds]]
 	- qwer
 	- qwer
@@ -9,8 +7,6 @@
 - [[Curses]]
 	- qwer
 	- qwer
-	- qwer
 - [[Reputation|Reputations]]
 	- qwer
-	- qwer
-	- qwer
+
