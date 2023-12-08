@@ -10,4 +10,3 @@ After pruning this list down I think I do want to create most of these files. Si
 
 empty files:
 - [[sections/storyteller/Setting Creation.md]]
-- [[sections/secrets/terms/Observer.md]]

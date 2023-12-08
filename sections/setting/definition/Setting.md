@@ -11,4 +11,4 @@ A Setting is a template for worldbuilding. It includes a description of the worl
 
 ---
 
-The purpose of a setting is to introduce the [[World|world]] to the [[sections/meta definitions/Player|players]] such that they can create [[Character|Characters]]. To this end some parts are required and some are optional.
+The purpose of a setting is to introduce the [[World|world]] to the [[Player|players]] such that they can create [[Character|Characters]]. To this end some parts are required and some are optional.
