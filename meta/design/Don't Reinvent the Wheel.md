@@ -1,3 +1,0 @@
-There are plenty of terms from nerd culture I can leverage to make this system easier to understand. I will still need to define all of them to make sure the system stays [[Accessible]] but this should also make it much [[Simple]]r for the hardstuck nerds in the audience.
-
-rewrite this...

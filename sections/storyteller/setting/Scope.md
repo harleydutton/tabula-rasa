@@ -2,4 +2,4 @@ A common problem with [[Skill]] is that I have a hard time defining how big they
 
 I think presenty I want to say that skills must take the lowest possible scope available to accoplish the thing. Sailing would be a problematic exception though.
 
-![[ethan comment]]
+![[Background Creation Negotiation]]

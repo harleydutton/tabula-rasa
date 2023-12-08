@@ -2,4 +2,4 @@ At character creation you may have noticed that there is no way to modify action
 
 ---
 
-I think this is largely describing [[Background]]. Rejected.
+I think this is largely describing [[Background]]. [[Rejected]].

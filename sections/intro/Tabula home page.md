@@ -1,6 +1,6 @@
 [[Introduction]] ~~Consider linking to the design pages here or detailing their contents~~
 
-Direct [[sections/meta definitions/Player]] to [[New Character]]
+Direct [[sections/meta definitions/Player]] to [[Character Creation]]
 Direct [[Storyteller]] to [[Setting Creation]], [[storybuilding framework]], and [[worldbuilding framework]]
 
 ---

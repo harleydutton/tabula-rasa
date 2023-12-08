@@ -2,10 +2,9 @@
 aliases:
   - Skills
 ---
-
 Each character has a list of skills representing the actions they can take in the story. Skills do have to be things that a character can _do_ which also means they have to be able to fail as well. Characters may take levels in any skills listed on the setting document unless it wouldn't make sense for them to do so. Skills can be rare or common like `surgery` and `driving` are in modern times or more outlandish like `necromancy`.
 
-Each character has a list of skills representing the actions they can take in the story. Skills do have to be things that a character can _do_ [[which also means they have to be able to fail as well]]. Skills can be either mandatory or available. All characters must have at least one level in all mandatory skills. Otherwise characters may take levels in available skills unless it doesn't make sense.
+Each character has a list of skills representing the actions they can take in the story. Skills do have to be things that a character can _do_ which also means they have to be able to fail as well. Skills can be either mandatory or available. All characters must have at least one level in all mandatory skills. Otherwise characters may take levels in available skills unless it doesn't make sense.
 
 Each character has a list of skills representing the actions they can take in the story. Skills do have to be things that a character can _do_ which also means they have to be able to fail as well. Skills can be either mandatory or available. All characters must have at least one level in all mandatory skills. Otherwise characters may take levels in available skills unless it doesn't make sense.
 
@@ -27,3 +26,11 @@ There are two kinds of skills. Mandatory skills and the normal kind.
 
 Skills scale linearly:
 ![[Linear Scaling]]
+
+SKILLS HAVE TO BE FALLABLE. If it's 100% chance to pass then it is knowledge background
+
+---
+
+Skills represent things a character can do. Each character within a setting has access to the s same set of skills. Any character can learn these skills with storyteller approval either at character creation or during the story. Players are encouraged to suggest additions to the list of skills on the setting. A few examples of skills are sword-fighting, necromancy, seduction, and piloting. Skills can be purchased with CP at character creation and during the story by any character. Characters do not need to have every skill.
+
+Available skills can be purchased with CP at character creation and during the story by any character. Characters do not need to have every available skill.

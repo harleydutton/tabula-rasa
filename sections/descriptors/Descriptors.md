@@ -21,7 +21,9 @@ flavor's difficulty modifier can only ever make a roll one step easier.
 
 ---
 
-[[flavor comment]]
+> flavor comment
+> you have not described in any way what the practical benefit of flavors might be. this is particularly a problem in this section because you have described what the /cost/ of a basic flavor is, and what the /cost/ of a  'particularly powerful' flavor might be, but at this point no one has any idea of what the purpose of flavor is supposed to be in the first place. This persists into the boons section.
+> --stefan
 
 Flavor is a mechanic in Tabula used to describe the interesting parts of a character. Almost anything unique that a character _is_ or _has_ is likely to be flavor. Flavor is used primarily for DTMS (does this make sense) checks and modifying the difficulty on checks. Flavor cannot refer to any part of the system, including AD, skills, or attributes. A few examples of flavor might be `armor`, `horse`, `landed noble`, `flaming sword`, `elf`, `big and tall`, etc. for an elvish knight of the summer court. Each piece of flavor should be a short, evocative description.
 

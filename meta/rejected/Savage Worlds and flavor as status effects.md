@@ -19,4 +19,4 @@ think about splitting flavor up into items, traits and statuses. fresh character
 
 ---
 
-This is effectively the same as [[No Generic Check Penalty for Wounds]]. rejected.
+This is effectively the same as [[No Generic Check Penalty for Wounds]]. [[rejected]].

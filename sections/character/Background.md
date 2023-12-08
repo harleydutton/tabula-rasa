@@ -12,6 +12,8 @@ all backgrounds should be listed on the setting doc. will need a backgound creat
 
 A background is something you are or something you know.
 
+Something you know can only be a background if there is no chance of failure for it. If there is a chance at failure then it is a [[Skill]]
+
 	- wizard, vampire, robot, orc, guardsman, and the like
 	- common, elvish, the name of the wind
 

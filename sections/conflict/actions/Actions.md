@@ -12,7 +12,7 @@ This is a list of specific example actions.
 - [[Held Actions]]
 - [[Interactions]]
 - [[Look around]]
-- [[Movement]]
+- [[sections/conflict/actions/subtypes/Movement]]
 - [[Talking]]
 
 ---

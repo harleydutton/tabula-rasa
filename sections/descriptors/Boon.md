@@ -4,7 +4,7 @@ aliases:
 ---
 
 
-**Boons** are the [[extra powerful version of flavor]]. Boons can only be obtained through [[Hooks]]. Boons allow characters to be abnormally large, a powerful non-human, unusually rich or famous, or have a magic skill, or some smart, loyal minions. Boons can also be exchanged for a renewable [major purchase](#major-purchases).
+**Boons** are the extra powerful version of flavor. Boons can only be obtained through [[Hooks]]. Boons allow characters to be abnormally large, a powerful non-human, unusually rich or famous, or have a magic skill, or some smart, loyal minions. Boons can also be exchanged for a renewable [major purchase](#major-purchases).
 
 Boons are the exception to the rules when it comes to flavor and skills. Specifically a boon lets you have a skill or flavor marked as “boon” in the [what is not allowed](#_5nz680a5nyup) section of the setting document. If something there is marked as “boon” your character needs a boon to be or have it. In a world that has none perhaps your character has uncovered the secret to magic or firearms or telecommunication. Boons can only be obtained through hooks and they are usually related. Boons can also be exchanged for a renewable major purchase.
 
