@@ -6,7 +6,7 @@ Basically when a check is rolled and additional d6 is rolled. If this d6 comes u
 
 it's probably easiest to just have the storyteller roll the event die.
 
-effectively speaking, this makes [[Crit success and fail]]'s independent of everything else in the check.
+effectively speaking, this makes Crit success and fail's independent of everything else in the check.
 
 ---
 

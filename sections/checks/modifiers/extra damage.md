@@ -7,10 +7,6 @@ I think a solution to this could be to add an [[Check Modifier]] that gives the 
 
 ---
 
-This is the modifier promised by [[size differential damage]]. the attacker deals an additional flavor of damage.
-
----
-
 Perhaps all damage should be from modifiers.
 
 Rather than modifiers, whenever you roll a check you can specify two effects. For attacks, usually one or both of these would be damage. that would make this a [[Check Modifier]]

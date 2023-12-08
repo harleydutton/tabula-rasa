@@ -3,6 +3,8 @@
 Direct [[sections/meta definitions/Player]] to [[Character Creation]]
 Direct [[Storyteller]] to [[Setting Creation]], [[storybuilding framework]], and [[worldbuilding framework]]
 
+this should contain things l
+
 ---
 
 The tabula home page should have a couple things. It should have a description of the system, directions for how to begin playing, both as a player and a storyteller, and perhaps links to each major section.

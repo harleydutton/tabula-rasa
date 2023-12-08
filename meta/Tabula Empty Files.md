@@ -1,0 +1,4 @@
+- [[sections/secrets/terms/Observer.md]]
+- [[sections/character/sheet/back of sheet/Demeanor.md]]
+- [[sections/character/sheet/back of sheet/Drawing.md]]
+- [[sections/character/sheet/back of sheet/Concept.md]]

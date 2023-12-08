@@ -23,5 +23,5 @@ It doesn't make sense for passive defenses to be numeric because there is no def
 
 It doesn't make sense for active defenses to be anything other than a check. Checks use numbers. Flavor might play a role.
 
-- [[Passive Defences]] should probably live in the [[damage flavor]] section.
-- [[Active Defenses]] should live in the [[Actions]] section of [[Conflict]]
+- [[Passive Defences]] should probably live in the [[Statuses]] or damage section.
+- [[Active Defenses]] should live in the [[Action]] section of [[Conflict]] and have something to do with [[Reaction]]

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Actions
+---
 
 
 This is a list of specific example actions.

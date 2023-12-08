@@ -1,11 +1,10 @@
 - [[Timing]]
 - [[Conflict]]
 - [[Downtime]]
-- [[damage flavor]] -- naturally includes rest and fatigue
-- [[Actions]]
+- [[Statuses]]/[[Wounds]]-- naturally includes rest and fatigue
+- [[Action]]
 - [[Distance]] -- travel and in-combat movement
-- [[Secrets]] -- stealth and lying
-- [[Influence]] -- persuasion and mind control
+- [[Secret|Secrets]]-- stealth and lying
 - [[Wealth]] -- money and items; naturally includes bulk
 - [[Checks]]
 - [[Skill]] -- definition, creation, and progression
