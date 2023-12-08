@@ -1,6 +1,6 @@
 these are [[Descriptors]]
 uses [[Body]] as capacity
-probably touches on [[Rest]]+/[[Healing]]
+probably touches on [[Rest]]
 
 ---
 

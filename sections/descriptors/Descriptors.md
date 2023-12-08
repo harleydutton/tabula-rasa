@@ -57,6 +57,6 @@ flavor cannot point to a specific [[Skill]]. If a flavor boils down to "+1 to a 
 ---
 
 [[Splitting Up 'Flavor']]:
-- things you are = [[sections/descriptors/split/Backgrounds]]
+- things you are = [[Background|Backgrounds]]
 - things you have = [[Items]]
 - things you are affected by = [[sections/conflict/Statuses]]

@@ -29,7 +29,7 @@
 - [[Social Flavor.md]]
 - [[sections/setting/limits/Scope.md]]
 - [[Top Down vs Bottom Up Setting Creation.md]]
-- [[Flavor Acquisition.md]]
+- [[Getting Backgrounds]]
 - [[Bad Flavor.md]]
 - [[Tabula home page.md]]
 - [[Zones 2.md]]

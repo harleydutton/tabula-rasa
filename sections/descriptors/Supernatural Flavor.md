@@ -2,4 +2,4 @@ Supernatural flavor is how one might represent being a priest to a specific god.
 
 ---
 
-this sounds like it is covered by [[sections/descriptors/split/Backgrounds]] and [[sections/conflict/Statuses]]
+this sounds like it is covered by [[Background|Backgrounds]] and [[sections/conflict/Statuses]]

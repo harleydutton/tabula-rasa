@@ -6,7 +6,7 @@ There are going to be a couple different systems for handling "health", "damage"
 This one is the most straight-forward.
 
 Whenever a character takes damage, they receive a [[Wounds]] [[Descriptors]]. 
-[[Character|Characters]] can have as many [[Wounds]] as they have points in [[Body 1|body]] before falling [[Unconsious]].
+[[Character|Characters]] can have as many [[Wounds]] as they have points in [[Body]] before falling [[Unconsious]].
 Characters with more wounds than body [[Death|die]].
 Characters with at least one wound and one fewer wound than body are considered `bloodied`.
 Players can ask the [[Storyteller]] if character's are `bloodied`.
@@ -16,7 +16,7 @@ Heal wounds as would be appropriate.
 
 ## Mental
 This is largely the same system as the physical one.
-Mental health is represented by [[Mind 1]]
+Mental health is represented by [[Mind]]
 The wounds should be mental rather than physical in nature. Psychosis, sleepwalking, paranoia, etc.
 Being incapacitated in this instance just means you lose control of your character. A fight/flight/freeze response is appropriate here.
 Being mentally dead is probably being a vegatable or a gibbering mess or something.
@@ -24,7 +24,7 @@ Healing mental wounds can be way more difficult. Doors of sleep, forgetting, mad
 
 
 ## Reputation
-The social variation of this system uses the [[Social 1]] [[Attribute]].
+The social variation of this system uses the [[Presence]] [[Attribute]].
 This is intended to represent social standing or reputation.
 Death is inteneded to be you getting run out of town.
 A social wound is having a (few) [[Character|Characters]] turn against you. 
@@ -34,7 +34,7 @@ Healing social problems requires roleplaying.
 Reputation is also localized. If you join a new group your reputation might follow you (if you are "socially dead" but you will probably have a clean bill of "social health")
 
 ## Morality
-This uses the [[Spirit 1]] attribute and behaves similarly to the physical health system.
+This uses the [[Spirit]] attribute and behaves similarly to the physical health system.
 Whatever your character believes in, acting against it will cause you spiritual wounds.
 Spiritual wounds must be healed through roleplaying.
 Spiritual incapacitation and death might result in divine wrath and smitings/hauntings or just a mental crisis that results in mental wounds.

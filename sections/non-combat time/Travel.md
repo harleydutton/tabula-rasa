@@ -1,5 +1,5 @@
 This section will detail a system for long distance travel:
-potential new terms: [[Rest]], fatigue, [[load]]
+potential new terms: [[Rest]], fatigue
 Desired outcome of this section is distance traveled per time
 It will be necessary for the storyteller to set a typical travel speed.
 It will be necessary for the storyteller to choose between grid or not.

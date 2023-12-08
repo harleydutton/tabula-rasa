@@ -3,7 +3,7 @@
 This doc does not inform on or dictate the story. The story can take place anywhere in the setting. OOS. Bad/useless question.
 ### What are the topographical features like?
 The world is filled with packed dirt.
-Pine needles filled with amber large enough to impale a house fall from the sky outside [[Sunspots]].
+Pine needles filled with amber large enough to impale a house fall from the sky outside sunspots.
 The rolling stone/metal(hard) roots of the tree form mountain ranges and interesting topography.
 There is abundant stagnant water that freeezes outside of sunspots.
 I want to talk about the mushroom forests and the darkness and the vampires here but those should go in the flora and fauna sections and the cosmology sections because the are so tightly coupled.
@@ -100,7 +100,7 @@ rolling dice lol. maybe life essence, idk.
 what kind of drawback is there?
 none at the time. no limits section. I guess you could say all the amber weapondry and the rare spot of ironwood was pretty antimagic. we never got to mess with that but it was a thing.
 how was magic applied?
-by casting spells. magic could be made permanent by using a shard of [[Ether]] to anchor a spell.
+by casting spells. magic could be made permanent by using a shard of ether to anchor a spell.
 ## history
 how were things before now and how did they get here?
 what historical events still impact daily life?
