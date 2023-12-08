@@ -11,11 +11,11 @@ Descriptors are usually put on lists on your character sheet and represent every
 
 ---
 
-[[Wealth]] -> Items handles the things a character has. These are still flavor?
-[[big Skills]] handle the things a character can do.
-Flavor handles the things a character is.
-[[balance decisions]] flavor is linear (one CP gets you one flavor)
-
+[[Wealth]] -> Items handles the things a character has. These are still descriptor.
+[[big Skills]] handle the things a character can do imperfectly.
+[[Background|Backgrounds]] handles the things a character is or knows. is still descriptor
+descriptors are linear (one CP gets you one flavor)
+[[Statuses]] are descriptors, and "the things that affect a character in a temporary way"
 
 flavor's difficulty modifier can only ever make a roll one step easier.
 

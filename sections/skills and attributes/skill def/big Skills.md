@@ -8,10 +8,8 @@ Consult the [[big Limits|limits]] section of the [[Setting]] and think up a skil
 
 ## Leveling Skills
 Leveling skills can be done any time the character has [[Experience|character points]] to spend. The cost of leveling up a skill follows a geometric sequence such that the first level costs 1 CP, the second level costs 2CP, the third costs 3CP and so on making the cumulative cost of level 3 a total of 6 CP.
-[[design decisions]] should I include the leveling table here? X(X+1)/2 CP
 
-[[balance decisions]] the cost to level skills follows a gemometric sequence. (the CP cost to level is always the same as the resulting level) If leveling up a skill multiple times the level up cost for each intermediary level must be paid.
 
-[[design decisions]] Should I include skill examples? pickpocket, pyromancy, intimidation, stealth, clairvoyance, and blocking are all examples of skills. [[formatting decisions]] if so, how should I format them?
+
 
 ###########################################################

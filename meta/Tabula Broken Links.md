@@ -1,17 +1,23 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
+- [[Unconsious]] in [[sections/damage/big Health]]
+- [[Gathering]] in [[sections/money and items/Item Aquisition]]
+- [[Borrowing]] in [[sections/money and items/Item Aquisition]]
+- [[Push Your Luck]] in [[sections/secrets/bad stuff/Stealth Bad-stuff Meter]]
+- [[Skill Creation]] in [[sections/setting/definition/optional/Content]]
+- [[Item Creation]] in [[sections/setting/definition/optional/Content]]
+- [[Negotiating New Content]] in [[sections/setting/definition/optional/Content]]
+- [[Storyteller Discretion]] in [[sections/setting/limits/Controls]]
+- [[worldbuilding interface]] in [[sections/storyteller/setting/worldbuilding framework]]
 
-- annoying
-	- [[design decisions]] in [[sections/setting/definition/optional/Content]], [[sections/setting/sequoia/Sequoia (grapes)]], [[sections/skills and attributes/skill def/big Skills]], [[sections/skills and attributes/attribute def/Attribute]]
-	- [[organization decisions]] in [[sections/setting/definition/optional/Content]], [[sections/setting/sequoia/Sequoia (grapes)]]
-	- [[naming decisions]] in [[sections/setting/definition/optional/Content]], [[sections/setting/definition/optional/Source Material]], [[sections/setting/sequoia/Sequoia (grapes)]]
-	- [[balance decisions]] in [[sections/skills and attributes/skill def/big Skills]], [[sections/descriptors/Descriptors]], [[sections/skills and attributes/attribute def/Attribute]]
-	- [[formatting decisions]] in [[sections/skills and attributes/skill def/big Skills]]
+----
 
+After pruning this list down I think I do want to create most of these files. Similarly I need to flesh out some of these empty files too.
 
-- thinking about making these
-	- [[Unconsious]] in [[sections/damage/big Health]]
-	- [[Storyteller Discretion]] in [[sections/setting/limits/Controls]]
-	- [[Gathering]] in [[sections/money and items/Item Aquisition]]
-	- [[Borrowing]] in [[sections/money and items/Item Aquisition]]
-	- [[worldbuilding interface]] in [[sections/storyteller/setting/worldbuilding framework]]
-	- [[Push Your Luck]] in [[sections/secrets/bad stuff/Stealth Bad-stuff Meter]]
+empty files:
+- [[sections/storyteller/Setting Creation.md]]
+- [[sections/secrets/terms/Observer.md]]
+- [[sections/damage/Passive Defences.md]]
+- [[sections/conflict/actions/Active Defenses.md]]
+- [[sections/character/sheet/back of sheet/Demeanor.md]]
+- [[sections/character/sheet/back of sheet/Drawing.md]]
+- [[sections/character/sheet/back of sheet/Concept.md]]

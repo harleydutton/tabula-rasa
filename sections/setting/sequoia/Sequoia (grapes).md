@@ -23,5 +23,3 @@ not really. there isn't much competition for the sunbros. the yakbros are just t
 the city is pretty cool I guess.
 there is a big lens of amber for channeling light to melt amber. there is a lighthouse with an amber prisim for sending messages.
 
-
-[[organization decisions]] [[naming decisions]] [[design decisions]] I am coming to the concluison that the actual worldbuilding framework used doesn't matter much. The only part tabula requires is the parts that explicitly interact with it's rules. I think this means everything in the descripions section is optional: History, economy, religion, magic, tech, geography and weather, flora and fauna, cultures, and governments?
