@@ -1,0 +1,1 @@
+Money is the white label version of whatever currency the [[Setting]] uses. One money might be one 10 gold coins, 10,000 imperial credits, or a shard of moon rock depending on the setting. Money can be traded for [[Prices]] [[Items]] at a [[Store]] and counts toward a [[Character|Character's]] [[Wealth]].

@@ -1,1 +1,0 @@
-The typical way characters get items is by buying them. This is done by finding a store that has what you want and trading the relevant purchase for it. The upside of this is that you can get the items you want immediately. The downside is that selection is often limited.

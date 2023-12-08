@@ -1,3 +1,3 @@
-|[[Wealth]]||# of [[Items]]||[[Currency]]|
+|[[Wealth]]||# of [[Items]]||[[Money]]|
 |-|-|-|-|-|
 |3|-|2|=|1|

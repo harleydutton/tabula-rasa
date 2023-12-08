@@ -1,0 +1,4 @@
+---
+aliases:
+  - Negotiate New Content
+---

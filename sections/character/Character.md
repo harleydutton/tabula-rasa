@@ -1,6 +1,7 @@
 ---
 aliases:
   - Characters
+  - Character's
 ---
 A character is an entity within the [[Setting]] and [[Story]]. Characters consist of the following parts:
 - Front of Sheet
