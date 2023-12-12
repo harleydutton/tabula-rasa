@@ -15,4 +15,12 @@ To make a character first read through the setting document your storyteller has
 
 To make a character first read through the setting document your storyteller has provided you with. If they have not done so, bug them about it. You cannot go forward without it.
 
-When you have done this and understand the world you will be playing in, read this section and fill in the character sheet at the end with what you have learned. Ask your storyteller for help with things you do not understand or consult the table of contents.
+When you have done this and understand the world you will be playing in, read this section and fill in the character sheet at the end with what you have learned. 
+
+---
+
+Character creation is simple get the [[Setting Document]], then fill out a [[Character Sheet]] with the following in no particular order:
+- check [[Limits]] and [[New Content Negotiation|Negotiate New Content]]
+- spend [[Experience]] on [[Skill|Skills]] and [[Attribute|Attributes]]
+- create [[Hooks]]
+- take some [[Items]] from the [[Store]]

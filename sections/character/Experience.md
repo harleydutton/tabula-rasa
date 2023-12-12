@@ -2,7 +2,4 @@
 aliases:
   - EXP
 ---
-
-Character points are used to give [[Character]] stats. Character points can be used to level up [[sections/skills and attributes/attribute def/Attribute]] and [[Skill]], learn a new skill, or take new [[Descriptors]].
-
-Character points are used to make a character stronger. They can be used to get new skills and flavor, level up skills, decrease action delay, and acquire minor purchases. The players will start with a number of character points (CP) as determined by the storyteller and noted on the [setting](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.j7bs83i9z31d) document. Additionally, the storyteller will likely give the players additional CP throughout the story to represent character growth.
+Experience is the stuff the [[Storyteller]] gives out that [[Player|Players]] can use to [[Leveling Up|Level Up]] their [[Character|Characters]]. Characters start with an amount of experience determined by the [[Storyteller]]. Check the [[Setting Document]] to see how much.

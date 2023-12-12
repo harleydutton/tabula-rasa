@@ -2,21 +2,17 @@
 aliases:
   - Backgrounds
 ---
-new variety of [[Descriptors]]
+Backgrounds are something a [[Character]] is or something they know. Additionally if a background lets you do something and that action has a chance to fail, that is a [[Skill]], not a background: A fluent French speaker cannot fail to speak French, however a swordsman can absolutely fail to put a sword in somebody.
 
-rename "Traits"?
+Unlike most [[Descriptors]], backgrounds can be a collection of a bunch of different things:
+> - vampire
+> 	- has fangs and drinks blood
+> 	- no pulse and pale skin
+> 	- ignites in sunlight
+> 	- pretty and strong
 
-backgrounds can be large collections of [[Descriptors]] and even modify mechanics as long as they are defined in the setting.
+With this in mind, backgrounds should not be monochromatically good. If you are a sailor and an expert at all things related to boats this should come with explicit trade-offs like not being able to read or missing some limbs. This is the part of backgrounds that usually requires [[New Content Negotiation]], even after looking at the setting's [[Limits]].
 
-all backgrounds should be listed on the setting doc. will need a backgound creation section in the setting section
+Mechanically, like all descriptors, backgrounds will modify the [[Difficulty]] of [[Checks]] to which they apply.
 
-A background is something you are or something you know.
-
-Something you know can only be a background if there is no chance of failure for it. If there is a chance at failure then it is a [[Skill]]
-
-	- wizard, vampire, robot, orc, guardsman, and the like
-	- common, elvish, the name of the wind
-
-I should make a species/classes definition so settings can easily list them.
-
-"collections of flavor" is apt but sounds stupid. IDK what the name should be but the concept is that games will frequently have collections of flavor like "vampire" which means "drinks blood", "dies to sunlight", "pretty", "supernatural healing", and "undead". I need a system for this.
+All backgrounds should be added to the [[Setting Document]] when complete.
