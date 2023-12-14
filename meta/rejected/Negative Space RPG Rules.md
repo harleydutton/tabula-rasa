@@ -5,3 +5,7 @@ An observation as an extension of that critique: consider a view of D&D that vie
 ---
 
 I will agree that I am at least partially leaving things undefined and a lot of how I am having storytellers approach [[Limits]] is through negative space. to this end this system is trying to be that, but mostly for the negotiation of content, not mechanics.
+
+---
+
+I don't think this leads to a design decision. rejected.

@@ -1,0 +1,5 @@
+- hooks
+	- these will be motivations or otherwise (the downsides of backgrounds) to the goal of making it easy for the storyteller to pull a character into the story
+- backgrounds
+	- should come with downsides such that they are balanced
+	- 

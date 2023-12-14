@@ -1,1 +1,0 @@
-I don't seem much point in having [[Boon|Boons]] these days. Originally the plan was for boons to be the incentive for hooks, but that was really just a shitty balancing attempt. These days things are better balanced and I realize I can just say "you must take a couple hooks".
