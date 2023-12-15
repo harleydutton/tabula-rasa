@@ -1,7 +1,7 @@
 - [[Timing]]
 - [[Conflict]]
 - [[Downtime]]
-- [[Statuses]]/[[Wounds]]-- naturally includes rest and fatigue
+- [[Statuses]]/[[Wounds]]
 - [[Action]]
 - [[Distance]] -- travel and in-combat movement
 - [[Secret|Secrets]]-- stealth and lying

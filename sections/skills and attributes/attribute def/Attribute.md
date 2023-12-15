@@ -27,3 +27,7 @@ The attributes are [[Mind]], [[Body]], [[Spirit]], and [[Presence]].
 Attributes scale quadratically:
 ![[Quadratic Scaling]]
 The first level of each attribute is free.
+
+---
+
+[[First Level of All Attributes is Free]]
