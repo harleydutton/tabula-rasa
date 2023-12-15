@@ -13,3 +13,7 @@ You will need a few things:
 [[Getting Started as a Player]]
 
 neither of these work well with the existing wiki/digital garden thing I have going on.
+
+---
+
+Direct [[Storyteller]] to [[Setting Creation]], [[storybuilding framework]], and [[worldbuilding framework]]

@@ -1,5 +1,1 @@
----
-aliases:
-  - Setting Doc
----
 In the same way that [[Character|Character's]] have [[Character Sheet|Character Sheets]] [[Setting|Settings]] have setting documents. This is so there is so the [[Player|Players]] have an easy reference.
