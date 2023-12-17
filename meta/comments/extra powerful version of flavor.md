@@ -1,1 +1,0 @@
-stefan has mentioned this is stupid in some comment somewhere

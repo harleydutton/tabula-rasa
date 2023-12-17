@@ -14,4 +14,4 @@ This is how long your character has to wait to do things in combat or some other
 ||**Default**|**-1 AD**|**-2 AD**|**-3 AD**|**-4 AD**|**-5 AD**|**-X AD**|
 |Cost for -1 AD|0|1 CP|4 CP|9 CP|16 CP|25 CP|X^2 CP|
 |Total cost|0|1 CP|5 CP|14 CP|30 CP|55 CP|...|
-this table is fucked. rotate it, change it from action delay to speed, remove the CP abbreviation, add the leveling formula. some of this might be unnecessary because [[Attribute Progression]] has this.
+this table is fucked. rotate it, change it from action delay to speed, remove the CP abbreviation, add the leveling formula. some of this might be unnecessary because [[Quadratic Scaling]]has this.

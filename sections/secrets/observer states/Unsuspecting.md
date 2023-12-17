@@ -6,7 +6,7 @@ When the thief wants to hide info or change hidden info, if there is a guard who
 
 ---
 
-A character is oblivious when they neither know the secret not know of it's existence. If a [[Conflict|conflict]] begins any oblivious characters will be [[Surprised|surprised]]. Most characters are oblivious of most secrets.
+A character is oblivious when they neither know the secret not know of it's existence. If a [[Conflict|conflict]] begins any oblivious characters will be given some form of penalty like an increase to initiative and or have their actions put on cooldown. Most characters are oblivious of most secrets.
 
 ---
 

@@ -7,4 +7,3 @@ Core
 
 Crits
 [[The Event Die]]
-[[Crit success and fail]]

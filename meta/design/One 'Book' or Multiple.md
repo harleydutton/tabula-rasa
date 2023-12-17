@@ -1,0 +1,1 @@
+Should I have all the necessary stuff (definitions, mechanics, systems) and then a storyteller and possibly player 'book' in addition or should I roll all that into one? Is this distinction meaningful with the online publishing method?

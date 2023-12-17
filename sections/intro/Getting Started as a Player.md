@@ -1,4 +1,3 @@
-to begin playing, you will need a few things:
-- a setting doc from your storyteller
-- a basic understanding of how this system works (checks)
-- to go through character creation
+1. Bug your [[Storyteller]] until they give you a [[Setting Document]]
+2. Read the [[Checks]] section
+3. [[Character Creation|Create A Character]]

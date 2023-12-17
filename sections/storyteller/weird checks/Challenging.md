@@ -10,4 +10,4 @@ When a player disagrees with the difficulty of a check they can challenge the di
 
 ---
 
-This belongs in the storyteller section, it should not be base rules. Instead this should be an option for storytellers who frequently get negative reactions to their difficulty rulings. This is intended as a communication framework, not as a common mechanic or a [[Checks and Balances]].
+This belongs in the storyteller section, it should not be base rules. Instead this should be an option for storytellers who frequently get negative reactions to their difficulty rulings. This is intended as a communication framework, not as a common mechanic or a check on storyteller power.
