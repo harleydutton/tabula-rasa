@@ -1,1 +1,0 @@
-Identification Information is stuff like a [[Character]] name, [[Player]] name, and [[Setting]] name that you put on [[Character Sheet|Character Sheets]] to tell them apart.

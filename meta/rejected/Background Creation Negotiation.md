@@ -8,3 +8,7 @@ Let me take a more constructive approach. I read this political newsletter, Tang
 I think at this point the second paragraph might be useful for [[Background]] creation. Trade-offs were not something that was previously in limits for skills but it makes sense for backgrounds.
 
 This will be codenamed as corrupted mods (like from warframe)
+
+---
+
+made succinct in [[Corrupted Mods]]. rejected.

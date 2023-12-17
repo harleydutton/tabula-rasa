@@ -19,4 +19,4 @@ All backgrounds should be added to the [[Setting Document]] when complete.
 
 ---
 
-backgrounds need to absorb [[Hooks]] (notably [[Motivation|Motivations]]) now per [[No More Hooks or Boons]]
+~~backgrounds need to absorb [[Hooks]] (notably [[Motivation|Motivations]]) now per [[No More Hooks or Boons]]~~

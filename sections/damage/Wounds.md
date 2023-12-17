@@ -1,3 +1,8 @@
+---
+aliases:
+  - Wound
+---
+
 these are [[Descriptors]]
 uses [[Body]] as capacity
 probably touches on [[Rest]]

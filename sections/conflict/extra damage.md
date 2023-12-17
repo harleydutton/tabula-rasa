@@ -14,3 +14,7 @@ Rather than modifiers, whenever you roll a check you can specify two effects. Fo
 --- 
 
 this strikes me as being something players shouldn't have access to but that is fine when the storyteller has it
+
+---
+
+In the same way that any action can be made sneaky via the [[Secret]] system, offensive actions in conflicts can be modified in a few ways. They can be made to apply an extra [[Wounds|Wound]] or similar [[Statuses|Status]], be 

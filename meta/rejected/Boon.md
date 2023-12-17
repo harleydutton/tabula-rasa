@@ -11,3 +11,7 @@ Boons are the exception to the rules when it comes to flavor and skills. Specifi
 ---
 
 Boons, on the other hand, are rewards that are unobtainable except through hooks and roleplaying. Both hooks and boons can be anything but usually end up being flavor. The storyteller must agree to grant you the boon you want or either of the boon and major purchase flavors for the hook you are offering; be reasonable. The flavors boon and major purchase are equal in value and can be converted. Speak with your storyteller to trade these flavors for boons or things from the major purchase column of the setting's store.
+
+---
+
+- If I decide to keep using [[Boon|Boons]] they should be starred on the character sheet--literally draw a star next to them to mark them.

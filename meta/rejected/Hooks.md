@@ -16,3 +16,7 @@ Character hooks, or hooks for short, are a way to get boons and give the storyte
 
 Does This doesn't strictly have to be a [[Motivation]] or interesting [[Background]].
 character motivation is less important than knowing how to engage a player. The player who just wants to hit stuff in combat doesn't really need a motivation, they need stuff to hit. This is the real purpose of [[Hooks]] I think. (Obviously the players that wants an RP in to the game should have that. This is the softest possible shit rules-wise)
+
+---
+
+- tracking number of [[Hooks]] might be interesting. if they are separated out this is done implicitly and I am thinking about removing rewards/incentives for hooks anyway. won't do presently.

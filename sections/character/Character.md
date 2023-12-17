@@ -5,7 +5,7 @@ aliases:
 ---
 A character is an entity within the [[Setting]] and [[Story]]. Mechanically, a character is a collection of the following parts:
 - [[Experience]]
-- [[Identification Information]]
+- [[Identification]]
 - [[Speed]]
 - [[Hooks]]
 - [[Attribute|Attributes]]
