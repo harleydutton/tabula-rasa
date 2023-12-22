@@ -1,6 +1,6 @@
 formerly "Action Delay"
 is an [[Attribute]]; levels exponentially
-The purpose of this stat is [[sections/conflict/timing/Action Delay]], a stat derived from it.
+The purpose of this stat is [[Action Delay]], a stat derived from it.
 
 This is how fast a character is. Making it higer makes the character faster. Speed can be reduced by spending character points. See [combat](https://github.com/harleydutton/Tabula-Rasa/blob/develop/tabula-rasa.md#combat) for an explanation of how action delay works.
 

@@ -2,4 +2,4 @@ This would be an action to cause another character to lose control of their char
 
 ---
 
-I think it makes more sense to have this be a [[Check Modifier]] rather than an [[Action]]. If that's the case it might also make sense to have damage be a [[Check Modifier]]
+I think it makes more sense to have this be a [[Check Modifier]] rather than an [[Actions]]. If that's the case it might also make sense to have damage be a [[Check Modifier]]

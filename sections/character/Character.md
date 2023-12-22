@@ -12,5 +12,5 @@ A character is an entity within the [[Setting]] and [[Story]]. Mechanically, a c
 - [[Statuses]]
 - [[Wealth]]
 - [[Items]]
-- [[Skill|Skills]]
+- [[Skills|Skills]]
 - [[Background|Backgrounds]]

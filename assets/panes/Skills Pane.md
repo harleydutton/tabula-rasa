@@ -1,4 +1,4 @@
-|[[Skill]]|level|
+|[[Skills]]|level|
 |-|-|
 |asdf|1|
 |asdf|2|

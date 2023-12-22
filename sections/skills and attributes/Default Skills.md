@@ -1,0 +1,4 @@
+- Used per [[Catch-All Skills]].
+- [[Mind]], [[Body]], [[Spirit]], [[Presence]]
+- [[Attribute|Attributes]] that can be used like [[Skills|Skills]]
+- level with [[Quadratic Scaling]] because they are [[Attribute|Attributes]]

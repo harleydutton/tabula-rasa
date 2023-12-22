@@ -16,7 +16,7 @@ This is a list of specific example actions.
 - [[Held Actions]]
 - [[Interactions]]
 - [[Look around]]
-- [[sections/conflict/actions/subtypes/Movement]]
+- [[sections/conflict/actions/old/subtypes/Movement]]
 - [[Talking]]
 
 ---
@@ -26,3 +26,10 @@ the actions listed in here aren't amazingly [[Generic]]. They could be made more
 ---
 
 I think all of these can be [[Supporting Action]] too.
+
+---
+
+New list of actions below:
+- [[Main Action]]
+- [[Supporting Action]]
+- [[Reaction]]

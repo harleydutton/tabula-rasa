@@ -8,7 +8,7 @@ Attributes Body, Mind, Spirit and Social. They are similar to skills but have me
 
 ---
 
-attributes: [[Wealth]], [[Speed]], [[Body]], [[Mind]], [[Spirit]], and  [[Presence]]
+
 ### Attributes (section taken from skills)
 
 They are very similar to skills but have meaningful differences. First, every character gets the first level of [[Mind]], [[Body]], [[Spirit]], and [[Presence]] for free. Second, attributes cost significantly more CP to level up than skills do. Third, attributes are broad and if a character does not have an applicable skill they can roll an attribute. For this reason attributes are frequently used as defensive skills and for perception checks. Lastly, attributes represent a character's physical, mental, spiritual, and social health. This is discussed in more depth in the Damage section.
@@ -17,7 +17,7 @@ They are very similar to skills but have meaningful differences. First, every ch
 
 The attributes are [[Mind]], [[Body]], [[Spirit]], [[Presence]] though I think I want to rename the social one. maybe `Communication`, `comms`, `Grace`, or `Graces`?
 
-Attributes are [[Skill]] of the highest [[sections/storyteller/setting/Scope]]
+Attributes are [[Skills]] of the highest [[sections/storyteller/setting/Scope]]
 
 The attributes are [[Body]], [[Mind]], [[Spirit]], [[Presence]], [[Wealth]], and [[Speed]].
 
@@ -30,4 +30,9 @@ The first level of each attribute is free.
 
 ---
 
-[[First Level of All Attributes is Free]]
+- [[First Level of All Attributes is Free]]
+- attributes: [[Wealth]], [[Speed]], [[Body]], [[Mind]], [[Spirit]], and  [[Presence]]
+- [[Catch-All Skills]]
+- [[Quadratic Scaling]]
+- all [[Character|Characters]] have all 6
+- mind, body, spirit, and presence are health pools for [[Statuses]]

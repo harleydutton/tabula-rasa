@@ -34,4 +34,4 @@ add an example of/to Scope: fireball, fire magic, magic?
 
 ---
 
-- at [[Skill]]/flavor creation, discuss power level as a limiting factor. it should be a consideration at the least.
+- at [[Skills]]/flavor creation, discuss power level as a limiting factor. it should be a consideration at the least.

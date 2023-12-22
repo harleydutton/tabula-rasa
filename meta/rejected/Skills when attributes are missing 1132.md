@@ -7,3 +7,7 @@ so if i want to run skills without attributes there will be one major problem. w
 ----
 
 Attributes are intended to be what you roll if you don't have an apt skill. They have the broadest scope and should be collectively appropriate for any roll. By attributes I mean [[Mind]], [[Body]], [[Spirit]], and [[Presence]]
+
+---
+
+better said in [[Catch-All Skills]]. rejected.
