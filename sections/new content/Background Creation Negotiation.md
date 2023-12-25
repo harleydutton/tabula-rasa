@@ -8,3 +8,10 @@ Let me take a more constructive approach. I read this political newsletter, Tang
 I think at this point the second paragraph might be useful for [[Background]] creation. Trade-offs were not something that was previously in limits for skills but it makes sense for backgrounds.
 
 This will be codenamed as corrupted mods (like from warframe)
+
+---
+
+[[Backgrounds Balanced with Tradeoffs]]
+[[Numerical Limit on Backgrounds]]
+
+I think this is less a design decision and more a seed to what will eventually be that actual background creation negotiation section in the new content section. Moving it there.
