@@ -7,5 +7,5 @@ In an abstract sense this section compliments the [[big Limits]] section. The se
 
 Limits define what is *not* allowed in the [[Setting]]. Content will describe what *exists* in the setting. The remainder, what is allowed but does not exist is covered by [[Skill Creation]] and [[Getting Backgrounds]] and [[Item Creation]], all of which can probably be made more general with [[New Content Negotiation]]
 - [[Background|Backgrounds]]
-- [[Skill|Skills]]
+- [[Skills|Skills]]
 - [[Store]]

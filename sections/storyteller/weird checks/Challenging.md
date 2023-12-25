@@ -11,3 +11,9 @@ When a player disagrees with the difficulty of a check they can challenge the di
 ---
 
 This belongs in the storyteller section, it should not be base rules. Instead this should be an option for storytellers who frequently get negative reactions to their difficulty rulings. This is intended as a communication framework, not as a common mechanic or a check on storyteller power.
+
+---
+
+The storyteller decides if any of these things is meaningful enough to change the difficulty though players can [challenge](https://docs.google.com/document/d/1IdpkyR5XzUpkYwrZ0e7dhVONLq8gUa03OIkV1lhy-ME/edit#heading=h.w7f8x3j78p3y) this ruling if they wish. 
+
+this was yanked from a wording for checks. I think this belongs somewhere in the storyteller section because it isn't really for new players.

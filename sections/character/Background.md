@@ -2,7 +2,7 @@
 aliases:
   - Backgrounds
 ---
-Backgrounds are something a [[Character]] is or something they know. Additionally if a background lets you do something and that action has a chance to fail, that is a [[Skill]], not a background: A fluent French speaker cannot fail to speak French, however a swordsman can absolutely fail to put a sword in somebody.
+Backgrounds are something a [[Character]] is or something they know. Additionally if a background lets you do something and that action has a chance to fail, that is a [[Skills]], not a background: A fluent French speaker cannot fail to speak French, however a swordsman can absolutely fail to put a sword in somebody.
 
 Unlike most [[Descriptors]], backgrounds can be a collection of a bunch of different things:
 > - vampire
@@ -19,4 +19,4 @@ All backgrounds should be added to the [[Setting Document]] when complete.
 
 ---
 
-backgrounds need to absorb [[Hooks]] (notably [[Motivation|Motivations]]) now per [[No More Hooks or Boons]]
+~~backgrounds need to absorb [[Hooks]] (notably [[Motivation|Motivations]]) now per [[No More Hooks or Boons]]~~

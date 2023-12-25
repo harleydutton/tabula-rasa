@@ -52,7 +52,7 @@ Examples: These are some examples of flavor. Some are normal, some are special, 
  - define flavor better. Heuristic: flavor represents thing you are or have
 Flavor == adjectives and nouns?
 skill == verbs?
-flavor cannot point to a specific [[Skill]]. If a flavor boils down to "+1 to a [[Skill]]" or "X [[Skill]] is easy for me" it isn't really flavor. Instead it should have many ups and downs and they should be situational.
+flavor cannot point to a specific [[Skills]]. If a flavor boils down to "+1 to a [[Skills]]" or "X [[Skills]] is easy for me" it isn't really flavor. Instead it should have many ups and downs and they should be situational.
 
 ---
 

@@ -6,6 +6,6 @@ Because it affects a number of systems I think it might be a good idea to put in
 
 ---
 
-- this hits on [[Opposed Check]]s and [[Reaction]]s
-- something like this might still work but I think i'm going to be using opposed rolls at least some of the time so I might have to reject this.
-- I think better wording would be, you can use a reaction to [[Opposed Check|Oppose a Check]].
+- this hits on [[Oppose]]s and [[Reaction]]s
+- something like this might still work but I think i'm going to be using opposed rolls at least some of the time so I might have to reject this. might still be relevant as a generic rule to break ties in the conflict section
+- I think better wording would be, you can use a reaction to [[Oppose|Oppose a Check]].

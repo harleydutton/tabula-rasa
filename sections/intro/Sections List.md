@@ -2,12 +2,12 @@
 - [[Conflict]]
 - [[Downtime]]
 - [[Statuses]]/[[Wounds]]
-- [[Action]]
+- [[Actions]]
 - [[Distance]] -- travel and in-combat movement
 - [[Secret|Secrets]]-- stealth and lying
 - [[Wealth]] -- money and items; naturally includes bulk
 - [[Checks]]
-- [[Skill]] -- definition, creation, and progression
+- [[Skills]] -- definition, creation, and progression
 - [[Descriptors]] -- definition, and creation
 - [[Character]] -- definition, creation, and progression
 - [[Setting]] -- definition, creation, and progression

@@ -11,7 +11,7 @@ This will be codenamed as corrupted mods (like from warframe)
 
 ---
 
-[[Backgrounds Balanced with Tradeoffs]]
 [[Numerical Limit on Backgrounds]]
 
+made succinct in [[Corrupted Mods]]. ~~rejected.~~
 I think this is less a design decision and more a seed to what will eventually be that actual background creation negotiation section in the new content section. Moving it there.

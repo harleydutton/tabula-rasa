@@ -1,0 +1,1 @@
+motivations have no mechanical effect. as this is the litmus I have been using for if something goes on the character sheet, motivations won't be going on there. I do think they are an important part of a character though so I might make an exception.

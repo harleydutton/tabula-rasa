@@ -1,23 +1,28 @@
-Decide:
-- The storyteller can introduce the event die whenever they want.
-- Roll the event die with every check
+The [[Storyteller]] may choose to add the event die to a [[Checks|Check]]. It can be rolled either publicly or privately, either by the storyteller or one of the [[Player|Players]]. The storyteller chooses in both cases.
 
-Basically when a check is rolled and additional d6 is rolled. If this d6 comes up 1 something bad happens and if it comes up 6 something good happen.
-
-it's probably easiest to just have the storyteller roll the event die.
-
-effectively speaking, this makes Crit success and fail's independent of everything else in the check.
+|Event Die|Meaning|
+|-|-|
+|1|something goes poorly|
+|2-5|no additional effect|
+|6|something goes well|
 
 ---
 
-I like this system because it is simple. I dislike the notion of adding the even die to every check because that would be incredibly chaotic. I think having it be a part of weird checks in the storyteller section is appropriate, and having the storyteller use it at their discretion makes sense.
+perhaps make this another section?
 
-Inversely, it ties the storyteller's hands in some cases. I think adding it to combat and downtime might make sense and leaving it out of scene time rolls might make sense.
-
-I think the point of this would be to introduce more chaos in a situation. In an instance like a battle this would be appropriate.
+when to involve it:
+- chaotic situations like conflict
+- [[Checks]] that could go extra well or extra poorly independent of their [[Outcome]]
+- every check
+- when you want to stress out your players
 
 ---
 
-I think the storyteller advice here is to introduce the event die when:
-- you want to introduce chaos, like for a pitched battle in a war
-- there is potential for both a critical success and failure for an action
+should the positive and negative effects be bound to when the check is happening? no, or the privacy of the roll doesn't matter.
+
+---
+
+logistic options:
+- use an identifiable die
+	- first or last die in the dice software
+- have another player roll it

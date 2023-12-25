@@ -1,1 +1,1 @@
-The ideal and maximum range of [[big Skills|skills]] should be measured in zones.
+The ideal and maximum range of [[Skills]] should be measured in zones.
