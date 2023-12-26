@@ -2,4 +2,4 @@ The in-game doors that position and status unlock are also represented by flavor
 
 ---
 
-This sounds nice and broad. probably has a relevant flavor from each category of [[sections/conflict/Statuses]], [[Background|Backgrounds]], and [[Items]]
+This sounds nice and broad. probably has a relevant flavor from each category of [[Negative Statuses]], [[Background|Backgrounds]], and [[Items]]

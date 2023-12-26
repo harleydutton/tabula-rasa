@@ -3,7 +3,7 @@ ethan an i were talking about permanent statuses like losing an arm being conver
 ---
 
 maybe this could be part of [[Rest]] or [[Downtime]]:
-- heal all temporary [[Statuses]] that will go away on their own
+- heal all temporary [[Negative Statuses]] that will go away on their own
 - use permanent statuses to balance new [[Background|Backgrounds]]
 - get [[Experience]] for unbalanced permanent statuses
 - remove permanent statuses from counting against [[Catch-All Skills]] and put them with backgrounds in both cases

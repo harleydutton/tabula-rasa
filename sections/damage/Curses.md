@@ -1,5 +1,5 @@
 what is it:
-it's a [[GTA Wanted Meter]] and also kinda a morality system. this one specifically deals with the supernatural. It is a [[Descriptors|Descriptor]], usually a [[sections/conflict/Statuses|Status]]. 
+it's a [[GTA Wanted Meter]] and also kinda a morality system. this one specifically deals with the supernatural. It is a [[Descriptors|Descriptor]], usually a [[Negative Statuses|Negative Status]]. 
 
 getting it:
 - doing anything that pisses of a supernatural entity might get you a curse

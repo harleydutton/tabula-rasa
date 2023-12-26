@@ -1,8 +1,8 @@
 ---
 aliases:
-  - Status
+  - Negative Status
 ---
-all the damage flavor are statuses
+all the damage flavor are negative statuses
 - [[Bad Reputation]]
 - [[Wounds]]
 - [[Mental Illnesses]]

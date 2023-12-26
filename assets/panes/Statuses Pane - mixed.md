@@ -1,4 +1,4 @@
-- [[Statuses]]
+- [[Negative Statuses]]
 	- qwer
 	- qwer
 	- qwer

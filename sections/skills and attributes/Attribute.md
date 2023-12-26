@@ -2,12 +2,8 @@
 aliases:
   - Attributes
 ---
-- The attributes are [[Body]], [[Mind]], [[Spirit]], and [[Presence]].
-- they level up with the [[Quadratic Scaling]] chart.
-- all [[Character|Characters]] have at least level 1 in each.
-- can make [[Checks]] using it as a [[Skills|Skill]] of the second highest [[Scope]]
-- health pool for [[Statuses]] of the same type. see [[Unplayable]].
-	- mind for [[Mental Illnesses]]
-	- body for [[Wounds]]
-	- spirit for [[Curses]]
-	- presence for [[Bad Reputation]]
+The attributes are [[Mind]], [[Body]], [[Spirit]], and [[Presence]] and every [[Character]] gets the first level in each for free. Otherwise, they can be leveled up using the [[Quadratic Scaling]] chart.
+
+Attributes are used for two things:
+- Determining how many [[Negative Statuses]] a character can have before they are [[Unplayable]].
+- Making a [[Checks|Check]] without an appropriate [[Skills|Skill]].

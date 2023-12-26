@@ -9,7 +9,7 @@ A character is an entity within the [[Setting]] and [[Story]]. Mechanically, a c
 - [[Speed]]
 - [[Hooks]]
 - [[Attribute|Attributes]]
-- [[Statuses]]
+- [[Negative Statuses]]
 - [[Wealth]]
 - [[Items]]
 - [[Skills|Skills]]

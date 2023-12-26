@@ -17,4 +17,4 @@ this strikes me as being something players shouldn't have access to but that is 
 
 ---
 
-In the same way that any action can be made sneaky via the [[Secret]] system, offensive actions in conflicts can be modified in a few ways. They can be made to apply an extra [[Wounds|Wound]] or similar [[Statuses|Status]], be 
+In the same way that any action can be made sneaky via the [[Secret]] system, offensive actions in conflicts can be modified in a few ways. They can be made to apply an extra [[Wounds|Wound]] or similar [[Negative Statuses|Negative Status]], be 

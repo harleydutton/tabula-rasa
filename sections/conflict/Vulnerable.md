@@ -2,7 +2,7 @@ players can ask the storyteller if a combatant is "vulnerable/weak". What this m
 
 ########## I might also consider adding another keyword storytellers can use to indicate that players can inflict dead on combatants at 1 HP in a relevant attribute.
 
-if I make [[sections/conflict/Statuses]] this might be one
+if I make [[Negative Statuses]] this might be one
 
 ---
 

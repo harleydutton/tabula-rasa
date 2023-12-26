@@ -2,7 +2,7 @@
 aliases: []
 ---
 What is it?
-Bad Reputation is what it sounds like. mechanically it is [[Descriptors]], usually [[Statuses]], sometimes [[Background]].
+Bad Reputation is what it sounds like. mechanically it is [[Descriptors]], usually [[Negative Statuses]], sometimes [[Background]].
 
 getting it:
 - you get bad rep by being a naughty, naughty boy and getting caught by someone who cares.

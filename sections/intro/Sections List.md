@@ -1,7 +1,7 @@
 - [[Timing]]
 - [[Conflict]]
 - [[Downtime]]
-- [[Statuses]]/[[Wounds]]
+- [[Negative Statuses]]/[[Wounds]]
 - [[Actions]]
 - [[Distance]] -- travel and in-combat movement
 - [[Secret|Secrets]]-- stealth and lying
