@@ -2,4 +2,4 @@ Wealth scaling is a problem. previously it was 1cp -> 1 wealth though I think I 
 
 ---
 
-[[Wealth]] now scales as an [[Attribute]] using the [[Quadratic Scaling]]. Delete this later when it's rolled into another section.
+[[Wealth]] now scales using [[Quadratic Scaling]] using the [[Quadratic Scaling]]. Delete this later when it's rolled into another section.

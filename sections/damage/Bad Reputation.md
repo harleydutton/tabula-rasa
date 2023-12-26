@@ -1,12 +1,11 @@
 ---
-aliases:
-  - Reputations
+aliases: []
 ---
-What is it:
-reputation is what it sounds like. mechanically it is [[Descriptors]], usually [[sections/conflict/Statuses]], sometimes [[Background]].
+What is it?
+Bad Reputation is what it sounds like. mechanically it is [[Descriptors]], usually [[Statuses]], sometimes [[Background]].
 
 getting it:
-- you get bad rep by being a naughty, naughty boy and getting caught.
+- you get bad rep by being a naughty, naughty boy and getting caught by someone who cares.
 	- you get other rep by getting noticed doing something noteworthy
 - you can also you can also get reputation if someone spreads rumors about you.
 
@@ -21,4 +20,4 @@ healing:
 	- or any combination of the above
 
 death:
-if you have more *bad* reputation than [[Presence]] your character will become [[Death|Unplayable]] and you should probably make a new character. Note, only bad reputation will count for this.
+if you have more bad reputation than [[Presence]] your character will become [[Unplayable]] and you should probably make a new character.

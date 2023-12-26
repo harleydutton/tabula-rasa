@@ -15,4 +15,4 @@ healing it:
 
 dying from it:
 - spooky shit and warnings at 0, maybe mental or physical chip damage
-- when a character has more curses than [[Spirit]] they should start experiencing [[Cascading Problems]] leading to their character being [[Death|Unplayable]] in some way.
+- when a character has more curses than [[Spirit]] they should start experiencing [[Cascading Problems]] leading to their character being [[Unplayable]] in some way.

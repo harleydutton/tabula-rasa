@@ -1,4 +1,4 @@
-- [[Malaise|Malaises]]
+- [[Mental Illnesses]]
 	- qwer
 - [[Wounds]]
 	- qwer
@@ -7,6 +7,6 @@
 - [[Curses]]
 	- qwer
 	- qwer
-- [[Reputation|Reputations]]
+- [[Bad Reputation]]
 	- qwer
 

@@ -1,1 +1,3 @@
-This is the social attribute. It represents how much general goodwill you have to burn before people start coming out of the woodwork to make your life miserable. It is also the social skill of the broadest scope, meaning that it is what you default to for social themed checks you don't have a more apt skill for. It levels exponentially and all characters get the first level for free.
+Presence is the [[Attribute]] for all things social.
+- A [[Character]] with more [[Bad Reputation]] than spirit is [[Unplayable]].
+- If a character does not have an appropriate [[Skills|Skill]], presence can be used to make [[Checks]] that are more social than mental, physical, or supernatural.

@@ -1,3 +1,3 @@
-I have thought about the idea of having [[Wounds]] (and [[Malaise|Malaises]], [[Reputation]], and [[Curses]]) apply a stacking penalty when making [[Catch-All Skills]] or related skills. By default, all [[Descriptors]] should be taken into account already when the [[Storyteller]] sets the [[Difficulty]] of a [[Checks|Check]], so this is redundant.
+I have thought about the idea of having [[Wounds]] (and [[Mental Illnesses]], [[Bad Reputation]], and [[Curses]]) apply a stacking penalty when making [[Catch-All Skills]] or related skills. By default, all [[Descriptors]] should be taken into account already when the [[Storyteller]] sets the [[Difficulty]] of a [[Checks|Check]], so this is redundant.
 
 This decision supports the pillars of being [[Generic]] and [[Maintainable]]

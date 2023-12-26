@@ -7,7 +7,7 @@ Since then, I have split what was previously Flavor and is now [[Descriptors]] u
 2. [[Items]] are the things a [[Character]] has
 	- money, weapons, armor, tools, consumables, etc.
 3. [[sections/conflict/Statuses|Statuses]] are things that affect a [[Character]]
-	- [[Wounds]], [[Curses]], [[Malaise|Malaises]], and [[Reputation|Reputations]]
+	- [[Wounds]], [[Curses]], [[Mental Illnesses]], and [[Bad Reputation]]
 	- stun, grappled, prone, wet, drunk, poisoned, possessed, etc.
 
 This decision supports the pillars of being [[Simple]] and [[Maintainable]]

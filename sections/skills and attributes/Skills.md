@@ -17,9 +17,6 @@ aliases:
 	- you can take any skills listed on the [[Setting Document]] at [[Downtime]] or [[Character Creation]] for 1 [[Experience]] per the [[Linear Scaling]] chart.
 	- [[New Content Negotiation|Negotiate New Content]] with your storyteller to get new skills added to the [[Setting Document]]. 
 	- Skills can be learned from sources in the story. If a skill is fairly simple or if a character is fairly dedicated they can learn it on their own.
-
----
-
-examples:
-- pickpocketing, pyromancy, intimidation, stealth, clairvoyance, blocking, surgery, driving, necromancy, swordsmanship, necromancy, seduction, piloting, lock picking, lying
-- counterexample: a skill is something a character can do and more importantly fail at. casting waterbreathing spell vs breathing under water with gills.
+- examples
+	- pickpocketing, pyromancy, intimidation, stealth, clairvoyance, blocking, surgery, driving, necromancy, swordsmanship, necromancy, seduction, piloting, lock picking, lying
+	- counterexample: a skill is something a character can do and more importantly fail at. casting waterbreathing spell vs breathing under water with gills.

@@ -1,0 +1,1 @@
+At the end of [[Downtime]], count the character's [[Prices|Cheap]] [[Items]] and add this to their [[Money]], then add or remove money or items until that total matches their [[Wealth]] score. Either the [[Player]] or the [[Storyteller]] can justify this change in worldly possessions within the [[Story]].
