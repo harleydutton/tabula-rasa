@@ -2,4 +2,4 @@
 - Consult the [[big Limits|limits]] section of the [[Setting]] and think up a skill within those bounds and run the idea by your [[Storyteller|storyteller]]. If they approve it it will be added to the setting (possibly with new limits) after which characters can take and level the skill like any other.
 - Players are encouraged to suggest additions to the list of skills on the setting. 
 - Dedicated characters can also create new skills and add them to the setting--once again, only with storyteller approval. 
-- 
+- a skill should have a chance to fail. If it has an actual 100% success rate it is a background of some kind.
