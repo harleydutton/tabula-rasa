@@ -13,7 +13,7 @@ A Setting is a template for worldbuilding. It includes a description of the worl
 
 The, usually imaginary, place where the [[Character|Characters]] exist and the [[Story]] is told. Settings are presented to players as a [[Setting Document]].
 
-![[Master parts list for setting]]
+![[setting parts list]]
 
 ---
 

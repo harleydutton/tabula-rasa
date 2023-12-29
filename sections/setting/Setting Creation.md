@@ -7,9 +7,18 @@ As a [[Storyteller]], you should fill out a [[Setting Document]] with values of 
 - whatever [[Limits]] you feel comfortable with for the combination of setting, story, and players
 - choose a [[Currency]], this is probably the least important decision.
 - consider adding some stuff but players will probably make most of the [[Background|Backgrounds]]
+- feature flags
+	- I have a bunch of weird systems in Tabula. Not every game should use all of them. Sometimes I have made more than one for the same purpose and you just have to choose between them. The setting doc should include a list of subsystems with checkboxes for which ones are going to be used. There should be an option for "other" most of the time. All of my systems will be included.
+	- I think turning things off is potentially fine but there will be no duplicate systems to choose between. I think I should probably just reject this. Yeah, this is better handled with a note to the storyteller telling them you can and should ignore subsystems you don't like. as such I think this is a tangential bit of setting creation
 
 ---
 
-this should be a how to, potentially with defaults. it should go into a fair bit of detail for how to make each part. I have tried to add a bullet point for each thing I want to discuss.
+this should be a how to, with with defaults for a low to the ground game. it should go into a fair bit of detail for how to make each part. I have tried to add a bullet point for each thing I want to discuss.
 
 this is for the [[Storyteller]] to do and as such the [[Getting Started as a Storyteller]] page should link here.
+
+---
+
+make sure to hit everything on the [[setting parts list]]:
+
+![[setting parts list]]

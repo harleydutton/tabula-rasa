@@ -4,11 +4,12 @@
 - [[Setting Delay]]
 - [[Store]]
 - [[Currency]]
-- back of sheet stuff?
+- [[Limits]] with regard to [[New Content Negotiation]]
+- [[Worldbuilding]]
 
 ---
 
 - [[Setting]]
 - [[Setting Document]]
-- [[setting spec]]
+- [[worldbuilding elements]]
 - [[Setting Creation]]

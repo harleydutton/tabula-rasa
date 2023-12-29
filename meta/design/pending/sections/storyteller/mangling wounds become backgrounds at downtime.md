@@ -7,3 +7,7 @@ maybe this could be part of [[Rest]] or [[Downtime]]:
 - use permanent statuses to balance new [[Background|Backgrounds]]
 - get [[Experience]] for unbalanced permanent statuses
 - remove permanent statuses from counting against [[Catch-All Skills]] and put them with backgrounds in both cases
+
+----
+
+[[No More Hooks or Boons]]. these would be the crappy half of a background.
