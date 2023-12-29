@@ -26,3 +26,9 @@ logistic options:
 - use an identifiable die
 	- first or last die in the dice software
 - have another player roll it
+
+---
+
+"This is more likely to cause problems IRL than solve them" --stefan
+
+I think this section needs more certainty. If I were to say the die is always public that would probably solve some of the issue. I'm not sure if I want to. Even if I were to keep things the way they are adding some certainty might help. I had a feeling this needed rewritten anyway.

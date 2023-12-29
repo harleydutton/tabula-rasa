@@ -1,3 +1,7 @@
-1. Bug your [[Storyteller]] until they give you a [[Setting Document]]
-2. Read the [[Checks]] section
-3. [[Character Creation|Create A Character]]
+## Create a Character
+![[Character Creation]]
+
+## Learn How the System Works
+- [[Checks]] -- how to do stuff
+- [[Wealth]] -- what items you can have
+- [[Conflict]] -- how to fight

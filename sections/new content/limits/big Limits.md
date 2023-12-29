@@ -35,3 +35,7 @@ add an example of/to Scope: fireball, fire magic, magic?
 ---
 
 - at [[Skills]]/flavor creation, discuss power level as a limiting factor. it should be a consideration at the least.
+
+---
+
+The limits section should be a thing players can read and get up to speed with regards to what is mechanically acceptable within the game. This should be created by the storyteller with help from this and the storyteller sections. It should include what kinds of skills and flavor are allowed to be created within the game.
