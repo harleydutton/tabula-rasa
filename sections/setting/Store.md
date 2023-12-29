@@ -1,3 +1,7 @@
 First off _the_ store doesn't really exist after character creation. Characters will have to go to stores in the story to purchase things listed on _the_ store. Going to _a_ store within the story rather than _the_ store will drastically affect what is available for sale and maybe even what it is legal to trade. This is all subject to DTMS checks and storyteller approval after character creation. Anyway, _the_ store is set up as a series of priced columns. The flavor section describes the purchasing power of various pieces of flavor-money, also known as purchases. The columns should be "Trivial", "Minor", "Major", and "impossible". Trivial purchases are effectively free, minor purchases are worth one CP, major purchases need to be roleplayed for or a deal needs to be struck, and impossible purchases are typically too expensive to ever purchase. Impossible purchases may become available through roleplaying. The columns of the store should all have things characters can purchase in/under them as reference points.
 
 > Trivial purchases are things like food, beer, candy, ammo, clothes, or entertainment. A minor purchase would be something that costs more a gun, car, specialized tool, computer, or medicine. Major purchases would be things like houses, companies, famous art, fancy cars, or a college education. Some impossible purchases would be space shuttles, whole countries, or world-famous art.
+
+----
+
+def and the table example should just be on the character sheet. dedupe with [[Prices]].

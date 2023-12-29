@@ -4,7 +4,6 @@ Available skills are those listed on the setting. This should include all of the
 
 The rest of the skills are those that are common within the setting and you can take any of them you can afford. Players can also propose to the storyteller that skills be added to the setting. You pay for your starting skills using character points. Starting character points are listed in the upper left of the setting. Both types of skill cost a number of character points equal to the level you want the skill to start at.
 ```
-Example mandatory skills: willpower, strength, magic, dexterity, charisma
 Example skills: sword fighting, pyromancy, computer hacking, seduction
 ```
 
