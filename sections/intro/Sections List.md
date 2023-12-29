@@ -14,8 +14,3 @@
 - [[Setting]] -- definition, creation, and progression
 - [[New Content Negotiation]]
 - [[Experience]]
-
----
-
-alphabetize these.
-A definitions quick reference would probably be a good idea. also alphabetized.
