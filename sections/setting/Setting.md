@@ -18,3 +18,7 @@ The, usually imaginary, place where the [[Character|Characters]] exist and the [
 ---
 
 not sure how to bring up the back of doc stuff as it isn't a guarantee
+
+---
+
+how much of the world does this setting describe. If it's not the whole thing this document will need updated as the world grows or more of it is revealed) The storyteller can and probably should have a more comprehensive version of the setting than they present the players.

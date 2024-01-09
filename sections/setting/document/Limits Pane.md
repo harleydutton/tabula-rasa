@@ -1,0 +1,5 @@
+- no flying or climbing on shit
+- no instant, long range communication
+- no healing faster than normal
+- no magic, it doesn't exist
+- no fantasy species

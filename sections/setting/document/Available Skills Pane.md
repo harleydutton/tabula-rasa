@@ -1,0 +1,21 @@
+- athletics
+- larceny
+- stealth
+- pickpocket
+- fightning
+- polearms
+- lightning bolt
+- wind magic
+- karate
+- shmoozing
+- bartering
+- backstabbing
+- cooking
+- driving
+- programming
+- basketball
+- surgery
+- piloting
+- pyromancy
+- hacking
+- seduction

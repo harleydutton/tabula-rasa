@@ -1,0 +1,1 @@
+default delay: 10

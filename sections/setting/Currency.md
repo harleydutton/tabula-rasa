@@ -1,0 +1,1 @@
+Currency is the name and typical amount used for trade that one [[Money]] represents within the [[Setting]].

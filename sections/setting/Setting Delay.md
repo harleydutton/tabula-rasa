@@ -1,1 +1,0 @@
-this is how long characters have to wait to act in combat. typical value is 10

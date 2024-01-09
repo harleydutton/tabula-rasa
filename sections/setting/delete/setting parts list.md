@@ -1,15 +1,9 @@
 - [[Available Skills]]
 - [[Available Backgrounds]]
-- [[Experience Tracking|Experience Tracker]]
-- [[Setting Delay]]
+- [[sections/setting/Currency]]
+- [[Domain]]
+- [[Experience Tracker]]
+- [[Default Delay]]
+- [[Limits]]
 - [[Store]]
-- [[Currency]]
-- [[Limits]] with regard to [[New Content Negotiation]]
 - [[Worldbuilding]]
-
----
-
-- [[Setting]]
-- [[Setting Document]]
-- [[worldbuilding elements]]
-- [[Setting Creation]]
