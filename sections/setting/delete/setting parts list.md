@@ -1,9 +1,17 @@
 - [[Available Skills]]
 - [[Available Backgrounds]]
-- [[sections/setting/Currency]]
 - [[Domain]]
 - [[Experience Tracker]]
-- [[Default Delay]]
+
+
+
+
 - [[Limits]]
+
+- [[Currency]]
+- [[Default Delay]]
+
+
 - [[Store]]
+
 - [[Worldbuilding]]

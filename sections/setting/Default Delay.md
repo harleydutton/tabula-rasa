@@ -1,1 +1,1 @@
-this is how long characters have to wait to act in combat. 
+this is how long characters have to wait to act in combat. Also needs to define what a [[Tick]] represents.

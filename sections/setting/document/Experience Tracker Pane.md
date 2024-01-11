@@ -1,7 +1,7 @@
 |Recipient | Experience |
 | ---- | ---- |
 | Group | 40 |
-| Harley | 1 |
-| Ethan | 2 |
-| Niel | 3 |
-| Stefan | 4 |
+| player 1 | 1 |
+| player 2 | 2 |
+| player 3 | 3 |
+| player 4 | 4 |

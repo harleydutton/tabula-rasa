@@ -1,1 +1,1 @@
-default delay: 10
+default delay is 10 and ticks are 1 second

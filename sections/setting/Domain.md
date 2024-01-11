@@ -2,8 +2,6 @@ how much of the setting the setting document describes. this could be a city, co
 
 ---
 
----
-
 - how much of the setting/world the setting document describes.
 - it should answer the question of "are there other places"
 - presented to the players
