@@ -1,3 +1,11 @@
+tabula rasa doesn't *need* to have an included worldbuilding framework because [[World]] doesn't need all those parts. the storyteller book might benefit from it. consider including one of these:
+- GRAPES
+- HERMETICS
+- anthropology follows the religion backwards usually
+- that one big framework with the compass
+- a custom worldbuilding framework
+
+---
 
 - Further descriptions (optional, can be replaced with a worldbuilding framework of your choice. also, you and your players can make this section together.) You can use the real world as a common starting point and make changes or choose to define your world in a vaccume.
 	- reality (any changes to the laws of physics, the celestial bodies, etc.)
@@ -37,7 +45,4 @@
 		- planes
 		- geography and weather
 
-
 descriptions will be broadly following the HERMETICS worldbuilding framework.
-
----

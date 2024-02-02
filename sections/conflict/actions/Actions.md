@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Actions
+  - Action
 ---
 
 

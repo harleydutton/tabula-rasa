@@ -1,1 +1,0 @@
-This is the [[Background|Backgrounds]] that have been created for the [[Setting]] and listed on the [[Setting Document]].

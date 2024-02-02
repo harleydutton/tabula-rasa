@@ -5,7 +5,7 @@ In an abstract sense this section compliments the [[Limits]] section. The settin
 
 ---
 
-Limits define what is *not* allowed in the [[Setting]]. Content will describe what *exists* in the setting. The remainder, what is allowed but does not exist is covered by [[Skill Creation]] and [[Getting Backgrounds]] and [[Item Creation]], all of which can probably be made more general with [[New Content Negotiation]]
+Limits define what is *not* allowed in the [[World]]. Content will describe what *exists* in the setting. The remainder, what is allowed but does not exist is covered by [[Skill Creation]] and [[Getting Backgrounds]] and [[Item Creation]], all of which can probably be made more general with [[New Content Negotiation]]
 - [[Background|Backgrounds]]
 - [[Skills]]
 - [[Store]]

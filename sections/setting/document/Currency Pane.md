@@ -1,1 +1,0 @@
-currency: $1

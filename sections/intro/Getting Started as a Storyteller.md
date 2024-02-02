@@ -1,6 +1,6 @@
 You will need a few things:
 - [[Story]] so [[storybuilding framework]]
-- [[Setting]] so [[Setting Creation]]
+- [[World]] so [[Hard Worldbuilding]]
 - probably NPCs so [[Character Creation]] but the special kind tailored to the type of game the storyteller is going to make so actually [[Non-Player Character Creation]]
 - to understand how the game works so [[Checks]], [[Descriptors]], [[Skills]]
 - to understand some pitfalls that come with running this system so [[Limits]], storytelling tips, [[Weird checks]], [[Weird checks]], etc.
@@ -8,7 +8,7 @@ You will need a few things:
 ---
 
 [[Storyteller sections design checklist]]
-[[worldbuilding framework]]
+[[Soft Worldbuilding]]
 [[storybuilding framework]]
 [[Getting Started as a Player]]
 
@@ -16,4 +16,4 @@ neither of these work well with the existing wiki/digital garden thing I have go
 
 ---
 
-Direct [[Storyteller]] to [[Setting Creation]], [[storybuilding framework]], and [[worldbuilding framework]]
+Direct [[Storyteller]] to [[Hard Worldbuilding]], [[storybuilding framework]], and [[Soft Worldbuilding]]

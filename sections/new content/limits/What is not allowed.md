@@ -1,4 +1,4 @@
-This idea behind this section is that at [[Setting Creation]] the [[Storyteller]] chooses categories of  shit they don't want in their [[Setting]]/[[Story]] and makes it harder to get. They can ban it outright, make it expensive; obscure; unique; or stigmatic, or put a limit on it like a secondary resource cost or cooldown. At one point this was called [[Limits]] but it was intended as a per-[[Skills|skill]] solution. That doesn't scale well so I have updated the intent to be setting wide.
+This idea behind this section is that at [[Hard Worldbuilding]] the [[Storyteller]] chooses categories of  shit they don't want in their [[World]]/[[Story]] and makes it harder to get. They can ban it outright, make it expensive; obscure; unique; or stigmatic, or put a limit on it like a secondary resource cost or cooldown. At one point this was called [[Limits]] but it was intended as a per-[[Skills|skill]] solution. That doesn't scale well so I have updated the intent to be setting wide.
 
 ---
 

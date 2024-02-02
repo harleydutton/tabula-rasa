@@ -15,7 +15,7 @@ With this in mind, backgrounds should not be monochromatically good. If you are 
 
 Mechanically, like all descriptors, backgrounds will modify the [[Difficulty]] of [[Checks]] to which they apply.
 
-All backgrounds should be added to the [[Setting Document]] when complete.
+All backgrounds should be added to the [[World Sheet]] when complete.
 
 ---
 

@@ -1,6 +1,6 @@
-[[Veto]] is where the [[Storyteller]] can shut down things a [[Player]] is trying to put in the [[Story]] or [[Setting]].
+[[Veto]] is where the [[Storyteller]] can shut down things a [[Player]] is trying to put in the [[Story]] or [[World]].
 
-[[What is not allowed]] is a placeholder name for part of the [[Setting]] that will define what magic, tech, flavor and skills [[Player|Players]] can put on their [[Character|Characters]].
+[[What is not allowed]] is a placeholder name for part of the [[World]] that will define what magic, tech, flavor and skills [[Player|Players]] can put on their [[Character|Characters]].
 
 [[Storyteller Discretion]] is a mythical magical substance I haven't defined anywhere but have referenced more than a few times.
 

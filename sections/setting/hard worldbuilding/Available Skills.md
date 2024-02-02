@@ -1,0 +1,1 @@
+Available skills is a list of [[Skills|Skill]] names found on the [[World Sheet]]. All [[Character|Characters]] can learn these skills and if the skill you want is not on this list you can [[New Content Negotiation|Negotiate New Content]] with your [[Storyteller]].

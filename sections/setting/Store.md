@@ -1,1 +1,0 @@
-A representation of what is available for purchase with [[Money]] within the [[Setting]]. This will be on the [[Setting Document]] as a table with [[Prices]] as column headings. The table should be filled with [[Items]] that exist in the [[Setting]].

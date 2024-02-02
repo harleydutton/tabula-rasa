@@ -1,4 +1,4 @@
 |[[Character]]|trogdor, the burninator|
 |-|-|
-|[[Setting]]|sequoia|
+|[[World]]|sequoia|
 |[[Player]]|harley|

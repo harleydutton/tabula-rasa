@@ -7,3 +7,7 @@ Mandatory skills are skills every character _needs_ within the setting. They are
 ---
 
 mandatory skills (the attributes I have selected) are a necessary thing for the setting. I think I have chosen some good, though opinionated defaults. I suppose a storyteller could choose to change that though. This might be better in the storyteller section rather than the setting section.
+
+---
+
+I think this section really wants to talk about the best way to hack this system when I haven't even gotten around to finishing it. this is very much putting the cart before the horse. rejected.

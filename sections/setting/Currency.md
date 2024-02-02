@@ -1,1 +1,0 @@
-Currency is the name and typical amount of one of whatever one [[Money]] represents for use in trade withing the [[Setting]].

@@ -1,0 +1,1 @@
+A representation of what is available for purchase with [[Money]] within the [[World]]. This will be on the [[World Sheet]] as a table with [[Prices]] as column headings. The table should be filled with [[Items]] that exist in the [[World]].

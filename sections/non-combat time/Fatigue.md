@@ -4,3 +4,7 @@ If a character needs rest but goes without it they gain a point of fatigue. Poin
 ---
 
 I see fatigue as being a binary. you're tired or you're well rested. Go to sleep. Things are hard until you do.
+
+---
+
+I think this can be removed now that I have decided [[No Encumbrance System]]
