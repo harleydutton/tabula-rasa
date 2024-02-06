@@ -1,0 +1,10 @@
+- nod is a trap and it tries to keep you there, everyone in nod tries to keep you there, and you will eventually try to keep you there
+- it's filled with clones, holograms, illusionists, shapeshifters, simulated reality, anti-aging, spies, sleeper agents, dopplegangers, bodyswitching, will-o-the-wisps, etc. 
+- I think even death will not be an escape there might be a real escape but the only real escape is acceptance as if you die you should walk into the room immediately as a hologram/clone/shapeshifter/the real you
+- themes should include masks, isekai shit like truck kun, white rabbits, 
+- should have a high tech fey feel to it
+- there should be poetry scattered around
+- being on the correct path to escape should give you an ominous or creepy vibe
+	- mantra-ey things like "follow the white rabbit. follow the white rabbit. follow the white rabbit..." work well. "all work and no play makes jack a dull boy"
+- everything should be high tech and have an oldtimey/fantacy name
+- should maybe play on nod being easy of eden in biblical/cainite mythology. perhaps more biblical elements will be used to a purpose
