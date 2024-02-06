@@ -2,7 +2,7 @@
 - mechanics of the natural world
 - the contents of the natural world
 - the entity-made world
-- the entity-made world's opinions on stuff 
+- the entity-made world's opinions on stuff
 
 ## things that kept popping up on worldbuilding templates
 - history
