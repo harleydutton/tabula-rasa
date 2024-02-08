@@ -8,3 +8,13 @@
 	- mantra-ey things like "follow the white rabbit. follow the white rabbit. follow the white rabbit..." work well. "all work and no play makes jack a dull boy"
 - everything should be high tech and have an oldtimey/fantacy name
 - should maybe play on nod being easy of eden in biblical/cainite mythology. perhaps more biblical elements will be used to a purpose
+- there should be plenty of fantastical things like giant people that are all holograms or something
+- this place should have brave new world vibes in that it gives you dopamine in order to prevent you from escaping: sex, drugs, BTL, gambling, etc.
+- nod should be a city whose layout is a literal maze of buildings where things move around
+- perpetual twilight, nod is the city that never sleeps for real, yo.
+- nod should have many names: the drift, somnus, nod, 
+- hotel california is the soundtrack right before the climax
+- make sure player characters have strong motivations
+- cyberpunk body-mods are available
+- nod is the frame story; I need a picture story:
+	- perhaps each character is looking for some piece of information that is important to them
