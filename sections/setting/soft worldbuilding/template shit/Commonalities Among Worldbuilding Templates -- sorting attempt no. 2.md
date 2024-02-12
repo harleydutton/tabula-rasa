@@ -1,0 +1,132 @@
+hierarchical categories
+## Natural Laws
+- gravity and other laws of physics
+- day and night cycle
+- magic
+- deities
+- creation, birth, and genders
+- death, reanimation, and afterlife
+- available materials
+- planar travel
+- planetary travel
+- natural resources and materials
+- important natural places
+- scale of the world
+- what does the sky look like
+- planetary travel
+- planar travel
+- continents and oceans
+
+- magic
+	- rules
+	- limits
+	- types
+	- effects
+
+## Natural World
+- biomes
+	- weather
+	- geography
+	- species
+	- seasons
+- species
+	- plants
+	- animals
+		- migration
+	- peoples
+	- animated beings
+## Society
+- history
+- organizations
+	- governments
+	- mercenaries
+	- rebels
+	- commoners
+	- religious organizations
+	- thoughts on other organizations
+		- bigotry
+		- alliances
+		- causes of tension/conflict/war
+- class system and hierarchy
+- economy
+	- agriculture
+	- trade
+	- currency
+	- imports/exports
+- religion
+	- places of worship
+	- worship
+- what is an organization
+	- propaganda (PR)
+	- laws (rules)
+	- enforcement (punishments)
+	- titles (etiquette)
+	- politics (motivations)
+- magic
+	- users
+	- perception
+- statistics
+	- population
+	- population density
+	- city
+	- countryside
+- calendar and timekeeping
+- record keeping
+- societal wealth comparison
+	- standard of living
+- important buildings, architecture and monuments
+- immigration/emigration
+- diseases
+- technology
+	- vehicles
+	- communications
+	- medicine
+	- sanitation
+	- metallurgy
+- military
+	- logistics
+	- ranks
+	- strengths and weaknesses
+
+
+## needs sorting
+- traditions
+	- marriage
+- sex and sexuality
+- culture
+- family
+- friendships
+- taboos
+- etiquette
+- food
+- food culture
+- art
+- traditions
+- music
+- fashion
+- drugs
+- language
+- swearing
+- common names
+- literature
+- education
+- employment
+- leisure
+- entertainment
+- achievements
+- fame/infamy
+- communication
+- slavery
+- sex work
+- ideologies
+- politics
+- moralities
+- city and town layout
+- religions
+- myths, legends, and rumors
+- celebrations and festivals
+- employment level
+- rites of passage
+- rituals
+- professional ethics
+- domesticated animals
