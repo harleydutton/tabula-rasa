@@ -1,0 +1,134 @@
+Worldbuilding templates are writing prompts designed to help you flesh out a [[World]]. G.R.A.P.E.S and H.E.R.M.E.T.I.C.S. are two I am aware of that are fairly searchable and come in acronym form. Regardless, I have sampled the questions of a handful of worldbuilding templates and below is a list of worldbuilding elements you can use to kick-start thinking about your world.
+
+- afterlife
+- agriculture
+- animals
+- architecture
+- art
+- available materials
+- bigotry
+- calendar
+- celebrations
+- celestial bodies
+- city planning
+- class hierarchy
+- classism
+- climate
+- clothing
+- common names
+- communication
+- construction capabilities
+- continents
+- countries
+- creation myths
+- criminal organizations
+- currency
+- departures from natural law
+- diseases
+- domesticated animals
+- education opportunities
+- effects of magic on world
+- employment level
+- entertainment
+- etiquette
+- evolution or intelligent design
+- family
+- famous people
+- famous places
+- fashion
+- food
+- food culture
+- friendships
+- genders
+- geography
+- gods
+- governments
+- gravity
+- group agendas
+- group interplay
+- group leaders
+- groups
+- historical events
+- ideologies
+- immigration and emigration
+- important locations
+- imports and exports
+- industrialization
+- international relations
+- interpersonal bonds
+- intimacy
+- intoxicants
+- jobs
+- languages
+- law enforcement
+- laws
+- leisure
+- limits of magic
+- literature
+- magical ability
+- map scale
+- marriage
+- medicine
+- migratory patterns
+- military logistics
+- military ranks
+- military tactics
+- morals
+- music
+- myths
+- natural resources
+- non-living beings
+- oral tradition
+- peoples
+- perception of academics
+- perception of government
+- perception of magic
+- perception of proletariat
+- perception of religion
+- places of learning
+- places of worship
+- planes
+- plants
+- political factions
+- political tensions
+- politics
+- population
+- population density
+- professional ethics
+- professions
+- propaganda
+- punishments
+- races
+- racism
+- rebels
+- record keeping
+- religions
+- religious practitioners
+- religious rites
+- reproduction
+- rites of passage
+- rules of magic
+- sex work
+- sexism
+- sexuality
+- slavery
+- societal wealth
+- species-ism
+- standard of living
+- stereotypes
+- swearing
+- taboos
+- technology
+- timekeeping
+- titles
+- trade
+- traditions
+- transportation
+- travel
+- types of magic
+- vehicles
+- wars
+- weaponry
+- weather
+- worship
+- xenophobia
