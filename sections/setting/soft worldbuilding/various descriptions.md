@@ -1,2 +1,0 @@
-descriptions of all the shit you would typically get out of a worldbuilding framework.
-None of these are mandatory for my system but I think I might include a couple worldbuilding frameworks. This might get into licensing in an annoying way.
