@@ -13,3 +13,6 @@ how do you want the place to make your players feel?
 how many options do you want your players to have as to where to go/what to do/who to talk to?
 - many gets you mystery
 - few gets you fast pace certainty
+
+
+this is my typing with the wrist stabalizer. This seems pretty okay honestly. Nothing terribly amiss here.
