@@ -1,0 +1,1 @@
+Available [[Skills]] have already been okayed by the storyteller and are ready to be taken by characters. They are listed on the [[World Sheet]].

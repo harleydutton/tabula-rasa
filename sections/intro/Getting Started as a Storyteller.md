@@ -8,7 +8,7 @@ You will need a few things:
 ---
 
 [[Storyteller sections design checklist]]
-[[Soft Worldbuilding]]
+[[more guide shit]]
 [[storybuilding framework]]
 [[Getting Started as a Player]]
 
@@ -16,4 +16,4 @@ neither of these work well with the existing wiki/digital garden thing I have go
 
 ---
 
-Direct [[Storyteller]] to [[Hard Worldbuilding]], [[storybuilding framework]], and [[Soft Worldbuilding]]
+Direct [[Storyteller]] to [[Hard Worldbuilding]], [[storybuilding framework]], and [[more guide shit]]

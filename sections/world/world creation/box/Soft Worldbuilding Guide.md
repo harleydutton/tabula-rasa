@@ -1,4 +1,4 @@
-Consult the list and choose a [[World Value Function]]. Then evaluate each of these bullet points against it and define or ignore [[Worldbuilding Elements]] based those evaluations.
+Consult the list and choose a [[World Purpose]]. Then evaluate each of these bullet points against it and define or ignore [[Worldbuilding Elements]] based those evaluations.
 
 - are players allowed to change the world? add new tech? change governments? change the course of events?
 - is the setting there to provide a vibe or is it substantially important to the story or gameplay loop you want?

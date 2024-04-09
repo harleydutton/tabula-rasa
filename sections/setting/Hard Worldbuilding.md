@@ -1,1 +1,0 @@
-I define hard worldbuilding as the worldbuilding necessary for character creation. If you have completed the [[Hard Worldbuilding Guide]] then you have made all the decisions necessary to create a mechanically viable character for these rules. Your hard worldbuilding should be presented to players in the form of a [[World Sheet]].
