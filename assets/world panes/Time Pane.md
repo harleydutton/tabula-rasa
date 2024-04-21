@@ -1,2 +1,2 @@
-[[Tick Length and Default Delay]]: 10 ticks
-[[Tick]]: 1 second
+[[Default Delay]]: 10 ticks
+[[Tick Length]]: 1 second
