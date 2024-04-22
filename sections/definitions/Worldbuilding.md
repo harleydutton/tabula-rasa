@@ -1,0 +1,1 @@
+Worldbuilding is the process of creating a fictional [[World]] in which you can tell stories and play characters.
