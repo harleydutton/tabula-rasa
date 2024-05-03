@@ -1,3 +1,7 @@
+---
+title: Tabula Rasa
+---
+
 ![[Introduction]]
 ## Quick Start Guides
 - [[Getting Started as a Player]]
