@@ -1,1 +1,0 @@
-I want players to be able to play what and, to some extent, how they want.

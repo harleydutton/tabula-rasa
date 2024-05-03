@@ -1,0 +1,12 @@
+- [[Mental Illnesses]]
+	- qwer
+- [[Wounds]]
+	- qwer
+	- qwer
+	- qwer
+- [[Curses]]
+	- qwer
+	- qwer
+- [[Bad Reputation]]
+	- qwer
+

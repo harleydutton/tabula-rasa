@@ -1,1 +1,0 @@
-This section describes a way for the [[Storyteller|storyteller]] to represent [[Character|Characters]] and terrain during a [[Conflict|conflict]], potentially without a map of the battlefield. Simply put, a battlefield is a graph of zones.

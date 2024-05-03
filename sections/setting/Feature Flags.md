@@ -1,1 +1,0 @@
-I have a bunch of weird systems in Tabula. Not every game should use all of them. Sometimes I have made more than one for the same purpose and you just have to choose between them. The setting doc should include a list of subsystems with checkboxes for which ones are going to be used. There should be an option for "other" most of the time. All of my systems will be included.

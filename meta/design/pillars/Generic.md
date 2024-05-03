@@ -1,1 +1,0 @@
-This is a generic system. I'm not going to make a world.

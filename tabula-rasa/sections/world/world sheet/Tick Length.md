@@ -1,0 +1,1 @@
+A [[Tick]] is the default measure of time during [[Conflict]]. The [[World Sheet]] should define how much time a tick represents.

@@ -1,0 +1,1 @@
+Identification information is stuff you put on [[Character Sheet|Character Sheets]] to tell them apart. [[Character]] name, [[Player]] name, [[World]] name, and anything else that seems relevant should be written down.

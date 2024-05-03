@@ -1,0 +1,6 @@
+**Worldbuilding** is the process of constructing an imaginary world or setting, sometimes associated with a fictional universe. Developing the world with coherent qualities such as a history, geography, culture and ecology is a key task for many science fiction or fantasy writers. Worldbuilding often involves the creation of geography, a backstory, flora, fauna, inhabitants, technology and often if writing speculative fiction, different peoples. This may include social customs as well as invented languages for the world. 
+
+The world could encompass different planets spanning vast distances of space or be limited in scope to a single small village.  Worldbuilding exists in novels, tabletop role-playing games, and visual media such as films, video games and comics. Prior to 1900 most worldbuilding was conducted by novelists, who could leave imagination of the fictional setting in part to the reader.  Some authors of fiction set multiple works in the same world. This is known as a fictional universe. For example, science fiction writer Jack Vance set a number of his novels in the Gaean Reach, a fictional region of space. A fictional universe with works by multiple authors is known as a shared world. One notable example of such is the Star Wars Expanded Universe.
+
+---
+

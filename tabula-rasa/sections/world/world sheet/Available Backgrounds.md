@@ -1,0 +1,1 @@
+Available [[Background|Backgrounds]] have already been approved by the storyteller and are ready to be taken by characters. They are listed on the [[World Sheet]].

@@ -1,0 +1,15 @@
+
+### to update quartz run ###
+`git pull upsteam LATEST_BRANCH`
+you might need the `--allow-unrelated-histories` flag
+use `git remote -v` to check remotes
+add quartz if absent with `git remote add upstream https://github.com/jackyzha0/quartz.git`
+
+###
+to push a new version of the site simply push to main. ci is done using cloudflare and github pages.
+
+###
+This was set using these pages as reference:
+https://quartz.jzhao.xyz/setting-up-your-GitHub-repository
+https://quartz.jzhao.xyz/hosting
+
