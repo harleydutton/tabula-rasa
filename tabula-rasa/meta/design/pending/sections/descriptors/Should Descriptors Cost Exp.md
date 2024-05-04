@@ -11,3 +11,7 @@ cons to them costing exp:
 doesn't matter, they should be tradeoffs  --ethan
 they should have much greater scarcity than costing 1 or 0 exp --ethan
 perhaps a group based limit based on group exp. like 1/10group exp given out --ethan
+
+---
+
+My recent thoughts: descriptors should not cost exp or have mechanical effect on dice rolls

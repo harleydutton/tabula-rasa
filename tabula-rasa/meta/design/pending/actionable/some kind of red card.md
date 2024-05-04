@@ -1,0 +1,1 @@
+Add [[Red Card]] system somewhere in [[Limits]] ~~~~in [[Hard Worldbuilding]].~~

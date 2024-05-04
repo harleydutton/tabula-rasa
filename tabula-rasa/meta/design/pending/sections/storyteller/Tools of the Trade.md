@@ -30,3 +30,7 @@ types of content creation
 	- possibly unnecessary, this is what needs scoped out.
 
 the "new content" folder may need to be split up to accommodate all of these modes.
+
+---
+
+I wager most of this belongs in the new content creation section of the document

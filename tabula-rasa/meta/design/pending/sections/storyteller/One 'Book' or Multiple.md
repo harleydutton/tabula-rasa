@@ -2,4 +2,4 @@ Should I have all the necessary stuff (definitions, mechanics, systems) and then
 
 ---
 
-I have two choose your own adventure start points on [[Tabula Rasa]]'s home page. one for the player and one for the storyteller. I think as part of polish I might go through and pick an intended audience for each section and rewrite them to be that way. I could keep track of this using obsidian as either tags, properties, or something else.
+I have two choose your own adventure start points on [[index|Tabula Rasa]]'s home page. one for the player and one for the storyteller. I think as part of polish I might go through and pick an intended audience for each section and rewrite them to be that way. I could keep track of this using obsidian as either tags, properties, or something else.

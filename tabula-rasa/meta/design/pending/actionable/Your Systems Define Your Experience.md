@@ -10,3 +10,6 @@ If I were to decide this was a system generator then the systems a storyteller c
 - generational game loop: problem, exclusive choice, new generation, world changes
 - travel game loop: exclusive choice, travel, encounter, gain/lose resources (travel, resources, motivations)
 
+---
+
+I have previously decided tabula will not be a system generator or have feature flags. Furthermore, this isn't a decision so much as a concept. If various worlds end up being incompatible with various systems it might be worth explaining this in the storyteller section and suggesting they disable some systems.

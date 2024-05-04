@@ -1,5 +1,7 @@
 ---
 title: Tabula Rasa
+aliases:
+  - Tabula Rasa
 ---
 
 ![[Introduction]]
