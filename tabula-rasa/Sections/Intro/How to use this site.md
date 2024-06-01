@@ -1,0 +1,1 @@
+You already know how to use this site. Right click to open tabs as though you were on a wiki. Don't just click into links repeatedly without reading the whole page. This isn't a book. Stefan.

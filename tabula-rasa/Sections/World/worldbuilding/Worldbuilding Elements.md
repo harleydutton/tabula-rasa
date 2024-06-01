@@ -1,4 +1,4 @@
-Worldbuilding templates are writing prompts designed to help you flesh out a [[World]]. G.R.A.P.E.S and H.E.R.M.E.T.I.C.S. are two I am aware of that are fairly searchable and come in acronym form. Regardless, I have sampled the questions of a handful of worldbuilding templates and compiled a list of worldbuilding elements you can use to kick-start thinking about your world.
+Worldbuilding templates are writing prompts designed to help you flesh out a [[World]]. G.R.A.P.E.S and H.E.R.M.E.T.I.C.S. are two I am aware of that are fairly searchable and come in acronym form. Regardless, I have sampled the questions of a handful of worldbuilding templates and compiled a list of worldbuilding elements you can use to kick-start thinking about your world. I have alphabetized them because classifying them was an exercise in frustration. So, how does each of these things affect the world you are planning?
 
 - afterlife
 - agriculture
