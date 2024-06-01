@@ -16,7 +16,7 @@ This is a list of specific example actions.
 - [[Held Actions]]
 - [[Interactions]]
 - [[Look around]]
-- [[sections/conflict/actions/old/subtypes/Movement]]
+- [[Sections/Conflict/actions/old/subtypes/Movement]]
 - [[Talking]]
 
 ---
