@@ -8,9 +8,9 @@ These are systems I want to take a look at and potentially play to the benefit o
 - dragonbane
 - death in space
 - powered by the apocalypse - fail-forward mechanics good for drama
-- blades in the dark - frequently mentioned pbta game
+- blades in the dark - frequently mentioned pbta game, narritive centric conflict resolution
 - candela obscura
-- gum shoe
+- gumshoe
 - gurps - only have to teach one system, front loaded difficulty
 - fate
 - into the weird and wild
@@ -18,7 +18,6 @@ These are systems I want to take a look at and potentially play to the benefit o
 - into the cess and citadel
 - mork borg
 - call of cthulhu
-- that one yuki recommends
 - stars without number
 - dungeon crawl classic dpg
 - the one the youtuber "Lindy Beige" recommends
@@ -33,3 +32,5 @@ These are systems I want to take a look at and potentially play to the benefit o
 - savage worlds
 - genesys (edge of the empire?)
 - whitehack
+- hillfolk and blood on the snow
+- burning wheel, mouseguard, and PBTA games purportedly have good social combat
