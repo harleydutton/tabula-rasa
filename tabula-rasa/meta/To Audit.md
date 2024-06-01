@@ -8,7 +8,8 @@ These are systems I want to take a look at and potentially play to the benefit o
 - dragonbane
 - death in space
 - powered by the apocalypse - fail-forward mechanics good for drama
-- blades in the dark
+- blades in the dark - frequently mentioned pbta game
+- candela obscura
 - gum shoe
 - gurps - only have to teach one system, front loaded difficulty
 - fate
@@ -31,3 +32,4 @@ These are systems I want to take a look at and potentially play to the benefit o
 - index card rpg
 - savage worlds
 - genesys (edge of the empire?)
+- whitehack

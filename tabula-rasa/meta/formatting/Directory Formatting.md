@@ -1,0 +1,1 @@
+Directories should be in title case because they will be visible to the user when displayed using Quartz 4.0 on github pages.
