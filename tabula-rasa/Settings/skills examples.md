@@ -5,4 +5,4 @@
 
 ---
 
-does this go in skills or world? [[Worldbuilding]]
+does this go in skills? /world? [[Worldbuilding]]? /Settings?

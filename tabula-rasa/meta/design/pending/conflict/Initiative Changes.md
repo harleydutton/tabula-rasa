@@ -1,4 +1,4 @@
-options
+I have some options if I plan on changing my initiative system.
 - initiative (current) and action economy
 - attack, feint, parry
 - flowchart

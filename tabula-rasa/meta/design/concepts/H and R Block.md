@@ -1,0 +1,1 @@
+This is the idea that a system generator would require an H& R Block style "what kind of game do you want to make" program to construct and convey those rules clearly. The important thing would be to re-link each system that is swapped out via [[Feature Flags]] and only include the needed sections from among the duplicates.

@@ -2,6 +2,4 @@ I will not be including a guide for how to start storytelling. The expectation f
 
 ---
 
-there is a difference between no tips and no modules --e
-
-this is a refinement on storytelling tips okay
+this is a refinement on storytelling tips okay. I have updated that. done.

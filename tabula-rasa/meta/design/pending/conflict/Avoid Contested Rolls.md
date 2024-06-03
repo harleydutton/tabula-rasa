@@ -1,0 +1,1 @@
+I would like to avoid contested rolls in combat. Similarly, I would like to avoid private target numbers and such.
