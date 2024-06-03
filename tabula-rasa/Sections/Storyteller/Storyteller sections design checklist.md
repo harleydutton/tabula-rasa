@@ -1,5 +1,5 @@
 ## Storyteller section 
-<!-- how to make a setting
+<!-- how to make a world
     baseline currency to AUCs to prices ratio
     add player skills (and how to vet them)
     fill in th rest of the fields with lore shit i guess -->

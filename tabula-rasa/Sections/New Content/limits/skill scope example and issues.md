@@ -22,7 +22,7 @@ an example tree of skill scope
 >>>> surgery    
 A character might know “knots” because they know the skill “sailing” and that’s fine even though the character is getting a lot of skills for free under the umbrella-skill of “sailing”. 
 On the other hand I encouraged THIS at one point.
-perhaps settings should include a list of default/common skills?
+perhaps worlds should include a list of default/common skills?
 there is something of a goldilocks zone for skill scope. Magic is too broat, fireball is too narrow, but fire magic is just right.
 
 ---

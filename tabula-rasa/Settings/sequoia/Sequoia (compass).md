@@ -1,6 +1,6 @@
 ## Physical Geography
 ### Where does the story take place?
-This doc does not inform on or dictate the story. The story can take place anywhere in the setting. OOS. Bad/useless question.
+This doc does not inform on or dictate the story. The story can take place anywhere in the world. OOS. Bad/useless question.
 ### What are the topographical features like?
 The world is filled with packed dirt.
 Pine needles filled with amber large enough to impale a house fall from the sky outside sunspots.

@@ -6,11 +6,11 @@ I have through through the system generator idea some more. In order to effectiv
 > - Distance as Squares  
 > - Distance as Concrete Numbers
 
-And then any time the doc links to distance it links there, the player checks the setting doc to see which system they are using, and goes to the correct page. This sounds like it would be in direct violation of my [[Avoid look-ups]] design decision.
+And then any time the doc links to distance it links there, the player checks the world doc to see which system they are using, and goes to the correct page. This sounds like it would be in direct violation of my [[Avoid look-ups]] design decision.
 
 ---
 
-I suppose I could just choose default systems. No disambiguation pages, just default to one of the systems, and make the others link-able so they could be referenced with the feature flags part of the setting document. This still runs into the problem where the player might need to do multiple lookups in order to get the info they need. I think this is where I realize that the title of this note is correct. Tabula cannot be a system generator without some programming to redo the internal links when swapping out systems. The reason I would include the alternative systems is to make it possible/easy to do that programming after I complete it. It may be functionally impossible to do without having planned for it from the beginning though.
+I suppose I could just choose default systems. No disambiguation pages, just default to one of the systems, and make the others link-able so they could be referenced with the feature flags part of the world document. This still runs into the problem where the player might need to do multiple lookups in order to get the info they need. I think this is where I realize that the title of this note is correct. Tabula cannot be a system generator without some programming to redo the internal links when swapping out systems. The reason I would include the alternative systems is to make it possible/easy to do that programming after I complete it. It may be functionally impossible to do without having planned for it from the beginning though.
 
 When I say programming, all I would really need it an options page, some radio buttons, some way to persist variables, and some way to modify links based on those variables.
 

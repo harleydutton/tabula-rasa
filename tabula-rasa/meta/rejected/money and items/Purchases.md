@@ -1,4 +1,4 @@
-Purchasing power gets you purchases. In game, purchases are represented using the setting's currency. In Sequoia, the example setting, fists of amber and shards of aether are equivalent to minor and major purchases respectively. In Sequoia, you could spend a fist of amber to buy a bottle of booze.
+Purchasing power gets you purchases. In game, purchases are represented using the world's currency. In Sequoia, the example world, fists of amber and shards of aether are equivalent to minor and major purchases respectively. In Sequoia, you could spend a fist of amber to buy a bottle of booze.
 
 <!--I think this is supposed to be quoted from sequoia-->
 > ### Currency

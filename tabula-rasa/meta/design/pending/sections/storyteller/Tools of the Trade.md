@@ -14,7 +14,7 @@ This should be scoped out, codified as a design decision, and paraphrased into t
 
 types of content creation
 - negotiation
-	- storyteller creates limits, players new thing for storyteller to add to setting
+	- storyteller creates limits, players new thing for storyteller to add to world
 	- empowers players
 	- limit and veto rules make the process faster
 		- players must stay in limits

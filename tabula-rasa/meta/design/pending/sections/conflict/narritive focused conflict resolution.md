@@ -10,3 +10,5 @@ This is very dull with comparison to
 > DM: the dragon bats A away with it's foreleg
 > C: I run up and sink my dagger into the dragons heart
 > DM: hurray, you killed the dragon
+
+how can I accomplish this? perhaps something in 

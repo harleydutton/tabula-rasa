@@ -11,4 +11,4 @@ give more for:
 probably no more than 5 per night
 
 
-Character points are given by the storyteller at character creation and usually also session by session. Character points are typically awarded for heroics, good roleplaying, and completing quests. The storyteller should keep a running total on the setting document of how many CP have been given out to the group.
+Character points are given by the storyteller at character creation and usually also session by session. Character points are typically awarded for heroics, good roleplaying, and completing quests. The storyteller should keep a running total on the world document of how many CP have been given out to the group.

@@ -5,3 +5,5 @@ previously, this^^^^ was at the end of [[Wealth]] and I caught myself adding som
 [[Maintainable]] [[Generic]]
 
 I think I will need to flesh this out because it has broader implications.
+
+Do i need to put a general rule for this in the storyteller section?
