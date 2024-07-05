@@ -15,3 +15,7 @@ maybe this could be part of [[Rest]] or [[Downtime]]:
 ---
 
 The storyteller should have minimal power in this process. Players should get mangling wounds sometimes and it should be an actual rule, not something requiring much if any storyteller judgment.
+
+---
+
+this is very similar to [[Corrupted Mods]]. I think the concept of "long rest" or downtime is a reasonable time to add these to a character.
