@@ -6,3 +6,7 @@ If I cannot figure out how to balance backgrounds, then I will put a numeric lim
 ---
 
 I dislike this on principle but it is an option
+
+---
+
+I still dislike this and I will find a way around it. Rejected.

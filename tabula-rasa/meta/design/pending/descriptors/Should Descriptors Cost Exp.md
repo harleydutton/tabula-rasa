@@ -1,6 +1,6 @@
 pros to them costing exp:
 - deincentivises players from taking a gazallion of them
-- can gain a mechanical advantage for very little experience [[Accessible]]
+- can gain a mechanical advantage for very little experience [[Accessible]] (why is accessible written here?)
 
 cons to them costing exp:
 - becomes hard to backtrace a charaters exp expenditures

@@ -9,3 +9,7 @@ I have some options if I plan on changing my initiative system.
 - pseudorandom (high, med, low chance of success cards--no shuffle)
 
 l think if I want to be able to make changes to the initiative system I will need to decouple it from everything else.
+
+---
+
+I see no reason do this right now. rejected.

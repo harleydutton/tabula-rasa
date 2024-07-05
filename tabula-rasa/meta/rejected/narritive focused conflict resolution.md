@@ -14,3 +14,7 @@ This is very dull with comparison to
 how can I accomplish this? perhaps something in 
 
 [[Dramatic]]
+
+---
+
+I think this largely translates to "removing all the numbers and crunchy bullshit emergently has created more dramatic combat" and nothing needs to be done. rejected.
