@@ -10,4 +10,4 @@ Since then, I have split what was previously Flavor and is now [[Descriptors]] u
 	- [[Wounds]], [[Curses]], [[Mental Illnesses]], and [[Bad Reputation]]
 	- stun, grappled, prone, wet, drunk, poisoned, possessed, etc.
 
-This decision supports the pillars of being [[Simple]] and [[Maintainable]]
+This decision supports the pillars of being [[Minimal]] and [[Maintainable]]

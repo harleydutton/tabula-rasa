@@ -2,7 +2,7 @@ Right now there is nothing on the [[World Sheet]] involving the specific thing t
 
 ---
 
-- This would be less [[Simple]].
+- This would be less [[Minimal]].
 - This equally [[Generic]].
 - This is less [[Maintainable]].
 - This is equally [[Empowering]].
