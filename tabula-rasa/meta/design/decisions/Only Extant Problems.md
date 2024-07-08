@@ -1,3 +1,1 @@
 I will only link things to [[Problem]] if they have actually proven to be one. Hypothetical problems just gum up the works.
-
-This decision supports the pillar of being [[Maintainable]].

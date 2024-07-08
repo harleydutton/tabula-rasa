@@ -14,3 +14,10 @@ Because it affects a number of systems I think it might be a good idea to put in
 
 can reactions be reacted to? no is the sane answer
 I think this is probably a few different design decisions in a unified field theory shaped trench coat
+
+---
+
+reactions cannot be reacted to
+players win ties?
+most recent action wins?
+maybe have certain action default to "success" or "no opposition"

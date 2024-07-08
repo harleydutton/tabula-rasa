@@ -1,5 +1,3 @@
 The storyteller **secretly** creating new content has always been a thing. One of the main points of this system is for players to make their own content so **negotiation** is an important content creation system to make rules for. Lastly, was the realization that if I'm not giving storytellers much in the way of content it will have to come from somewhere and I can only kick that can down the road so far. At some point, *somebody* has to make content. This is where **collaboratively generated toolkits** some into play. It should be pretty easy for a table of players to generate a table for a storyteller to use; all I have to do is write rules for the process.
 
 I will write rules such that storytellers can use players to collaboratively, create content like loot tables that would otherwise not be included in a [[World Sheet]]. Similarly, I plan on making toolkits a storyteller can use to make content on their own.
-
-This decision supports the pillars of being [[Empowering]] and [[Generic]]

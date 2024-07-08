@@ -3,5 +3,3 @@ This will make a bunch of stuff way easier:
 - Catching unlinked mentions
 
 Refactoring links will be tedious but possible because obsidian makes aliased backlinks visible.
-
-This decision supports the pillar of being [[Maintainable]]

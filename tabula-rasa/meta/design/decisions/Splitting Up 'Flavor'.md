@@ -9,5 +9,3 @@ Since then, I have split what was previously Flavor and is now [[Descriptors]] u
 3. [[Negative Statuses|Negative Statuses]] are things that affect a [[Character]]
 	- [[Wounds]], [[Curses]], [[Mental Illnesses]], and [[Bad Reputation]]
 	- stun, grappled, prone, wet, drunk, poisoned, possessed, etc.
-
-This decision supports the pillars of being [[Minimal]] and [[Maintainable]]

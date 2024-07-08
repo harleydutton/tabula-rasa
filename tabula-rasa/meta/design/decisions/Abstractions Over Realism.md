@@ -2,4 +2,4 @@ At one point I made this game as realistic as I could. It was terrible for a bun
 
 Since then, I have vowed to abstract things in a way that makes the game play well rather than making things realistic at any cost.
 
-This decision supports the pillars of being [[Generic]], [[Maintainable]], and [[Minimal]]
+This is a decision that will make the game more [[Dramatic]] and [[Minimal]]

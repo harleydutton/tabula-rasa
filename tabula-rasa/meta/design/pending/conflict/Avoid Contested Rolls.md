@@ -1,4 +1,4 @@
-I would like to avoid contested rolls in combat. Similarly, I would like to avoid private target numbers and such.
+I would like to avoid contested rolls in combat. Similarly, I would like to avoid private target numbers and such. The point would be to speed up combat greatly.
 
 ---
 
