@@ -11,6 +11,6 @@ Products
 - scene planning
 - session planning
 Methods
-- brainstorming
-- doing it alone
+- creating it yourself, the default
+- brainstorming ideas from the table
 - procedural generation
