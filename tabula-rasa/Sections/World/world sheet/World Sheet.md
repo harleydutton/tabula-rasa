@@ -2,7 +2,7 @@ A world sheet is the collection of all the mechanical bits of a [[World]] that a
 
 | ![[Domain Pane]]                | ![[Time Pane]]             |
 | ------------------------------- | -------------------------- |
-| ![[Experience Tracker Pane]]    | ![[Money Pane]]            |
+| ![[Experience Tracker Pane]]    | ![[Rubric Pane]]            |
 | ![[Limits Pane]]                | ![[Store Pane]]            |
 | ![[Available Backgrounds Pane]] | ![[Available Skills Pane]] |
 

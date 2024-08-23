@@ -1,5 +1,1 @@
-avoid triggering people
-
-use [[Red Card]] and trigger warnings and checks ins and such
-
-put all the safety stuff here
+I will discuss two safety systems in this section. They are for *everyone*--[[Player|Players]] and [[Storyteller]] both. [[Lines and Veils]] is a preventative system while the [[Stoplight System]] is reactive.
