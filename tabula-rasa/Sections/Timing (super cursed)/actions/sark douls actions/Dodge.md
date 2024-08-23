@@ -1,0 +1,1 @@
+Roll to avoid damage entirely using dex, measure roll cost in seconds using load/strength (Heavy=4, Med =2, light=1). Move one hex.

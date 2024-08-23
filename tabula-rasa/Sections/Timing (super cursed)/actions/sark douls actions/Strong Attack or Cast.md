@@ -1,0 +1,1 @@
+Same as normal Attack/Cast but double all numbers. There is no heavy use for bows//crossbows or consumables.

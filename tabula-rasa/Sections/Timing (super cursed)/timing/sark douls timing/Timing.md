@@ -1,0 +1,1 @@
+Combat starts at zero seconds. Using actions stuns you for X seconds where X is the action’s cost. Combatants roll for initiative and start on that second. Seconds tick up in combat as the combat progresses. Combatants recover 2 stamina per second by default but this can be altered. Combatants lose 1 point of each status they are affected by each turn.

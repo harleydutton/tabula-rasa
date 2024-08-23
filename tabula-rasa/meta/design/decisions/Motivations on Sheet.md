@@ -1,1 +1,1 @@
-[[Motivation|Motivations]] and [[Sections/Descriptors (cursed)/Relationships|Relationships]] are critical parts of roleplay. These should be on the [[Character Sheet]].
+[[Motivation|Motivations]] and [[Sections/Descriptors (unlucky)/Relationships|Relationships]] are critical parts of roleplay. These should be on the [[Character Sheet]].

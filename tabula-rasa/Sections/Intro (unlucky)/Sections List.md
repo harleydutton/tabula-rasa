@@ -1,7 +1,7 @@
 
 - [[Timed Scene]]
 - [[Distance]] -- travel and in-combat movement
-- [[Timing]]
+- [[Sections/Timing (super cursed)/timing/Timing]]
 - [[Actions]]
 - [[Negative Statuses]]
 - [[Narrated Scene]]

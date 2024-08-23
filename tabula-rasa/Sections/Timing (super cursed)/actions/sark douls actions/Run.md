@@ -1,0 +1,1 @@
+Costs one stamina. Move two hexs. You don’t recover stamina on the turn you run.
