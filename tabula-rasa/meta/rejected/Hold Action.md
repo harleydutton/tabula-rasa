@@ -7,3 +7,7 @@ I think incrementing when your shit comes off cooldown by one can be done whenev
 ---
 
 perhaps this should be mixed with some kind of [[Look around]] action where it costs you 1d6 rather than [[Turn Delay]] ticks and you get some information?
+
+---
+
+This has been rolled into [[Free Action]]. rejected.

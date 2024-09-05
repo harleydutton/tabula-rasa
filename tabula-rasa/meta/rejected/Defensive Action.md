@@ -1,4 +1,4 @@
-There are a few options foractive defences
+There are a few options for active defences
 1. roll a check for the [[Attribute]] that would be damaged and either
 	1. treat it as an opposed check and subtract successes
 	2. treat it as a dodge and negate the attack
@@ -52,4 +52,4 @@ I think this means you
 
 ---
 
-Most generically I think this winds up being called Opposed Action and referencing [[Oppose|Opposed Check]]. 
+Most generically I think this winds up being ~~called Opposed Action and referencing [[Oppose|Opposed Check]].~~ rolled into [[Reaction]]. rejected.

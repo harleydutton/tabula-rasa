@@ -1,0 +1,6 @@
+- [[Difficulty]] needs to be paying attention to weapons and armor
+- most attacks ([[Main Action]]) will need to care about [[Area of Effect]], [[Adjacency]], [[Line of Sight]], and or [[Range]]
+- movement using [[Supporting Action]] will probably use [[Zone|Zones]]
+- defensive actions like bock, dodge, parry, and armor will be using [[Oppose|Opposed Check]]
+- perfect and partial success system of checks should maybe care about aoe, extra damage, cc, extra targets, extra range, feints, unblockable, etc. for attacks
+	- The main action will dictate which skill should be rolled for the check. If you get a partial rather than perfect success, the main action will happen and the supporting action will not. this means the supporting action must be independent of the main action. I think that goes against the spirit of the supporting action though. Maybe I should just let players pick which action is main/supporting and which fails on a partial success?

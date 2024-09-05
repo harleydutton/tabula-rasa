@@ -17,3 +17,7 @@ I'm not sure where this section should go live. The flavor section might not be 
 ---
 
 "things affecting you"
+
+---
+
+I think this is partially handled by [[Disable]] which is now a [[Main Action]] and [[Descriptors]] so I'm going to move it over next to descriptors.

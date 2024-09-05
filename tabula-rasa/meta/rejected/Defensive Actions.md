@@ -21,4 +21,4 @@ I think this means you
 
 ---
 
-copied to [[Active Defences]] which may turn back into defensive actions lol. anyway, rejected.
+copied to [[Defensive Action]] which may turn back into defensive actions lol. anyway, rejected.

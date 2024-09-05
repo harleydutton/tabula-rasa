@@ -7,3 +7,7 @@ if I make [[Negative Statuses]] this might be one
 ---
 
 with how I have changed damage, wounds, health, and death this no longer seems necessary but it should be evaluated further
+
+---
+
+I think this is worse than just describing the wound [[Descriptors]] on a character. rejected.

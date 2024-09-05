@@ -8,3 +8,9 @@ It doesn't make sense for passive defenses to be numeric because there is no def
 
 ---
 - [[Sections/Hurts (unlucky)/Passive Defences]] should probably live in ~~the [[Negative Statuses]] or damage section.~~ some section related check difficulty tailored specifically to combat. Maybe the [[Difficulty]] section should specifically call out this section?
+
+----
+
+first off, passive defenses are boring.
+
+second, I think I just need to trust that the [[Difficulty]] section has me covered. rejected.

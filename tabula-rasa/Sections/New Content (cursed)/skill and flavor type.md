@@ -1,4 +1,4 @@
-I'm working through the timing section right now and it talks about [[Active Defences]] as an action type. I think it might be worth having some overarching [[Skills|Skill]] types that each new skill created must fall into. New skills could maybe even be multiple types. Off the top of my head:
+I'm working through the timing section right now and it talks about [[Defensive Action]] as an action type. I think it might be worth having some overarching [[Skills|Skill]] types that each new skill created must fall into. New skills could maybe even be multiple types. Off the top of my head:
 - proactive skill
 - defensive skill
 - movement skill
