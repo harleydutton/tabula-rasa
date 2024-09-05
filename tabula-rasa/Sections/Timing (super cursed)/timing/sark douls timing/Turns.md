@@ -1,1 +1,0 @@
-Start with the DM on each second and move clockwise around the table. If there are no turns on a second just skip it. Stamina recovery happens at the end of the second.

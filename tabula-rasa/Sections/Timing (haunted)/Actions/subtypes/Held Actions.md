@@ -2,4 +2,4 @@ Reactions allow you to take your other actions on a tick that is not your own. I
 
 ---
 
-I think incrementing when your shit comes off cooldown by one can be done whenever you want at no cost. This is probably a [[Free Action]] and it colors how things have to be for [[Entering and Leaving Combat]]
+I think incrementing when your shit comes off cooldown by one can be done whenever you want at no cost. This is probably a [[Free Action]] and it colors how things have to be for [[Entering Combat]]

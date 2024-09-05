@@ -1,0 +1,1 @@
+If multiple [[Character|Characters]] would have a turn on the same [[Tick]] start with the [[Storyteller]] and proceed clockwise or alphabetically.

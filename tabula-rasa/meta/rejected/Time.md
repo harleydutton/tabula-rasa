@@ -4,3 +4,7 @@
 - [[Session]]
 - [[Narrated Scene]] ?= [[Travel (old)]] ?= [[Rest]]
 - [[Story]]
+
+----
+
+not a game mechanic. ???. rejected.

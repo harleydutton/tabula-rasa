@@ -16,7 +16,7 @@ This is a list of specific example actions.
 - [[Held Actions]]
 - [[Interactions]]
 - [[Look around]]
-- [[Sections/Timing (super cursed)/actions/subtypes/Movement]]
+- [[Sections/Timing (haunted)/Actions/subtypes/Movement]]
 - [[Talking]]
 
 ---
