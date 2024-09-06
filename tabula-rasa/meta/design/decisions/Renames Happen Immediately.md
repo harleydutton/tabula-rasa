@@ -1,3 +1,1 @@
 In the past things have gotten gross because I would rename something and then not fix it in every section it appeared in. Now with Obsidian's handy backlink feature I can do this quickly and easily. As such, whenever I rename something, I will be making sure it is correct in any other notes that link to it.
-
-This design decision supports the pillar of being [[Maintainable]].

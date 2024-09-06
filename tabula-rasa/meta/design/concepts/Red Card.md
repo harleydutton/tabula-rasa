@@ -1,1 +1,0 @@
-The "red" I'm not comfortable with this RP *thing* you point at in the middle of the table.

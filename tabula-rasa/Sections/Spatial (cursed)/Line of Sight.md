@@ -1,0 +1,1 @@
+If I'm fucking with distance/range/movement I'm probably fucking with line of sight. I don't know what a good theater of mind way to do this would be but it seems interesting to think about.

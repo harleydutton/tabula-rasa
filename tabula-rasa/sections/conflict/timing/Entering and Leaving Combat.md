@@ -1,1 +1,0 @@
-Entering combat is simple. When a player decides they would like to enter combat they do so in 1d6+AD AUTs. The same goes for the storyteller's NPCs. Characters must pass a DTMS check to join combat ie. they must be present.

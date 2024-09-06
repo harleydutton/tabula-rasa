@@ -1,1 +1,0 @@
-Attempting to hide in combat is a [[Main Action]]

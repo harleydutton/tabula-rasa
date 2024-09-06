@@ -1,0 +1,1 @@
+I think apocalypse uses clocks to represent progress on extended actions. I might steal this system and have [[Narrated Scene]] be the trigger to tick them up.

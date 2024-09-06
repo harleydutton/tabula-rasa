@@ -1,0 +1,1 @@
+A [[Character|Character's]] wealth stat represents the total number of [[Prices|Cheap]] [[Items]] and [[Money]] they *should* possess. This [[Accounting]] is done at the end of [[Narrated Scene]]. Wealth can be leveled up using the [[Quadratic Scaling]] chart.

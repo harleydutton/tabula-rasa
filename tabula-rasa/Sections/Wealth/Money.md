@@ -1,0 +1,1 @@
+Money is whatever is used for trade in the [[World]]. One money might be a few silver coins, 10,000 imperial credits, or a shard of moon rock depending on the world. Money can be traded for [[Prices|Cheap]] items at the [[Store]] and counts toward a Character's [[Wealth]].

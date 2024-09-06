@@ -1,0 +1,1 @@
+If various worlds end up being incompatible with various systems it might be worth explaining this in the storyteller section and suggesting they disable some systems.
