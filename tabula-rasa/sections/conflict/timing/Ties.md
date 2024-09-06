@@ -1,1 +1,0 @@
-When two or more characters would act on the same tick, PCs go before NPCs. If two or more PCs act on the same tick the PC with lower AD acts first. If there is still a tie, break the tie randomly. The storyteller can use this method to break ties for NPCs but doesn't have to.

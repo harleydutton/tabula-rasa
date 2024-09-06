@@ -1,4 +1,4 @@
-This is a generic system. I'm not going to make a world. This means:
-- it should not need to be hacked in most cases
-- can use the same rules that everyone knows for multiple worlds and stories
-- supports games with multiverse travel
+This game will be world agnostic such that many worlds and styles of games can be run with the same rules.
+- the game systems should not be tightly linked to any world
+- should include more than one example world
+- should include ways to generate needed content in an unknown world

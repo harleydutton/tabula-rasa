@@ -1,0 +1,1 @@
+Turn delay represents how many [[Tick|Ticks]] a [[Character]] must wait between [[Turn|Turns]]. Turn delay is equal to [[Default Delay]] minus [[Speed]] for each character.

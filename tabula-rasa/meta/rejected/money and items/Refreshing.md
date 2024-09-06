@@ -2,7 +2,7 @@ Some of you may be concerned that if you convert boons and CP to items and then 
 
 ---
 
-On regular intervals, usually during [[Downtime]], the sum of a character's liquid currency and items should change to match their wealth stat. Usually this will cause characters to receive currency for their used, broken, and lost equipment such that they can make new purchases. This can however cause characters to lose currency or even items if they don't have a high enough wealth score.
+On regular intervals, usually during [[Narrated Scene]], the sum of a character's liquid currency and items should change to match their wealth stat. Usually this will cause characters to receive currency for their used, broken, and lost equipment such that they can make new purchases. This can however cause characters to lose currency or even items if they don't have a high enough wealth score.
 
 ---
 

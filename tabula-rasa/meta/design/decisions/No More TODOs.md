@@ -1,3 +1,1 @@
 In the past I think making TODO lists has caused me to procrastinate while also creating more writing I have to work through. It also seems to cause me to get lost when I restart work on this because there is no guarantee I will check the TODO. I will not be making any more TODOs.
-
-This decision supports the pillar of being [[Maintainable]]

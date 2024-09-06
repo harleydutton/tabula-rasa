@@ -1,3 +1,1 @@
 When a character takes enough social/mental/supernatural/social damage I want the character to be unplayable and effectively dead in the story. Being sent to jail is just as effective at sidelining a character as putting them in the ground most of the time. Furthermore when a character heads down a drastically different path than the [[Story]] it makes more sense to have the [[Player]] make a new [[Character]] to play than derail the story to follow their current character.
-
-This decision supports the pillar of being [[Generic]].

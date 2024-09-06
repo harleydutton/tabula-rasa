@@ -1,1 +1,0 @@
-These are actions that take more than one turn to complete. They can occur in [[Scene]], [[Downtime]], and [[Conflict]]. There should be a section in the [[Getting Started as a Storyteller]] for when to request these like for the [[Weird checks]].

@@ -1,3 +1,1 @@
 Whenever there is a term from gaming or popular culture that means what I am trying to communicate, I should use it. I will still have to define any term I use for mechanics of course, but leveraging existing terms will help this game feel familiar.
-
-This decision supports the pillars of being [[Simple]], [[Accessible]], and [[Maintainable]]

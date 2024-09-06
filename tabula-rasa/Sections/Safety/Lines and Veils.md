@@ -1,0 +1,1 @@
+Lines and veils are a way to communicate boundaries quickly. If anyone says they

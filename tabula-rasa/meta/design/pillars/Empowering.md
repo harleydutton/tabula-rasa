@@ -1,4 +1,3 @@
-I want players to be able to play what and, to some extent, how they want. This means:
-- lets players make the characters they want to
-- in specific instances puts more power in the players hands than the storyteller
-- not concerned with balance beyond [[Limits]]
+I want move certain powers out of the storyteller's hands and back into the player's.
+- involves players more in worldbuilding to take a load off the storyteller and let them play what they want to
+- some decisions are made through voting rather than being at the sole discretion of the storyteller

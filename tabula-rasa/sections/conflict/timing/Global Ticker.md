@@ -1,1 +1,0 @@
-Every timed scene starts with 0 ticks having passed. As a timed scene progresses the storyteller should announce the current tick by counting aloud, one by one. As the global ticker counts up, it is the responsibility of whomever controls a given character to know when that character acts next and call out that it is their turn.

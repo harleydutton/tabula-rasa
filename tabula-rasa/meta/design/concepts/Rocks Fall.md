@@ -1,0 +1,1 @@
+Rocks fall; your character dies. This is canonically what the Storyteller says when they kill a character out of frustration.

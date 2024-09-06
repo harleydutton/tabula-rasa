@@ -1,0 +1,1 @@
+A character's speed represents how quickly they act during [[Timed Scene|Timed Scenes]]. Speed can be leveled up using the [[Quadratic Scaling]] chart.

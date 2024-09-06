@@ -1,0 +1,1 @@
+quartz has a feature that lets you only upload/display some notes in a vault. I think it uses regex. Either way, nobody should be seeing all the garbage I have in "meta" and I would like it to not be pushed to live.
