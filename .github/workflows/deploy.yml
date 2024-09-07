@@ -3,7 +3,7 @@ name: Deploy Quartz site to GitHub Pages
 on:
   push:
     branches:
-      - v4
+      - main
  
 permissions:
   contents: read
@@ -18,9 +18,21 @@ jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Quartz
+        uses: actions/checkout@v4
         with:
+          repository: jackyzha0/quartz
           fetch-depth: 0 # Fetch all history for git info
+      - name: Checkout Tabula
+        uses: actions/checkout@v4
+        with:
+          path: content
+      - name: Update Config
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            quartz.config.ts
+    sparse-checkout-cone-mode: false
       - uses: actions/setup-node@v4
         with:
           node-version: 22
