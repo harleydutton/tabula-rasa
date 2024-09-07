@@ -27,12 +27,12 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: content
-      - name: Update Config
-        uses: actions/checkout@v4
-        with:
-          sparse-checkout: |
-            quartz.config.ts
-          sparse-checkout-cone-mode: false
+#      - name: Update Config
+#        uses: actions/checkout@v4
+#        with:
+#          sparse-checkout: |
+#            quartz.config.ts
+#          sparse-checkout-cone-mode: false
       - uses: actions/setup-node@v4
         with:
           node-version: 22
