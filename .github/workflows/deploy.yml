@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
- 
+
 permissions:
   contents: read
   pages: write
@@ -32,7 +32,7 @@ jobs:
         with:
           sparse-checkout: |
             quartz.config.ts
-    sparse-checkout-cone-mode: false
+          sparse-checkout-cone-mode: false
       - uses: actions/setup-node@v4
         with:
           node-version: 22
