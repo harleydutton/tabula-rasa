@@ -27,14 +27,17 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: content
-      - uses: actions/setup-node@v4
+      - name: Update Config
+        run: mv content/config.quartz.ts .
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: 22
       - name: Install Dependencies
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
-      - name: Upload artifact
+      - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
