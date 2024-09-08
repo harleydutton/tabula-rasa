@@ -1,7 +1,0 @@
-Characters all start with no purchasing power. Character points and boons can be converted into purchasing power. This conversion cannot be undone. One character point can be converted to one minor purchasing power. One boon can be converted to one major purchasing power. Track your major and minor purchasing power on your character sheet. Converting boons and CP to purchasing power can be done at character creation or at the beginning of downtime. When you convert a cp or boon to purchasing power you immediately get one of the relevant purchase.
-
----
-
-Purchasing power represents the amount of wealth a character should have. Sometimes they will have more, sometimes less, but they will usually trend back toward their purchasing power. Characters all start with no purchasing power but purchasing power can be acquired at character creation and at the beginning of downtime. One character point can be converted to one minor purchasing power. Alternatively, one boon can be converted into one major purchasing power. This process cannot be undone. Track your major and minor purchasing power on your character sheet. When you acquire purchasing power you also immediately get one unit of the matching type of world specific currency.
-
-![](https://lh5.googleusercontent.com/gKilera5rgJwZnyxJdGUPv8U8OGpbOzKo6O6WUZvhO0dTCoc7vO-WxijD8KbQpBchO87SnkU-bVVw8BV48OOcVg9-v7MKw0fM8dLHHNfwetrWIUsOlrMjxqS-oQZFU31F_YR4qzqiEYNeSQ)

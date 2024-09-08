@@ -1,1 +1,0 @@
-everything in here seems old and bad. I rewrote the  [[Wealth]] system and sent this to the big directory in the sky. [[Rejected]]
