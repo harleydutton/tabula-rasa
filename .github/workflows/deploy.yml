@@ -28,7 +28,7 @@ jobs:
         with:
           path: content
       - name: Update Config
-        run: mv content/config.quartz.ts .
+        run: mv content/quartz.config.ts .
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
