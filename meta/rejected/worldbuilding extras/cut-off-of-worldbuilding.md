@@ -23,3 +23,4 @@ As a [[Storyteller]], you should fill out a [[World Sheet]] with values of your 
 - [[Experience Tracker]] starting group experience at 40 gives enough experience for a couple skills between 3-5 and average level of 2 in attributes/speed/wealth. I recommend giving out one experience per game night played, an experience for each objective accomplished, and an experience for each instance of good roleplaying
 - [[Limits]] for limits you should start by disallowing things that break the vibe of the game you want to run and things you know you can't manage well
 - [[Store]] the store should contain tools (including vehicles and weapons), necessities, and luxuries to start with and progress from there. potentially ask your players what they want and add that.
+
