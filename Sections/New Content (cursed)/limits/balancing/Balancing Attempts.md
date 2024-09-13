@@ -2,8 +2,6 @@ If you create a skill with appropriate scope that is just too powerful for the w
 
 @Storyteller: A few good limiting factors are timing restrictions(requires multiple turns in combat, cannot be done in combat, takes multiple days, etc.), resource costs (add a mana bar, minor purchases, major purchases, etc.), context restrictions (must have line of sight, must have eye contact, must be touching the target, must have a piece of the target, etc.), and cooldowns (AUTs or turns, once per combat, once per day, refreshes randomly, etc.). If you cannot balance a skill, [veto](#veto) it.
 
-according to ethan, describing round/turn based game actions with the word cooldowns is "unhinged"
-
 ---
 
 at one point i recommended having the DM nerf skills while they were being made. give them a mana cost, or a cooldown, or make them take a long time or whatever to help balance them. this is a good time to say that skills should have a type of action associated with them (major, minor, reaction, etc.) and this should be determined at skill creation.

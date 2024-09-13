@@ -1,4 +1,3 @@
-# Powers
 
 ### Soul arrow
 
@@ -14,3 +13,7 @@ You manifest a blade of soul energy and strike nearby foes with it. Deals magic 
 ### Invisibility
 
 Makes you invisible but still audible for seconds equal to your catalyst’s magic damage number of seconds. Costs 2 mana and takes 3 seconds to cast.
+
+---
+
+moved to [[options to limit spellcasting]]. trashed.

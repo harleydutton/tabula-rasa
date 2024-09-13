@@ -1,5 +1,3 @@
-
-I think this should probably be moved to the limits section.
 ### Adding to the World (from skills section)
 
 It is the intent of this system that you can play what you want. Players can speak with the storyteller and propose things to be added to the world. If you want to play a cat-man samurai, talk to the storyteller about adding cat-men to the world and if samurai need special skills or flavor–probably equipment in this instance–to be relevant, propose those too. If the storyteller has no objections, boom, you can play exactly what you want.
@@ -39,3 +37,10 @@ add an example of/to Scope: fireball, fire magic, magic?
 ---
 
 The limits section should be a thing players can read and get up to speed with regards to what is mechanically acceptable within the game. This should be created by the storyteller with help from this and the storyteller sections. It should include what kinds of skills and flavor are allowed to be created within the game.
+
+
+---
+
+[[Restricted List]] is a placeholder name for part of the [[World]] that will define what magic, tech, flavor and skills [[Player|Players]] can put on their [[Character|Characters]].
+
+The idea of two forms of two forms of limits--disallowing and balancing--is one I have had for a while apparently but haven't made rules or disambiguation for.

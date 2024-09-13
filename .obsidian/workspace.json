@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "8bdf505225a916f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "812b081d0afc317f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7a0e397277a31c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sections/New Content (cursed)/limits/disallowing/Uniqueness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7dd67478e46fed73",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d1f084ff651f4e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4235e6d4755fe17f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "271024e7165b1573",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "495726ab4bd2cda3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "96e60caf9b5a1b94",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa98227d2283db13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cbb017cc0968c8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sections/New Content (cursed)/limits/disallowing/Uniqueness.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78c9d7d7f49b2184",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sections/New Content (cursed)/limits/disallowing/Uniqueness.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0965fe92edde8e41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "93a4c087d2755a38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sections/New Content (cursed)/limits/disallowing/Uniqueness.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a7a0e397277a31c3",
+  "lastOpenFiles": [
+    "Sections/New Content (cursed)/Content.md",
+    "Sections/New Content (cursed)/limits/Restricted List.md",
+    "Sections/New Content (cursed)/limits/disallowing/Uniqueness.md",
+    "index.md",
+    "Hard Worldbuilding.md",
+    "Sections/New Content (cursed)/limits/Limits.md",
+    "Sections/New Content (cursed)/limits/Scope.md",
+    "meta/design/pending/New Skill Timing Restrictions.md",
+    "Sections/New Content (cursed)/limits/balancing/specifics/Secondary Resources.md",
+    "Sections/New Content (cursed)/limits/balancing/specifics/Charges and Cooldowns.md",
+    "Sections/New Content (cursed)/limits/balancing/Balancing Attempts.md",
+    "Sections/New Content (cursed)/limits/balancing/specifics/Charges.md",
+    "Sections/New Content (cursed)/limits/balancing/specifics",
+    "Sections/New Content (cursed)/limits/balancing/specifics/Timing Restrictions.md",
+    "Sections/New Content (cursed)/limits/balancing/specifics/Risk of Damage.md",
+    "Sections/New Content (cursed)/limits/balancing/options to limit spellcasting.md",
+    "meta/trash/skill scope example and issues.md",
+    "meta/trash/Within Limits.md",
+    "Sections/World (unlucky)/world sheet/Available Skills.md",
+    "Sections/Skills and Attributes/Skills.md",
+    "Sections/New Content (cursed)/New Content Negotiation.md",
+    "meta/trash/Disallowing and Balancing Limits Disambiguation.md",
+    "meta/trash/example spells from sark douls.md",
+    "Sections/New Content (cursed)/limits/disallowing",
+    "Sections/New Content (cursed)/limits/balancing",
+    "meta/trash/Adding to the World.md",
+    "meta/trash/new content plan.md",
+    "Sections/New Content (cursed)/types/Item Creation and Pricing.md",
+    "Sections/New Content (cursed)/types/Background Creation Negotiation.md",
+    "Sections/New Content (cursed)/types"
+  ]
+}

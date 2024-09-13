@@ -10,3 +10,6 @@ Limits define what is *not* allowed in the [[World]]. Content will describe what
 - [[Skills]]
 - [[Store]]
 
+---
+
+the list of all content created for the world sounds a hell of a lot like something that should be on the world sheet. alternatively, the idea that there should be a list should be dropped.

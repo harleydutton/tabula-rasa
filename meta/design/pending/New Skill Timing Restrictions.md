@@ -1,0 +1,1 @@
+You can level up skills whenever. You can take new skills from the [[Available Skills]]. If I want to add a timing restriction to that last sentence, this is where I would be doing it. Perhaps a character needs training or downtime or something before they can learn a new skill. I think letting players only get new skills during downtime makes sense.

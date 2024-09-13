@@ -28,3 +28,7 @@ there is something of a goldilocks zone for skill scope. Magic is too broat, fir
 ---
 
 With regards to magic, I think my most recent thought is fireball is probably the appropriate scope, not fire magic. Spirit == magic in this canonical scope example (magic > fire magic > fireball)
+
+---- 
+
+this is horribly formatted but describes an important problem. copying it over to [[Scope]]. trashed.

@@ -6,3 +6,7 @@
 		- players must stay in limits
 		- vetos require new limits
 		- this could get messy if limits are fucky, think about what makes for good/bad limits.
+
+---
+
+copied to [[NEW CONTENT MANIFEST and PLAN]]. trashed.

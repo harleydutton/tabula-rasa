@@ -1,0 +1,1 @@
+You can only use this skill as many times per day as you have charges. You get charges back at downtime or at a specific time in the day.
