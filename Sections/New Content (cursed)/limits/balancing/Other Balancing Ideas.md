@@ -1,0 +1,2 @@
+- have a skill cost money to use
+- make the skill use a specific [[Actions|Action]] like [[Main Action]] or [[Reaction]]

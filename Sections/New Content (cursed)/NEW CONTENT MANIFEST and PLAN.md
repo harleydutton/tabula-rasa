@@ -35,7 +35,7 @@ PLAN
 	- [[Scope]]/[[Theme]]/[[Tone]]/[[Uniqueness]]/[[skill scope example and issues]]
 	- [[Limits]]/[[Disallowing and Balancing Limits Disambiguation]]
 		- [[Veto]]
-		- [[Balancing Attempts]]/[[options to limit spellcasting]]
+		- [[Other Balancing Ideas]]/[[options to limit spellcasting]]
 
 
 
