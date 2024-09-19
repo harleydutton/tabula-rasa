@@ -9,4 +9,4 @@
 
 ---
 
-copied to [[NEW CONTENT MANIFEST and PLAN]]. trashed.
+copied to [[Sections/New Content (cursed)/NEW CONTENT PLAN]]. trashed.

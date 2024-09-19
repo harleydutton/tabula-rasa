@@ -1,0 +1,5 @@
+- Restrictions are the things that you aren't allowed to propose adding to the game.
+- There should be a restrictions list on the world sheet.
+- (these are different from limits which are things added to a proposal by the storyteller before it is accepted)
+- Restrictions can involve limits like "magic skills will have a secondary resource and a risk of bad."
+- some limits might not be restrictions and I may have to go through and sort those

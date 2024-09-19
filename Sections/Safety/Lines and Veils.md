@@ -1,1 +1,1 @@
-Lines and veils are a way to communicate boundaries quickly. If anyone says they
+Lines and veils are shorthand for communicating boundaries quickly. A veil is something someone would rather not dwell on during roleplay. A line is something someone does not want to encounter during roleplay. For this to be useful, you should talk about it when you form your roleplaying group or add new members.

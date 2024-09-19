@@ -1,1 +1,0 @@
-When you use/succeed/fail the skill, roll some dice. If you get the bad outcome you get damage.

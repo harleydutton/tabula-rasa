@@ -1,1 +1,0 @@
-Make the skill require a secondary resource like mana.

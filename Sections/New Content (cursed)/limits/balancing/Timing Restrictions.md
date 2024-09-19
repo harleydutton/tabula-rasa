@@ -1,1 +1,0 @@
-Make it so a skill cannot be done in combat or takes multiple turns.

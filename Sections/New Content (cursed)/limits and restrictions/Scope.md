@@ -40,3 +40,17 @@ there is something of a goldilocks zone for skill scope. Magic is too broat, fir
 ---
 
 With regards to magic, I think my most recent thought is fireball is probably the appropriate scope, not fire magic. Spirit == magic in this canonical scope example (magic > fire magic > fireball)
+
+---
+
+- magic skills are a single modifiable skill like fire-ball, not an entire school of related skills
+
+---
+
+Many times, players will try to create skills that are much too broad in scope. Less frequently, players will make skills that are too narrow in scope. Loosely speaking scope represents the percentage of situations a skill can apply to. An example of a skill that is too broad is magic as you can do anything you want with it. A skill that is too narrow would be death curse as it can only be used to kill someone. Somewhere in between we find the skill death magic which has many applications but not infinitely many. It has a specific domain in which it is useful. Storytellers should specifically look out for skills that are too broad during character creation and veto them.
+
+---
+
+skill gripes:
+
+add an example of/to Scope: fireball, fire magic, magic?
