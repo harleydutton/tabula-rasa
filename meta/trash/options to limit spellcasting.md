@@ -3,4 +3,4 @@
 
 ---
 
-parts of this have moved to more relevant sections. parts have been deleted. what remains is redundant with [[Risk of Bad]]. trash.
+parts of this have moved to more relevant sections. parts have been deleted. what remains is redundant with [[Risk]]. trash.

@@ -13,3 +13,7 @@ It is the intent of this system that you can play what you want. Players can spe
 ---
 
 It is the intent of this system that you can play what you want. Players can speak with the storyteller and propose things to be added to the world. If you want to play a cat-man samurai, talk to the storyteller about adding cat-men to the world and if samurai need special skills or flavor–probably equipment in this instance–to be relevant, propose those too. If the storyteller has no objections, boom, you can play exactly what you want.
+
+---
+
+The [[Storyteller]] has three options upon receiving a proposal. They can accept, add additional limits and accept, or [[Veto]] the proposal.
