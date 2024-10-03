@@ -16,4 +16,4 @@ Things you might want to limit are as follows: This might be things like resurre
 
 mind control, personal flight, invisibility, instant+long-range comms, undodgeable attacks like guns, AoE attacks like explosions, teleportation, resurrection, mind reading, lie detecting, minions, crafting, agelessness, super strength/speed, letters of credit, damage immunities, incoporeality/being a ghost, money as a superpower.
 
-[[Limits]] is going to be a part of the [[World Sheet]] so this section will need some examples.
+[[Limit]] is going to be a part of the [[World Sheet]] so this section will need some examples.

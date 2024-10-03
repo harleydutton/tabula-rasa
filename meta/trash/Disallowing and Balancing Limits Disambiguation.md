@@ -12,4 +12,4 @@ The idea of two forms of two forms of limits--disallowing and balancing--is one 
 
 ---
 
-copied into [[Limits]]. trashed.
+copied into [[Limit]]. trashed.

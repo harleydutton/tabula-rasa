@@ -1,12 +1,29 @@
-
-- negotiation
-	- storyteller creates limits, players new thing for storyteller to add to world
-	- empowers players
-	​- limit and veto rules make the process faster
-		- players must stay in limits
-		- vetos require new limits
-		- this could get messy if limits are fucky, think about what makes for good/bad limits.
+- new content negotiation
+	- content
+		- backgrounds/descriptors
+		- skills
+		- items
+	- limits and restrictions
+		- limits - things added to proposed content to balance it
+		- restrictions - things you can't propose (on world sheet)
+		- folder
+			- scope
+			- theme
+			- tone
+			- uniqueness
+			- cooldown
+			- secondary resources
+			- risk of wounds
+	- proposal (players look at restrictions, cook up something not disallowed, and tells the storyteller about it)
+		- proposal should begin with player looking at restrictions
+		- second step should be adding a limit or two to the proposal
+		- veto (turn down proposal and refer player to existing limit or add new limit)
+		- accept and add to world sheet
+		- add limits to skill, then add to the world sheet
 
 ---
 
-copied to [[Sections/New Content (cursed)/NEW CONTENT PLAN]]. trashed.
+this information has all been moved over to [[New Content Negotiation (unlucky)]]. trash.
+
+
+

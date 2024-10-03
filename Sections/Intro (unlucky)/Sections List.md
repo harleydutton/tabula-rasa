@@ -12,5 +12,5 @@
 - [[Descriptors]] -- definition, and creation
 - [[Character]] -- definition, creation, and progression
 - [[World]] -- definition, creation, and progression
-- [[New Content Negotiation]]
+- [[New Content Negotiation (unlucky)]]
 - [[Experience]]

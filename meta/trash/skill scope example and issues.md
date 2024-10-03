@@ -31,4 +31,4 @@ With regards to magic, I think my most recent thought is fireball is probably th
 
 ---- 
 
-this is horribly formatted but describes an important problem. copying it over to [[Scope]]. trashed.
+this is horribly formatted but describes an important problem. copying it over to [[Scope (unlucky)]]. trashed.

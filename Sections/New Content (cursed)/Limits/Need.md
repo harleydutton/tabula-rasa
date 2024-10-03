@@ -1,0 +1,1 @@
+An artificial need like drinking blood for a vampire or having power for a robot. Should involve consequences if the need is not met.

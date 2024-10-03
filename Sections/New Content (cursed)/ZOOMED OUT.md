@@ -1,5 +1,0 @@
-![[Content]]
-![[Limits]]
-![[Proposal]]
-![[Restriction]]
-![[Veto]]
