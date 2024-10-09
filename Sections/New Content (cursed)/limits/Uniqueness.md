@@ -1,1 +1,0 @@
-When you add something to the world you may have it in your head that it will be unique. You will be the only fire mage, you will have the only gun, you will be the only alien, etc. This can very quickly lead to an unbalanced and unenjoyable world or story. Do not expect to have a monopoly on anything you add to the world. Where there is one, there can be two.

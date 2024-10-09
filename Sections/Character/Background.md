@@ -11,12 +11,8 @@ Unlike most [[Descriptors]], backgrounds can be a collection of a bunch of diffe
 > 	- ignites in sunlight
 > 	- pretty and strong
 
-With this in mind, backgrounds should not be monochromatically good. If you are a sailor and an expert at all things related to boats this should come with explicit trade-offs like not being able to read or missing some limbs. This is the part of backgrounds that usually requires [[New Content Negotiation]], even after looking at the world's [[Limits]].
+With this in mind, backgrounds should not be monochromatically good. If you are a sailor and an expert at all things related to boats this should come with explicit trade-offs like not being able to read or missing some limbs. This is the part of backgrounds that usually requires [[New Content Negotiation]], even after looking at the world's [[Limit]].
 
 Mechanically, like all descriptors, backgrounds will modify the [[Difficulty]] of [[Checks]] to which they apply.
 
 All backgrounds should be added to the [[World Sheet]] when complete.
-
----
-
-~~backgrounds need to absorb [[Hooks]] (notably [[Motivation|Motivations]]) now per [[No More Hooks or Boons]]~~

@@ -1,0 +1,1 @@
+Placing a social stigma or taboo can be an interesting way to limit certain new content. This is the sort of thing that will get you [[Bad Reputation]] if you are caught with it 

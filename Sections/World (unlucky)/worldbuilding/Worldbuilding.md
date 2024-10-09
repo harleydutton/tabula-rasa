@@ -9,3 +9,11 @@ In either case, you will need to fill out a [[World Sheet]] with sensible values
 - The [[Store]] is a list of goods and [[Prices]] for things that can be bought and sold within the world. To start, write out a list of a bunch of purchasable things that exist in the world. Once you have a decent list, begin pricing them based the how available they should be.
 - The list of [[Available Skills]] should be populated with answers to the question "What do people in this world **do** to overcome adversity?" Different kinds of fighting, socializing, academics, and resource gathering are usually the first things you should look at when creating [[Skills]].
 - The list of [[Available Backgrounds]] should be populated with answers to the question "What **are** people in this world?" Professions and species are usually the first things you should look at when creating [[Background|Backgrounds]].
+
+---
+
+Things you might want to limit are as follows: This might be things like resurrection, undodgeable attack actions, and fast, long-range communications.
+
+mind control, personal flight, invisibility, instant+long-range comms, undodgeable attacks like guns, AoE attacks like explosions, teleportation, resurrection, mind reading, lie detecting, minions, crafting, agelessness, super strength/speed, letters of credit, damage immunities, incoporeality/being a ghost, money as a superpower.
+
+[[Limit]] is going to be a part of the [[World Sheet]] so this section will need some examples.
