@@ -23,7 +23,7 @@
 
 ---
 
-this information has all been moved over to [[New Content Negotiation (unlucky)]]. trash.
+this information has all been moved over to [[New Content Negotiation]]. trash.
 
 
 

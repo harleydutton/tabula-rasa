@@ -1,8 +1,0 @@
-- charges
-	- 1-x charges
-	- shared secondary resource like mana and costs
-- cooldown
-	- refreshes at downtime
-	- refreshes at sunup/sundown or some other time
-	- refreshes randomly on your turn
-	- refreshes after a random number of turns

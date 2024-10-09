@@ -1,6 +1,0 @@
-So, in the pages where you're struggling with how to appropriately scope skills, that seems an effective self-regulation - finding a way to model proportional trade-offs. "I want to learn sailing". Okay, if you want that to be all kinds of sailing forever - knots, celestial navigation, etc - then you lose out on the ability to have free-form skills of another variety in the future. If we want to avoid a skill-slot system for something like this, then we could give guidelines to the Storyteller that they can either expect the trade-off to be offered with the skill proposal (e.g. i get to be an expert sailor because I don't know how to navigate on land and constantly get lost), or constrained to a smaller, more proportional scope later on (e.g. I know how to tie knots as part of my sailing.... but working with my hands put me in a situation where I never learned how to read?). And the guidelines Tabula publishes are on reaching that shared goal of _proportionality_ - as a proposal
---ethan
-
----
-
-![[Corrupted Mods]]

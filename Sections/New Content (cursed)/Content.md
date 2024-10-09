@@ -1,1 +1,0 @@
-Content is the word for [[Items]], [[Skills]], and [[Background|Backgrounds]] or anything else that exist within a [[World]].

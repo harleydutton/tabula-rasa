@@ -4,4 +4,4 @@ It is the intent of this system that you can play what you want. Players can spe
 
 ---
 
-moved to [[New Content Negotiation (unlucky)|Negotiate New Content]]. trashed.
+moved to [[New Content Negotiation|Negotiate New Content]]. trashed.
