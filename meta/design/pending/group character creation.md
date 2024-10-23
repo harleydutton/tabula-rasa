@@ -11,3 +11,11 @@ What I know of Hillfolk's group character creation worked super well when we did
 mika said this was common for writers and it was called "round-table" something or other
 
 relationships, wants, tensions
+
+---
+
+round table
+writers' room
+group character creation
+helps define inter-character relationships, motivations, and tension
+have at least one for each character in an out
