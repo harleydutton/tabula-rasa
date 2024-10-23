@@ -1,1 +1,0 @@
-Anything that exists within a [[World]] is content. For [[New Content Negotiation (unlucky)]] this typically means [[Items]], [[Skills]], and [[Background|Backgrounds]] but could include things like events within the world or even a [[Non-Player Character]].

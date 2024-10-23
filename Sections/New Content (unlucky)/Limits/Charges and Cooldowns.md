@@ -1,10 +1,8 @@
-
-
 - charges
-	- one charge
+	- 1 charge
 	- attribute charges
-	- d6 charges
-	- attribute+d6 charges determined at refresh
+	- d6 charges (roll each refresh)
+	- attribute+d6 charges (roll each refresh)
 	- larger, flat number of charges
 	- charges determined by special items
 - cooldown
