@@ -1,4 +1,5 @@
 items need:
 - description
-- price/rarity
+- [[Prices]] and maybe [[Rarity]]
 - limits
+- non-person, non-place NOUN
