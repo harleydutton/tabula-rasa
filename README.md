@@ -1,3 +1,3 @@
 Welcome to Tabula Rasa, a very odd roleplaying game.
 
-Poke around or visit harleydutton.github.io/tabula-rasa 
+Poke around here or on the [static site](harleydutton.github.io/tabula-rasa).
