@@ -18,3 +18,18 @@
 - cyberpunk body-mods are available
 - nod is the frame story; I need a picture story:
 	- perhaps each character is looking for some piece of information that is important to them
+- something, something "follow the white rabbit". There should be a rabbit motif.
+- one of the questions I want to haunt players with in this setting is "how do you know if you are awake?"
+- body swappers and replicants should be something that need be worried about.
+- explore the idea that your strongest anchor to reality is the people around you. include back-rooms styled locations. compare "real" people to the versions of them in your dreams.
+- If I am including pop culture references it should be because that pop culture matters. Therefore, nod should be set in modern times.
+	- You find yourself standing in a hallway
+	- Hey you, you're finally awake
+	- follow the white rabbit
+	- that rabbit is dynamite
+	- truck kun
+	- It doesn't look like anything to me
+- I want ways to alarm players and make them doubt the reality I have presented them with without confusing them. Asymmetric information will be one of my best tools. Walking around the table giving information only to specific players will be best.
+- disguises (names, masks, acting, etc.) should be somewhat commonplace
+- objects that should not go missing (like buildings) should go missing sometimes
+- the point of nod should be to have some form of internal certainty that you have escaped nod
