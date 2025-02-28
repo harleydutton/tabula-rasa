@@ -1,0 +1,18 @@
+Run by the [[Quartermaster]]. Sells things like:
+- pickaxes
+- shovels
+- hammers
+- nails
+- saws
+- wooden boards and beams
+- rope
+- lanterns and oil
+- dynamite
+- guns (pistols, rifles, and shotguns)
+- ammunition
+- leather boots, gloves and belts
+- canvas overalls and pants
+- cloth pants and shirts
+- hard-tac
+- canteens
+- travel packs

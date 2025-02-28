@@ -1,0 +1,1 @@
+Keeps the peace. Will kill at least two [[Player|Players]] if they resist. Takes people to [[Jail]] for a night for simple stuff.

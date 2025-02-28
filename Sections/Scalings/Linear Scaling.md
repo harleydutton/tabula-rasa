@@ -1,6 +1,6 @@
-The cost to level up something with linear scaling is the new level in [[Experience]]. If you wish to level something up more than one level at a time, you must still pay for the intermediate levels.
+The cost to level up something with linear scaling is the new level in [[Sections/Character/Experience]]. If you wish to level something up more than one level at a time, you must still pay for the intermediate levels.
 
-|Level|[[Experience]] Cost|Total [[Experience]] Cost|
+|Level|[[Sections/Character/Experience]] Cost|Total [[Sections/Character/Experience]] Cost|
 |-|-|-|
 |1|1|1|
 |2|2|3|

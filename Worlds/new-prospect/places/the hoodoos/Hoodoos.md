@@ -1,0 +1,1 @@
+The area surrounding [[New Prospect]] is filled with the hoodoos of Utah, a scraggly tree in the distance, and circling vultures. If players choose to venture out of town they should find the [[Farmhouse]].

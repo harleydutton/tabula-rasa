@@ -1,0 +1,1 @@
+The mine is filled with treasure and danger, much like a typical dungeon and dragons dungeon. It is a place of great danger and great riches. [[Player]] [[Character|Characters]] can reach it by taking the [[Hand Cart]] from the [[Station]].

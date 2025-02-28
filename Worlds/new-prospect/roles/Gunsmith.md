@@ -1,0 +1,4 @@
+- probably chinese, german, or russian
+- connected to the bank, station, or store
+- probably not always available
+- Can turn monsters parts into more interesting equipment for money

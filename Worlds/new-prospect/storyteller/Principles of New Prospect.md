@@ -1,0 +1,11 @@
+---
+aliases:
+  - Principle of New Prospect
+---
+- The gameplay loop for this game is simple, combat focused and very much on rails. Go into the mine, fight, come out with riches, spend them, and either go into [[Mine]] again or make a new [[Character]]. It relies on the "strike it rich" gold rush mentality of the time.
+	- There are no horses available. Players should not be allowed to leave [[New Prospect]] alive except by [[Hand Cart]] or [[Train]]. See [[Hoodoos]] if they try.
+	- NPCs are unprofitable to kill. They have minimal valuables and the [[Character]] who killed them will be hunted down and killed by [[Sheriff]].  The town and it's NPCs are a machine that takes in people and outputs gold. Do not let the players break the machine.
+	- If a character wishes to avoid this loop, let them and have the player make a new character. If a player wishes to avoid this loop, replace the game or the player.
+- This setting is intended to be hyper-lethal. TPKs are expected. The [[Cemetery]] is ever-expanding and the [[Train]] constantly brings in fresh meat.
+- The [[Mine]] should get progressively more dangerous and more lucrative but eventually the town of new prospect should dig *too* deep and wake something up that comes out and destroys the town.
+- [[Character|Characters]] with specific names may die. Despite that there should always be a replacement waiting in the wings. If your [[Barkeep]] or any other role dies, another character must get off the train and step into their shoes. The roles matter, the characters attached to them do not.

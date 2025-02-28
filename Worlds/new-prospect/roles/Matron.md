@@ -1,0 +1,1 @@
+Introduces [[Character|Characters]] to her girls and boys and relieves them of their money. Directs penniless fools to the [[Quartermaster]].

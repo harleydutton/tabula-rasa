@@ -1,0 +1,1 @@
+Runs the [[Company Store]] and directs [[Character|Characters]] to the old mine when they are feeling ambitious or need coin. Buys treasure from the [[Mine]] for scrip. Won't buy monster parts.

@@ -1,0 +1,1 @@
+Run by the [[Banker]]. Provides [[Character|Characters]] a safe place to store their valuables and may give loans on collateral. The front desk is sturdy there are a few bullet holes behind the counter but many, in long lines on the opposite wall.

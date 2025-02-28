@@ -1,0 +1,6 @@
+- This setting should be representative. There should be a variety of nationalities and LGBTQ representation among the NPCs.
+	- English,African,Mexican,French,Chinese,German,Russian, etc.
+	- there should be queer people and not just in the brothel
+	- update the various npcs to reflect this
+- add some example content to the mine
+- proofread everything

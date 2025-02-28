@@ -1,0 +1,1 @@
+The [[Native Medicine Man]] lives in the tipi on the edge of town. Players can bring their wounded here for healing.

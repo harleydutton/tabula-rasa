@@ -1,6 +1,6 @@
-The cost to level up something with quadratic scaling is the new level squared in [[Experience]]. If you wish to level something up more than one level at a time, you must still pay for the intermediate levels.
+The cost to level up something with quadratic scaling is the new level squared in [[Sections/Character/Experience]]. If you wish to level something up more than one level at a time, you must still pay for the intermediate levels.
 
-|Level|[[Experience]] Cost|Total [[Experience]] Cost|
+|Level|[[Sections/Character/Experience]] Cost|Total [[Sections/Character/Experience]] Cost|
 |-|-|-|
 |1|1|1|
 |2|4|5|

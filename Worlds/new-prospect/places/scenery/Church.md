@@ -1,0 +1,1 @@
+The church is abandoned and seems to have caught on fire at some point in the past.

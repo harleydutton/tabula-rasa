@@ -1,0 +1,1 @@
+Batwing doors and barrel stools. Frequented by most [[Character|Characters]] depending on time of day. [[Barkeep]] and [[should direct players to [[Company Store]] or [[Mine]] or [[Quartermaster]]

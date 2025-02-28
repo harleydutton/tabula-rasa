@@ -1,0 +1,1 @@
+Water supply for [[New Prospect]]. If polluted the price of booze at the [[Saloon]] goes up.

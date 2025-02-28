@@ -2,4 +2,4 @@
 |-|-|-|
 |individual|+|2|
 |spent|-|25|
-|current [[Experience]]|=|7|
+|current [[Sections/Character/Experience]]|=|7|
