@@ -4,3 +4,4 @@
 	- update the various npcs to reflect this
 - add some example content to the mine
 - proofread everything
+- untangle this branch from the descriptors branch :(
