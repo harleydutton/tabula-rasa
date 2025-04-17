@@ -5,3 +5,5 @@
 - add some example content to the mine
 - proofread everything
 - untangle this branch from the descriptors branch :(
+- change [[New Prospect]] into a [[World Sheet]] and add touchstones to it
+- include some kind of note on safety and representation as we are dealing with a real place in a fictional setting.

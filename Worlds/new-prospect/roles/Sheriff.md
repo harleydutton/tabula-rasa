@@ -1,1 +1,1 @@
-Keeps the peace. Will kill at least two [[Player|Players]] if they resist. Takes people to [[Jail]] for a night for simple stuff.
+Keeps the peace. Will kill at least one [[Character]] if the [[Player|Players]] resist. Takes people to [[Jail]] for a night for simple stuff. Longer for heinous or repeated crimes. 

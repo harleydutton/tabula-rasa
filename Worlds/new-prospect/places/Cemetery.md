@@ -1,4 +1,4 @@
-The cemetery is run by the [[Undertaker]] and foreshadows for the dangers present in [[Mine]]. Below is an initial list of graves but [[Character|Characters]] who die should be added to it:
+Run by the [[Undertaker]] and foreshadows for the dangers present in [[Mine]]. Below is an initial list of graves but [[Character|Characters]] who die should be added to it:
 - Christopher Serret -- Bisected -- 1869
 - Hepzibah Vansant -- Cupid's disease -- 1863
 - Constant Kilgore -- Dysentery -- 1866
@@ -18,7 +18,7 @@ The cemetery is run by the [[Undertaker]] and foreshadows for the dangers presen
 - Phila Kilgore -- Blood Loss -- 1869
 - Prosperity Liggit -- Turned to Stone -- 1869
 - James Boyd -- Disemboweled -- 1866
-- Seth Kimble -- Food Poisoning -- 1865
+- Seth Kimble -- Starved -- 1865
 - Josiah Alexander -- Gored -- 1869
 - Theodosia Jarret -- Typhoid -- 1967
 - Elizabeth White -- Cholera -- 1962

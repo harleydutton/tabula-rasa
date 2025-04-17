@@ -1,0 +1,1 @@
+Cures poisons and diseases for [[Money]]. Stiches and bandages other wounds.

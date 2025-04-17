@@ -1,0 +1,1 @@
+Fabulously wealthy. Works to maintain the status quo. Frowns on housing projects and new businesses for some reason.

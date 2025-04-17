@@ -1,0 +1,1 @@
+Where naughty [[Character|Characters]] are put for a night or longer if they break the rules. Sentences can be reduced by paying a "fine" to the [[Sheriff]].

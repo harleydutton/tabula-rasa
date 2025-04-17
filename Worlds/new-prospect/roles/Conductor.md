@@ -1,1 +1,1 @@
-Operates the [[Train]] to and from the [[Back East|East]].
+Operates the [[Train]] to and from the [[Back East|East]] for [[Money]].

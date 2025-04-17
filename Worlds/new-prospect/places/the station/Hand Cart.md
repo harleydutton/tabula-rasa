@@ -1,1 +1,0 @@
-There is a small rail line with a hand cart leading to the [[Mine]]. [[Player]] [[Character|Characters]] can go to or from the mine whenever they want.

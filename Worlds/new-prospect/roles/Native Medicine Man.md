@@ -1,1 +1,0 @@
-Heals [[Character|Characters]] for money. Pacificist. Lives in the [[Tipi]].

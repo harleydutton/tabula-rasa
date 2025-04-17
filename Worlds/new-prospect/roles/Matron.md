@@ -1,1 +1,1 @@
-Introduces [[Character|Characters]] to her girls and boys and relieves them of their money. Directs penniless fools to the [[Quartermaster]].
+Relieves [[Character|Characters]] of their [[Money]] and introduces them to her boys and girls for a night of fun. Directs penniless fools to the [[Quartermaster]].

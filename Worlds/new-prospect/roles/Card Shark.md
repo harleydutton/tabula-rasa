@@ -1,1 +1,1 @@
-Hangs around the [[Saloon]] and plays cards. Loses the first game and wins the rest by cheating. Proficient duelist.
+Hangs around the [[Saloon]] or [[Brothel]] and plays cards. Loses the first game and wins the rest by cheating. Proficient duelist.

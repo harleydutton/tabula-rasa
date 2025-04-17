@@ -1,1 +1,0 @@
-Where naughty [[Character|Characters]] are put for a night or longer if they break the rules.

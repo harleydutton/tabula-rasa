@@ -1,2 +1,2 @@
-Run by the [[Matron]] who has two gals and a guy working for her.
+Run by the [[Matron]]. [[Card Shark]] can be found here.
 
