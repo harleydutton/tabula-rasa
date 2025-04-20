@@ -5,7 +5,7 @@ ethan an i were talking about permanent statuses like losing an arm being conver
 maybe this could be part of [[Rest]] or [[Narrated Scene]]:
 - heal all temporary [[Negative Statuses]] that will go away on their own
 - use permanent statuses to balance new [[Background|Backgrounds]]
-- get [[Sections/Character/Experience]] for unbalanced permanent statuses
+- get [[Experience]] for unbalanced permanent statuses
 - remove permanent statuses from counting against [[Catch-All Skills]] and put them with backgrounds in both cases
 
 ----

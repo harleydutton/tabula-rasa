@@ -1,6 +1,0 @@
-- Did you make use of the Brothel?
-- Did you drink something stronger than water?
-- Did you go deeper?
-- Did you find strike it rich?
-- Did you exercise your second amendment rights?
-- You may give another player an experience for a specific scene you feel they roleplayed well.

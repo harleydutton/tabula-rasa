@@ -3,7 +3,7 @@
 	- there should be queer people and not just in the brothel
 	- update the various npcs to reflect this
 - add some example content to the mine
-- proofread everything
 - untangle this branch from the descriptors branch :(
-- change [[New Prospect]] into a [[World Sheet]] and add touchstones to it
 - include some kind of note on safety and representation as we are dealing with a real place in a fictional setting.
+- make the [[New Prospect]] note into an example world sheet
+- change [[New Prospect]] into a [[World Sheet]] and add touchstones to it

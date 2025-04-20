@@ -2,10 +2,13 @@
 aliases:
   - Principle of New Prospect
 ---
-- The gameplay loop for this game is simple, combat focused and very much on rails. Go into the mine, fight, come out with riches, spend them, and either go into [[Mine]] again or make a new [[Character]]. It relies on the "strike it rich" gold rush mentality of the time.
-	- There are no horses available. Players should not be allowed to leave [[New Prospect]] alive except by [[Hand Cart]] or [[Train]]. See [[Hoodoos]] if they try.
-	- NPCs are unprofitable to kill. They have minimal valuables and the [[Character]] who killed them will be hunted down and killed by [[Sheriff]].  The town and it's NPCs are a machine that takes in people and outputs gold. Do not let the players break the machine.
-	- If a character wishes to avoid this loop, let them and have the player make a new character. If a player wishes to avoid this loop, replace the game or the player.
-- This setting is intended to be hyper-lethal. TPKs are expected. The [[Cemetery]] is ever-expanding and the [[Train]] constantly brings in fresh meat.
-- The [[Mine]] should get progressively more dangerous and more lucrative but eventually the town of new prospect should dig *too* deep and wake something up that comes out and destroys the town.
-- [[Character|Characters]] with specific names may die. Despite that there should always be a replacement waiting in the wings. If your [[Barkeep]] or any other role dies, another character must get off the train and step into their shoes. The roles matter, the characters attached to them do not.
+- The gameplay loop for this game is simple, combat focused and very much on rails. Go into the [[Mine]], fight, come out with riches, spend them, repeat. It relies on the "strike it rich" gold rush mentality of the time.
+- This [[World]] is intended to be hyper-lethal. TPKs are expected. The [[Cemetery]] is ever-expanding and the [[Train]] constantly brings in fresh.
+- This game takes place in [[New Prospect]]. As such, travel out of town is very limited.
+	- The [[Mine]] is ultimately a dead end and characters who enter must eventually return to New Prospect.
+	- Characters can head [[Back East]] and retire provided they do not have a loan with the [[Bank]].
+	- If anyone tries to leave town on foot or horse refer to the [[Hoodoos]] section. They should be warned back to town. If they ignore the warning the should be killed.
+- Endings:
+	- The Good: The point of this world is to teach players that the very capitalistic machine formed by the NPCs is evil (even if it is fun) and the good ending is in some way destroying that town-shaped machine. To this end, if one character in a role dies they should be replaced in the next couple sessions but if the players make a concerted effort to kill or ruin everyone in town that should be allowed.
+	- The Bad: The player characters experience success and wealth in new prospect and decide to retire back east, perpetuating the stories of it's riches while leaving the machine intact. The train arrives with fresh miners the next week.
+	- The Ugly: The [[Mine]] should get progressively more dangerous and more lucrative but eventually the players should dig *too* deep and wake something up that comes out and destroys the town killing *everyone* including the player characters. The [[Undertaker]] should attempt to foreshadow this.

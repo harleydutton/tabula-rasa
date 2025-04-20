@@ -13,4 +13,4 @@
 - [[Character]] -- definition, creation, and progression
 - [[World]] -- definition, creation, and progression
 - [[New Content Negotiation]]
-- [[Sections/Character/Experience]]
+- [[Experience]]
