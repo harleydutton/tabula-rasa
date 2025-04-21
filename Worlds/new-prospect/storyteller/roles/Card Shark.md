@@ -1,0 +1,1 @@
+Hangs around the [[Brothel]] and plays cards. Loses the first game and wins the rest by cheating. Proficient duelist.

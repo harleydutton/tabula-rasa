@@ -1,1 +1,1 @@
-Water supply for [[New Prospect]].
+Water supply for [[New Prospect]]. Last Dysentery outbreak in 1866 per the [[Cemetery]].
