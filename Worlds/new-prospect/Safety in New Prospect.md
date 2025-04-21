@@ -6,7 +6,7 @@ This story takes place in a work camp. Chinese immigrants, black Americans freed
 	- Many white businesses would refuse to serve black patrons and white people would refuse to patronize black businesses.
 	- Many white people erroneously viewed black people as stupid and evil because they didn't speak English fluently and were not Christian.
 	- Black mothers named their children very unique names such that if their children were sold they might be able to recognize them by name in the future.
-- When the colonists arrived in North America they stole the American Indian peoples' land and attempted to genocide them. The Latter Day Saint movement to Utah was active in 1869 and American Indians were targeted for conversion attempts because they were mentioned in the Book of Mormon:
+- When the colonists arrived in North America they stole the American Indian peoples' land and attempted to genocide them. The Latter Day Saint movement to Utah was active in 1869 and American Indians were targeted for conversion attempts because their likeness appears in the Book of Mormon:
 	- American Indians were referred using terms like "noble savages" and "Indian". While "Indian" was previously offensive it has since been reclaimed.
 	- American Indians were repeatedly kicked off of their land by pioneers and the United States government.
 	- American Indians were thought to be stupid and religiously misguided.
