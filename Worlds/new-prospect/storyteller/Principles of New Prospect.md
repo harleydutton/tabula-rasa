@@ -4,7 +4,7 @@ aliases:
 ---
 - The gameplay loop for this game is simple, combat focused and very much on rails. Go into the [[Mine]], fight, come out with riches, spend them, repeat. It relies on the "strike it rich" gold rush mentality of the time.
 - This [[World]] is intended to be hyper-lethal. TPKs are expected. The [[Cemetery]] is ever-expanding and the [[Train]] constantly brings in fresh.
-- Instead of full NPCs I provide you, the storyteller, with Roles. These are character outlines that tell you what each role should be doing within your story but leaves the details open to you to define. I have provided some [[New Prospect Names]] to make that easier but I suspect you already have a mental image of each of the stereotypical western-movie characters.
+- Instead of full NPCs I provide you, the storyteller, with Roles. These are character outlines that tell you what each role should be doing within your story but leaves the details open to you to define. I have provided some [[Names in New Prospect]] to make that easier but I suspect you already have a mental image of each of the stereotypical western-movie characters.
 - New prospect is intended to be a closed system. As such, travel out of town is very limited.
 	- The [[Mine]] is ultimately a dead end and characters who enter must eventually return to New Prospect or perish there.
 	- Characters can head [[Back East]] and retire provided they do not have a loan with the [[Bank]].
