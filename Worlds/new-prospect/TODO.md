@@ -1,4 +1,4 @@
 - change [[New Prospect]] into a [[World Sheet]]
-	- English,African,Mexican,French,Chinese,German,Russian,Native etc.
+	- English,African,Mexican,French,Chinese,German,Russian,Native,Irish, etc.
 	- touchstones: dungeons and dragons and the old west
 	- add some example content to the mine
