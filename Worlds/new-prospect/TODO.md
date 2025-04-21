@@ -1,9 +1,4 @@
-- This setting should be representative. There should be a variety of nationalities and LGBTQ representation among the NPCs.
-	- English,African,Mexican,French,Chinese,German,Russian, etc.
-	- there should be queer people and not just in the brothel
-	- update the various npcs to reflect this
-- add some example content to the mine
-- untangle this branch from the descriptors branch :(
-- include some kind of note on safety and representation as we are dealing with a real place in a fictional setting.
-- make the [[New Prospect]] note into an example world sheet
 - change [[New Prospect]] into a [[World Sheet]] and add touchstones to it
+	- English,African,Mexican,French,Chinese,German,Russian,Native etc.
+	- touchstones: dungeons and dragons and the old west
+	- add some example content to the mine
