@@ -1,0 +1,1 @@
+As you are walking, the ground feels oddly... bouncy? After a couple more steps you suddenly sink to the knee and are stuck fast.

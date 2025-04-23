@@ -23,28 +23,29 @@ Name: New Prospect
 - no starting with magic
 - no resurrecting or healing faster than normal
 ## Store
-| Free                   | [[Prices\|Cheap]]   | [[Prices\|Expensive]]           |
-| ---------------------- | ------------------- | ------------------------------- |
-| Water                  | Food                | The interest on [[Bank]] loans  |
-| Nails                  | Hammer              | Magic items                     |
-| Wood                   | Saw                 | Magic                           |
-| Cloth shirts           | Pickaxe             | Treasure                        |
-| Canvas pants           | Shovel              | [[Train]] tickets [[Back East]] |
-| Ammunition             | Six shooter         | Horse                           |
-| Canvas overalls        | Lever-action Rifle  | Servants or workers             |
-| Leather belts          | Pump-action Shotgun | Land and or Building            |
-| Oil                    | Lantern             | Armor                           |
-| Leather boots          | Rope                |                                 |
-| Leather gloves         | Dynamite            |                                 |
-| Cloth pants            | Canvas tent         |                                 |
-| Travel pack            | Whiskey             |                                 |
-| Canteen                | Musical instrument  |                                 |
-| Needle and thread      | Cookpot             |                                 |
-| Knife                  | Canary              |                                 |
-| Coyboy hat             | Fancy clothes       |                                 |
-| Cards, dice, and chips |                     |                                 |
+| Free              | [[Prices\|Cheap]]   | [[Prices\|Expensive]]           |
+| ----------------- | ------------------- | ------------------------------- |
+| Water             | Food                | The interest on [[Bank]] loans  |
+| Nails             | Hammer              | Magic items                     |
+| Wood              | Saw                 | Magic                           |
+| Cloth shirts      | Pickaxe             | Treasure                        |
+| Canvas pants      | Shovel              | [[Train]] tickets [[Back East]] |
+| Ammunition        | Six shooter         | Horse                           |
+| Canvas overalls   | Lever-action rifle  | Servants or workers             |
+| Leather belts     | Pump-action shotgun | Land and or Building            |
+| Oil               | Lantern             | Armor                           |
+| Leather boots     | Rope                |                                 |
+| Leather gloves    | Dynamite            |                                 |
+| Cloth pants       | Canvas tent         |                                 |
+| Travel pack       | Whiskey             |                                 |
+| Canteen           | Musical instrument  |                                 |
+| Needle and thread | Cookpot             |                                 |
+| Knife             | Canary              |                                 |
+| Coyboy hat        | Fancy clothes       |                                 |
+| Cards             | Bullwhip            |                                 |
+| Dice              |                     |                                 |
 ## Backgrounds
-- Race: English, Dutch, Irish, African, Chinese, American Indian, Mexican, French, etc.
+- Race: English, Irish, African, Chinese, Dutch, American Indian, Mexican, French, etc.
 ## Available Skills
 - Shooting
 - Demolition
