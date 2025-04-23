@@ -1,0 +1,1 @@
+You hear a rattling noise coming from somewhere nearby

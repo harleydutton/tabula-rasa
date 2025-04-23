@@ -1,0 +1,1 @@
+Humanoid forms of spinning dust. They have bandoliers, guns, boots, cowboy hats, and a perverse love for dynamite. 

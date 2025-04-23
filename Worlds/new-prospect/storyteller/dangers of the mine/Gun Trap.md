@@ -1,0 +1,1 @@
+Your foot catches on a line and a gun reports, echoing. Are you hit? Did anything hear?

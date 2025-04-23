@@ -1,0 +1,1 @@
+Someone seems to have rigged up a pickaxe to swing towards you at chest height with quite a bit of force.

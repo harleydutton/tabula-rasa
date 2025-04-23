@@ -1,0 +1,1 @@
+A great, animated construct of crystal, metal and stone powered by an unknown source. Try not to get squashed.

@@ -1,0 +1,1 @@
+The door grinds shut behind you and you hear a deafening rumble. The ceiling appears to be getting closer!

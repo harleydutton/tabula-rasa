@@ -1,0 +1,1 @@
+As you open the chest a pair of wiry arms reaches out, grabs you, pulls you closer, and begins savagely biting you with it's fanged maw.

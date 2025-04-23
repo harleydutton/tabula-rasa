@@ -1,0 +1,1 @@
+lines and veils should go on world sheet. Update [[New Prospect]] to reflect this.

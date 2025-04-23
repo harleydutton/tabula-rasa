@@ -1,0 +1,1 @@
+The dead roam the tunnels and halls of the [[Mine]] and attack you with unthinking, unfeeling fervor. Gun's aren't a terribly effective way to deal with them either.

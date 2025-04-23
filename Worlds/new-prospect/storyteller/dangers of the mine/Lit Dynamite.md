@@ -1,0 +1,1 @@
+Someone just tossed a lit stick of dynamite at you!
