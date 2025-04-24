@@ -11,6 +11,7 @@ Name: New Prospect
 |           |            |
 |           |            |
 |           |            |
+|           |            |
 ## Rubric
 - Did you show up?
 - Did you go deeper?
@@ -18,9 +19,10 @@ Name: New Prospect
 - Did you exercise your second amendment rights?
 - Did you spend the night in the [[Brothel]]?
 - Did you drink something that put a fire in your belly?
-- You may give another player an experience for a specific scene you feel they roleplayed well.
+- Did someone else think you roleplayed well in a specific scene?
 ## Limits
 - no starting with magic
+- no skills or backgrounds that would allow you to easily travel or communicate with people outside of town
 - no resurrecting or healing faster than normal
 ## Store
 | Free              | [[Prices\|Cheap]]   | [[Prices\|Expensive]]           |
@@ -34,7 +36,7 @@ Name: New Prospect
 | Canvas overalls   | Lever-action rifle  | Servants or workers             |
 | Leather belts     | Pump-action shotgun | Land and or Building            |
 | Oil               | Lantern             | Armor                           |
-| Leather boots     | Rope                |                                 |
+| Leather boots     | Rope                | Shield                          |
 | Leather gloves    | Dynamite            |                                 |
 | Cloth pants       | Canvas tent         |                                 |
 | Travel pack       | Whiskey             |                                 |
@@ -43,12 +45,17 @@ Name: New Prospect
 | Knife             | Canary              |                                 |
 | Coyboy hat        | Fancy clothes       |                                 |
 | Cards             | Bullwhip            |                                 |
-| Dice              |                     |                                 |
+| Dice              | Spear               |                                 |
+| Arrows            | Bow                 |                                 |
 ## Backgrounds
 - Race: English, Irish, African, Chinese, Dutch, American Indian, Mexican, French, etc.
+- Profession: tbd
+- History: tbd
 ## Available Skills
 - Shooting
 - Demolition
 - Digging
 - Carpentry
 - Trapping
+- Medicine
+- Camping

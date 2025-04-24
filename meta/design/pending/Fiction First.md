@@ -1,0 +1,1 @@
+As opposed to "mechanics first". This is a way to explain roleplaying to someone. "I ask Mr. Valentine if he would sell me his apartment building" vs "I roll a 6 and spend $300 buying Connecticut Ave".

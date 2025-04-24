@@ -1,5 +1,4 @@
-Did you:
-- show up?
-- roleplay well?
-- complete an objective?
-- lean into the worldbuilding?
+- Did you show up?
+- Did someone else think you roleplayed well in a specific scene?
+- Did you complete an objective?
+- Did you do something that exemplifies the world in which you are playing?

@@ -1,0 +1,2 @@
+- it might be worth adding information about [[Narrated Scene]]s(downtime) to the [[Time Pane]].
+- similarly it might be worth adding some information for [[Travel]] as a combination of time and [[Distance]].

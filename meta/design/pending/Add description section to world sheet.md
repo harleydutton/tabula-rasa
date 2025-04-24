@@ -1,1 +1,0 @@
-[[Touchstones]] might handle this but world sheets probably need to have a description on them too.
