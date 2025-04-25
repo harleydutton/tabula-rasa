@@ -3,3 +3,7 @@ this is a placeholder. the idea is that there will be [[Restriction|Restrictions
 ---
 
 Any tech or magic restrictions are the easiest and should be the first ones to be added. this should go in the worldbuilding section.
+
+---
+
+is there any  reason this can't be a limits list?

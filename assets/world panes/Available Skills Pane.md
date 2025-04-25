@@ -4,9 +4,4 @@
 - skill name
 - skill name
 - skill name
-- skill name
-- skill name
-- skill name
-- skill name
-- skill name
 - etc.

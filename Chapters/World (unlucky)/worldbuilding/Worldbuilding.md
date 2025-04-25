@@ -1,4 +1,4 @@
-Worldbuilding is the process of creating a fictional [[World]] in which to tell stories and roleplay characters. Developing a history, culture, ecology, and any number of other [[Worldbuilding Elements]] with purpose is key to creating a coherent world. Alternatively, there exists plenty of [[Source Material]] like books, films, and games already with worlds you can use. This game also expects [[Player|Players]] to create portions of the world over time.
+Worldbuilding is the process of creating a fictional [[World]] in which to tell stories and roleplay characters. Developing a history, culture, ecology, and any number of other [[Worldbuilding Elements]] with purpose is key to creating a coherent world. Alternatively, there exist plenty of [[Touchstone]] like books, films, and games already with worlds you can use. This game also expects [[Player|Players]] to create portions of the world over time.
 
 In either case, you will need to fill out a [[World Sheet]] with sensible values. This is a guide for doing so:
 

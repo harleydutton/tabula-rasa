@@ -1,6 +1,7 @@
-## Domain
+## About
 Name: New Prospect
-[[Domain]]: The town of New Prospect and the old [[Mine]]
+Description: Small, fictitious, old-west town called New Prospect. Set in 1869, Utah. The stories of wealth in the nearby mine bring people to town and it's denizens put them in the cemetery.
+Touchstones: Above ground the town of New Prospect is similar to the one seen in the movie High Plains Drifter. Below ground, the mine is a D&D dungeon, with some optional old-west spice.
 ## Time
 [[Default Delay]]: 10 [[Tick|Ticks]]
 [[Tick Length]]: 1 second
@@ -47,6 +48,7 @@ Name: New Prospect
 | Cards             | Bullwhip            |                                 |
 | Dice              | Spear               |                                 |
 | Arrows            | Bow                 |                                 |
+| Leather Duster    |                     |                                 |
 ## Backgrounds
 - Race: English, Irish, African, Chinese, Dutch, American Indian, Mexican, French, etc.
 - Profession: tbd

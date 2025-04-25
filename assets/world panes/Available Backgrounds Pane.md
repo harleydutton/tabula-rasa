@@ -1,15 +1,9 @@
-- background
-- background
+- background 1
+	- special power
 	- tradeoff
-- background
-	- part 1
-	- part 2
-	- part 3
-- background
-	- exclusion
-- background
-	- cost
-- background
-- background
-	- restriction
-- background
+- background 2
+	- special power
+	- tradeoff
+- background 3
+	- special power
+	- tradeoff

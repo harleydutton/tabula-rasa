@@ -1,1 +1,0 @@
-The experience rubric is intended to be a [[Storyteller]]-created way to incentivize and reward players. It takes the form of a series of yes-no questions per [[Earning Experience]].
