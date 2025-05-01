@@ -1,6 +1,6 @@
 previously i had the desire to group npcs in combat
 [[Non-Player Character]]
-[[Timed Scene]]
+[[Combat]]
 
 ---
 

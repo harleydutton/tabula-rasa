@@ -1,7 +1,0 @@
-- add touchstones and description to the world sheet
-	- Touchstones: The old west above ground and dungeons and dragons below, in the mine
-	- Description: New prospect is a small mining town on the end of the new rail line in 1869 Utah. Folk from all over are drawn to prospect by stories of fabulous riches unrivaled since the California gold rush of 1849.
-- add lines and veils to safety section of world sheet
-- think about adding these to the backgrounds section
-	- English,African,Mexican,French,Chinese,German,Russian,Native,Irish, etc.
-	- research common jobs at the time and add those as backgrounds maybe

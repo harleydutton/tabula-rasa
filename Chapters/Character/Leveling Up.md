@@ -2,4 +2,4 @@
 aliases:
   - Level Up
 ---
-Over the course of the [[Story]], as the [[Storyteller]] distributes [[Experience]], [[Player|Players]] will have the option to make their [[Character|Characters]] stronger by spending that experience. [[Attribute|Attributes]] use [[Quadratic Scaling]] to level up. New and existing [[Skills|Skills]] use [[Linear Scaling]] to level up. [[New Content Negotiation|Negotiate New Content]] if you want new skills, [[Background|Backgrounds]], or [[Items]].
+At the beginning of the [[Story]] and throughout it the [[Storyteller]] will distribute [[Experience]] using the [[Rubric]]. [[Player|Players]] will have the option to level up their [[Character|Characters]] by spending that experience on [[Attribute|Attributes]] and [[Skills]]. Attributes use [[Quadratic Scaling]] to level up. New and existing skills use [[Linear Scaling]] to level up. [[New Content Negotiation|Negotiate New Content]] with your storyteller if you want new skills, [[Background|Backgrounds]], or [[Items]].

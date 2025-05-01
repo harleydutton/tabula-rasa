@@ -1,0 +1,4 @@
+- Lines
+	- subjects that will not be allowed in roleplay for your group
+- Veils
+	- subjects that will be glossed over in roleplay for your group

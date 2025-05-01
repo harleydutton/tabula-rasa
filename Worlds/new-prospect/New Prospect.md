@@ -1,14 +1,14 @@
 ## About
 Name: New Prospect
-Description: Small, fictitious, old-west town called New Prospect. Set in 1869, Utah. The stories of wealth in the nearby mine bring people to town and it's denizens put them in the cemetery.
-Touchstones: Above ground the town of New Prospect is similar to the one seen in the movie High Plains Drifter. Below ground, the mine is a D&D dungeon, with some optional old-west spice.
+Description: New prospect is a small mining town on the end of the new rail line in 1869 Utah. Folk from all over are drawn in by stories of fabulous riches unrivaled since the California gold rush of 1849.
+Touchstones: Above ground the town of New Prospect is similar to the one seen in the movie High Plains Drifter. Below ground, the mine is a D&D dungeon, and imagining The Lord of The Rings would put in the right ballpark.
 ## Time
 [[Default Delay]]: 10 [[Tick|Ticks]]
 [[Tick Length]]: 1 second
 ## Experience Tracker
 | Recipient | Experience |
 | --------- | ---------- |
-| Group     |            |
+| Group     | 30         |
 |           |            |
 |           |            |
 |           |            |
@@ -21,8 +21,8 @@ Touchstones: Above ground the town of New Prospect is similar to the one seen in
 - Did you spend the night in the [[Brothel]]?
 - Did you drink something that put a fire in your belly?
 - Did someone else think you roleplayed well in a specific scene?
-## Limits
-- no starting with magic
+## Banned Content
+- no starting with a magic skill or as a magic being
 - no skills or backgrounds that would allow you to easily travel or communicate with people outside of town
 - no resurrecting or healing faster than normal
 ## Store
@@ -51,8 +51,7 @@ Touchstones: Above ground the town of New Prospect is similar to the one seen in
 | Leather Duster    |                     |                                 |
 ## Backgrounds
 - Race: English, Irish, African, Chinese, Dutch, American Indian, Mexican, French, etc.
-- Profession: tbd
-- History: tbd
+- Professions: fisherman, farmer, rancher, hunter, baker, tanner, tailor, cobbler, smith, machinist, carpenter, merchant, mercenary, soldier
 ## Available Skills
 - Shooting
 - Demolition
@@ -61,3 +60,13 @@ Touchstones: Above ground the town of New Prospect is similar to the one seen in
 - Trapping
 - Medicine
 - Camping
+## Lines and Veils
+- lines
+	- bigotry
+	- rape
+	- harm to children
+- veils
+	- torture
+	- sex
+## Safety
+![[Safety]]

@@ -1,4 +1,4 @@
-I think apocalypse uses clocks to represent progress on extended actions. I might steal this system ~~and have [[Narrated Scene]] be the trigger to tick them up.~~
+I think apocalypse uses clocks to represent progress on extended actions. I might steal this system ~~and have [[Downtime]] be the trigger to tick them up.~~
 This system is used by blades in the dark.
 
 clocks are a circle with pie-slice lines through them creating some multiple of two number of pie slices. these are to represent progress of some kind that can be tracked. BITD suggests putting them on index cards in the middle of the table. there are multiple kinds of clock:

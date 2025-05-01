@@ -1,0 +1,1 @@
+For most purposes, [[Items]], [[Skills]], and [[Background|Backgrounds]] are content. Really though, anything that exists within a [[World]] is content. This can include things like historical events or even [[Non-Player Character|Non-Player Characters]].

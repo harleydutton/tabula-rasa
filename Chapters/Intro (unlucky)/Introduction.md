@@ -1,1 +1,1 @@
-[[index|Tabula Rasa]] is tabletop roleplaying game. It aims to be rules-light, generic, and easy to learn. Most importantly, it aims to enable [[Player|Players]] to homebrew [[Content]] their [[Storyteller]] will find acceptable.
+[[index|Tabula Rasa]] is tabletop roleplaying game wiki. It aims to be rules-light, generic, and easy to learn. Most importantly, it aims to enable [[Player|Players]] to homebrew [[Content]] their [[Storyteller]] will find acceptable.

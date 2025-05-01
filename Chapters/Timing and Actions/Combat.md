@@ -1,0 +1,1 @@
+Combat is the name [[index|Tabula Rasa]] uses for any scene where speed matters a lot like races, fights, and other competitive activities. To begin combat, roll [[Initiative]].

@@ -2,7 +2,7 @@ ethan an i were talking about permanent statuses like losing an arm being conver
 
 ---
 
-maybe this could be part of [[Rest]] or [[Narrated Scene]]:
+maybe this could be part of [[Rest]] or [[Downtime]]:
 - heal all temporary [[Negative Statuses]] that will go away on their own
 - use permanent statuses to balance new [[Background|Backgrounds]]
 - get [[Experience]] for unbalanced permanent statuses

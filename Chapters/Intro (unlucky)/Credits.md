@@ -1,1 +1,1 @@
-This roleplaying system was created by Harley Dutton. Some supplemental materials like the Sequoia world were also created by me. Special thanks to Niel Bernheim, Stefan Whalberg and Ethan Johnston.
+This roleplaying system was created by me, Harley Dutton. Some supplemental materials like the worlds Sequoia, Nod, and New Prospect were also created by me. Special thanks to Ethan, Stefan, and Niel.

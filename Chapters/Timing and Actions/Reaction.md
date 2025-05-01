@@ -2,5 +2,4 @@ A [[Character]] can use their reaction to make a [[Checks|Check]] but only when 
 - dodge
 - block
 - parry
-- preemptive strike
 - counterattack

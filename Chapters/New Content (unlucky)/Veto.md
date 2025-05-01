@@ -1,1 +1,0 @@
-The [[Storyteller]] can reject a [[Proposal]] that doesn't violate anything on the [[Restrictions List]] by vetoing it. If they do this, they must add a new [[Restriction]] to avoid such problems in the future. This new restriction should be a rule that disallows things like the vetoed content, and not just the vetoed content.

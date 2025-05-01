@@ -1,0 +1,7 @@
+- charges
+	- one charge
+	- attribute charges
+	- d6 charges
+	- attribute+d6 charges determined at refresh
+	- larger, flat number of charges
+	- charges determined by special items

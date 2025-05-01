@@ -4,7 +4,7 @@ It might be useful to tackle the disambiguation of "movement" and "travel" at th
 
 "distance", "range bands", "zones", "line of sight", "cover", "rough terrain" and the rest probably need to be addressed.
 
-From [[Travel (old)]] which I am in the process of untangling from [[Scene|Scenes]].
+From [[Travel (old)]] which I am in the process of untangling from [[delete me|Scenes]].
 
 ----
 
