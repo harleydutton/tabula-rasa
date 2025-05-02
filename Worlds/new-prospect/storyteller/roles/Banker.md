@@ -1,0 +1,1 @@
+Runs the [[Bank]]. Provides loans for collateral or interest. Has a Gatling gun behind the counter.

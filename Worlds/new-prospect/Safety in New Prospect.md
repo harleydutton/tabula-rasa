@@ -1,0 +1,18 @@
+This story takes place in a work camp. Chinese immigrants, black Americans freed from slavery, and American Indians were some of the groups of people who actually experienced work camps at this time. Treat any such characters with respect and dignity. Bigotry is an unneeded and unwanted element in this story, but because this world--one without bigotry--is so different from the realities of Utah in 1869 I feel I owe you, dear reader, a small history lesson to set the record straight:
+- This world is set four years after the American Civil war the result of which made slavery illegal in the United States. Despite this, black Americans were still treated like second class citizens and were, in many instances, still enslaved:
+	- Black Americans were commonly referred to using slurs like "nigger", "blackey", and "negro".
+	- The only work most freed slaves could find was doing the same work they had been enslaved to do. Furthermore, employers paid typically black workers less than white workers and refused to promote them.
+	- Black Americans were frequently lynched by groups like the KKK.
+	- Many white businesses would refuse to serve black patrons and white people would refuse to patronize black businesses.
+	- Many white people erroneously viewed black people as stupid and evil because they didn't speak English fluently and were not Christian.
+	- Black mothers named their children very unique names such that if their children were sold they might be able to recognize them by name in the future.
+- When the colonists arrived in North America they stole the American Indian peoples' land and attempted to genocide them. The Latter Day Saint movement to Utah was active in 1869 and American Indians were targeted for conversion attempts because their likeness appears in the Book of Mormon:
+	- American Indians were referred to using terms like "(noble) savage", "Injun" and "Indian". While "Indian" was previously offensive it has since been reclaimed.
+	- American Indians were repeatedly kicked off of their land by pioneers and the United States government.
+	- American Indians were thought to be stupid and religiously misguided.
+	- Native American culture was commonly passed down through oral tradition and the murder of their elders and conversion attempts by churches like the Latter Day Saints caused much of their culture to be forgotten.
+- The Union Pacific Railroad and Central Pacific Railroad companies finished the Transcontinental railroad in Promontory, Utah in 1869. This was a monumental human undertaking requiring immense quantities of manual labor. The railroad companies employed and later exploited Chinese immigrants, among others, to build it:
+	- Commonly used at the time, "Chinaman" is now an offensive term.
+	- Unlike their white counterparts, Chinese railroad workers were forced to live in work camps where they had to pay for food, lodging, supplies, and equipment. In many ways the player characters will be stepping into their shoes.
+	- In many instances railroad workers were paid in "chit" which is essentially store credit for the [[Company Store]]. This meant workers could not quit their jobs because they didn't actually have any real money and the company could treat them like slaves. When Chinese workers went on strike on June 24th, 1867 demanding better working conditions and more pay the railroad simply stopped selling them food breaking and the strike broke a week later with no demands met.
+	- Chinese workers were denied much of the credit for building the railroads and in 1870 many of them were deported from the United States in a wave of anti-Chinese sentiment.

@@ -5,3 +5,13 @@ What I know of Hillfolk's group character creation worked super well when we did
 3. going clockwise, define something your character wants from another character
 	- they choose a reason they don't want to give you that
 4. repeat the middle steps 2 and 3 until satisfied
+
+---
+
+mika said this was common for writers and it was called "round-table" something or other
+
+relationships, wants, tensions
+
+---
+
+round table writers' room group character creation helps define inter-character relationships, motivations, and tension have at least one for each character in an out

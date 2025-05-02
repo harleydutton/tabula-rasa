@@ -1,0 +1,1 @@
+After presenting the [[Player]] [[Character|Characters]] with the [[Farmhouse]], they should see vultures circling overhead and get attacked by bandits. If they win, they should notice the vultures being scared off by another bird that circles much slower. This is the [[Roc]].

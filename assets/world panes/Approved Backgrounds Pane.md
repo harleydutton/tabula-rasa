@@ -1,0 +1,9 @@
+- background 1
+	- special power
+	- tradeoff
+- background 2
+	- special power
+	- tradeoff
+- background 3
+	- special power
+	- tradeoff

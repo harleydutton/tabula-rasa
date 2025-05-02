@@ -1,0 +1,1 @@
+A character's speed represents how quickly they act in [[Combat]] per [[Turn Delay]]. Speed can be leveled up using the [[Quadratic Scaling]] chart.

@@ -1,0 +1,1 @@
+The mine is filled with treasure, traps, and monsters. It seems like there are many dead and lost civilizations down there. [[Player]] [[Character|Characters]] can reach it by taking the [[Hand Cart]] from the [[Station]].

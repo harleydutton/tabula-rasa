@@ -1,8 +1,7 @@
-
-| free | cheap | expensive |
-| ---- | ---- | ---- |
-| beer | sword | land or housing |
-| food | horse | workers |
-| lodgings | entertainment | jewelery |
-| clothes | hookers |  |
-| drugs | musical instrument |  |
+| free    | cheap       | expensive |
+| ------- | ----------- | --------- |
+| water   | food        | buildings |
+| clothes | intoxicants | workers   |
+| ammo    | lodging     | vehicles  |
+|         | tools       | armor     |
+|         | weapons     |           |

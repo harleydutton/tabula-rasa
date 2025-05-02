@@ -1,0 +1,4 @@
+- no messing with time
+- no cheating death
+- no more than one attack per turn
+- no attacking multiple enemies

@@ -1,0 +1,1 @@
+You have delved too greedily and too deeply and awoken something in the darkness. It should be obvious in retrospect that there would be a dragon at the bottom of this [[Mine]] filled with treasure. 

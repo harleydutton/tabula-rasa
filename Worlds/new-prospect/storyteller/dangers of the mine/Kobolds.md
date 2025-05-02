@@ -1,0 +1,1 @@
+There are numerous, strange, waist-high humanoid lizards that inhabit the mine. They are drawn to flames and will start fires and steal treasure if left unchecked.

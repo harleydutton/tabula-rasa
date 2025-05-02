@@ -1,0 +1,1 @@
+Though the floor to this hallway is stone, this section sounds like metal as you walk across it. It feels sturdy until it swings away beneath you, revealing a pit filled with spikes.

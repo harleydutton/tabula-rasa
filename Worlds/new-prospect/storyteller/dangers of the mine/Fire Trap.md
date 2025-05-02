@@ -1,0 +1,1 @@
+A pressure plate in the floor causes gouts of flame to spew forth from a nearby wall.

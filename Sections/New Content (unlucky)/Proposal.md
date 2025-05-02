@@ -1,1 +1,0 @@
-A proposal is one piece of [[Content]] a [[Player]] would like added to the [[World]]. Proposals can include [[Limit|Limits]] and must not violate the world's [[Restriction|Restrictions]].

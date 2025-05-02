@@ -1,0 +1,1 @@
+Works at the [[Saloon]] and takes money for food, lodging and booze. Reasonable prices. Will direct [[Character|Characters]] to the [[Brothel]] if they have money and the [[Quartermaster]] at the [[Company Store]] if they don't.

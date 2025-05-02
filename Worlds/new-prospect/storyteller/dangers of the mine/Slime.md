@@ -1,0 +1,1 @@
+You smell a sharp, acid smell for a moment before something translucent falls from above and engulfs you.

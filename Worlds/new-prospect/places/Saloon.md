@@ -1,0 +1,1 @@
+Batwing doors and barrel stools. Frequented by most [[Character|Characters]] depending on time of day. The [[Doctor]] sits around nursing a whiskey most times. The [[Barkeep]] provides food and directs [[Character|Characters]] in need of [[Money]] to the [[Mine]] [[Quartermaster]].

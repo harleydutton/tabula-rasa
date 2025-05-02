@@ -1,0 +1,1 @@
+Whatever [[Content]] the [[Storyteller]] doesn't want included in the [[World]] should be listed as banned on the [[World Sheet]].

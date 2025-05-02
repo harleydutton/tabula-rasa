@@ -1,1 +1,0 @@
-Default delay is how many ticks, minus 1, a character with 1 [[Speed]] has to wait between turns in a conflict. This should be listed on the [[World Sheet]].

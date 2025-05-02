@@ -1,4 +1,0 @@
-- Skills the players make need to have descriptive names. You should be able to tell what a skill does by reading the name and maybe the description.
-- Consult the [[Limit|limits]] section of the [[World]] and think up a skill within those bounds and run the idea by your [[Storyteller|storyteller]]. If they approve it it will be added to the world (possibly with new limits) after which characters can take and level the skill like any other.
-- a skill should have a chance to fail. If it has an actual 100% success rate it is a background of some kind.
-- VERB

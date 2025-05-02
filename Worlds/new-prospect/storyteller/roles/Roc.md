@@ -1,0 +1,1 @@
+The Roc is my nod to the Native Thunderbird, a pun on "rocks fall, everyone dies", and a deus-ex-machina used to kill the [[Player]] [[Character|Characters]] if they go off the rails.
