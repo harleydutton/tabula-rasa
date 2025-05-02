@@ -1,0 +1,1 @@
+with exception to [[Dice]] as I don't want people getting [[Dice|Die]] confused with [[Unplayable]] I think think things should be defined singularly as the default.
