@@ -1,4 +1,4 @@
-- backgrounds can be gotten at character creation
+- backgrounds can be gotten at [[Character Creation]] and [[Downtime]]/[[Rest]]
 - free in terms of [[Experience]] but must come with explicit downsides
 - must [[New Content Negotiation|Negotiate New Content]] with [[Storyteller]]
 - can be gotten during [[Downtime]]

@@ -4,18 +4,15 @@
 		- Damage
 		- death/unplayable
 		- healing and scarring
-	- background
-		- types
-			- knowledge
-			- physical
-			- relationship
-			- social
-			- supernatural
-			- vehicles
-		- getting
-		- types
-		- downsides
-	- getting backgrounds?
-	- "should this be a background, item, or skill?" the section. maybe lives in [[New Content Negotiation]]
-
-doing away with descriptors as a concept i think...
+	- types
+		- knowledge
+		- physical
+		- relationship
+		- social
+		- supernatural
+	- getting
+	- descriptors (remove)
+	- downsides
+	- Background
+	- plan (remove)
+	- skill, background, item, disambiguation (move to storyteller chapter)
