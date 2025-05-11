@@ -5,5 +5,5 @@ aliases:
 The attributes are [[Mind]], [[Body]], [[Spirit]], and [[Presence]]. Every [[Character]] gets the first level in each for free. Beyond the first level, they can be leveled up using the [[Quadratic Scaling]] chart.
 
 Attributes are used for two things:
-- Determining how many [[Negative Statuses]] a character can have before they are [[Unplayable]].
+- Determining how many [[Damage]] a character can have before they are [[Death]].
 - Making a [[Checks|Check]] without an appropriate [[Skills|Skill]].

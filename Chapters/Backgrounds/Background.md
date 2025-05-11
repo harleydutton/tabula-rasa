@@ -1,0 +1,11 @@
+---
+aliases:
+  - Backgrounds
+---
+- something the [[Character]] is or knows.
+- if it lets you **do** then it's a [[Skills|Skill]].
+- should come with explicit downsides
+- Definition: name and bulleted list of effects
+- [[Getting Backgrounds]]
+- can and should modify [[Difficulty]] of [[Checks]]
+- add to [[World Sheet]] backgrounds list

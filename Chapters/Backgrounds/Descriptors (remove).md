@@ -5,7 +5,7 @@ aliases:
 Descriptors are just a couple English words that describe one of the in game concepts below:
 - [[Items]], which are things you have
 - [[Background]], which are things you are and things you know perfectly
-- [[Negative Statuses]], which are things that affect you in a temporary fashion
+- [[Damage]], which are things that affect you in a temporary fashion
 
 Descriptors are usually put on lists on your character sheet and represent everything about your character that isn't purely mechanical.
 
@@ -15,7 +15,7 @@ Descriptors are usually put on lists on your character sheet and represent every
 [[big Skills]] handle the things a character can do imperfectly.
 [[Background|Backgrounds]] handles the things a character is or knows. is still descriptor
 descriptors are linear (one CP gets you one flavor)
-[[Negative Statuses]] are descriptors, and "the things that affect a character in a temporary way"
+[[Damage]] are descriptors, and "the things that affect a character in a temporary way"
 
 flavor's difficulty modifier can only ever make a roll one step easier.
 
@@ -59,4 +59,4 @@ flavor cannot point to a specific [[Skills]]. If a flavor boils down to "+1 to a
 [[Splitting Up 'Flavor']]:
 - things you are = [[Background|Backgrounds]]
 - things you have = [[Items]]
-- things you are affected by = [[Negative Statuses]]
+- things you are affected by = [[Damage]]

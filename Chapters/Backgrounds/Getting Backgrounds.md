@@ -1,0 +1,5 @@
+- backgrounds can be gotten at character creation
+- free in terms of [[Experience]] but must come with explicit downsides
+- must [[New Content Negotiation|Negotiate New Content]] with [[Storyteller]]
+- can be gotten during [[Downtime]]
+- damage can become [[Background|Backgrounds]] at [[Downtime]]. [[Rest]]

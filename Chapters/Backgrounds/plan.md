@@ -1,0 +1,21 @@
+- backgrounds
+	- temporary vs permanent (TODO)
+	- damage
+		- Damage
+		- death/unplayable
+		- healing and scarring
+	- background
+		- types
+			- knowledge
+			- physical
+			- relationship
+			- social
+			- supernatural
+			- vehicles
+		- getting
+		- types
+		- downsides
+	- getting backgrounds?
+	- "should this be a background, item, or skill?" the section. maybe lives in [[New Content Negotiation]]
+
+doing away with descriptors as a concept i think...

@@ -6,7 +6,7 @@ aliases:
   - Hard
   - Impossible
 ---
-For a [[Checks|Check]] to be rolled the [[Storyteller]] must set the difficulty as one of "trivial, "easy", "moderate", "hard", or "impossible". This judgement should consider the inherent difficulty of the action, the [[Descriptors]] of all [[Character|Characters]] involved, and any other context that seems relevant. This subjective difficulty translates directly to a target number for the check, meaning only dice that roll greater than or equal to the target number count as successes.
+For a [[Checks|Check]] to be rolled the [[Storyteller]] must set the difficulty as one of "trivial, "easy", "moderate", "hard", or "impossible". This judgement should consider the inherent difficulty of the action, the [[Background|Backgrounds]] of all [[Character|Characters]] involved, and any other context that seems relevant. This subjective difficulty translates directly to a target number for the check, meaning only dice that roll greater than or equal to the target number count as successes.
 
 | Difficulty | Target Number                     |
 | ---------- | --------------------------------- |

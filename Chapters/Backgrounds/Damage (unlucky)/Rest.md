@@ -1,13 +1,8 @@
----
-aliases: []
----
-What is it?
-Bad Reputation is what it sounds like. mechanically it is [[Descriptors]], usually [[Negative Statuses]], sometimes [[Background]].
+- the notion here is that at [[Downtime]] [[Damage]] turn into [[Background|Backgrounds]] or go away
+- maybe also implement a system where two damages go away and you get a third, new damage
 
-getting it:
-- you get bad rep by being a naughty, naughty boy and getting caught by someone who cares.
-	- you get other rep by getting noticed doing something noteworthy
-- you can also you can also get reputation if someone spreads rumors about you.
+---
+from bad rep
 
 healing:
 - reputation can be localized so leaving town might make your bad rep cease to matter.
@@ -19,5 +14,11 @@ healing:
 	- you can try and patch things up by makeing reparations through RP, probably requiring Presence Checks
 	- or any combination of the above
 
-death:
-if you have more bad reputation than [[Presence]] your character will become [[Unplayable]] and you should probably make a new character.
+---
+
+from curses:
+healing it:
+- atonement, repentance, penance, etc. based on the god/code:
+	- you must try to undo the thing
+	- you must sacrifice something
+	- you have to figure out how to talk to your higher power and get a pardon

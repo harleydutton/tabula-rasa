@@ -1,0 +1,1 @@
+backgrounds must have explicit downsides. talk to your storyteller about it. equal and opposite is a good way to go. you might look at the [[Balance]] section for inspiration too.

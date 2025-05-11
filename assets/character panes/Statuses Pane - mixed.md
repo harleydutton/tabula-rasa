@@ -1,4 +1,4 @@
-- [[Negative Statuses]]
+- [[Damage]]
 	- qwer
 	- qwer
 	- qwer

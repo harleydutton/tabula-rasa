@@ -23,3 +23,7 @@ Most of this stuff is like [[Default Delay]] and [[Tick Length]] in that it is j
 
 I think maybe the best place for this is in the world sheet...
 moving it there for the moment.
+
+---
+
+taken from [[Spatial]]. should maybe be returned
