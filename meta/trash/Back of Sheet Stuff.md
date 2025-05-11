@@ -7,3 +7,5 @@ If it's not important enough to warrant space on the front of the sheet, it's no
 - [[Motivation]]? I feel like this is maybe more important
 
 ---
+
+I don't like listing other notes because it isn't very [[Maintainable]]. trash.

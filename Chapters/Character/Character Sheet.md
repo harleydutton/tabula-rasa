@@ -2,6 +2,7 @@
 aliases:
   - Character Sheets
 ---
+
 |                             |                             |
 | --------------------------- | --------------------------- |
 | ![[EXP Pane - vertical]]    | ![[ID Pane - vertical]]     |

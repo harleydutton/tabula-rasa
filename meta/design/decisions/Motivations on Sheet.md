@@ -1,1 +1,1 @@
-[[Motivation|Motivations]] and [[Chapters/Backgrounds/types of/Relationships|Relationships]] are critical parts of roleplay. These should be on the [[Character Sheet]].
+[[Motivation|Motivations]] and [[meta/trash/Relationships|Relationships]] are critical parts of roleplay. These should be on the [[Character Sheet]].

@@ -1,4 +1,4 @@
-- [[Hooks]]
+- [[Character Hook]]
 	- dead family
 	- amnesia
 	- even deader family

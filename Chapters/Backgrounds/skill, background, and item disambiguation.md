@@ -1,11 +1,20 @@
+heuristic: describe, in as few words as possible, how the new content would hypothetically affect your character and pay attention to the verb.
+
+- things you "are" = [[Background|Backgrounds]] (and [[Damage]])
+- things you "own" = [[Items]]
+- things you "do" = [[Skills]]
+
+double check to make sure skills are fallible and backgrounds are not.
+
+---
+
 - knowledges
 	- if you can fail it's a skill
 	- if you can't it is (part of) a background
 
-heuristic: describe how the content applies to a character with the fewest words
-- if the verb is a conjugated form of "to be" (is, are, were, etc.) then it's a background
-- if the verb is "have" or "own" it's an item
-- if it's a power/ability that lets you do new stuff then the verb is probably "can", "able to", or some action verb.
+---
+
+- knowledge: sometimes a skill, sometimes a background. depends on certainty
 
 ---
 

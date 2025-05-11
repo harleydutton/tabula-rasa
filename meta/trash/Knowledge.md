@@ -3,3 +3,7 @@ Knowledge should be represented as a [[Background|Backgrounds]] if it allows you
 ---
 
 sometimes a background. sometimes a skill. should be a note for [[New Content Negotiation]] or [[Storyteller]]. maybe need a flowchart.
+
+---
+
+handled. trash.

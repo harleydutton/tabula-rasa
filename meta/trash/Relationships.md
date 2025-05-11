@@ -4,3 +4,4 @@ If you have another character as a companion you should list them as flavor or m
 
 these days retainers are best represented as [[Items]]
 friends and contacts are usually best represented by [[Background|Backgrounds]]
+that's great. also, this doesn't need to be a definition. english does just fine here. trash.

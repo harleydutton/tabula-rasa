@@ -9,4 +9,4 @@ at one point, while matching up character sheet and definition i felt the need t
 
 ---
 
-This is basically the same as backgrounds? I suppose I should remind players to add what they look like to their backgrounds?
+This is basically the same as backgrounds? I suppose I should remind players to add what they look like to their backgrounds? add a note to backgrounds that you can have whatever kind of clothes you want and as long as they are pretty normal, you don't need to have a background for it. trash.

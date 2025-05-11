@@ -1,18 +1,24 @@
-- backgrounds
-	- temporary vs permanent (TODO)
-	- damage
-		- Damage
-		- death/unplayable
-		- healing and scarring
-	- types
-		- knowledge
-		- physical
-		- relationship
-		- social
-		- supernatural
-	- getting
-	- descriptors (remove)
-	- downsides
-	- Background
-	- plan (remove)
-	- skill, background, item, disambiguation (move to storyteller chapter)
+- back of sheet
+	- aesthetic description
+	- back of sheet
+	- character history
+	- concept
+	- demeanor
+	- drawing
+- temporary vs permanent (TODO)
+- damage
+	- Damage
+	- death/unplayable
+	- healing and scarring
+- types
+	- knowledge
+	- physical
+	- relationship
+	- social
+	- supernatural
+- getting
+- descriptors (remove)
+- downsides
+- Background
+- plan (remove)
+- skill, background, item, disambiguation (move to storyteller chapter)

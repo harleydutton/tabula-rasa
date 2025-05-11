@@ -2,4 +2,4 @@ Physicality is also represented as flavor. This includes but is not limited to b
 
 ---
 
-I think [[Background|Backgrounds]] and [[Wounds]] handle this one nicely
+I think [[Background|Backgrounds]] and [[Wounds]] handle this one nicely. great. trash.
