@@ -22,3 +22,7 @@ healing it:
 	- you must try to undo the thing
 	- you must sacrifice something
 	- you have to figure out how to talk to your higher power and get a pardon
+
+---
+
+- damage can become [[Background|Backgrounds]] at [[Downtime]]. [[Rest]]

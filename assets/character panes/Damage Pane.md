@@ -1,0 +1,11 @@
+
+- mind: qwer
+- body: qwer
+- mind: qwer
+- spirit: qwer
+- presence: qwer
+- mind: qwer
+- body: qwer
+- body: qwer
+- spirit: qwer
+- presence: qwer
