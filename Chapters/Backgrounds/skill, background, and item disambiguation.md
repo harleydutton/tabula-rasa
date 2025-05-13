@@ -33,57 +33,57 @@ Examples: Beautiful singing voice. Blademaster. Facial scar. Wise. Strong. Charm
 - Good at `<attribute>/<job>/<skill>` seems like a problem
 ## Heuristic: "The character ..."
 
-| can             | is (a/an/the)           | owns (a/an/the)      |
-| --------------- | ----------------------- | -------------------- |
-| play the flute  | elf                     | plate armor          |
-| talk to plants  | landed noble            | flaming sword        |
-| shoot fireballs | tall                    | many decks of cards  |
-|                 | large                   | horse                |
-|                 | handsome                | spaceship            |
-|                 | horned                  | night vision goggles |
-|                 | fat                     | library              |
-|                 | guard captain           | many rare books      |
-|                 | sneaky                  | compass              |
-|                 | boring                  | castle               |
-|                 | scarred                 |                      |
-|                 | liar                    |                      |
-|                 | sociopath               |                      |
-|                 | liked by horses         |                      |
-|                 | centaur                 |                      |
-|                 | gambling addict         |                      |
-|                 | known priest beater     |                      |
-|                 | kind                    |                      |
-|                 | kings advisor           |                      |
-|                 | drug dealer             |                      |
-|                 | librarian               |                      |
-|                 | insane                  |                      |
-|                 | insomniac               |                      |
-|                 | obligate carnivore      |                      |
-|                 | leper                   |                      |
-|                 | amputee                 |                      |
-|                 | crippled                |                      |
-|                 | incorporeal             |                      |
-|                 | haunted by past         |                      |
-|                 | haunted by ghosts       |                      |
-|                 | stubborn                |                      |
-|                 | bloodthirsty            |                      |
-|                 | polite                  |                      |
-|                 | med school dropout      |                      |
-|                 | cult leader             |                      |
-|                 | famed space pirate      |                      |
-|                 | boxing world champion   |                      |
-|                 | infertile               |                      |
-|                 | shift manager at maccas |                      |
-|                 | young and stupid        |                      |
-|                 | evil                    |                      |
-|                 | charitable              |                      |
-|                 | yale student            |                      |
-|                 | vampire                 |                      |
-|                 | muscular                |                      |
-|                 | attractive              |                      |
-|                 | fast                    |                      |
-|                 | rich                    |                      |
-|                 | Spanish                 |                      |
-|                 | religious               |                      |
-|                 | prince's ward           |                      |
-|                 |                         |                      |
+| can == skill    | is (a/an/the) == background | owns (a/an/the) == item |
+| --------------- | --------------------------- | ----------------------- |
+| play the flute  | elf                         | plate armor             |
+| talk to plants  | landed noble                | flaming sword           |
+| shoot fireballs | tall                        | many decks of cards     |
+|                 | large                       | horse                   |
+|                 | handsome                    | spaceship               |
+|                 | horned                      | night vision goggles    |
+|                 | fat                         | library                 |
+|                 | guard captain               | many rare books         |
+|                 | sneaky                      | compass                 |
+|                 | boring                      | castle                  |
+|                 | scarred                     |                         |
+|                 | liar                        |                         |
+|                 | sociopath                   |                         |
+|                 | liked by horses             |                         |
+|                 | centaur                     |                         |
+|                 | gambling addict             |                         |
+|                 | known priest beater         |                         |
+|                 | kind                        |                         |
+|                 | kings advisor               |                         |
+|                 | drug dealer                 |                         |
+|                 | librarian                   |                         |
+|                 | insane                      |                         |
+|                 | insomniac                   |                         |
+|                 | obligate carnivore          |                         |
+|                 | leper                       |                         |
+|                 | amputee                     |                         |
+|                 | crippled                    |                         |
+|                 | incorporeal                 |                         |
+|                 | haunted by past             |                         |
+|                 | haunted by ghosts           |                         |
+|                 | stubborn                    |                         |
+|                 | bloodthirsty                |                         |
+|                 | polite                      |                         |
+|                 | med school dropout          |                         |
+|                 | cult leader                 |                         |
+|                 | famed space pirate          |                         |
+|                 | boxing world champion       |                         |
+|                 | infertile                   |                         |
+|                 | shift manager at maccas     |                         |
+|                 | young and stupid            |                         |
+|                 | evil                        |                         |
+|                 | charitable                  |                         |
+|                 | yale student                |                         |
+|                 | vampire                     |                         |
+|                 | muscular                    |                         |
+|                 | attractive                  |                         |
+|                 | fast                        |                         |
+|                 | rich                        |                         |
+|                 | Spanish                     |                         |
+|                 | religious                   |                         |
+|                 | prince's ward               |                         |
+|                 |                             |                         |
