@@ -1,0 +1,1 @@
+Downtime is time that is narrated or glossed over because the story is at a point of low tension. Sleep, travel and finishing a climactic moment are common reasons to enter downtime.

@@ -3,3 +3,7 @@ Getting caught doing something you shouldn't causes problems. The problems that 
 Cascading problems occur when a [[Sneak]] gets a partial success/fails the sneak half of their action and the [[Observer]] gets a perfect success on an observation check.
 
 The nature of the cascading problems is "the observer alerts more observers" by default but can be changed to suit the situation by the storyteller.
+
+---
+
+This is a bad idea for a couple reasons. Learned helplessness being one of them. Encouraging storytellers to not use their head when choosing the amount of dramatic tension is another. Consider removing. [[Problem]]

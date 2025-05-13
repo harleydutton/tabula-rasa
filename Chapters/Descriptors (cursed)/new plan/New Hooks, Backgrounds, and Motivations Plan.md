@@ -1,6 +1,0 @@
-- hooks
-	- removed
-- backgrounds
-	- should come with downsides such that they are balanced
-- motivations
-	- rolled into backgrounds

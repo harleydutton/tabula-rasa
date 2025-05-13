@@ -1,1 +1,1 @@
-The starting value of [[Speed]], [[Wealth]], and all other non-[[Attribute]], [[Quadratic Scaling]] stats is undefined. I think this value should be 0.
+The starting value of [[Speed]], [[Wealth]], and all other non-[[Attribute]], [[Quadratic Experience Costs]] stats is undefined. I think this value should be 0.
