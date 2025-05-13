@@ -1,1 +1,1 @@
-A character's speed represents how quickly they act in [[Combat]] per [[Turn Delay]]. Speed can be leveled up using the [[Quadratic Experience Costs]] chart.
+A character's speed influences a their [[Turn Delay]] which dictates how often they get a [[Turn]] in [[Combat]]. Speed can be leveled up using the [[Quadratic Experience Costs]] chart.
