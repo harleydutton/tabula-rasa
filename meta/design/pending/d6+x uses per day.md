@@ -1,1 +1,0 @@
-borg uses 1d6+x uses per day and a magical misshaps table to balance all the powers. This works well. Check limits. I think i was already planning something like this.

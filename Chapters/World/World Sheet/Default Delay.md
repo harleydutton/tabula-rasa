@@ -1,0 +1,1 @@
+Default delay is the [[Turn Delay]] for characters with 0 [[Speed]]. It is listed on the [[World Sheet]].

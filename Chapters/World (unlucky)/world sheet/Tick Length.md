@@ -1,1 +1,0 @@
-A [[Tick]] is the default measure of time during [[Combat]]. The [[World Sheet]] should define how many second, minutes, hours, etc. a tick represents.

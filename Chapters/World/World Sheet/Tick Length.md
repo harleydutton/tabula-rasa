@@ -1,0 +1,1 @@
+For the purposes of [[Combat]], time is measured in [[Tick|Ticks]]. The [[World Sheet]] defines how many second, minutes, hours, etc. a tick represents.

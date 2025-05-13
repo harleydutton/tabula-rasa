@@ -1,3 +1,7 @@
+---
+aliases:
+  - Fill out a World
+---
 Filling out a world sheet can be done in one of two ways. You can faithfully recreate a [[Touchstone]] or you can use a [[World]] of your own devising. In either case, you will need to fill out the sheet with sensible values:
 - [[Touchstone|Touchstones]]: List out pieces of media that are similar to the world you are creating. If the world sheet is for a [[Touchstone]] you should still list similar media such that players who haven't experienced it can have a better grasp of the world.
 - [[Tick Length]] is how long you want turns of conflict to take. For a sword or gun fight a second is a reasonable value. This should be increased for vehicle and social combat.

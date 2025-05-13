@@ -15,3 +15,7 @@ relationships, wants, tensions
 ---
 
 round table writers' room group character creation helps define inter-character relationships, motivations, and tension have at least one for each character in an out
+
+---
+
+handled in [[Roundtable Character Creation]]. done.

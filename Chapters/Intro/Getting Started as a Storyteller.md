@@ -1,5 +1,5 @@
-- [[Filling out a World]]
-- [[Checks|Check]]
-- [[New Content Negotiation]]
+- [[Filling out a World|Fill out a World]]
+- Learn how [[Checks]] work
+- Understand you role in [[New Content Negotiation]]
 - Poke around the "storyteller" chapter in the table of contents
 - Check the backlinks on [[Storyteller]]
