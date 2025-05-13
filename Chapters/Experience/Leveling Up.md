@@ -2,13 +2,6 @@
 aliases:
   - Level Up
 ---
-At the beginning of the [[Story]] and throughout it the [[Storyteller]] will distribute [[Experience]]. [[Player|Players]] will have the option to level up their [[Character|Characters]] by spending that experience on [[Attribute|Attributes]] and [[Skills]]. Attributes use [[Quadratic Experience Costs]] to level up. New and existing skills use [[Linear Experience Costs]] to level up. [[New Content Negotiation|Negotiate New Content]] with your storyteller if you want new skills, [[Background|Backgrounds]], or [[Items]].
-
----
-
-what about wealth, speed, and maybe backgrounds? maybe they need to be attributes again...
-mention the world sheet [[Experience Tracker]]
-
----
-
-Per the [[Experience Tracker]], each player will have some experience to spend to level up their character. Experience can be spent on attributes, skills, wealth, speed, and maybe background slots.
+The [[Storyteller]] distributes [[Experience]] via the [[Experience Tracker]] on the [[World Sheet]]. [[Player|Players]] have the ability to spend that experience to increase their levels:
+- [[Skills]] level up using [[Linear Experience Costs]].
+- [[Attribute|Attributes]], [[Wealth]], and [[Speed]] level up using [[Quadratic Experience Costs]].
