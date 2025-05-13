@@ -1,36 +1,21 @@
-heuristic: describe, in as few words as possible, how the new content would hypothetically affect your character and pay attention to the verb.
+heuristic: describe, in as few words as possible, how the new content would hypothetically affect the character and pay attention to the verb.
 
-- things you "are" = [[Background|Backgrounds]] (and [[Damage]])
-- things you "own" = [[Items]]
-- things you "do" = [[Skills]]
-
-double check to make sure skills are fallible and backgrounds are not.
+- "The character is..." = [[Background|Backgrounds]] (and [[Damage]])
+- "The character owns..." = [[Items]]
+- "The character can..." = [[Skills]]
 
 ---
-
-- knowledges
-	- if you can fail it's a skill
-	- if you can't it is (part of) a background
-
----
-
-- knowledge: sometimes a skill, sometimes a background. depends on certainty
-
----
-
-this is temporarily in the backgrounds chapter so i can extract all the relevant stuff. It will live in either the [[Storyteller]] or [[New Content Negotiation]] chapter eventually. might also be where I put the flowchart.
-
----
-
 ## Working out the flowchart
 
 ```
-Examples: Beautiful singing voice. Blademaster. Facial scar. Wise. Strong. Charming. Holy. Knowledgeable. Cybernetic implants. Friends in high places. Night vision. Extra limbs. Can talk to plants. Thinks he can talk to plants.   Plant whisperer. Plants talk to me. Magically adept. Knows Spanish. Knows the location of buried treasure. Has Dogs. Has Fleas. Has land and title. Has a gambling problem. Knows computer science. skilled hacker. famed hacker. Knows how to build a house. Surgeon. Good at <skill>. Good <job title>. Famed <job title>.
+Examples: Beautiful singing voice. Blademaster. Facial scar. Wise. Strong. Charming. Holy. Knowledgeable. Cybernetic implants. Friends in high places. Night vision. Extra limbs. Can talk to plants. Thinks he can talk to plants.   Plant whisperer. Plants talk to me. Magically adept. Knows Spanish. Knows the location of buried treasure. Has Dogs. Has Fleas. Has land and title. Has a gambling problem. Knows computer science. programmer. hacker. skilled hacker. famed hacker. Knows how to build a house. Surgeon. Good at <skill>. Good <job title>. Famed <job title>.
 ```
 
 - Looks like I need a column for "has" and some filtering rules
 - Looks like I need to do something with "knows"
 - Good at `<attribute>/<job>/<skill>` seems like a problem
+
+these problems are all solved by forcing the peg into one of the "can/is/owns" holes and adding downsides
 ## Heuristic: "The character ..."
 
 | can == skill    | is (a/an/the) == background | owns (a/an/the) == item |
@@ -86,4 +71,11 @@ Examples: Beautiful singing voice. Blademaster. Facial scar. Wise. Strong. Charm
 |                 | Spanish                     |                         |
 |                 | religious                   |                         |
 |                 | prince's ward               |                         |
-|                 |                             |                         |
+
+---
+
+~~double check to make sure skills are fallible and backgrounds are not. skills are guaranteed to be fallible.~~ backgrounds that are fallible can be handled with attributes.
+
+---
+
+some things can be a skill or background depending on certainty. "flying" for instance is probably a background ("levitates" or "winged") unless it seems likely that other characters will frequently try to fly faster at which point it might be better as a skill. If it infrequent, an attribute could be used for those contests. really it doesn't matter though because it should be handled either way.

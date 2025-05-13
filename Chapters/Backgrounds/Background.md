@@ -2,10 +2,4 @@
 aliases:
   - Backgrounds
 ---
-- something a [[Character]] is or knows
-- name and bulleted list of changes and [[Downsides]]
-- [[Getting Backgrounds]]
-- can modify the [[Difficulty]] of [[Checks]]
-- cannot use numbers
-- cannot refer to any part of [[index|Tabula Rasa]], especially [[Checks]], [[Difficulty]], or specific [[Skills]]
-- not normal shit
+A background is something a [[Character]] **is**. It should take the form of a name and a bulleted list of changes and [[Downsides]]. Additionally, backgrounds cannot not use any numbers or change the rules of [[index|Tabula Rasa]]. The purpose of backgrounds is to keep track of the more abstract parts of a character and potentially modify the [[Difficulty]] of [[Checks]]. Characters usually [[Getting Backgrounds|Get Backgrounds]] at [[Character Creation]] or [[Downtime]].
