@@ -1,5 +1,3 @@
-Add timing restrictions to a skill:
-- uses [[Main Action]]
-- uses [[Reaction]]
-- cannot be X action
-- cannot be done in combat
+Adding timing restrictions to [[Content]] can prevent it's use in [[Combat]] or introduce opportunity cost. Timing restrictions include:
+- Uses a specific [[Actions|Action]]
+- Cannot be used in combat

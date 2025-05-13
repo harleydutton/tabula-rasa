@@ -1,1 +1,1 @@
-Placing a social stigma or taboo can be an interesting way to limit certain new content. This is the sort of thing that will get you [[Bad Reputation]] if you are caught with it 
+Placing a social stigma or taboo on [[Content]] can be an effective way to limit it. Problems with [[Non-Player Character|Non-Player Characters]] can result in [[Damage]] and [[Death]].

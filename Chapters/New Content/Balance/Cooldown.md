@@ -1,0 +1,1 @@
+Powerful effects can warp a game if they are used too frequently so specifying a number of [[Uses]] per [[Downtime]] is a good way to prevent overuse.

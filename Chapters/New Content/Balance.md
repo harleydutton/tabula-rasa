@@ -2,14 +2,4 @@
 aliases:
   - Balanced
 ---
-One of the trickiest parts of [[New Content Negotiation]] is letting a [[Player]] have the content they want without accidentally giving their [[Character]] control of reality. This is a list of ways [[Content]] can be modified to prevent or fix that problem.
-- [[Cooldowns (unlucky)]]
-- [[Context]]
-- [[Need]]
-- [[Power Level]]
-- [[Rarity]]
-- [[Risk]]
-- [[Scope (unlucky)]]
-- [[Taboo]]
-- [[Timing]]
-- [[Trade-Off (unlucky)]]
+Balance is letting a [[Player]] have the [[Content]] they want without accidentally giving their [[Character]] control of reality and it is one of the trickiest parts of [[New Content Negotiation]]. This is a list of common ways to balance content:

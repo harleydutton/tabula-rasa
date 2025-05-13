@@ -18,3 +18,7 @@ if a skill winds up with broad scope you should consider adding other limits.
 ---
 
 as a limit the storyteller would be defining and or tightening the scope. many other limits seem like they are there to help define scope (context and secondary resources both seem like they are there to )
+
+---
+
+[[Context]] handles most of this. what it doesn't handle, [[Attribute|Attributes]] do. trash.

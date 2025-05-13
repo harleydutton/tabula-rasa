@@ -1,0 +1,1 @@
+Give the [[Content]] a limited number of uses. This is commonly paired with a [[Cooldown]]. The number of uses can be an arbitrary number, determined randomly with [[Dice]], based on an [[Attribute]] or [[Skills|Skill]], or some combination of the three.

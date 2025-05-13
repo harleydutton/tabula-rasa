@@ -1,5 +1,3 @@
-One way to limit new [[Content]] is to make it rare in some way:
-- make it unique, as in there is literally only one in the world
-	- It might also be relevant to say it is *not* unique
-- make it expensive
-- make it obscure or difficult to find
+Making [[Content]] very common can be an effective way to [[Balance]] it if "fire" can be fought with "fire."
+
+Making [[Content]] very rare can make it very valuable and cause problems with [[Non-Player Character|Non-Player Characters]] similar to if it were [[Taboo]].

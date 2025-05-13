@@ -1,9 +1,4 @@
-When you use/succeed/fail/[[The Event Die]] the skill, roll some dice. If the dice say so something bad happens to you.
-
-trigger:
-- use ([[The Event Die]])
-- succeed
-- fail
-effect:
-- damage
-- bad descriptors
+To make [[Content]] risky define some consequence and a have it occur randomly based on [[The Event Die]] or a specific [[Outcome]]. Consequences include:
+- An [[Items|Item]] breaks
+- [[Damage]]
+- The [[Storyteller]] creates something special just for you
