@@ -8,5 +8,5 @@ Character creation is simple: Get the [[World Sheet]] from your [[Storyteller]],
 - Add [[Skills]] from the [[World Sheet]]
 - [[Leveling Up|Level Up]]
 - Buy [[Items]] from the [[Store]]
-- calculate [[Turn Delay]]
+- Calculate [[Turn Delay]]
 - [[New Content Negotiation|Negotiate New Content]]
