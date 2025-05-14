@@ -3,3 +3,11 @@ an idea for how the "Rich" [[Background]] might work. Treat cheap [[Items]] as f
 ---
 
 this sounds like some [[Tools of the Trade]] type thing
+
+---
+
+this is currently against the rules because in...
+
+![[Background|Backgrounds]]
+
+I say you cannot change the rules of [[index|Tabula Rasa]]

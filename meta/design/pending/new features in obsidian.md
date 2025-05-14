@@ -1,0 +1,1 @@
+find the patch notes and read about the new features in obsidian

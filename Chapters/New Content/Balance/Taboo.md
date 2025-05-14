@@ -1,1 +1,1 @@
-Placing a social stigma or taboo on [[Content]] can be an effective way to limit it. Problems with [[Non-Player Character|Non-Player Characters]] can result in [[Damage]] and [[Death]].
+Placing a social stigma or taboo on [[Content]] can be an effective way to limit it. Problems with [[NPC|NPCs]] can result in [[Damage]] and [[Death]].

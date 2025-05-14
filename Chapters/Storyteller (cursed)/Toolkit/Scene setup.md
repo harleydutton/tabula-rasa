@@ -26,3 +26,7 @@ these terms might be useful for [[Secret|Secrets]]
 - landmark information
 - hidden information
 - secret information
+
+---
+
+whenever you want to give players stuff to explore or interact with include about as many things to check out or people to talk to as there are players in your group

@@ -1,0 +1,1 @@
+Roleplaying is the changing of one's behaviour to assume the role of a [[Character]].

@@ -1,0 +1,1 @@
+The most fair way to level [[NPC|Non-Player Characters]] is to do it correctly. Just look at the [[Experience Tracker]] and [[Leveling Up|Level Up]] using the [[Experience]] there. Alternatively, you can give some NPCs much 
