@@ -2,7 +2,7 @@
 aliases:
   - Motivations
 ---
-Motivations are what make [[Character|Characters]] interesting and as such, each character must have at least one. This can be anything you like that gets a character out of bed in the morning.
+Motivations are what make [[Character|Characters]] and as such, each character must have at least one. This can be anything you like that gets a character out of bed in the morning.
 
 ---
 
