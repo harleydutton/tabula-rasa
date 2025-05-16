@@ -1,7 +1,7 @@
 This story takes place in a work camp. Chinese immigrants, black Americans freed from slavery, and American Indians were some of the groups of people who actually experienced work camps at this time. Treat any such characters with respect and dignity. Bigotry is an unneeded and unwanted element in this story, but because this world--one without bigotry--is so different from the realities of Utah in 1869 I feel I owe you, dear reader, a small history lesson to set the record straight:
 - This world is set four years after the American Civil war the result of which made slavery illegal in the United States. Despite this, black Americans were still treated like second class citizens and were, in many instances, still enslaved:
 	- Black Americans were commonly referred to using slurs like "nigger", "blackey", and "negro".
-	- The only work most freed slaves could find was doing the same work they had been enslaved to do. Furthermore, employers paid typically black workers less than white workers and refused to promote them.
+	- The only work most freed slaves could find was doing the same work they had been enslaved to do. Furthermore, employers typically paid black workers less than white workers and refused to promote them.
 	- Black Americans were frequently lynched by groups like the KKK.
 	- Many white businesses would refuse to serve black patrons and white people would refuse to patronize black businesses.
 	- Many white people erroneously viewed black people as stupid and evil because they didn't speak English fluently and were not Christian.

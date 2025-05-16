@@ -1,26 +1,27 @@
 {
 	"nodes":[
 		{"id":"21b1948d4f6d91f2","type":"text","text":"# powers of canvas","x":-1118,"y":-1020,"width":371,"height":102},
-		{"id":"e0db6b6f6f98f9cc","x":-658,"y":-958,"width":376,"height":159,"type":"text","text":"Can I put a table here? no\n|title|col2|\n|---|---|\n|content|other shit|\n\n[[Items]]\n[[Items|Item]]\n**does other md work? yes**\n"},
+		{"id":"e0db6b6f6f98f9cc","type":"text","text":"Can I put a table here? no\n|title|col2|\n|---|---|\n|content|other shit|\n\n[[Items]]\n[[Items|Item]]\n**does other md work? yes**\n","x":-658,"y":-1009,"width":376,"height":210},
 		{"id":"4b7a78c7f8b3391c","type":"file","file":"assets/character panes/ID Pane - vertical.md","x":-1161,"y":-1518,"width":360,"height":169},
 		{"id":"62211abb3c20bf07","type":"file","file":"Chapters/Wealth/Items.md","x":-727,"y":-1505,"width":400,"height":220},
-		{"id":"f6ad5c6e949b2b4f","x":-846,"y":-1194,"width":313,"height":116,"type":"text","text":"good for arranging out **existing** notes/panes to workshop character sheet layout"},
-		{"id":"7819d7daf2718c2d","x":-977,"y":-756,"width":251,"height":102,"type":"text","text":"do canvasses show up when published in quartz?"},
-		{"id":"5cff824da4d5196f","type":"text","text":"good for flowcharting I guess","x":-1281,"y":-1298,"width":250,"height":60},
-		{"id":"47e2f79b2be7e306","x":-1265,"y":-747,"width":250,"height":60,"type":"text","text":"canvases cannot be embedded; only linked"},
-		{"id":"7edd03d2e77e1778","x":-1630,"y":-1208,"width":400,"height":400,"type":"file","file":"Demo Canvas.canvas"},
-		{"id":"a152ace73e7803c7","x":-606,"y":-747,"width":250,"height":60,"type":"text","text":"I will have to test it"}
+		{"id":"f6ad5c6e949b2b4f","type":"text","text":"good for arranging out **existing** notes/panes to workshop character sheet layout","x":-846,"y":-1194,"width":313,"height":116},
+		{"id":"7819d7daf2718c2d","type":"text","text":"do canvasses show up when published in quartz?","x":-977,"y":-756,"width":251,"height":102},
+		{"id":"47e2f79b2be7e306","type":"text","text":"canvases cannot be embedded; only linked","x":-1265,"y":-747,"width":250,"height":60},
+		{"id":"7edd03d2e77e1778","type":"file","file":"Demo Canvas.canvas","x":-1630,"y":-1208,"width":400,"height":400},
+		{"id":"a152ace73e7803c7","type":"text","text":"# needs testing","x":-606,"y":-747,"width":257,"height":75},
+		{"id":"36862b419af33ae1","x":-1577,"y":-1517,"width":293,"height":180,"type":"text","text":"- todo; okay, so lists work...\n- nod\n- storyteller\n- spatial\n- secret"},
+		{"id":"5cff824da4d5196f","type":"text","text":"good for flowcharting I guess","x":-1179,"y":-1228,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"4b25cc5db4acac7a","fromNode":"e0db6b6f6f98f9cc","fromSide":"left","toNode":"21b1948d4f6d91f2","toSide":"right"},
 		{"id":"78166f33b665f9e3","fromNode":"47e2f79b2be7e306","fromSide":"top","toNode":"21b1948d4f6d91f2","toSide":"left"},
-		{"id":"077654831a742798","fromNode":"7edd03d2e77e1778","fromSide":"right","toNode":"47e2f79b2be7e306","toSide":"left"},
 		{"id":"5bae4127c3406bb2","fromNode":"5cff824da4d5196f","fromSide":"bottom","toNode":"21b1948d4f6d91f2","toSide":"top"},
 		{"id":"6a45e18ff9b99409","fromNode":"4b7a78c7f8b3391c","fromSide":"bottom","toNode":"f6ad5c6e949b2b4f","toSide":"top"},
 		{"id":"cd23fae0ceca034c","fromNode":"62211abb3c20bf07","fromSide":"bottom","toNode":"f6ad5c6e949b2b4f","toSide":"top"},
 		{"id":"dff21d5c99d9d8f7","fromNode":"e0db6b6f6f98f9cc","fromSide":"top","toNode":"f6ad5c6e949b2b4f","toSide":"bottom"},
 		{"id":"7d2e20df10427920","fromNode":"f6ad5c6e949b2b4f","fromSide":"left","toNode":"21b1948d4f6d91f2","toSide":"top"},
 		{"id":"65fdcde2e7f7cecb","fromNode":"7819d7daf2718c2d","fromSide":"top","toNode":"21b1948d4f6d91f2","toSide":"bottom"},
-		{"id":"51f393ab54f45d5b","fromNode":"a152ace73e7803c7","fromSide":"left","toNode":"7819d7daf2718c2d","toSide":"right"}
+		{"id":"51f393ab54f45d5b","fromNode":"a152ace73e7803c7","fromSide":"left","toNode":"7819d7daf2718c2d","toSide":"right"},
+		{"id":"635da83921d0ba37","fromNode":"7edd03d2e77e1778","fromSide":"bottom","toNode":"47e2f79b2be7e306","toSide":"left"}
 	]
 }
