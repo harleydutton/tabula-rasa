@@ -1,7 +1,8 @@
 so, there are four health pools in the damage system. players have limited control of them. you largely get to control which ones are used and the permanence, severity, and frequency of damage.
 - the physical damage pool ([[Body]]) is generic and mostly adds a sense of danger to combat
-- the mental damage pool ([[Mind]]) is also pretty generic and doesn't have an explicit purpose right now
+- the mental damage pool ([[Mind]]) is also pretty generic and doesn't have an explicit purpose right now but it can be used for mind control and insanity type stuff
 - the supernatural damage pool ([[Spirit]]) can be used as a morality system or to prevent red room bullshit or represent the wrath of the gods. it may be necessary to have players define/choose a moral/deific code they want to be held to.
-- the social damage pool ([[Presence]]) can be used to prevent muder-hobo behavior or used as a [[GTA Wanted Meter]]
+- the social damage pool ([[Presence]]) can be used to prevent muder-hobo behavior or used as a [[GTA Wanted Meter]] or used for social combat
 
-you can tell players when characters are bloody (even wounds and health) if you want them to be able to describe killshots
+## More notes
+- you can tell players when characters are bloody (even wounds and health) if you want them to be able to describe killshots

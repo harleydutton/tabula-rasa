@@ -4,8 +4,4 @@ If lying were an information hiding skill, mechanically, it would need to be det
 
 ---
 
-one option is: both, @Storyteller, treat lying as one of stealth or persuasion on a case-by-case basis.
-
----
-
 I have spoken with Stefan and Ethan about whether lying is persuasion or stealth. Ethan pointed out that this system is supposed to let players try things rather than being crunchy and prescriptive. To that end, you can roll lying as a stealth check. You can also use lying as a persuasion check. This is likely both a design decision and a note to storytellers but for now I will put it in the storyteller section.

@@ -1,0 +1,12 @@
+- character is attempting two non-trivial actions (checks) at the same time
+	- in combat this consumes both [[Main Action]] and [[Supporting Action]]
+	- action dependent on or simultaneously with another action
+- try single check first
+	- increased difficulty
+	- switch to attribute
+- nested check
+	- difficulty of second check influenced by first check outcome
+		- can make second check impossible
+- composite check
+	- each check maximum successes is 1
+	- both checks contribute to a single outcome

@@ -7,4 +7,12 @@ If you go through the character creation process for an NPC, you should end up w
 ---
 
 same as PCs but don't spend ALL of their exp immediately. allow them to fudge the numbers and gain skills as needed. maybe create their special skill if they have one immediately.
-leveling up NPCs using the elder scrolls style tally marks might be a miserable pain. propose an alternative.
+
+----
+
+spend some but not all of an NPC's Experience when you make them. As you make checks with them spend the experience to account for the level at which the check was made.
+
+
+---
+
+I would suggest giving characters attribute, a couple rolls, 

@@ -2,4 +2,10 @@ Once the number of NCPs gets into the double digits it doesn't make a whole lot 
 
 ----
 
-I think [[The Event Die]] can be useful with something like this. maybe some [[Chapters/Storyteller (cursed)/Toolkit/Clocks|Clocks]] too. I'm not convinced this is a tabula specific thing. might belong in toolkit
+I think [[The Event Die]] can be useful with something like this. maybe some [[Clocks 1|Clocks 1]] too. I'm not convinced this is a tabula specific thing. might belong in toolkit
+
+---
+
+toolkit is for content generators
+principles is for tabula-specific storyteller tips
+this is neither. trash.
