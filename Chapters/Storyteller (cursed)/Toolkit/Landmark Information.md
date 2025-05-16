@@ -30,3 +30,8 @@ these terms might be useful for [[Secret|Secrets]]
 ---
 
 whenever you want to give players stuff to explore or interact with include about as many things to check out or people to talk to as there are players in your group
+
+
+----
+
+each piece of information in the scene should be stateful and failable. If one player fails the roll to discover it the information/secret should be lost for good. players have a tendency to spam perception rolls making it near guaranteed they will find things. perhaps that's a good thing.

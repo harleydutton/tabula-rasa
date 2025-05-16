@@ -1,5 +1,0 @@
-Sometimes there are conflicts where multiple characters are competing for the same goal. In horse races, arm wrestling, poker games, and drinking contests multiple characters will be attempting to win but only one can. In all likelihood, multiple characters will pass a check to win any given contest. How do we deal with this situation? The answer is to calculate how much each character succeeded and compare those values.
-
-Normally we only care if a check passes or fails, but in these instances we want to know by how much. When a check is rolled magnitude of success starts at 0 and increases by 1 for each six-sided die that equals or exceeds the target number ([difficulty](#_ogl1qn75g9xv)).
-
-To resolve a contest of some kind each character involved should make a check, and their magnitudes of success should be ranked, highest to lowest. The highest result wins the contest. Ties can occur.

@@ -1,4 +1,9 @@
-After a [[Checks|Check]] is rolled, count up the successes. The number of successes determines the outcome.
+---
+aliases:
+  - Successes
+  - Success
+---
+After a [[Checks|Check]] is rolled, count up the successes based on [[Difficulty]]. The number of successes determines the outcome.
 
 | Successes      | Outcome         |
 | -------------- | --------------- |

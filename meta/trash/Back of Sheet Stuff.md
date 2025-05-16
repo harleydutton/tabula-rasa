@@ -4,7 +4,7 @@ If it's not important enough to warrant space on the front of the sheet, it's no
 - [[Concept]]
 - [[Demeanor]]
 - [[Drawing]]
-- [[Motivation]]? I feel like this is maybe more important
+- [[memorable NPCs]]? I feel like this is maybe more important
 
 ---
 

@@ -9,7 +9,7 @@
 		{"id":"47e2f79b2be7e306","type":"text","text":"canvases cannot be embedded; only linked","x":-1265,"y":-747,"width":250,"height":60},
 		{"id":"7edd03d2e77e1778","type":"file","file":"Demo Canvas.canvas","x":-1630,"y":-1208,"width":400,"height":400},
 		{"id":"a152ace73e7803c7","type":"text","text":"# needs testing","x":-606,"y":-747,"width":257,"height":75},
-		{"id":"36862b419af33ae1","x":-1577,"y":-1517,"width":293,"height":180,"type":"text","text":"- todo; okay, so lists work...\n- nod\n- storyteller\n- spatial\n- secret"},
+		{"id":"36862b419af33ae1","type":"text","text":"- todo; okay, so lists work...\n- nod\n- storyteller\n- spatial\n- secret\n- meta","x":-1577,"y":-1517,"width":293,"height":193},
 		{"id":"5cff824da4d5196f","type":"text","text":"good for flowcharting I guess","x":-1179,"y":-1228,"width":250,"height":60}
 	],
 	"edges":[

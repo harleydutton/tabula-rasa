@@ -1,3 +1,9 @@
+Tabula is a goofy system that plays about as fast and loose with a core resolution mechanic as it is possible to do so. It is helpful if players are on the same page as you as far as what backgrounds, items, and circumstances produce what difficulties. One way to make this happen is to talk through those things with your players. 
+
+This should deal with a lot of potential arguments. Probably better than voting even. That sounds like it has the potential to be very adversarial.
+
+---
+
 When a player disagrees with the difficulty of a check they can challenge the difficulty the storyteller has set. When a player challenges the difficulty of a check, this means they are asking the table to vote for what they think the difficulty should be. The storyteller's vote counts as 1.5. The purpose of this system is to deal with storytellers who are a little unfair some of the time, not make all checks **easy**. Each check can only have it's difficulty challenged once.
 
 ---

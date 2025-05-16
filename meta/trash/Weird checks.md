@@ -7,3 +7,7 @@ Core
 
 Crits
 [[The Event Die]]
+
+---
+
+there doesn't need to be a supersection for this stuff. trash.

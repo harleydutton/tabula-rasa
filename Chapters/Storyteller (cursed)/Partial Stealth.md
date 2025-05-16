@@ -1,3 +1,0 @@
-Partial stealth is being hidden relative to some characters but visible to others. "Sneaks" and "observers" are scene roles for talking about [[Secret|Secrets]].
-
-Partial stealth is a pain in the ass to manage and conflicts with the [[Avoid Overwhelming Bookkeeping]] design decision. Whether or not a storyteller wants to deal with partial stealth it up to them and I will outline the pros and cons for them.

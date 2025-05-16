@@ -7,7 +7,7 @@ When a [[Character]] takes an action that could succeed or fail, the [[Storytell
 1. Describe the action you want your character to attempt.
 2. The storyteller sets a [[Difficulty]].
 3. Choose an appropriate [[Skills|Skill]]. If you don't have one, use your most apt [[Attribute]].
-4. Roll a number of dice equal to your [[Skills|Skill]] level. Roll [[The Event Die]] if directed to.
+4. Roll a number of dice equal to your [[Skills|Skill]] level.
 5. Everyone is given an opportunity to [[Oppose]] the check.
 6. The storyteller describes the [[Outcome]].
 
