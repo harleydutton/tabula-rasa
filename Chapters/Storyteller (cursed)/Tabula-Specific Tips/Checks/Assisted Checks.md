@@ -1,8 +1,8 @@
 It occurs rarely the work for some task a character is trying to accomplish with a [[Checks|Check]] can be shared perfectly such that doubling the workers halves the work. In cases like this roll multiple checks and add up the successes before determining a single outcome. Situations which do not qualify.
 
 
-There are plenty of situations where multiple characters working on a task together could have different results
-
+---
+There are plenty of situations where multiple characters working on a task together could have different results. **this is starting to look more like a flowchart**
 - multiple characters, same task
 	- task is shared = successes add together
 	- assisting with task = modify difficulty
