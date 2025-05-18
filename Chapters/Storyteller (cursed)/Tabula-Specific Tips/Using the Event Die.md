@@ -4,3 +4,7 @@ Fundamentally, this little guy needs to get involved whenever you need some inde
 
 - chaotic sutuations like [[NPC Wars]]
 - [[Checks]] that are particularly likely to have side effects
+
+---
+
+this could easily be independent of the checks system. it probably should be.
