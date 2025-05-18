@@ -1,4 +1,4 @@
-When you find yourself in frequent need of the same type of [[Content]] like names, treasure, traps, enemies or anything else you can make a table. First, decide roughly how big the table should be. Note, high and low results on tables with curved distributions are rarer than those in the middle. 
+When you find yourself in frequent need of the same type of [[Content]] like names, treasure, traps, enemies or anything else, you can make a table. First, decide roughly how big the table should be. Note, results in the middle of tables with curved distributions are much more common than those on the ends.
 
 A group brainstorming sessions is a good way to fill in table results if you are having trouble. Just ask everyone in your group to call out things they think might go on this table and write down the ones you like with until the table is full.
 

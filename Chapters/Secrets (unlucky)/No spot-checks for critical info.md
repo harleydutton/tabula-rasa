@@ -9,3 +9,8 @@ the correct solution here is to just give out critical info 100% of the time and
 ---
 
 am I trying to talk about spot checks, critical info, or tabula's lack of a perception stat? Do I want to do anything regarding passive perception?
+
+
+----
+
+send this back to the storyteller section once you have decided how the secrets section works @future-harley
