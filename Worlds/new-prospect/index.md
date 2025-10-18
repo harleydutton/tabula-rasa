@@ -1,0 +1,7 @@
+- [[New Prospect World Sheet]]
+- [[Principles of New Prospect]]
+- [[Safety in New Prospect]]
+---
+- [[Worlds/new-prospect/characters/index|People]]
+- [[Worlds/new-prospect/places/index|Places]]
+- [[Worlds/new-prospect/scenes/index|Scenes]]

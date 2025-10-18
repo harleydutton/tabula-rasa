@@ -1,0 +1,1 @@
+Cures poisons and diseases for [[Money]]. Stitches or bandages other wounds. Spends his time and money in the [[Saloon]] drinking because of the Sisyphean task of keeping the people who come to town alive.

@@ -1,0 +1,1 @@
+Kit a.k.a Christopher Houston Carson is the frontier hero. Having recently died, he appears before the [[Dealer]] in the scene [[dealing kit in]]. He is short, soft-spoken, bow-legged, mild of manner, and free of traditional vice. He was famous for scouting America and leading military campaigns against Native Americans, opening the land for colonists.

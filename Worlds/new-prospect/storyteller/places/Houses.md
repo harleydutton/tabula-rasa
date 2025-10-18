@@ -1,1 +1,0 @@
-The [[Banker]], [[Sheriff]], [[Mayor]], [[Quartermaster]], [[Doctor]] and [[Undertaker]] all sleep somewhere and it's in houses. They are all well armed.

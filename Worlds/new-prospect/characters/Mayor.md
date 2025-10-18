@@ -1,0 +1,1 @@
+The mayor is quietly racist, bigoted, and sexist. He is also fabulously wealthy and works to maintain the status quo in town. He doesn't want new businesses or houses built as the town is funneling money into his pocket efficiently as is. Frequents the [[Brothel]].

@@ -1,0 +1,4 @@
+- when players first encounter her she should be singing and in a state of undress in the darkness and run off covering her head/face.
+- when the players catch up she should have something over her head/face.
+- the purpose of this scene is to have the [[Gorgon]] info-dump and tell a sob story about the magic in the world being shut away.
+- her story should be parallel to the chinese/black/native woes of the time.

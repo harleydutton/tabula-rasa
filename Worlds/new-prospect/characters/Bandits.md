@@ -1,0 +1,1 @@
+After presenting the players with [[Granny|Granny's]] warning, they should see vultures circling overhead and get attacked by bandits. If they win, they should notice the vultures being scared off by a large black and white bird that circles much slower. This is the [[Roc]].

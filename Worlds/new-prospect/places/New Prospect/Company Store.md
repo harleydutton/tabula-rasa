@@ -1,0 +1,1 @@
+Run by the [[Quartermaster]]. Sells things you might need in a mine. See the store section of the [[New Prospect World Sheet]] world sheet.

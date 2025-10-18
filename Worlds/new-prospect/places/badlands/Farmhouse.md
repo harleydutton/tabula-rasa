@@ -1,0 +1,1 @@
+The first thing players should encounter if they leave [[New Prospect]] on foot is a farmhouse. There shouldn't be anything growing, just an [[Granny|old woman]] with a shotgun and a big dog on the porch.

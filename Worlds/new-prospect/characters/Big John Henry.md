@@ -1,0 +1,6 @@
+- the man, the myth, the legend.
+- Dead, may not have existed.
+- Big. carries a hammer
+- worked himself to death in this system and doesn't recognize the problem.
+- could be a helpful ghost
+- black

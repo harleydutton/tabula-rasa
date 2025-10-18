@@ -1,0 +1,8 @@
+  - kit carson & the devil & extras
+  - poker game, scales, gold to buy in, cursed blood money
+  - devil changes valuables/money to be cursed & make those that touch it relive it's bloody history
+  - there should be an enormous gold hoard the ends in shadow
+  - point: it's too late for kit because he's dead. The players can still change their fates.
+  - devil should have a wide brimmed hat that is red on the underside with a red collar. He should be wearing black otherwise. He is moddled after a cobra. He should not look up. He is a skeleton.
+  - kit will be cursed to play poker with his blood money for eternity.
+  - the scales should be large & stone. There should be a black and white feather that the gold is weighted against.
