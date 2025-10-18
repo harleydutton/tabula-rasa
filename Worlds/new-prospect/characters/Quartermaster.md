@@ -1,0 +1,1 @@
+Runs the [[Company Store]] and directs players to the [[Mine]] when they are feeling ambitious or need coin. Buys treasure extracted from the mine for scrip.

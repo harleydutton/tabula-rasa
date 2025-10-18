@@ -1,0 +1,1 @@
+The railway station in [[New Prospect]]. The [[Train]] comes drops people off in town from the [[Back East|East]] on a schedule known only to the rarely-seen [[Mayor]]. The players can use the [[Hand Cart]] to go to the [[Mine]] whenever they like.

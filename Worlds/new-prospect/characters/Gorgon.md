@@ -1,0 +1,3 @@
+- she should be a nice, misunderstood snake-lady who is very lonely.
+- regardless of good intentions it should be made clear that interacting with her cannot have a good outcome. (statue garden, maybe a near miss)
+- wants to tell stories and hear about the world.

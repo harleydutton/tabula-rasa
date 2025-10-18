@@ -1,0 +1,1 @@
+There is a small rail line with a hand cart leading to the [[Mine]]. Players use the hand cart to go between the mine and [[New Prospect]] whenever they want.
