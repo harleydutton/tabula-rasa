@@ -1,0 +1,1 @@
+If the [[Storyteller]] thinks a [[Character|Character's]] [[Wound|Wounds]] can be healed with time, they do so during [[Downtime]]. If the wounds are of a more permanent nature the character's [[Player]] can either keep the damage or [[New Content Negotiation|Negotiate New Content]] for a normal [[Background]], treating the damage as a [[Downsides|Downside]].

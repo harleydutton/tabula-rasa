@@ -1,1 +1,0 @@
-How permanent a background is depends on what it is. [[Damage]] could go either way. [[Items]] aren't [[Background|Backgrounds]]. [[Background|Backgrounds]] can certainly be lost though this is probably less likely than a lot of other things. low correlation to definition. trash.
