@@ -1,6 +1,6 @@
 heuristic: describe, in as few words as possible, how the new content would hypothetically affect the character and pay attention to the verb.
 
-- "The character is..." = [[Background|Backgrounds]] (and [[Damage]])
+- "The character is..." = [[Background|Backgrounds]] (and [[Wound]])
 - "The character owns..." = [[Items]]
 - "The character can..." = [[Skills]]
 

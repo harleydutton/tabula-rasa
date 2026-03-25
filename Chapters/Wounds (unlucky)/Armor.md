@@ -1,0 +1,3 @@
+This is an attribute representing how hard it is to [[Wound]] a character. It takes "attribute_armor" successes on an attack for each wound an attacker would like to give a character. this formula can reduce incoming wounds to zero or allow multiple wounds to be applied to a character with one attack. This attribute effectively gives you armor for each of physical, mental, spiritual, and social when you level it.
+
+uses [[Quadratic Experience Costs]] to level up. starts at 0.

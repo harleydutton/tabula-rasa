@@ -6,6 +6,6 @@ Since then, I have split what was previously Flavor and is now [[Descriptors (re
 	- know: common, elvish, name of a demon, calculus, etc.
 2. [[Items]] are the things a [[Character]] has
 	- money, weapons, armor, tools, consumables, etc.
-3. [[Damage|Damage]] are things that affect a [[Character]]
+3. [[Wound|Damage]] are things that affect a [[Character]]
 	- [[Wounds]], [[Curses]], [[Mental Illnesses]], and [[Bad Reputation]]
 	- stun, grappled, prone, wet, drunk, poisoned, possessed, etc.
